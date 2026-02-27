@@ -1,0 +1,59 @@
+{
+  "id": "na-act-gn-2007-108",
+  "type": "statute",
+  "title": "Regulations under section 27(1) of the Namibian Communications Commission Act, 1992",
+  "title_en": "Regulations under section 27(1) of the Namibian Communications Commission Act, 1992",
+  "short_name": "Regulations under section 2...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/gn/2007/108/eng@2017-11-15",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "In these regulations, unless the context otherwise indicates, a word or phrase to which a meaning has been assigned to in the Namibian Communications Commission Act, 1992 (Act No. 4 of 1992 ), and the Posts and Telecommunications Act, 1992 (Act No. 19 of 1992 ), has that meaning and - “ commercial VSAT telecommunications licence ” means a telecommunication service licence authorising the provision of VSAT telecommunications services in question to other persons other than the licence holder; “ private VSAT telecommunications licence ” means a telecommunications service licence authorising the licence holder to use the VSAT telecommunications services in question only for the purposes of the licence holder in question; “ VSAT ” means a very small aperture terminal; “ VSAT telecommunications licence ” means a telecommunications service licence authorising the transmission of data, voice or image: Provided that the Namibian Communications Commission will have the sole discretion in determining the type of transmission any category of licence is allowed to transmit."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Application for a VSAT telecommunications licence",
+      "content": "(1) Any person may apply for a VSAT telecommunications licence on a form provided by the Commission. (2) An application referred to in subregulation (1) must - (a) contain all the information requested on the form referred to in subregulation (1); (b) contain all relevant information to enable the Commission to assess the nature of the services that the applicant intends to render; (c) contain detailed information relating to any equipment transmitting or receiving radio waves that will be used by the applicant or its clients in connection with these services; (d) be accompanied by the applicable application fee referred to in regulation 3. (3) The Commission may request any further information relevant to the application."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Application fees",
+      "content": "The application fees for the telecommunications licences are- (a) N$ 10 000.00 for a commercial telecommunications licences; (b) N$ 1 000.00 for private telecommunications licence."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Licence fees",
+      "content": "(1) The following licence fees are payable annually in respect of telecommunication licences- (a) for commercial VSAT telecommunications licence , 2% of the turnover (as defined in section 1 of the Income Tax Act, 1981 (Act No. 24 of 1981 ), of the licence holder; (b) for private VSAT telecommunications licence issued to a person other than a person referred to in paragraph (c), N$20 000.00; (c) for a private VSAT telecommunications licence issued to a voluntary association, educational, health or religious institutions or a company referred to in section 21 of the Companies Act, 1973 (Act No. 61 of 1973 ), N$2 500.00. (2) Notwithstanding the provisions contained in these regulations, the Namibian Communications Commission has the right to refuse the issuing of a VSAT telecommunications licence to any person applying without having to give reasons for doing so. History of this document 15 November 2017 this version Consolidation 15 June 2007 Published in Government Gazette 3858 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "commercial VSAT telecommunications licence",
+      "definition": "a telecommunication service licence authorising the provision of VSAT telecommunications services in question to other persons other than the licence holder",
+      "source_provision": "s1"
+    },
+    {
+      "term": "private VSAT telecommunications licence",
+      "definition": "a telecommunications service licence authorising the licence holder to use the VSAT telecommunications services in question only for the purposes of the licence holder in question",
+      "source_provision": "s1"
+    },
+    {
+      "term": "VSAT",
+      "definition": "a very small aperture terminal",
+      "source_provision": "s1"
+    },
+    {
+      "term": "VSAT telecommunications licence",
+      "definition": "a telecommunications service licence authorising the transmission of data, voice or image: Provided that the Namibian Communications Commission will have the sole discretion in determining the type of transmission any category of licence is allowed to transmit.",
+      "source_provision": "s1"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "na-act-genn-2013-328",
+  "type": "statute",
+  "title": "Regulations prescribing Forms for Applications, 2013",
+  "title_en": "Regulations prescribing Forms for Applications, 2013",
+  "short_name": "Regulations prescribing For...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/genn/2013/328/eng@2017-11-15",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "In these regulations, a word or expression to which a meaning is assigned in the Act has the same meaning, unless the context otherwise indicates, and- “ Act ” means the Communications Act, 2009 (Act No. 8 of 2009 ); “ the Regulations ” means the Regulations Regarding Licensing Procedures for Telecommunications and Broadcasting Service Licences and Spectrum Use Licences published in General Notice No. 272 of 29 August 2011, as amended by General Notice No. 74 of 13 March 2013."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Application form for any category of telecommunications service licence",
+      "content": "An application for any category of telecommunications service licence, including a class telecommunication service licence referred to in regulation 4 of the Regulations must be made on a form that substantially corresponds to Form CRAN1 set out in Annexure 1."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Application form for any category of broadcasting service licence",
+      "content": "An application for any category of broadcasting service licence referred to in regulation 5 of the Regulations must be made on a form that substantially corresponds to Form CRAN2 set out in Annexure 2."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Application form for spectrum use licence",
+      "content": "An application for a spectrum use licence referred to in regulation 6 of the Regulations must be made on a form that substantially corresponds to Form CRAN3 set out in Annexure 3."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Application form in respect of the transfer of a licence or the transfer of the control of a licence for any category of telecommunications service licences",
+      "content": "An application for the transfer of a licence or the transfer of the control of a licence for any category of telecommunications service licence referred to in regulation 7 of the Regulations must be made on a form that substantially corresponds to Form CRAN4 set out in Annexure 4."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Application form in respect of the transfer of a licence or the transfer of the control of a licence for any category of broadcasting service licences",
+      "content": "An application for the transfer of a licence or the transfer of the control of a licence for any category of broadcasting service licence referred to in regulation 7 of the Regulations must be made on a form that substantially corresponds to Form CRAN5 set out in Annexure 5."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Application form in respect of the transfer of a licence or the transfer of the control of a spectrum use licence",
+      "content": "An application for the transfer of a licence or the transfer of the control of a licence for a spectrum use licence referred to in regulation 7 of the Regulations must be made on a form that substantially corresponds to Form CRAN6 set out in Annexure 6."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Application form for amendment of a licence",
+      "content": "An application for the amendment of a telecommunications service licence, broadcasting service licence or spectrum use licence referred to in regulation 8 of the Regulations must be made on a form that substantially corresponds to Form CRAN7 set out in Annexure 7."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Application form for renewal of a licence",
+      "content": "An application for the renewal of a telecommunications service licence, broadcasting service licence or spectrum use licence referred to in regulation 9 of the Regulations must be made on a form that substantially corresponds to Form CRAN8 set out in Annexure 8."
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Application form for withdrawal of a licence",
+      "content": "An application for the withdrawal of a telecommunications service licence, broadcasting service licence or spectrum use licence referred to in regulation 10 of the Regulations must be made on a form that substantially corresponds to Form CRAN9 set out in Annexure 9."
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "Application form for Aeronautical services",
+      "content": "An application for a spectrum use licence for aeronautical services referred to in regulation 6 of the Regulations must be made on a form that substantially corresponds to Form CRAN10 set out in Annexure 10."
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "Application form for Maritime services",
+      "content": "An application for a spectrum use licence for maritime services referred to in regulation 6 of the Regulations must be made on a form that substantially corresponds to Form CRAN11 set out in Annexure 11."
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "Repeal of regulations",
+      "content": "The Publication of Forms Regulations, 2011, promulgated by General Notice No. 131 of 18 May 2011, are repealed. Annexure Forms CRAN 1-11 [Editorial note: The forms have not been reproduced] History of this document 15 November 2017 this version Consolidation 19 August 2013 Published in Government Gazette 5269 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Act",
+      "definition": "the Communications Act, 2009 (Act No. 8 of 2009 )",
+      "source_provision": "s1"
+    },
+    {
+      "term": "the Regulations",
+      "definition": "the Regulations Regarding Licensing Procedures for Telecommunications and Broadcasting Service Licences and Spectrum Use Licences published in General Notice No. 272 of 29 August 2011, as amended by General Notice No. 74 of 13 March 2013.",
+      "source_provision": "s1"
+    }
+  ]
+}

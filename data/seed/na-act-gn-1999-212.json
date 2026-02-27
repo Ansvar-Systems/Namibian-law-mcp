@@ -1,0 +1,79 @@
+{
+  "id": "na-act-gn-1999-212",
+  "type": "statute",
+  "title": "General Regulations, 1999",
+  "title_en": "General Regulations, 1999",
+  "short_name": "General Regulations, 1999",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/gn/1999/212/eng@2017-11-15",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "In these regulations, unless the context otherwise indicates, a word or an expression defined in the Act has a corresponding meaning, and- “ certificate ” means the certificate issued in terms of section 4(3)(a) of the Act , authorizing a person to carry on a business as a dealer or pawnbroker; and “ the Act ” means the Second Hand Goods Act, 1998 (Act No. 23 of 1998 )."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Application for certificate",
+      "content": "(1) A person who in terms of section 4(1) of the Act wishes to apply for a certificate shall complete Form Pol 92 set out in Annexure 1 to these regulations. (2) Where the application referred to in subregulation (1) is made by a corporate body or an institution, a person who has been authorized in writing by that body or institution to make the application shall complete Form Pol 92, and the application shall be accompanied by- (a) documentary proof of registration of the body or institution, where applicable; and (b) a copy of the document which authorizes the person who makes the application to represent the body or institution."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Issuing of certificate",
+      "content": "The certificate shall be in Form Pol 93 set out in Annexure 1 to these regulations."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Amendment of certificate",
+      "content": "A person who wishes to apply for an amendment of the certificate shall complete Form Pol 94 set out in Annexure 1 to these regulations, and submit it to the Regional Commander of the police region within which the applicant intends to carry on a business, or to the officer in charge of a police station in the area where the applicant intends to carry on a business."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Withdrawal of certificate",
+      "content": "If the Inspector-General withdraws the certificate in terms of section 4(7) of the Act , he or she shall deliver by hand to the holder of the certificate or deliver by registered post at the address supplied in Form Pol 92 set out in Annexure 1 to these regulations, a written notice, which shall- (a) advise the holder of the certificate about the withdrawal and the reasons for such withdrawal; and (b) demand that the holder of the certificate surrender the certificate to a person who is named in the notice."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Duplicate certificate",
+      "content": "A person who wishes to apply for a duplicate certificate shall complete Form Pol 95 set out in Annexure 1 to these regulations and submit it to the officer in charge of a police station in the area where the applicant carries on a business."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Renewal of certificate",
+      "content": "A person who wishes to apply for a renewal of the certificate shall do so at least ninety days before the date of expiration of that certificate by completing Form Pol 96 set out in Annexure 1 to these regulations and submitting it to the Regional Commander of the police region within which the applicant carries on a business."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Fees",
+      "content": "The fees payable for an application made or certificate issued in terms of the Act or these regulations are as set out in Annexure 2 to these regulations."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Offences and penalties",
+      "content": "A person who contravenes or fails to comply with these regulations shall be guilty of an offence and shall on conviction be liable to a fine not exceeding N$2 000 or to imprisonment for a period not exceeding six months, or to both such fine and such imprisonment. ANNEXURE 1 (Regulations 1 to 6) FORMS [Editorial note: The forms have not been reproduced.] ANNEXURE 2 (Regulation 7) FEES PAYABLE IN TERMS OF THE ACT AND REGULATIONS (All fees payable in revenue stamps) Purpose Fee 1. Application for certificate (section 4(3) of the Act) N$250,00 2. Application for amendment of certificate (regulation 3) N$25,00 3. Application for duplicate certificate (regulation 5) N$25,00 4. Renewal of certificate (regulation 6) N$250,00 History of this document 15 November 2017 this version Consolidation 19 October 1999 Published in Government Gazette 2209 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "certificate",
+      "definition": "the certificate issued in terms of section 4(3)(a) of the Act , authorizing a person to carry on a business as a dealer or pawnbroker",
+      "source_provision": "s1"
+    },
+    {
+      "term": "the Act",
+      "definition": "the Second Hand Goods Act, 1998 (Act No. 23 of 1998 ).",
+      "source_provision": "s1"
+    }
+  ]
+}

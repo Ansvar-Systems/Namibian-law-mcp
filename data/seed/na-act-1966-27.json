@@ -1,0 +1,48 @@
+{
+  "id": "na-act-1966-27",
+  "type": "statute",
+  "title": "Burial Place Ordinance, 1966",
+  "title_en": "Burial Place Ordinance, 1966",
+  "short_name": "Burial Place Ordinance, 1966",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/1966/27/eng@1966-06-10",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "In this ordinance, unless the context indicates otherwise - “ Administrator ” means the Administrator of the Territory of South West Africa; “ body ” means any human dead body including the body of any still-born child; “ burial place ” means any burial ground, whether public or private, or any place wherein one or more bodies are buried, cremated or otherwise disposed of or intended to be buried, cremated or otherwise disposed of."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Desecration of graves and removal of bodies",
+      "content": "(1) No person shall desecrate or destroy a grave in a burial place or, without the written permission of the Administrator , disturb or cause such grave to be disturbed. (2) Except where the exhumation of a dead body is ordered in terms of any other law for the purposes of forensic medicine or public health and subject to the provisions of section 222 of the Municipal Ordinance, 1963 (Ordinance 13 of 1963) no person shall exhume or cause to be exhumed or disturb or cause to be disturbed or remove or cause to be removed a body or the mortal remains of a body buried in a burial place without the written permission of the Administrator or unless such precautions are observed as may be prescribed by the Administrator or any medical practitioner appointed by him: Provided that no person shall be guilty of a contravention of this sub-section who temporarily of necessity disturbs or causes to be disturbed a body or the mortal remains of a body which is buried for the purpose of burying another body in the same grave. [The Municipal Ordinance 13 of 1963 has been replaced by the Local Authorities Act 23 of 1992 .] (3) No person shall, except with the permission of the Administrator , in any way disturb, damage, remove or destroy a grave, monument, gravestone, cross, inscription, rail, enclosure, chain or erection of any kind whatever, or part thereof in any burial place . (4) Any person acting in contravention of the provisions of this ordinance shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one hundred rand or, in default of payment, to imprisonment for a period not exceeding six months or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Short title",
+      "content": "This ordinance shall be called the Burial Place Ordinance, 1966. History of this document 10 June 1966 this version Published in Official Gazette 2728 Commenced 03 June 1966 Assented to Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Administrator",
+      "definition": "the Administrator of the Territory of South West Africa",
+      "source_provision": "s1"
+    },
+    {
+      "term": "body",
+      "definition": "any human dead body including the body of any still-born child",
+      "source_provision": "s1"
+    },
+    {
+      "term": "burial place",
+      "definition": "any burial ground, whether public or private, or any place wherein one or more bodies are buried, cremated or otherwise disposed of or intended to be buried, cremated or otherwise disposed of.",
+      "source_provision": "s1"
+    }
+  ]
+}

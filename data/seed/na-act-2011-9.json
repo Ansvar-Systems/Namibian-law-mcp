@@ -1,0 +1,582 @@
+{
+  "id": "na-act-2011-9",
+  "type": "statute",
+  "title": "Statistics Act, 2011",
+  "title_en": "Statistics Act, 2011",
+  "short_name": "Statistics Act, 2011",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/2011/9/eng@2011-08-18",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Definitions",
+      "content": "In this Act , unless the context otherwise indicates - “ Agency ” means the Namibia Statistics Agency established by section 6. “ authorised officer ” means - (a) an employee of the Agency appointed to carry out any function under this Act ; (b) any person designated as an authorised officer by the Statistician-General ; “ Board ” means the Board of the Agency established by section 8; “ community ” means a set of entities, whether animate or inanimate, within a field of enquiry concerning which statistical inferences may be drawn; “ dissemination ” means the publication, sale or provision of official or other statistics , spatial data or related documentation in any manner or form either directly or indirectly; “ document ” means any form, record, questionnaire, schedule, letter, memorandum, report, computer printout, microfiche, microfilm, electronically stored file, or any other similar written or electronic information required or provided for the purposes of a statistical collection , or in connection with official or other statistics , and “documentation” has a similar meaning; “ geospatial data ” means georeferenced data pertaining to the location of geographical entities together with their spatial dimensions presented in the form of printed maps, charts, and publications, in digital simulation and modelling databases, in photographic form, or in the form of digitized maps and charts or attributed centerline data; “ government body ” means - (a) any organ of the State; (b) an office, an agency or a ministry as defined in section 1 of the Public Service Act, 1995 (Act No. 13 of 1995 ); (c) a local authority council as defined in section 1 of the Local Authorities Act, 1992 (Act No. 23 of 1992 ); (d) a regional council as defined in section 1 of the Regional Councils Act, 1992 (Act No. 22 of 1992 ); (e) a statutory body established by an Act of Parliament; or (f) any other body established by law for a public purpose; “ metadata ” means a description of the content, quality, condition and other characteristics of statistical or spatial data ; “ microdata ” means description of information at the level of individual respondents and contains variables recorded separately for every person who responds; “ Minister ” means the Director-General of Planning appointed under Article 32(3)(i)(dd) of the Namibian Constitution; “ NSDI ” means the National Spatial Data Infrastructure established by section 47; “ official statistics ” means statistics designated as official statistics by the Statistician-General under section 37; “ prescribed ” means prescribed by regulation ; “ regulation ” means a regulation made under this Act ; “ research institution ” means any institution conducting research into any matter referred to in Schedule 1, and includes any person who conducts such research; “ respondent ” means - (a) any individual, person or household in respect of whom or which; or (b) any government body , undertaking or other organization in respect of whose activities or affairs, any information or record is sought or document is provided for purposes of a statistical collection in terms of this Act ; “ sampling ” means a statistical procedure by which information relating to an entire community is derived by applying statistical techniques to information obtained in respect of a portion of such community ; “ spatial data ” means the information that identifies the geographic location and characteristics of natural or constructed features and boundaries on the earth, derived from remote sensing, global positioning systems, geographic information systems, cartographic techniques, geo-coded statistical information, computer aided design, total ground stations or other surveying techniques and includes geospatial data ; “ standards ” means the standards made in terms of this Act ; “ statistical collection ” means the process of - (a) undertaking - (i) any census, other than a census referred to in paragraph (b), or survey in respect of any matter referred to in Schedule 1; (ii) the collation of administrative documents, information or records; or (iii) the storage of information, for the collection, production and dissemination of official statistics , but excludes the collection, production and dissemination of statistical information or data by a person strictly for private use; (b) undertaking a population or housing census; or (c) undertaking a collection of spatial data for statistical purposes; “ Statistician-General ” means the person appointed as the Statistician-General under section 23; “ statistics ” means aggregated numerical information relating to demographic, economic, financial, environmental, social or similar matters, at national, regional or local level, which is compiled and analyzed according to relevant scientific and statistical methodology, and includes statistics on spatial data , available in digital or other applicable format; “ statistics producer ” includes the Agency or any government body that produces statistics and where a private or international organization obtained approval in terms of section 35(5) to conduct a statistical collection , such private or international organization; “ survey ” means a statistical collection in respect of any matter referred to in Schedule 1 whereby information is collected from an entire community or from a sample thereof, wholly or primarily for statistical purposes; “ this Act ” includes the regulations and the standards ; “ training institution ” means any institution delivering tertiary education; “ undertaking ” means any undertaking by way of a trade or business whether or not the trade or business is carried out for profit, and includes a government body , and any other form of organization or body of persons or any part thereof and includes a branch of an undertaking; and “ users of statistics ” includes government bodies, private sector entities, researchers, research institutions, training institutions, international or regional organisations, or any other person making use of statistics . Part II – NATIONAL STATISTICS SYSTEM"
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part II",
+      "section": "2",
+      "title": "Development of National Statistics System",
+      "content": "There is developed a National Statistics System comprising the components referred to in section 3 and their interrelations in - (a) the provision of documents and other information for the purpose and in connection with the compilation, production, analysis and dissemination of official and other statistics ; (b) the use of official and other statistics ; (c) the research and development of statistical methods and techniques; and (d) the training of statisticians."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part II",
+      "section": "3",
+      "title": "Components of National Statistics System",
+      "content": "The components of the National Statistics System include - (a) statistics producers; (b) respondents; (c) users of statistics ; (d) research institutions; and (e) training institutions."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Purpose of National Statistics System and principles of statistics",
+      "content": "(1) The purpose of the National Statistics System is the undertaking of statistical collections and the compilation, production, analysis and dissemination of official and other statistics . (2) Official statistics must be - (a) relevant, accurate, reliable and timely; (b) objective and comprehensive; (c) compiled, produced and analyzed in a scientific and transparent manner; (d) disseminated impartially; (e) accessible; (f) in accordance with appropriate national and international standards and classifications; and (g) sensitive to distribution by gender, disability, region and similar socioeconomic features."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Objectives and administration of National Statistics System",
+      "content": "(1) The objectives of the National Statistics System are to - (a) build coordinated and sustainable capacity for the collection, production, analysis and dissemination of statistics in accordance with the United Nations Fundamental Principles of Official Statistics; (b) ensure the protection of the confidentiality of information provided by a respondent ; and (c) promote the use of statistics for - (i) evidence-based planning and decision-making; (ii) policy design; (iii) monitoring and evaluation of policies and decision-making. (2) The National Statistics System must be administered and coordinated in accordance with sections 34 to 37, inclusive, to ensure that its objectives are carried out in - (a) a cost-effective and efficient manner; and (b) accordance with its purpose and the statistical principles referred to in section 4(2). Part III – NAMIBIA STATISTICS AGENCY"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part III",
+      "section": "6",
+      "title": "Establishment of Agency",
+      "content": "(1) There is established a juristic person to be known as the Namibia Statistics Agency which is the central repository for all statistics produced in Namibia. (2) The Agency is capable of - (a) suing and being sued; (b) entering into contracts and performing all such acts for the proper performance of its functions under this Act which may lawfully be performed by a juristic person; (c) purchasing or otherwise acquiring, holding, charging and disposing of property; (d) insure itself against any loss, damage, risk or liability which it may suffer or incur; (e) borrowing money to a maximum amount approved by the Minister ; (f) accepting any money or goods donated or bequeathed to it; and (g) appointing employees to assist it in the performance of its functions. (3) Without derogating from the generality of subsection (1), the Agency must establish a centralized system of statistical collection in the manner as prescribed with due regard to - (a) the employees of the Agency and other associate professionals employed by an entity referred to in paragraphs (a), (b), (c) and (d) of the definition of “ government body ”; (b) the secondment of employees of the Agency to a government body ; and (c) the training of employees of the Agency and other associate professionals contemplated in paragraph (a)."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part III",
+      "section": "7",
+      "title": "Functions and powers of Agency",
+      "content": "(1) The functions of the Agency are - (a) to constitute the central statistical authority for the State; (b) to collect, produce, analyse and disseminate official and other statistics in Namibia; (c) to facilitate the capture, management, maintenance, integration, distribution and use of spatial data ; (d) to develop and coordinate the National Statistics System and the NSDI ; and (e) to advise the Minister on matters related to official and other statistics , whether of its own accord or at the request of the Minister . (2) The Agency must - (a) formulate for the approval of the Minister - (i) the national statistics policy of Namibia in accordance with the United Nations Fundamental Principles of Official Statistics and ensure its implementation, monitoring and periodic evaluation; (ii) subject to section 49(3), the NSDI policy of Namibia setting out the requirements and guidelines for the collection, processing, integrating, storing, distribution, and improved access and utilisation of spatial data and services; (b) determine and exercise final responsibility regarding the formulation and implementation of its work program, including - (i) the collection, production, analysis and dissemination of official statistics in accordance with the purpose of the National Statistics System and the statistical principles contemplated in section 4(2); (ii) subject to this Act , the times when and the manner in which statistical collections are undertaken and the form of any document pertaining thereto; (iii) the coordination and development of the NSDI to facilitate the capture, management, maintenance, integration, distribution and use of spatial data ; (iv) the manner in which statistical information and spatial data are processed, documented and stored; (v) the form, extent and timing of the dissemination of statistical information; (vi) development work in statistics and spatial data ; or (vii) the discontinuance of a statistical collection or a spatial data collection for statistical purposes; (c) acting on its own or in collaboration with a government body or private sector or international organization - (i) undertake statistical collections, and produce, analyze and disseminate official or other statistics in consequence to such statistical collections; or (ii) after consultation with the Committee for Spatial Data, facilitate the capture, management, maintenance, integration, distribution and use of spatial data ; (d) cause a population and housing census to be taken every 10 years on a date determined by the Minister by notice in the Gazette, unless the Minister , on the advice of the Statistician-General and by notice in the Gazette, determines otherwise; (e) ensure co-ordination of the operation of government bodies in the - (i) collection, production, analysis and dissemination of statistics ; or (ii) capture, management, maintenance, integration, distribution and use of spatial data , with particular regard to - (aa) the avoidance of duplication in the undertaking of statistical or spatial data collections so as to reduce respondent burden and minimise costs; (bb) the attainment of compatibility between and the integration of statistics compiled by the Agency on behalf of government bodies; (cc) the maximum possible utilization of statistical information and spatial data available to government bodies; (f) subject to subsection (1), undertake a statistical collection or a spatial data collection for statistical purposes when directed to do so by the Minister ; (g) collect, produce, analyze and disseminate statistics in consequence to a population and housing census referred to in paragraph (d); (h) establish and maintain registry documentation, library services and appropriate databases as may be necessary for - (i) the collection, production, analysis or dissemination of official and other statistics ; and (ii) the capture, management, maintenance, integration, distribution and use of spatial data , after consultation with the Committee; (i) maintain an inventory of official statistics and spatial data in Namibia; (j) ensure compliance with the standards made in terms of section 36; (k) provide statistical services and assistance to users of statistics ; (l) facilitate the integration and comparison of official and other statistics produced both nationally and internationally; (m) assist users of statistics , where reasonably possible, to obtain official statistics of countries other than Namibia; (n) liaise with national and international organisations on matters relating to statistics or spatial data ; (o) disseminate information to and educate the public about the functions of the Agency and the purpose and use of statistics and spatial data ; (p) do anything else - (i) that the Agency is required or authorised to do under this Act or any other law; or (ii) which is necessary or expedient to do to achieve the purpose of this Act . (3) The Agency may - (a) accept commissioned statistical work and conclude service agreements with any person for that purpose; (b) establish and maintain such offices in Namibia as the Agency considers necessary, having regard to objectives of the National Statistics System and the NSDI and the principles of statistics referred to in section 4(2); (c) subject to this Act , conclude service-level agreements or memoranda of understanding between the Agency and a government body or private or international organizations for the purpose of statistical and spatial data collections. (4) Subject to the general control of the Board , the functions of the Agency are performed by the Statistician-General and its powers are exercised by the Board subject to this Act . (5) Despite this Act , a person may not interfere with the Statistician-General in connection with - (a) the manner in which, and the time when, a statistical collection is to be undertaken; (b) the capture, management, maintenance, integration, distribution and use of spatial data collected for statistical purposes; (c) the form, extent and timing of the release of official or other statistics ; (d) whether a statistical collection should be discontinued; or (e) the compilation, production, analysis or dissemination of a statistical collection . (6) A person who contravenes subsection (5) commits an offence and is liable to a fine not exceeding N$50 000 or to imprisonment for a period not exceeding five years, or to both such fine and such imprisonment. Part IV – BOARD OF NAMIBIA STATISTICS AGENCY"
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part IV",
+      "section": "8",
+      "title": "Establishment of Board",
+      "content": "There is established a board to be known as the Board of the Namibia Statistics Agency to administer and control the affairs of the Agency ."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part IV",
+      "section": "9",
+      "title": "Powers and functions of Board",
+      "content": "(1) The Board must ensure that it has and maintains - (a) effective, efficient and transparent systems of financial and risk management and internal control, including a system of internal audit; and (b) an appropriate procurement and provisioning system which is fair, equitable, transparent, competitive and cost effective. (2) The Board must take effective and appropriate steps to - (a) ensure the collection of all revenue due to the Agency ; and (b) prevent irregular expenditure, fruitless and wasteful expenditure, losses resulting from criminal conduct, and expenditure not complying with the operational policies of the Agency . (3) The Board must take effective and appropriate disciplinary steps against any staff member of the Agency who - (a) contravenes or fails to comply with the provisions of this Act ; (b) commits an act which undermines the financial management and internal control system of the Agency ; or (c) makes or permits any irregular expenditure or fruitless and wasteful expenditure."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part IV",
+      "section": "10",
+      "title": "Fiduciary duties of Board",
+      "content": "(1) The Board must - (a) exercise the duty of utmost care to ensure reasonable protection of the assets and records of the Agency ; and (b) act with fidelity, honesty, integrity and in the best interests of the Agency in managing its financial affairs. (2) A member of the Board may not - (a) act in a way that is inconsistent with the responsibilities of the Board in terms of this Act ; or (b) use the position or privileges of, or confidential information obtained as, a member of the Board , for personal gain or to improperly benefit another person."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part IV",
+      "section": "11",
+      "title": "Constitution of Board",
+      "content": "(1) The Board consists of - (a) the Statistician-General who is a member by virtue of his or her office; and (b) six members appointed by the Minister after consultation with the President and in accordance with subsection (2). (2) A person to be appointed under subsection (1)(b) must possess knowledge and experience in governance, statistics , information technology, spatial data , economics, law or related fields of expertise. (3) The Minister must appoint the chairperson of the Board from amongst its members. (4) The Board must at its first meeting elect a vice-chairperson from among its members, and the vice-chairperson exercises the functions of the chairperson during any period the chairperson is unable to exercise his or her functions. (5) The Minister must notify by notice in the Gazette the names of the persons appointed as members of the Board , and their term of office and date of appointment."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part IV",
+      "section": "12",
+      "title": "Governance and performance agreements",
+      "content": "The Minister , within 30 days of the Board being constituted, must enter into a written governance and performance agreement with the Board ."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part IV",
+      "section": "13",
+      "title": "Term of office of member of Board",
+      "content": "A member of the Board holds office for a term of three years and is eligible for reappointment upon the expiry of his or her term of office."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part IV",
+      "section": "14",
+      "title": "Disqualifications for appointment as member of Board",
+      "content": "A person does not qualify for appointment as member of the Board if the person - (a) is not a Namibian citizen or lawfully admitted to Namibia for permanent residence, and does not reside in Namibia; (b) is an unrehabilitated insolvent; (c) has been convicted of an offence involving dishonesty and sentenced to imprisonment without the option of a fine; or (d) is a member of Parliament, a regional council or local authority council."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part IV",
+      "section": "15",
+      "title": "Removal of members of Board",
+      "content": "(1) The Minister may remove any appointed member of the Board from office, if the Minister is satisfied that the member - (a) is incapacitated by physical or mental illness; (b) is guilty of misconduct which in the opinion of the Minister is sufficiently serious; or (c) for whatever valid reason is incapable of effectively and efficiently performing the functions as member. (2) The Minister may only act under subsection (1) after having afforded the member an opportunity to be heard."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part IV",
+      "section": "16",
+      "title": "Vacation of office and filling of vacancies on Board",
+      "content": "(1) The office of an appointed member of the Board becomes vacant if the member - (a) becomes subject to any disqualification referred to in section 14; (b) resigns by notice in writing addressed and delivered to the Minister ; (c) is absent from three consecutive meetings of the Board without the leave of the chairperson of the Board ; or (d) is removed from office by the Minister under section 15. (2) If an appointed member of the Board dies or vacates office, the vacancy must be filled by the appointment of a suitable person in accordance with section 11."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part IV",
+      "section": "17",
+      "title": "Committees of Board",
+      "content": "(1) Subject to such terms of reference the Board may determine, the Board - (a) must appoint a finance and audit committee; (b) may appoint one or more committees to - (i) advise the Board on such matters relating to its powers and functions as it may refer to the committee; or (ii) assist the Board in the exercise and performance of such powers and functions of the Board as it may delegate or assign to the committee. (2) The Board may appoint as a member of a committee any person who is or is not a member of the Board , but at least one member of a committee must be a member of the Board . (3) If a committee consists of more than one member, the Board must designate a member of the committee as chairperson of the committee. (4) The Board is not absolved from responsibility for the performance of any functions entrusted to any committee under this section. (5) The chairperson of a committee presides at meetings of the committee or in his or her absence the members of the committee in attendance at a meeting must elect a member to preside at the meeting. (6) The quorum at a meeting of a committee is the majority of the members of the committee. (7) A decision taken by or an act performed under the authority of the committee is not invalid by reason only of - (a) a vacancy on the committee; or (b) the fact that a person who is not entitled to sit as a member of the committee sat as such a member at the time the decision was taken or the act was authorised, if the decision was taken or the act was authorised by the majority of the members of the committee who were present at the time and entitled to vote. (8) The person presiding at a meeting of a committee must cause a record to be kept of the proceedings of the meeting and must cause that record to be submitted to the Board as soon as possible after a meeting of the committee. (9) The Board may at any time dissolve or reconstitute a committee."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part IV",
+      "section": "18",
+      "title": "Disclosure of interests by members of Board",
+      "content": "(1) A member of the Board must - (a) disclose to the Board any direct or indirect personal or private business interest that the member or any spouse or partner may have in any matter before the Board ; and (b) withdraw from the meeting when the matter referred to in paragraph (a) is considered, unless the Board , after having considered the matter, directs that the member’s direct or indirect interest in the matter is trivial or irrelevant. (2) A disclosure by a member in accordance with subsection (1) and the decision taken by the remaining members in connection with the disclosure must be recorded in the minutes of the meeting. (3) A member who contravenes or fails to comply with subsection (1) commits an offence and is liable to a fine not exceeding N$2 000 or to imprisonment not exceeding a period of six months, or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part IV",
+      "section": "19",
+      "title": "Meetings and decisions of Board",
+      "content": "(1) The Minister must convene the first meeting of the Board and thereafter, subject to subsection (2), meetings must be held at such times and places as the Board determines, but at least four meetings must be held in each year. (2) The chairperson of the Board may at any time, and must if so requested in writing by the Minister or by a majority of members, convene a special meeting of the Board . (3) The majority of all the members of the Board form a quorum at meeting of the Board . [The word “meeting” should be “a meeting” or “meetings” to be grammatically correct.] (4) The chairperson of the Board presides at meetings of the Board or, in his or her absence, the vice-chairperson or, in the absence of both the chairperson and the vice-chairperson, the members present at a meeting must elect from amongst their number a member to preside. (5) A decision of the majority of the members present at a meeting of the Board constitutes a decision of the Board and, in the event of an equality of votes, the member presiding at the meeting has a casting vote in addition to a deliberative vote. (6) A decision of the Board or an act performed under the authority of the Board is not invalid only by reason of - (a) a vacancy on the Board ; or (b) the fact that a person not entitled to sit as a member of the Board was in attendance when the decision was taken or act authorized, if the decision was taken or act was authorized by a majority of the members who were present and entitled to vote at such meeting. (7) Subject to this Act , the Board may regulate its procedures that must be followed at meetings of the Board . (8) The Board must cause proper minutes to be kept of proceedings at its meetings. (9) The Board may invite any person whose presence is in its opinion desirable to attend and to participate in the deliberations of a meeting of the Board , but such person has no right to vote. (10) Despite subsection (5), a written resolution not passed at a meeting of the Board but obtained by other means and signed by the members of the Board at that time present in Namibia and sufficient to constitute a quorum - (a) is as valid and effectual as if it had been passed at a meeting of the Board duly convened and constituted; and (b) must be recorded in the minutes of the next meeting of the Board ."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part IV",
+      "section": "20",
+      "title": "Remuneration and allowances of members of Board and committees",
+      "content": "(1) There must be paid to a member of the Board or a member of any committee who is not in the full-time employment of the State such remuneration and allowances, including subsistence and travel allowances, out of the funds of the Agency as the Board , with the concurrence of the Minister , may determine. (2) The Board may reimburse any member of the Board or a member of any committee for subsistence and travelling expenses reasonably incurred by him or her while attending a meeting of the Board or of a committee."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part IV",
+      "section": "21",
+      "title": "Powers of Minister",
+      "content": "(1) The Board must consult with the Minister - (a) in the exercise of powers conferred upon and the performance of functions imposed upon the Board by or under this Act or any other law, if the Minister so direct; and [The verb “direct” should be “directs” to be grammatically correct.] (b) in connection with any matter that the Board wishes to bring to the attention of the Minister . (2) If the Minister after consultation with the Board is of the opinion that the policies being pursued by the Agency are not adequate for or conducive to the achievements of the objectives of the National Statistics System, the Minister , by notice in the Gazette, may issue a policy directive to be adopted by the Agency setting out - (a) the essential policy reasons; and (b) specifying the period during which such policy must be implemented by the Agency . (3) The Agency must, during the specified period, give effect to the policy as determined by the Minister ."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part IV",
+      "section": "22",
+      "title": "Rules by Board",
+      "content": "The Board may make rules regarding - (a) the manner in which meetings of any committee are to be convened, the procedure at and the quorum for the meetings and the manner in which minutes of those meetings must be kept; (b) the operational management of the affairs of the Agency and the effective execution of its functions; and (c) generally, any matter which the Board may consider necessary or expedient to regulate in order to achieve the objects of this Act ."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part IV",
+      "section": "23",
+      "title": "Statistician-General and other staff members of Agency",
+      "content": "(1) Subject to this Act , the Board with the approval of the Minister must - (a) appoint a suitably qualified person with knowledge and experience in statistics , information technology, economics and related fields of expertise to be the Statistician-General of the Agency ; (b) determine the terms and conditions of service and other benefits for the office of the Statistician-General . (2) The Statistician-General - (a) is the Chief Executive Officer of the Agency ; (b) holds office for a term of five years, and is eligible for reappointment at the end of that term; and (c) is responsible to carry out the functions of the Agency and the decisions of the Board subject to the general control and supervision of the Board . (3) A person does not qualify for appointment as Statistician-General if such person - (a) is not a Namibian citizen or lawfully admitted to Namibia for permanent residence, and does not reside in Namibia; (b) is an unrehabilitated insolvent; and (c) has been convicted of an offence involving dishonesty and sentenced to imprisonment without the option of a fine; or (d) is a member of a local authority council. (4) The Statistician-General may, before the expiration of his or her term of office - (a) be removed from office by the Board with the concurrence of the Minister on grounds of misconduct or inability to efficiently discharge the functions of his or her office, subject to the rules of natural justice; or (b) resign from office by giving a written notice of resignation of not less than three months to the Board . (5) The Board must appoint the management staff of the Agency as it may consider necessary to assist the Statistician-General in the performance of his or her functions with due regard to section 6(3). (6) The Statistician-General , after consultation with the Board , must appoint the non-management employees of the Agency to assist the Statistician-General in the performance of his or her functions with due regard to section 6(3)."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part IV",
+      "section": "24",
+      "title": "Performance agreements of management staff of Agency",
+      "content": "(1) Subject to section 23(1), the Statistician-General must enter into a performance agreement with the Board . (2) Subject to section 25(1), the Statistician-General must require the management staff of the Agency to enter into performance agreements with the Agency . (3) The agreements contemplated in terms of subsection (1) and (2) must set out, among others - (a) the terms and conditions of appointment; (b) objectives to be achieved and the time frame for achievement thereof; and (c) measures necessary to evidence such achievement. (4) Failure on the part of the Statistician-General or any management staff member to carry out the terms of a performance agreement constitutes a ground for his or her dismissal from the service of the Agency , subject to the rules of natural justice."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part IV",
+      "section": "25",
+      "title": "Remuneration of management and other staff of Agency",
+      "content": "(1) The Board , with the concurrence of the Minister , must determine the conditions of service, remuneration and other benefits of the management staff of the Agency in accordance with the directives laid down under section 4 of the State-owned Enterprises Governance Act, 2006 (Act No. 2 of 2006 ). [The State-owned Enterprises Governance Act 2 of 2006 was re-named the Public Enterprises Governance Act 2 of 2006 by Act 8 of 2015 (GG 5835).] (2) The Statistician-General , after consultation with the Board , must determine the remuneration and other conditions of service of the non-management employees of the Agency , including conditions of service in respect of medical aid, housing and pension benefits."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part IV",
+      "section": "26",
+      "title": "Acting Statistician-General",
+      "content": "(1) If the office of the Statistician-General is vacant or if he or she is unable for any reason to perform the functions of his or her office, the Board must appoint another person with appropriate knowledge or experience to act as Statistician-General during such vacancy or inability. (2) A person acting as Statistician-General in terms of subsection (1) may not act for a period of more than six months, but the Board may for sufficient reason extend such appointment for a further period not exceeding six months. (3) A person appointed as Acting Statistician-General while that office is vacant is entitled to the salary attached to the office for the period that he or she so acts. (4) Subsection (2) does not apply if due to official duties the Statistician-General is temporarily absent from his or her office, in which case the Statistician-General must appoint a management staff member to act as Statistician-General . Part V – FINANCIAL PROVISIONS"
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part V",
+      "section": "27",
+      "title": "Funds of Agency",
+      "content": "(1) Apart from moneys that Parliament must appropriate for the purposes of the Agency , the funds of the Agency include - (a) moneys accruing to the Agency - (i) through the performance of commissioned statistical work; (ii) through payments to the Agency for its services and products; (iii) by way of any donation, grant or bequest; (iv) from any other source. [The full stop at the end of subparagraph (iv) should be a semicolon.] (b) administrative penalties imposed on any person in terms of the standards or section 43; and (c) moneys borrowed by the Agency . (2) Details of any donation or bequest received by the Agency must be specified in the annual report of the Board referred to in section 31. (3) The Agency must utilize its funds for the payment of expenses incurred by the Agency in the performance of its functions in terms of this Act or for any matter in connection with or incidental to the implementation of this Act . (4) The Board must open and maintain with a bank or banks registered in terms of the applicable law in Namibia or the Post Office Savings Bank established by the Post and Telecommunications Act, 1992 (Act No. 19 of 1992 ) - (a) an account into which all monies payable to the Agency must be deposited; and (b) a reserve account into which surplus money of the Agency may be deposited and from which any investments contemplated in subsection (7) may be made. (5) The objects of the reserve account contemplated in subsection (4)(b) are - (a) to provide for unforeseen demands on the Agency ; and (b) to make provision for statistical collections and spatial data collections for statistical purposes. (6) The Board must determine the amounts to be held in the reserve account and may authorise payments from the reserve account. (7) The Board may, after consultation with the Minister invest surplus money deposited in terms of subsection (4) with due regard - [The comma after “may” is superfluous; alternatively, there should be a second comma after the phrase “after consultation with the Minister”.] (a) to the maintenance, growth and preservation of the funds of the Agency ; and (b) to the economic and commercial viability of any investments."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part V",
+      "section": "28",
+      "title": "Financial year",
+      "content": "The financial year of the Agency ends on 31 March in each year."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part V",
+      "section": "29",
+      "title": "Financial plan of Agency",
+      "content": "(1) The Agency must, at least 60 days before the commencement of its next financial year, or a later date determined by the Minister , submit to the Minister for approval a financial plan. (2) The Agency may not, in respect of its core administrative expenditure in any financial year, budget or spend an amount exceeding 15 percent of its estimated revenue for that financial year, unless otherwise approved by the Minister ."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part V",
+      "section": "30",
+      "title": "Accounting and auditing",
+      "content": "The Statistician-General must - (a) keep full and proper accounts and records of all moneys received or expended by the Agency and of all assets, liabilities and financial transactions of the Agency during the financial year of the Agency ; (b) cause the accounts and records referred to in subsection (1) to be audited annually by a person registered as an accountant and auditor under section 23 of the Public Accountants’ and Auditors’ Act, 1951 (Act No. 51 of 1951 ), and appointed by the Agency."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part V",
+      "section": "31",
+      "title": "Annual report",
+      "content": "(1) The Board must as soon as possible, but not later than three months after the end of each financial year, submit to the Minister in respect of a financial year - (a) audited financial statements and a report of the auditor on those statements; and (b) a report on the activities of the Agency during that financial year. (2) The annual report and financial statements referred to in subsection (1) must - (a) fairly present the state of affairs of the Agency , its business, financial results, performance against predetermined objectives and its financial position at the end of the financial year concerned; (b) include particulars of - (i) any material losses through criminal conduct and any irregular expenditure and fruitless and wasteful expenditure that occurred during the financial year; (ii) any criminal or disciplinary steps taken as a consequence of such losses or irregular expenditure or fruitless and wasteful expenditure; (iii) any losses recovered or written off; and (iv) any other matter that may be prescribed . (3) The Minister must cause to be tabled in the National Assembly the audited financial statements and reports received by him or her under subsection (1) - (a) within 30 days from the date of receipt thereof, if the National Assembly is then in ordinary session; or (b) if the National Assembly is not then in ordinary session, within 30 days after commencement of its next ordinary session."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part V",
+      "section": "32",
+      "title": "Exemption of Agency from taxes, duties and levies",
+      "content": "No income or any other tax, duty or levy imposed under any law is payable by the Agency ."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part V",
+      "section": "33",
+      "title": "Winding up of Agency",
+      "content": "The Agency may not be wound up except by or under the authority of an Act of Parliament. Part VI – COORDINATION OF NATIONAL STATISTICS SYSTEM"
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part VI",
+      "section": "34",
+      "title": "Code of Practice",
+      "content": "(1) In order to establish and maintain public confidence in official and other statistics , the Statistician-General must issue by notice in the Gazette a Code of Practice setting out professional and ethical standards applicable to statistics producers. (2) Without limiting the generality of subsection (1), the Code of Practice may impose requirements with respect to any of the following - (a) ethical and professional standards that must be adhered to in the collection, production, analysis and dissemination of statistics ; (b) measures to ensure the optimum quality and the comparability of official and other statistics ; (c) measures to minimize unnecessary overlapping or duplication in the collection, production, analysis and dissemination of statistics . (3) The Statistician-General may advise any statistics producer regarding the application of the Code of Practice referred to in subsection (1)."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part VI",
+      "section": "35",
+      "title": "Statistical co-ordination",
+      "content": "(1) Subject to this Act , only the Statistician-General may commence a statistical collection or vary or discontinue any statistical collection . (2) Despite anything to the contrary in any other law - (a) a person may not authorise the commencement of a statistical collection ; and (b) a government body may not commence a statistical collection , without the approval of the Minister acting after consultation with the Statistician-General . (3) The Minister , by notice in the Gazette, subject to such conditions as he or she specifies, may determine that subsection (2) does not apply to a government body in any specific instance or class of instances. (4) At the finalisation of any statistical collection contemplated in subsection (2), the person or government body concerned must without charge provide the Agency with the datasets and copies of the report of the statistical collection , including any statistics produced in the process. (5) A private or international organisation may not conduct any statistical collection , other than market research and feasibility studies required for the purposes of market analyses, except with the approval of the Minister on the advice of the Statistician-General , subject to such conditions as the Minister determines. (6) If the Minister gives an approval under subsection (5), the private or international institution concerned must without charge provide the Agency with the datasets and copies of the report of the statistical collection , including any statistics produced. (7) Despite any other law to the contrary, for the purposes of assisting the Agency in the performance of its duties imposed by this Act , the head of any government body must - (a) within the prescribed period after the commencement of this Act , supply the Agency with information it may request regarding any spatial data , official or other statistics for which that government body is responsible; (b) advise the Agency from time to time of any substantial changes in the information that has been so supplied; (c) grant the Agency or any authorized officer unhindered access, without charge, to such spatial data , statistics or statistical information or data of the government body as the Agency requests; (d) allow the Agency or any authorized officer to copy, without charge, any spatial data , statistics or statistical information or data of that government body . (8) Subject to subsection (9), the Statistician-General may enter into an agreement with - (a) the head of a government body in respect of statistical information or data which the government body has authority to collect; (b) any entity other than a government body engaged in collecting such statistical information or data. (9) The agreement referred to in subsection (8) is subject to the following conditions - (a) the collection of statistical information or data must be undertaken either by the Agency or jointly by the Agency and the government body or other entity referred to in subsection (8); (b) subject to paragraph (c) and section 44,the resulting statistics or information must be exchanged between the parties or shared with the other party; (c) if information has been supplied by any respondent who gives notice in writing to the Statistician-General that he or she objects to the exchange or sharing of that information by the parties, that information may not be so exchanged or shared; (d) every employee of the government body or entity referred to in subsection (8) engaged in any such joint collection or to whom such statistics or information is made available, must take an oath of confidentiality similar to that provided for in Schedule 2 to this Act , whether or not he or she has taken an oath of confidentiality in terms of any other law. (10) The Statistician-General may - (a) at his or her own instance or at the request of the Board or the Minister review and comment on the collection, production, analysis, documentation, storage, dissemination , interpretation and use of statistics or spatial data of any government body ; and (b) after consultation with the head of the government body referred to in paragraph (a), publish any such statistics or spatial data and its comments thereon as the Statistician-General considers necessary or appropriate."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part VI",
+      "section": "36",
+      "title": "Standards",
+      "content": "(1) The Statistician-General , by notice in the Gazette, after consultation with the Board may make - (a) statistical standards relating to - (i) the criteria and the classification and certifying procedures for the designation of statistics as official statistics ; (ii) methods for converting documents, information and data into official or other statistics ; (iii) the quality criteria with which statistical collections and statistics must comply with; (iv) the form and nature of documents, information and records to be furnished and collected in the undertaking of a statistical collection ; (v) the persons to whom documents must be furnished for completion and from whom documents, information and records must be collected in the undertaking of a statistical collection ; (vi) access to statistics and statistical information for the purposes of statistical collections; (vii) the requirements and protocols that must be complied with before microdata may be accessed for research purposes; (viii) record-keeping, including the manner in which metadata must be documented in accordance with standardised metadata systems; (ix) any other matter necessary for or incidental to the undertaking of statistical collections; and (b) subject to section 49(3), standards relating to the NSDI , in particular - (i) the manner and specification for the capturing of spatial data , including any application for exemption from such manner or specification; (ii) measures relating to the avoidance of duplication of capture and safeguarding the integrity of captured spatial information; (iii) the sharing and integration of spatial data ; (iv) the capture and publishing of metadata ; (v) manner and refusal of access to and dissemination of spatial data ; (vi) supply of and accountability for spatial data ; (vii) agreements on the utilization of spatial data ; (viii) maintenance of and reporting on spatial data ; and (ix) security of spatial data . (2) The standards referred to in subsection (1) may provide administrative penalties as prescribed by the Minister on any person who contravenes or fails to comply with a provision of such standards ."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part VI",
+      "section": "37",
+      "title": "Designation of statistics as official statistics",
+      "content": "(1) The Statistician-General may designate as official statistics any statistics or class of statistics produced from statistical collections by - (a) the Agency ; or (b) any government body , after consultation with the head of the government body concerned. (2) A designation referred to in subsection (1) must be in accordance with - (a) the purpose of the National Statistics System and the statistical principles referred to in section 4(2); and (b) such other criteria as the Statistician-General may provide in the standards . Part VII – POWERS TO OBTAIN INFORMATION"
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part VII",
+      "section": "38",
+      "title": "Forms for collection of information",
+      "content": "(1) The Statistician-General must prescribe the standards documents and form and manner of submission of such documents and instructions necessary for the completion of such documents as may be necessary for the collection of information, data or records under this Act . (2) A document submitted to a respondent for completion must specify the date or period within which the completed documents or additional information as may be required must be returned to the Agency ."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part VII",
+      "section": "39",
+      "title": "Request to provide information voluntarily",
+      "content": "(1) The Statistician-General or any authorized officer, in respect of statistical collection , may request any person to - (a) complete a document ; (b) answer any question; or (c) provide any information or records, on a voluntary basis. (2) Any information obtained under subsection (1) is subject to the restrictions on use and prohibition on disclosure of information in terms of section 44. (3) Despite any law to the contrary, a person may provide a document , information or a record, or a copy thereof, the person may possess, to the Agency or authorized officer if so requested under subsection (1)."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part VII",
+      "section": "40",
+      "title": "Notice to provide information",
+      "content": "(1) In achieving any of the objectives of the National Statistics System, the Statistician-General may by notice in writing direct any respondent or other person designated in the standards to - (a) complete and return a document in accordance with any instructions contained in the notice or otherwise communicated to the person; (b) answer any question asked of him or her by an authorized officer; or (c) provide any record, copy of or extract from any record, by a specified date or within a specified period. (2) The notice referred to in subsection (1) must specify in particular - (a) the general nature of the information required; (b) the frequency with and the time by which it is to be provided; (c) the persons or classes of persons required to provide it; and (d) the section of the Act under which the notice is served."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part VII",
+      "section": "41",
+      "title": "Service of notices and other documents",
+      "content": "(1) Any notice or document delivered by an authorized officer is sufficient evidence that it was duly issued and delivered by or on behalf of the Agency , until the contrary is proved. (2) A notice or document referred to in subsection (1) must be delivered in person by an authorized officer or mailed by registered post or electronic mail."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part VII",
+      "section": "42",
+      "title": "Right of access for statistical purposes",
+      "content": "An authorized officer may at all reasonable times, on production of his or her certificate of appointment, enter any premises for the purposes of - (a) delivering a notice under section 41(2); (b) delivering documents or collecting documents, information or records; or (c) making any such inquiries as he or she is authorized to make under this Act ."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part VII",
+      "section": "43",
+      "title": "Administrative penalties",
+      "content": "(1) The Statistician-General may impose an administrative penalty prescribed by the Minister on any person who - (a) without good reason fails to comply with a notice issued under section 40 or 41; or (b) refuses or fails to complete any document or provide information or record required for the purposes of a statistical collection , by delivering to such person a written notice of intention to impose administrative penalty. (2) A person aggrieved by a decision of the Statistician-General to impose on such person an administrative penalty referred to in subsection (1) or in terms of the standards may appeal against the decision to the Minister . (3) The appeal must be in the form of a written statement - (a) containing a full description of the subject matter of the decision to which the appeal relates and the grounds of appeal; and (b) submitted to the Minister within 30 days of receipt of the notification of the decision to impose the administrative penalty. (4) Upon receipt of the appeal, the Minister must transmit a copy thereof to the Statistician-General , who must forthwith furnish the Minister with a written statement of the reasons for the decision to impose the administrative penalty. (5) After consideration of the statements referred to in subsections (3) and (4) and of such other evidence, information or representations as the Minister may consider relevant or may require, the Minister may confirm, vary or set aside the decision to impose the administrative penalty. (6) The Minister must as soon as reasonably possible notify the appellant in writing of his or her decision on the appeal. Part VIII – CONFIDENTIALITY AND DISSEMINATION OF INFORMATION"
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part VIII",
+      "section": "44",
+      "title": "Prohibition of disclosure of information",
+      "content": "(1) A document , an information or a record provided to the Agency or any other body authorised by the Minister to undertake a statistical or spatial data collection or obtained from administrative records and that relates to an individual, household, government body , undertaking or any other organisation, may not be - (a) disclosed to a third party; (b) admitted as evidence in legal proceedings, except for purposes of criminal proceedings in terms of this Act ; or (c) disclosed to a government body for non-statistical purposes. (2) A document , an information or a record obtained in terms of this Act may not be published or disseminated in a manner which permits the identification of a specific individual, household, undertaking or other organisation, unless the person, household, undertaking or organisation consents in writing to the publication or dissemination in that manner. (3) Subsections (1) and (2) do not apply to documents, information or records about an individual, household, undertaking or organisation - (a) already published or available on a database accessible to the public; or (b) for whose publication or dissemination the individual, household, undertaking or organisation gave written permission."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part VIII",
+      "section": "45",
+      "title": "Oath of Secrecy",
+      "content": "A person employed in carrying out any of the provisions of this Act must take the Oath of Office and Secrecy prescribed in Schedule 2, in the case of - (a) an employee or any contracted person, before the Statistician-General ; or (b) the Statistician-General , before the chairperson of the Board ; (c) members of committees, before the chairperson of the Board ; (d) members of the Board , before the Minister , prior to commencing with any function relating to the provisions of this Act ."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part VIII",
+      "section": "46",
+      "title": "Dissemination and right of access",
+      "content": "(1) Subject to section 44, statistics producers collecting statistics under this Act while using public funds must produce, disseminate and make them available and accessible to users of statistics as a public good in accordance with the purpose of the National Statistics System and the principles of statistics referred to in section 4(2). (2) All statistics producers and custodians of spatial data must formulate an access to information policy within the prescribed period and in the form and containing the requirements set out in the standards , to be made publicly available, setting out - (a) the methods and procedures used to compile and produce statistics and to capture, manage, maintain and integrate spatial data ; (b) an inventory of official and other statistics available, including any spatial data ; (c) such other matters as may be prescribed . (3) The Statistician-General , annually prior to the commencement of the financial year of the Agency , must publish a list of statistical collections to be undertaken for that year. (4) Subject to section 44, statistics producers may release micro-level data sets to researchers for further analysis, with appropriate safeguards approved by the Statistician-General for the protection of the confidentiality of such data sets, including that - (a) the data sets may not include names, addresses or any other means by which respondents may be identified; and (b) the users of the data set take an oath of secrecy similar to the one prescribed in Schedule 2 of this Act . Part IX – NATIONAL SPATIAL DATA INFRASTRUCTURE"
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part IX",
+      "section": "47",
+      "title": "Establishment and objectives of the National Spatial Data Infrastructure",
+      "content": "(1) The National Spatial Data Infrastructure is established as the national technical and institutional framework to facilitate the capture, management, maintenance, integration, distribution and use of spatial data . (2) The objectives of the NSDI are to - (a) facilitate the capture of spatial data through cooperation between government bodies and other organs of state; (b) promote effective management and maintenance of spatial data ; (c) promote the use and sharing of spatial data in support of spatial planning, socio-economic development and related activities; (d) create an environment which facilitates coordination and cooperation among stakeholders regarding access to spatial data ; (e) eliminate duplication in the capturing of spatial data ; (f) facilitate the protection of copyright of the State in works relating to spatial data . (3) The Minister may establish an electronic metadata catalogue as a component of the NSDI . (4) The Statistician-General must administer the NSDI ."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part IX",
+      "section": "48",
+      "title": "Committee for Spatial Data",
+      "content": "(1) There is established a committee to be known as the Committee for Spatial Data which must perform its functions in accordance with this Act . (2) The Minister , after consultation with the Minister responsible for lands, as soon as practicable after the commencement of this Act , must appoint persons as members of the Committee for Spatial Data, as many as the Minister may determine having due regard to persons with vested interests in the NSDI , but - (a) the Statistician-General ; and (b) the Surveyor-General as defined by section 1 of the Land Survey Act, 1993 (Act No. 33 of 1993 ), are members of the Committee by virtue of their offices. (3) The Surveyor-General is the chairperson of the Committee for Spatial Data. (4) Except for the Statistician-General and the Surveyor-General, a member of the Committee for Spatial Data is appointed for a period of three years and is eligible for reappointment at the expiry of that term. (5) Sections 14, 15 and 16 apply with the necessary changes to a member of the Committee for Spatial Data."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part IX",
+      "section": "49",
+      "title": "Functions of Committee for Spatial Data",
+      "content": "(1) The Committee for Spatial Data must advise the Minister and the Agency on - (a) matters referred to the Committee by the Minister or the Statistician-General ; (b) any matter regarding the capture, management, maintenance, integration, distribution and use of spatial data ; (c) any matter which the Committee considers necessary or expedient for achieving the objectives of the NSDI . (2) The Committee for Spatial Data must - (a) facilitate, promote and safeguard an environment for the efficient collection, management, distribution and utilization of spatial data ; (b) promote awareness of its activities, including dissemination of information on the importance of spatial data for effective governance, planning and decision making; and (c) be consulted before any spatial data is captured unless a national emergency makes such prior consultation impossible or impractical. (3) Before the Agency makes any standard relating to the NSDI as contemplated in section 36(1)(b), or formulate the national spatial data infrastructure policy referred to in section 7(2)(a)(ii), the Agency must consult the Committee for Spatial Data. [The verb “formulate” should be “formulates” to be grammatically correct.] Part X – GENERAL PROVISIONS"
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part X",
+      "section": "50",
+      "title": "Sampling",
+      "content": "(1) Statistics relating to all or any of the matters set out in Schedule 1 may be collected by sampling , in place of a full enumeration, where the use of that method is considered appropriate. (2) Sampling may also be used to test a questionnaire and a statistical procedure before finalisation. (3) It is not a defence for a person who fails to fill in a return or to answer any inquiry by reason that only a portion of a particular group of persons is required to fill in the return or to answer the inquiry."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part X",
+      "section": "51",
+      "title": "Meetings of statisticians and users of statistics",
+      "content": "(1) The Statistician-General must annually convene a meeting of users of official statistics to review user needs for such statistics . (2) The Statistician-General may also hold other meetings, and set up committees of statisticians, statistics producers, suppliers or users of statistics , and other interested parties, either to further the provisions of this Act or for general educational purposes, at his own initiative or on sufficient request."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part X",
+      "section": "52",
+      "title": "Delegation of powers and assignment of duties",
+      "content": "(1) The Minister may in writing delegate to the chairperson of the Board any power conferred upon him or her by or under this Act , excluding the power to make regulations, subject to such conditions as the Minister may determine. (2) The Board may in writing - (a) delegate to the Statistician-General or any other employee of the Agency any power conferred upon the Board by or under this Act on such conditions as the Board may determine; or (b) assign any functions imposed upon the Board by or under this Act to the Statistician-General or any employee of the Agency . (3) The Statistician-General may in writing - (a) delegate to any employee of the Agency any power conferred upon the Statistician-General by or under this Act or by any other law, but excluding the power to make standards under this Act ; or (b) assign any employee of the Agency to perform any function imposed upon the Statistician-General by or under this Act or any other law. (4) The Minister , the Board or the Statistician-General is not divested or relieved of the power or function delegated or assigned under subsection (1), (2), or (3), respectively, and may at any time - (a) withdraw or amend any such delegation or assignment; or (b) without prejudice of any right, set aside or vary any decision made in the exercise of such power."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part X",
+      "section": "53",
+      "title": "Preservation of secrecy",
+      "content": "A member of the Board or a committee, the Statistician-General or any other employee of the Agency may not disclose to any person information relating to the affairs of the Board , the Agency , or the committee, or of any other person, obtained by such person in the performance of his or her functions or the exercise of his or her powers under this Act , except - (a) with the written authorisation of the Minister , Board or Statistician-General ; (b) for the purpose of the exercise of his or her powers or the performance of his or her functions in terms of this Act or any other law; or (c) when required to disclose that information before a court of law or under any law, subject to section 44."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part X",
+      "section": "54",
+      "title": "Limitation of liability",
+      "content": "The Minister , a member of the Board , a member of any committee, the Statistician-General or any other employee of the Agency is not personally liable for any loss or damage arising out of any act done or omitted to be done in good faith in the exercise of any power or the performance of any function under or in terms of this Act or any other law, unless the loss or damage is due to the negligence of the Minister , such member, Statistician-General or such employee, or the failure to comply with this Act ."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part X",
+      "section": "55",
+      "title": "Offences in connection with Agency",
+      "content": "Any person employed in carrying out any of the provisions of this Act who - (a) by virtue of such employment comes in possession of any information which might exert an influence upon or affect the market value of any share, property, product or article and who before such information is made public directly or indirectly discloses such information or uses such information for personal gain; (b) without authority publishes or communicates to any person any information obtained by him or her in the course of his or her functions in terms of this Act ; or (c) in the exercise of any power or the performance of any function under or in terms this Act , contravenes or fails to comply with any term or condition of his or her oath under Schedule 2, commits an offence and is liable to a fine not exceeding N$50 000 or to imprisonment for a period not exceeding five years, or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part X",
+      "section": "56",
+      "title": "General offences",
+      "content": "A person who - (a) represents himself or herself as making an inquiry under any provision of this Act when the person is not an authorised officer ; (b) wilfully hinders or obstructs the Statistician-General or any authorised officer in the performance of any function under this Act ; (c) wilfully refuses or neglects to supply within such time as may be specified, any information or particulars required, or to answer any question or inquiry put to him or her under this Act ; (d) in answer to any question or inquiry put to him or her under this Act , makes any statement which is untrue in any material respect; (e) wilfully destroys, defaces or mutilates documentation containing information obtained in pursuance of the provisions of this Act ; (f) publishes or communicates to any person information which, to his or her knowledge, has been disclosed in contravention of this Act , commits an offence and is liable to a fine not exceeding N$50 000 or to imprisonment for a period not exceeding five years, or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part X",
+      "section": "57",
+      "title": "Religious beliefs or political convictions information",
+      "content": "(1) Despite any other provisions of this Act , a person may not be compelled under this Act to furnish any particulars or information relating to his or her religious beliefs or denomination or political convictions. (2) An authorised officer in carrying out any of the provisions of this Act must explain the provisions of subsection (1) to a respondent before the officer start with his or her interview. [The verb “start” should be “starts” to be grammatically correct.]"
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part X",
+      "section": "58",
+      "title": "Regulations",
+      "content": "(1) The Minister , after consulting the Board , may make regulations not inconsistent with this Act relating to - (a) any matter or aspect deemed necessary or expedient by the Minister for the effective taking of a population or housing census in Namibia; (b) any statistical collection other than a population or housing census referred to in paragraph (a); (c) the pricing of the services and products of the Agency ; (d) amending Schedule 1 of this Act ; (e) the fees, costs, price or charges payable for statistical records, spatial data and other records; (f) any other matter which is required or permitted under this Act to be prescribed ; (g) generally, any matter in respect of which the Minister considers it necessary or expedient to make regulations to achieve the objects of this Act . (2) A regulation made under subsection (1) may provide offences for contravention or failure to comply with any of its provisions and prescribe a penalty not exceeding a fine of N$20 000 or imprisonment for a period not exceeding two years, or not exceeding both such fine and such imprisonment. (3) A regulation made under subsection (1) may prescribe an administrative penalty that the Agency may impose for any contravention thereof or failure to comply therewith."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part X",
+      "section": "59",
+      "title": "Repeal of laws",
+      "content": "The Statistics Act, 1976 (Act No. 66 of 1976 ) and the Statistics Amendment Proclamation, 1981 (Proclamation No. AG. 16 of 1981) are repealed."
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part X",
+      "section": "60",
+      "title": "Savings and transitional provisions",
+      "content": "(1) An employee of the Agency who is a member of the Government Institutions Pension Fund at the time he or she is appointed by the Agency remains a member of that Fund until such time that the Agency establishes its own pension fund. (2) Nothing in this Act may be construed as granting any automatic transfer to the Agency to any staff member of any division of the National Planning Commission. (3) Unless otherwise provided in this Act , anything done under a law repealed by section 59 and which could have been done under a corresponding provision of this Act is deemed to have been done under that corresponding provision."
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Part X",
+      "section": "61",
+      "title": "Short title and commencement",
+      "content": "This Act is called the Statistics Act, 2011 and commences on a date determined by the Minister by notice in the Gazette. Schedule 1 MATTERS ON WHICH STATISTICS MAY BE COLLECTED, PRODUCED, ANALYZED OR DISSEMINATED 1. General statistics 2. Demographic and social statistics 2.1. Demographic statistics 2.2. Population statistics - (i) Population censuses (ii) Statistics on population groups of special interest 2.3 Housing statistics - (i) Housing Censuses (ii) Other housing statistics 2.4. Labour statistics 2.5. Education and training statistics 2.6. Culture statistics including mass communication 2.7. Statistics of household incomes and expenditures and their distribution 2.8. Social security statistics 2.9. Health statistics 2.10. Gender statistics 2.11. Other social, demographic and related statistics 3. Economic statistics 3.1. National accounts 3.2. Agriculture statistics 3.3. Forestry and fishery statistics 3.4. Industrial statistics 3.5. Energy statistics 3.6. Construction statistics 3.7. Distributive trade statistics 3.8. International trade statistics - (i) Trade in goods (ii) Trade in services 3.9. Transport statistics 3.10. Communication statistics 3.11. Tourism statistics 3.12. Statistics of services not included elsewhere 3.13. Money, finance and insurance statistics 3.14. Fiscal statistics 3.15. Balance of payments statistics 3.16. Prices statistics - (i) Consumer price statistics (ii) Producer price statistics 3.17. Statistics of science, technology and patents 3.18. Other economic statistics 4. Natural resources and environment statistics 4.1. Natural resources and environment statistics 4.2. Natural resources and environment accounting 4.3. Meteorology statistics 4.4. Land use statistics 5. Such other matters as may be prescribed by the Minister. Schedule 2 OATH OF OFFICE AND SECRECY (Section 45) I, the undersigned ………………………………………………… do hereby swear/affirm that I will faithfully and honestly fulfil my duty as ……………………………………………………. in conformity with the requirements of the Statistics Act, 2011 (Act No. 9 of 2011 ) and that I will not, otherwise than in ordinary course of my employment as such, without the approval in writing of the Minister/Board/Statistician-General, disclose or make known any information, matter or thing which comes to my knowledge by reason of my employment as such. “SO HELP ME GOD”/”I AFFIRM” ………………………………………………... ……..…………………………. Full Name of Deponent Signature Thus Sworn / Affirmed and Signed before Me at …………………………………………… on this …….…….. day of ……….……………. 20 ….……. ……………………………….…. ………………………….…. Full Name of Minister/ Signature Chairperson of the Board/Statistician-General History of this document 16 April 2012 Commenced by Determination of date of commencement: Statistics Act, 2011 18 August 2011 this version Published in Government Gazette 4777 02 August 2011 Assented to Related documents Is commenced by Determination of date of commencement: Statistics Act, 2011 [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Agency",
+      "definition": "the Namibia Statistics Agency established by section 6. “ authorised officer ” means - (a) an employee of the Agency appointed to carry out any function under this Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Board",
+      "definition": "the Board of the Agency established by section 8",
+      "source_provision": "s1"
+    },
+    {
+      "term": "community",
+      "definition": "a set of entities, whether animate or inanimate, within a field of enquiry concerning which statistical inferences may be drawn",
+      "source_provision": "s1"
+    },
+    {
+      "term": "dissemination",
+      "definition": "the publication, sale or provision of official or other statistics , spatial data or related documentation in any manner or form either directly or indirectly",
+      "source_provision": "s1"
+    },
+    {
+      "term": "document",
+      "definition": "any form, record, questionnaire, schedule, letter, memorandum, report, computer printout, microfiche, microfilm, electronically stored file, or any other similar written or electronic information required or provided for the purposes of a statistical collection , or in connection with official or other statistics , and “documentation” has a similar meaning",
+      "source_provision": "s1"
+    },
+    {
+      "term": "geospatial data",
+      "definition": "georeferenced data pertaining to the location of geographical entities together with their spatial dimensions presented in the form of printed maps, charts, and publications, in digital simulation and modelling databases, in photographic form, or in the form of digitized maps and charts or attributed centerline data",
+      "source_provision": "s1"
+    },
+    {
+      "term": "government body",
+      "definition": "- (a) any organ of the State",
+      "source_provision": "s1"
+    },
+    {
+      "term": "metadata",
+      "definition": "a description of the content, quality, condition and other characteristics of statistical or spatial data",
+      "source_provision": "s1"
+    },
+    {
+      "term": "microdata",
+      "definition": "description of information at the level of individual respondents and contains variables recorded separately for every person who responds",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Director-General of Planning appointed under Article 32(3)(i)(dd) of the Namibian Constitution",
+      "source_provision": "s1"
+    },
+    {
+      "term": "NSDI",
+      "definition": "the National Spatial Data Infrastructure established by section 47",
+      "source_provision": "s1"
+    },
+    {
+      "term": "official statistics",
+      "definition": "statistics designated as official statistics by the Statistician-General under section 37",
+      "source_provision": "s1"
+    },
+    {
+      "term": "prescribed",
+      "definition": "prescribed by regulation",
+      "source_provision": "s1"
+    },
+    {
+      "term": "regulation",
+      "definition": "a regulation made under this Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "research institution",
+      "definition": "any institution conducting research into any matter referred to in Schedule 1, and includes any person who conducts such research",
+      "source_provision": "s1"
+    },
+    {
+      "term": "respondent",
+      "definition": "- (a) any individual, person or household in respect of whom or which",
+      "source_provision": "s1"
+    },
+    {
+      "term": "sampling",
+      "definition": "a statistical procedure by which information relating to an entire community is derived by applying statistical techniques to information obtained in respect of a portion of such community",
+      "source_provision": "s1"
+    },
+    {
+      "term": "spatial data",
+      "definition": "the information that identifies the geographic location and characteristics of natural or constructed features and boundaries on the earth, derived from remote sensing, global positioning systems, geographic information systems, cartographic techniques, geo-coded statistical information, computer aided design, total ground stations or other surveying techniques and includes geospatial data",
+      "source_provision": "s1"
+    },
+    {
+      "term": "standards",
+      "definition": "the standards made in terms of this Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "statistical collection",
+      "definition": "the process of - (a) undertaking - (i) any census, other than a census referred to in paragraph (b), or survey in respect of any matter referred to in Schedule 1",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Statistician-General",
+      "definition": "the person appointed as the Statistician-General under section 23",
+      "source_provision": "s1"
+    },
+    {
+      "term": "statistics",
+      "definition": "aggregated numerical information relating to demographic, economic, financial, environmental, social or similar matters, at national, regional or local level, which is compiled and analyzed according to relevant scientific and statistical methodology, and includes statistics on spatial data , available in digital or other applicable format",
+      "source_provision": "s1"
+    },
+    {
+      "term": "statistics producer",
+      "definition": "the Agency or any government body that produces statistics and where a private or international organization obtained approval in terms of section 35(5) to conduct a statistical collection , such private or international organization",
+      "source_provision": "s1"
+    },
+    {
+      "term": "survey",
+      "definition": "a statistical collection in respect of any matter referred to in Schedule 1 whereby information is collected from an entire community or from a sample thereof, wholly or primarily for statistical purposes",
+      "source_provision": "s1"
+    },
+    {
+      "term": "this Act",
+      "definition": "the regulations and the standards",
+      "source_provision": "s1"
+    },
+    {
+      "term": "training institution",
+      "definition": "any institution delivering tertiary education",
+      "source_provision": "s1"
+    },
+    {
+      "term": "undertaking",
+      "definition": "any undertaking by way of a trade or business whether or not the trade or business is carried out for profit, and includes a government body , and any other form of organization or body of persons or any part thereof and includes a branch of an undertaking",
+      "source_provision": "s1"
+    },
+    {
+      "term": "users of statistics",
+      "definition": "government bodies, private sector entities, researchers, research institutions, training institutions, international or regional organisations, or any other person making use of statistics . Part II – NATIONAL STATISTICS SYSTEM",
+      "source_provision": "s1"
+    }
+  ]
+}

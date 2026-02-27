@@ -1,0 +1,80 @@
+{
+  "id": "na-act-genn-2013-475",
+  "type": "statute",
+  "title": "Regulations setting out Minimum Technical Standards for Set-Top Box Decoders, 2013",
+  "title_en": "Regulations setting out Minimum Technical Standards for Set-Top Box Decoders, 2013",
+  "short_name": "Regulations setting out Min...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/genn/2013/475/eng@2017-11-15",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "In these regulations, a word or expression to which a meaning is assigned in the Act has the same meaning, and unless the context otherwise indicates- “ the Regulations ” means the Regulations Setting out Minimum Technical Standards for Set-Top Box Decoders. “ Act ” means the Communications Act, 2009 (Act No. 8 of 2009 ). “ Minimum technical standards ” means, for the purposes hereof, those set of standards that specifies the minimum technical requirements that are mandatory for set-top box decoders as prescribed in these regulations “ Set-Top Box Decoder ” means an information appliance device that generally contains a tuner and connects to an analogue television set and an external source of signal, turning the source signal into content a form that can then be displayed on the television screen or other display device."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Applicability",
+      "content": "These regulations shall be applicable to- (1) All Digital terrestrial television Set-Top Box decoders imported and sold within the Republic of Namibia. (2) These regulations shall also be applicable to all of the following Set-Top Box decoder providers:- (a) Broadcasting Service licensees; (b) Signal Distributor Licensees; (c) Multiplex Licensees; (d) Decoder manufacturers/distributors/retailers; and (e) The Public"
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Spectrum",
+      "content": "The Set-Top Box decoder shall operate within the VHF and UHF television broadcasting bands as set out in the table below, using 8 MHz channel spacing in accordance with the International Telecommunications Union GE06 plan (International Telecommunications Union Final Acts of the Regional Radiocommunication Conference for Planning of the digital terrestrial broadcasting service in parts of Regions 1 and 3, in the Frequency Bands 174-230 MHz and 470-862 MHz (RRC-06) – Geneva 15 May – 16 June 2006). Band Frequency range MHz VHF VHF III 174 to 230 UHF UHF IV 470 to 582 UHF V 582 to 694"
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "System features",
+      "content": "The Set-Top Box decoder shall operate according to the system features as shown in the table below in accordance with the European Telecommunications Standards Institute. Description Minimum standard System Standard Digital Video Broadcasting (DVB) – Terrestrial and Digital Video Broadcasting (DVB) – Terrestrial 2. (The following references are indispensable for the application of this document. For undated reference, the latest edition of the referenced document (including any amendments) applies:(ETSI TS 101 154, Digital Video Broadcasting (DVB); Specification for the use of Video and Audio Coding in Broadcasting Applications based on the MPEG-2 Transport Stream; ETSI EN 300 743, Digital Video Broadcasting (DVB); Subtitling systems; ETSI ETR 162, Digital Video Broadcasting (DVB); Allocation of Service Information (SI) codes for DVB systems) Video Decoding Moving Pictures Experts Group 2 and Moving Pictures Experts Group 4 Video Resolution Standard Definition Conditional Access No Conditional Access Module to be embedded Video Profile Moving Pictures Experts Group -4 MP@L3Phase Alternating Line I/B/G modulator Over-The-Air (OTA) Download Yes Memory 8 MB RAM, 16 MB Flash Audio Mono and Stereo"
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Software features",
+      "content": "(1) All middleware included on the set-Top Box decoder should be embedded. (2) The Set-Top Box decoder should be able to display an electronic programme guide depicting information for a minimum period of seven (7) days. (3) Parental Lock functionality should be available."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Hardware features",
+      "content": "The Set-Top Box decoder should be manufactured in accordance with all hardware features as shown in the table below. Description Minimum standard Power Supply Internal 160 – 264V AC and 47-63 HZ or External AC to DC adaptor Over/under voltage protectionOverheating protection Connections IEC 60169-2RF IN – Female RF OUT – MaleAudio/Video RCA or HDMI Serial/USB for software upgrade Ethernet Port Exterior Standby functionality Volume (V+ & V-) Channel Change (Ch+ & Ch-) One tri-colour LED indication required Channel Scan Menu with accept functionality"
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Accessories",
+      "content": "(1) The following accessories shall be included in the box for each Set-Top Box decoder: (a) A Standard remote control with batteries; (b) Required power adaptors and a RF cable and/or a RCA cable; (c) An English instruction manual."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Warranty and support",
+      "content": "(1) The manufacturer of the Set-Top Box decoder shall offer a one (1) year warranty as a minimum requirement. (2) Manufacturers and Importers of Set-Top Box decoders shall maintain local repair and/or swop facilities within the borders of the Republic of Namibia."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Non-Compliance with Minimum Technical Standards",
+      "content": "(1) Any person, Signal Distributor Licensee, Multiplex Licensee, decoder manufacturer or distributor or retailer who fails to comply with any of the provisions contained in these Regulations shall be in contravention of these Regulations. (2) Any person, Broadcasting Licensee, Multiplex Licensee, Decoder, Manufacturer, or Distributor or Retailor who contravenes any provision contained in these Regulations shall be subject to the provisions of Section 90, and Sections 114 to 127 of the Communications Act , 2009 ( Act No. 8 of 2009 ), where applicable.”"
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Amendment of Minimum Technical Standards",
+      "content": "The Authority may amend these minimum technical standards from time to time. History of this document 15 November 2017 this version Consolidation 06 December 2013 Published in Government Gazette 5357 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "the Regulations",
+      "definition": "the Regulations Setting out Minimum Technical Standards for Set-Top Box Decoders. “ Act ” means the Communications Act, 2009 (Act No. 8 of 2009 ). “ Minimum technical standards ” means, for the purposes hereof, those set of standards that specifies the minimum technical requirements that are mandatory for set-top box decoders as prescribed in these regulations “ Set-Top Box Decoder ” means an information appliance device that generally contains a tuner and connects to an analogue television set and an external source of signal, turning the source signal into content a form that can then be displayed on the television screen or other display device.",
+      "source_provision": "s1"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "na-act-p-1978-ag4",
+  "type": "statute",
+  "title": "Executive Powers (Mines) Transfer Proclamation, 1978",
+  "title_en": "Executive Powers (Mines) Transfer Proclamation, 1978",
+  "short_name": "Executive Powers (Mines) Tr...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/p/1978/ag4/eng@1978-01-30",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Definition",
+      "content": "(1) In this Proclamation “General Proclamation” means the Executive Powers Transfer (General Provisions) Proclamation, 1977 (Proclamation AG. 7 of 1977). (2) A reference in this Proclamation to any particular law shall be construed as including a reference to a regulation, rule or other enactment made under or relating to that law."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Transfer of administration of Department of Mines",
+      "content": "Notwithstanding anything to the contrary contained in any other law but subject to the provisions of this Proclamation and the General Proclamation, the administration of the affairs of the territory of South West Africa in relation to any matter which at the commencement of this Proclamation is administered by the Minister of Mines of the Republic of South Africa shall be carried on by the Administrator-General."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Application of laws",
+      "content": "The provisions of subsection (1) of section 3 of the General Proclamation shall, without detracting from the provisions of subsection (2) of that section, not apply to - (a) the Nuclear Installations (Licensing and Security) Act, 1963 (Act 43 of 1963 ); (b) the Atomic Energy Act, 1967 (Act 90 of 1967 ), except sections 5 and 6 thereof; (c) the Occupational Diseases in Mines and Works Act, 1973 (Act 78 of 1973 )."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Short title",
+      "content": "This Proclamation shall be called the Executive Powers (Mines) Transfer Proclamation, 1978. History of this document 30 January 1978 this version Published in Official Gazette 3696 Commenced 23 January 1978 Assented to Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "General Proclamation",
+      "definition": "the Executive Powers Transfer (General Provisions) Proclamation, 1977 (Proclamation AG. 7 of 1977). (2) A reference in this Proclamation to any particular law shall be construed as including a reference to a regulation, rule or other enactment made under or relating to that law.",
+      "source_provision": "s1"
+    }
+  ]
+}

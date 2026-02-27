@@ -1,0 +1,32 @@
+{
+  "id": "na-act-gn-2026-13",
+  "type": "statute",
+  "title": "Regulations Relating to Maximum Coverage Limits for Guaranteed Deposits, 2026",
+  "title_en": "Regulations Relating to Maximum Coverage Limits for Guaranteed Deposits, 2026",
+  "short_name": "Regulations Relating to Max...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/gn/2026/13/eng@2026-02-10",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "In these regulations “the Act” means the Deposit Guarantee Act, 2018 ( Act No. 16 of 2018 )."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Maximum coverage limit",
+      "content": "For purposes of section 40 of the Act, the maximum coverage limit is N$50 000.00 per depositor per member institution from which deposits have become unavailable. History of this document 10 February 2026 this version Published in Government Gazette 8842 Commenced 06 February 2026 Assented to Related documents Repeals Regulations Relating to Maximum Coverage Limits for Guaranteed Deposits, 2020 [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "the Act",
+      "definition": "the Deposit Guarantee Act, 2018 ( Act No. 16 of 2018 ).",
+      "source_provision": "s1"
+    }
+  ]
+}

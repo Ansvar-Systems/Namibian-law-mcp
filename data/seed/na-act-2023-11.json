@@ -1,0 +1,610 @@
+{
+  "id": "na-act-2023-11",
+  "type": "statute",
+  "title": "Trust Administration Act, 2023",
+  "title_en": "Trust Administration Act, 2023",
+  "short_name": "Trust Administration Act, 2023",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/2023/11/eng@2023-07-21",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part 1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "In this Act , unless the context indicates otherwise- “ accountable institution ” means a person or institution referred to in Schedule 1 of the Financial Intelligence Act ; “ accountant ” means a person who has obtained a degree or equivalent qualification in accounting and who is a member of a body in Namibia which is recognised as the professional body for accountants; “ Administration of Estates Act ” means the Administration of Estates Act, 1965 (Act No. 66 of 1965 ); “ auditor ” means a person registered as an auditor under section 23 of the Public Accountants’ and Auditors’ Act, 1951 (Act No. 51 of 1951 ) and who has been admitted as a member of the Institute of Chartered Accountants of Namibia as provided for in section 29 of that Act; “ banking institution ” means an institution authorised under the Banking Institutions Act, 1998 (Act No. 2 of 1998 ) to conduct banking business; “ basic information register ” means a register referred to in section 32 ; “ beneficial owner ” means a natural person that is a beneficial owner as defined in section 1 of the Financial Intelligence Act ; “ beneficial ownership register ” means a register referred to in section 22 and 33 ; “ beneficiary ” means a person who has received, or who will or may receive, a benefit under a trust and includes a discretionary beneficiary, which is a person who may benefit under a trust at the discretion of the trustee but which person does not have a fixed, vested, or contingent interest in the trust property ; “ books ” means any record, register, document or other record of information and any account or accounting record, however compiled, recorded or stored, whether in written or printed form or by electronic process or otherwise; “ breach of trust ” means a breach of any duty imposed on a trustee or trust practitioner by this Act , common law or by the terms of a trust instrument ; “ business relationship ” means a business relationship as defined in section 1 of the Financial Intelligence Act ; “ class ” means a group of persons that can be named a beneficiary of a trust as long as the class is definite or definitely ascertainable; “ competent authority ” means competent authority as defined in section 1 of the Financial Intelligence Act ; “ court ” means the High Court of Namibia, or any other court in Namibia which has jurisdiction to hear and determine matters arising from this Act ; “ days ” means any day which is not a Saturday, Sunday or public holiday; “ end of the financial year ” means the end of the financial year referred to in section 8 (1); \" financial crime \" means an- (a) offence that involves theft, fraud or dishonesty under this Act ; (b) offence that involves theft, fraud or dishonesty under any other legislation enforceable in Namibia, inclusive of, but not limited to, the Financial Intelligence Act and Prevention of Organised Crime Act, 2004 (Act No. 29 of 2004 ); or (c) offence that involves theft, fraud or dishonesty, committed in any country; “ Financial Intelligence Act ” means the Financial Intelligence Act, 2012 (Act No. 13 of 2012 ); \" financial institution \" means- (a) a financial institution as defined in section 1 of the Bank of Namibia Act, 2020 (Act No. 1 of 2020 ); or (b) a banking institution ; “ foreign trust ” means a trust which is created or registered in another country and which contains trust property located in Namibia; “ founder ” means a person who provides or donates property or makes a testamentary disposition on a trust or to a trust with the intention to establish a trust , and “settlor” and “donor” has a corresponding meaning; “ juristic person ” means a body corporate wherever incorporated; “ Legal Practitioners Act ” means the Legal Practitioners Act, 1995 (Act No. 15 of 1995 ); “ Master ” means the Master or Deputy Master of the High Court appointed under section of the Administration of Estates Act ; \" material irregularity \" means any- (a) non-compliance with legislation; (b) contravention of legislation; (c) fraud, theft or breach of fiduciary duty identified during a review performed under this Act that resulted in or is likely to result in a financial loss; or (d) misuse or loss of a material trust resource or substantial harm to a trust negatively impacting the benefit of the beneficiaries; \" Minister \" means the Minister responsible for justice; “ Ministry ” means the Ministry responsible for the administration of matters relating to justice; “ minor ” means a person who has not attained the age of 18 years; “ non-profit purpose ” means a charitable, religious, cultural, educational, political, social, fraternal purpose or any other type of welfare activity intended to benefit the public or a section of the public; “ non-profit trust ” means a trust , the permitted purpose of which is a non-profit purpose ; “ oral trust ” means a trust that is not supported by a written trust instrument ; “ person ” means any natural person or a juristic person ; “ permitted purpose ” in relation to a trust , means a non-profit purpose and any other purpose for a trust that is permitted at law; “ prescribed ” means prescribed in the regulations made by the Minister ; “ registrar of deeds ” means the registrar as defined in section 102 of the Deeds Registries Act, 1937 (Act No. 47 of 1937 ); “ regulations ” means regulations made under this Act ; “ repealed Act ” means the Trust Moneys Protection Act, 1934 (Act No. 34 of 1934 ); “ this Act ” includes regulations , notices and directives made or issued under it; “ trust ” has the meaning referred to in section 2 ; “ trustee ” means a person , including the founder or settlor of a trust , who is authorised to act as a trustee in terms of authorisation issued by the Master in terms of this Act , including a person whose authorisation to act as a trustee is in force at the commencement of this Act ; “ trust instrument ” means a written agreement, testamentary writing, a court order or a law in terms of which a trust is created; “ trust practitioner ” means a person registered as a trust practitioner in terms of section 27 ; and “ trust property ” means money or any other movable, immovable, corporeal or incorporeal thing located inside or outside Namibia and includes any rights, interests and claims in that property whether vested, contingent or future, which in accordance with the trust instrument must be administered by a trustee . Part 2 – CREATION OF TRUST AND CHARACTERISTICS OF TRUST"
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part 2",
+      "section": "2",
+      "title": "Creation of trust",
+      "content": "(1) A trust is an arrangement in terms of which ownership of property of a person is made over or bequeathed in terms of a trust instrument - (a) in whole or in part, to the trustee , to be administered and controlled, or disposed of according to the trust instrument for the benefit of the person or class of persons designated in the trust instrument or for the achievement of the object stated in the trust instrument ; or (b) to the beneficiaries designated in the trust instrument , which property is placed under the control of the trustee , to be administered and controlled, or disposed of according to the provisions of the trust instrument - (i) for the benefit of the person or class of persons designated in the trust instrument ; or (ii) for the achievement of the object stated in the trust instrument , but does not include the case where the property of a person is to be administered by a person as an executor, a tutor or a curator in terms of the Administration of Estates Act or any other written law, or as a trustee or a liquidator in terms of the Insolvency Act, 1936 (Act No. 24 of 1936 ) or any other written law. (2) A trust includes a non-profit trust ."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part 2",
+      "section": "3",
+      "title": "Characteristics of trust",
+      "content": "A trust has the following characteristics: (a) the founder must intend to create a trust , which means not merely using the trustees as contracting parties whilst the founder retains ultimate power and control over how the trust is managed; (b) the trust must be created for a permitted purpose ; (c) the subject matter of the trust must be capable of being defined with reasonable certainty; (d) the object of the trust must be capable of being defined with reasonable certainty; (e) the trust property does not form part of the trustee ’s own property; (f) the trust property is administered and controlled by the trustee on behalf of the beneficiaries; (g) the trustee has the power and duty to administer, control or dispose of the trust property of the trust in accordance with the terms of the trust instrument and the duties and functions imposed upon the trustee in terms of this Act or any other law; and (h) the trustee is accountable for the administration, control or disposal of the trust property ."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part 2",
+      "section": "4",
+      "title": "Beneficiaries of trust",
+      "content": "(1) Beneficiaries of a trust must be- (a) identifiable by name; or (b) ascertainable by reference to- (i) a class ; or (ii) a relationship to some person whether or not living at the time of the creation of the trust or at the time which under the terms of the trust is the time by reference to which members of a class are to be determined. (2) The trust instrument may provide for the addition of a person as a beneficiary or the exclusion of a beneficiary from a benefit by the founder or trustee after registration of the trust in terms of section 8 ."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part 2",
+      "section": "5",
+      "title": "Certain documents considered to be trust instruments",
+      "content": "A document, which is purported to represent the reduction to writing of an oral agreement by which an oral trust was created or amended, is considered a trust instrument for the purposes of this Act ."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part 2",
+      "section": "6",
+      "title": "Prohibition on administering oral trust",
+      "content": "(1) A person may not create or administer an oral trust . (2) An oral trust created after the commencement of this Act is invalid. (3) A person administrating an oral trust or oral trust properties must, within 90 days after the date of commencement of this Act , ensure that the oral trust is reduced to writing and is registered with the Master in accordance with the provisions of this Act , provided that where the founder of the oral trust is deceased the trustee has the obligation to register the oral trust ."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part 2",
+      "section": "7",
+      "title": "Validity of trust",
+      "content": "(1) A trust is valid and enforceable in accordance with the terms of the trust instrument . (2) Without limiting the grounds on which a trust is invalid in terms of a law of Namibia, a trust is invalid, if- (a) it purports to do anything that is against the law of Namibia; (b) it purports to confer any right or power or impose any obligation the exercise or carrying out of which is contrary to the law of Namibia; or (c) the court declares the trust as invalid. Part 3 – REGISTRATION OF TRUST"
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part 3",
+      "section": "8",
+      "title": "Registration of trust and authorisation to act as trustee",
+      "content": "(1) After the date of commencement of this Act , the end of the financial year of a trust registered in terms of this Act or registered in terms of the repealed Act or a prior law is 28 February each year. (2) After the date of commencement of this Act , a person may not administer and control or dispose of trust property in accordance with a trust instrument unless that person - (a) is the founder of the trust ; or (b) is a trustee nominated in terms of the trust instrument and has accepted such nomination; and (c) has- (i) registered the trust , by lodging the relevant trust instrument with the Master and the Master has issued a trust certificate in accordance with this Act ; and (ii) in the case of a trustee , been authorised by the Master in accordance with this Act to act as a trustee in respect of the trust . (3) A person that wishes to register a trust and obtain authorisation to act as trustee must in the prescribed form and manner lodge with the Master - (a) the original trust instrument in terms of which the trust property is to be administered and controlled or disposed of, or a copy of the trust instrument certified as a true copy by a notary public referred to in section 86 of the Legal Practitioners Act , or a commissioner of oaths referred to in the Justices of the Peace and Commissioners of Oaths Act, 1963 (Act No.16 of 1963 ); or (b) in the case of a foreign trust , the original trust instrument or a copy of the trust instrument certified as a true copy by the authority or official authorised by the laws of the foreign country to notarise documents. (4) A trust instrument lodged with the Master under subsection (3) must- (a) indicate the type of trust and its objects; (b) clearly identify the trust property ; (c) indicate the first or initial trustees; (d) indicate whether the trustee must provide security in terms of the trust instrument or this Act or is exempted from payment of security; (e) have attached a record to indicate the following information in respect of each beneficial owner of the trust : (i) the full legal names and any former full legal names of the beneficial owner ; (ii) the date of birth and identification number appearing on the national identity document of the beneficial owner ; (iii) in the case of a beneficial owner who is not a Namibian citizen, the official number appearing on the passport of the beneficial owner ; (iv) full particulars of residential address, business address, email address and postal address of the beneficial owner ; (v) all available phone numbers of the beneficial owner ; (vi) the nationality of the beneficial owner ; (vii) the dates indicating the beginning and the conclusion of the beneficial ownership and the nature and extent of the beneficial ownership; and (viii) in the case of a beneficial owner being a natural person who has not reached the age of 18 years, the information referred to in items (i) to (vi) in relation to the parent or legal guardian of the beneficial owner ; (f) contain the following information relating to the beneficiaries: (i) the full legal names and any former full legal names of the beneficiary in the case of an individual; (ii) the date of birth and identification number appearing on the national identity document of the beneficiary , in the case of an individual; (iii) in the case of a beneficiary who is a natural person and who is not a Namibian citizen, the official number appearing on the passport of the beneficiary ; (iv) full particulars of residential address, business address, email address and postal address of the beneficiary ; (v) the nationality of the beneficiary ; and (vi) the certificate of incorporation or registration, in the case that the beneficiary is a juristic person , partnership or another form of legal arrangement. (5) A trust instrument lodged with the Master under subsection (3) must also be accompanied by the following: (a) a written acceptance by the trustee to act as trustee in respect of the trust property in the form and manner prescribed ; (b) an undertaking by an accountant or an auditor to act as an accountant or auditor of the trust , which undertaking must indicate the particulars referred to in subsection 4(f) in respect of the accountant or auditor ; (c) an undertaking indicating the name and branch where the bank account in the name of the trust will be opened; (d) an undertaking indicating at which tax office the tax registration in the name of the trust will take place; (e) the prescribed fee; (f) such other relevant information or documentation as required in terms of this Act ; and (g) other information and documentation as may be prescribed . (6) Despite subsection (4)(f), a trustee may identify a beneficiary by reference to- (a) a class of beneficiaries; (b) a relationship to another person , whether such person is alive or deceased at the time of the creation of a trust ; or (c) members of a class of beneficiaries that is to be determined under the trust instrument . (7) The Master must consider the trust instrument and information submitted under subsection (3), (4) and (5), and may- (a) approve the trust instrument , register the trust and issue to the applicant a trust certificate or an authorisation to act as a trustee ; or (b) refuse to register the trust or to approve the authorisation to act as trustee and in writing inform the applicant of the decision and reasons for the decision. (8) A person who contravenes or fails to comply with subsection (2) commits an offence and is liable upon conviction to a fine not exceeding N$ 10 000 000 or to imprisonment for a period not exceeding 10 years or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part 3",
+      "section": "9",
+      "title": "Amendment of trust instrument",
+      "content": "Where a trust instrument does not contain instructions providing for the amendment of such trust instrument , a trustee may amend that trust instrument on being required to do so by all of the beneficiaries, if all of the following conditions are satisfied: (a) the trust is not a testamentary trust ; (b) every beneficiary or a representative of a class of beneficiary authorised by the beneficiaries, consents to the amendment; (c) the trustee receives a written request to amend the trust instrument from or on behalf of each beneficiary ; (d) the amendment is for the benefit of the beneficiaries; and (e) the trustee has agreed to the proposal for amendment. Part 4 – TRUSTEES"
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part 4",
+      "section": "10",
+      "title": "Disqualification to act as trustee or trust practitioner",
+      "content": "(1) A person is disqualified from acting as a trustee or trust practitioner if that person - (a) is an unrehabilitated insolvent or placed under judicial management; (b) has been disqualified to be a director of a company in terms of section 225 of the Companies Act, 2004 (Act No. 24 of 2004 ); (c) has been disqualified from taking part in the management of corporation in terms of section 47 of the Close Corporations Act, 1988 (Act No. 26 of 1988 ); (d) is prohibited in terms of any law to be a director of a company or from taking part in the management of a corporation; (e) has been removed from an office of trust on the grounds of misconduct involving dishonesty; (f) has been convicted, in Namibia or elsewhere, for theft, fraud, forgery, perjury or another form of dishonesty or a financial crime or an offence- (i) involving money laundering, terrorist financing or proliferation financing activities as defined in section 1(1) of the Financial Intelligence Act ; or (ii) under this Act , the Companies Act, 2004 (Act No. 24 of 2004 ), the Insolvency Act, 1936 (Act No. 24 of 1936 ) the Close Corporations Act, 1988 (Act No. 26 of 1988 ), the Financial Intelligence Act, Prevention of Organised Crime Act, 2004 (Act No. 29 of 2004 ), the Prevention and Combatting of Terrorist and Proliferation Activities Act, 2014 (Act No. 4 of 2014 ), the Income Tax Act, 1981 (Act No. 24 of 1981 ) and the Value Added Tax Act, 2000 (Act No. 10 of 2000 ); (g) is an unemancipated minor ; (h) has been declared by a competent court to be mentally ill or incapable of managing their own affairs or if the person is, pursuant to the Mental Health Act, 1973 (Act No. 18 of 1973 ), detained as a patient in an institution or as a State patient; or (i) otherwise lacks capacity that prevents a person from incurring legal liability. (2) The Registrar of the High Court must, if any of the following circumstances occur, send a copy of the relevant order or particulars of the conviction to the Master : (a) the issuing of a sequestration order in respect of a trustee or a trust practitioner who is a natural person ; (b) the issuing of an order of liquidation in respect of a trustee or trust practitioner which is a juristic person ; (c) the issuing of an order for the removal of a trustee or trust practitioner from any office of trust on the grounds of misconduct involving dishonesty; or (d) a conviction of a trustee or trust practitioner for an offence referred to in subsection (1)(f). (3) The Master must give written notice of the information referred to in subsection (2) to the competent authorities and the trustees. (4) The Master must establish and maintain in the prescribed manner a register of persons who are disqualified from acting as a trustee or a trust practitioner in terms of an order of court , in terms of this Act or any other law. (5) The Master must ensure that the register referred to subsection (4) is published on the website of the Ministry and is open to the public for inspection during office hours and copies of the register must, on request by any person , be made available to that person ."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part 4",
+      "section": "11",
+      "title": "Appointment of trustees",
+      "content": "(1) A person who is- (a) nominated as a trustee in terms of a trust instrument and accepts such nomination; (b) appointed as trustee in terms of a court order; or (c) appointed as a trustee in terms of this Act , may only act in that capacity if authorised in writing by the Master in accordance with this Act . (2) An application for authorisation to act as a trustee must be made in the prescribed form and manner and be accompanied by the prescribed information and documents and the fee as may be prescribed . (3) Where a juristic person applies in terms of this section for authorisation to act as a trustee in respect of a trust property , the Master must issue the authorisation in the name of an individual- (a) that qualifies in terms of this Act to be appointed as a trustee ; and (b) nominated by the juristic person to act as a trustee on behalf of that juristic person , and the juristic person is responsible and liable for the actions of such trustee , and where the juristic person replaces that individual, the juristic person must in terms of this section apply for authorisation for such individual to act as trustee in respect of the trust property concerned."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part 4",
+      "section": "12",
+      "title": "Foreign trustees",
+      "content": "(1) Any person who is appointed as a trustee in terms of a foreign trust to administer or dispose of trust property located in Namibia must be authorised to act as a trustee by the Master in accordance with section 11 and the provisions of this Act apply to that trustee. (2) Where none of the trustees in respect of a trust whose trust property is located in Namibia are resident in Namibia, the founder or the Master in terms of section 31 in case the founder is deceased, must appoint a person who is resident in Namibia as co-trustee, and- (a) such person must apply in terms of this Act for authorisation to act as trustee ; and (b) such person is responsible for reporting to the Master in respect of any matter required in terms of this Act and ensuring compliance with this Act ."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part 4",
+      "section": "13",
+      "title": "Security",
+      "content": "(1) The Master may not grant authorisation for a person to act as a trustee unless the person - (a) furnishes security to the satisfaction of the Master for the due and faithful performance of his or her duties as trustee ; or (b) is exempted from furnishing security by- (i) the trust instrument ; or (ii) a court order. (2) The Master may- (a) dispense with security, whether or not security is required by the trust instrument ; (b) reduce or cancel security to be furnished or security furnished; (c) in writing direct a trustee to furnish additional security; or (d) in writing, issue a directive to a trustee who is exempted from furnishing security in terms of a trust instrument , to furnish security. (3) The Master must have regard to the following factors, in making a decision under subsection (2)- (a) whether the cost of providing security is preventing the registration of a trust ; (b) whether there is no real danger of maladministration of trust property ; (c) the stability of the value of the trust property ; (d) whether the trust property has already been distributed between beneficiaries; or (e) whether there are pending criminal proceedings regarding financial crimes against a trustee who is exempted from furnishing security."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part 4",
+      "section": "14",
+      "title": "Duties of trustees",
+      "content": "(1) A trustee must in the performance of his or her duties and the exercise of his or her powers act with the care, diligence and skill which can reasonably be expected of a person who manages the affairs of another. (2) Despite the generality of subsection (1), a trustee must- (a) know the terms of the trust instrument ; (b) act in accordance with the terms of the trust instrument ; (c) act honestly and in good faith; (d) hold or deal with trust property and act for the benefit of the beneficiaries or to further the permitted purpose of the trust ; (e) exercise the trustee ’s powers for a permitted purpose ; (f) not exercise a power of a trustee directly or indirectly for the trustee ’s own benefit, except where- (i) the trustee exercises powers to the benefit of the trust beneficiaries and furthers the objects of the trust ; (ii) the direct or indirect benefit is disclosed to all trustees; and (iii) all trustees consent to such benefit in writing; (g) consider regularly whether he or she should be exercising any of the powers conferred on him or her in relation to the trust ; (h) avoid a conflict between his or her interests and the interests of the trust or any of the beneficiaries of the trust ; (i) treat all beneficiaries in accordance with the terms of the trust instrument ; and (j) not take remuneration or reward in his or her capacity as trustee except the remuneration and expenses contemplated in section 25 ."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part 4",
+      "section": "15",
+      "title": "Trustees to act jointly",
+      "content": "Where there is more than one trustee , the trustees must act jointly in the exercise of their powers and performance of their functions."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part 4",
+      "section": "16",
+      "title": "Restriction on exemption and indemnity provisions",
+      "content": "(1) The trust instrument may not limit or exclude a trustee ’s liability for any breach of trust arising from the trustee ’s dishonesty, willful misconduct or gross negligence. (2) The trust instrument may not give a trustee any indemnity against the trust property for liability for any breach of trust arising from the trustee ’s dishonesty, willful misconduct or gross negligence. (3) A provision in a trust instrument is invalid to the extent that it purports to have the effect prohibited under subsection (1) or (2)."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part 4",
+      "section": "17",
+      "title": "Keeping trust property separate",
+      "content": "(1) A trustee must preserve and enhance the value of the trust property , so far as is reasonable and in compliance with this Act and the trust instrument . (2) Each trustee must keep the trust property separate from his or her personal property and as separately identifiable from any other property of which he or she is a trustee . (3) A trustee must- (a) indicate clearly in his or her books the trust property which he or she holds in his or her capacity as trustee ; (b) register the trust property with the registrar of deeds or keep it registered in such manner as to make it clear from the registration that it is the trust property ; (c) make any account or investment at a financial institution identifiable as a trust account or trust investment; and (d) in the case of the trust property other than property referred to in paragraphs (b) and (c), make such property identifiable as the trust property in the best possible manner. (4) A trustee must in respect of a trust registered in terms of the repealed Act , within 12 months after the date of commencement of this Act , ensure that the registration or identification of trust property being administered by a trustee or trust practitioner complies with subsection (3). (5) The registrar of deeds - (a) is authorised to register immovable property in the name of the trust with its trust registration number; and (b) must register the trust property in accordance with the deeds registration laws."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part 4",
+      "section": "18",
+      "title": "Notifying address of trustee",
+      "content": "(1) Trustees in respect of which authorisation to act as trustee has been issued under the repealed Act , must within 14 days after the date of commencement of this Act - (a) furnish the Master with an address for the service on him or her of notices and processes; and (b) furnish the Master with a physical address where books and other documents and information required under this Act are kept. (2) Trustees must in writing inform the Master of any change of a residential address, business address or postal address of the trustee within 14 days of such change having occurred. (3) The Master may issue a written directive in a newspaper circulating widely in Namibia, in the Gazette or on electronic media as prescribed , calling on trustees to provide the information required under subsection (1) or subsection (2)."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part 4",
+      "section": "19",
+      "title": "Duty to prepare financial statements and furnish certain information",
+      "content": "(1) An accountant appointed in terms of the trust instrument or by the trustee or the founder must prepare annual financial statements of the trust and must submit such statements to the Master within seven months after the end of the financial year of the trust , unless the Master , on application by the trustee , extends the period. (2) An application for extension referred to in subsection (1) must be made in writing to the Master and specify- (a) why the financial statements could not be submitted within the period mentioned in subsection (1); and (b) the steps taken by the trustee to expedite submission of the financial statements and progress made. (3) The Master must consider the application made under subsection (2) and may- (a) approve the application and in writing inform the applicant of the approval and the additional period for the trustee to submit the financial statements; or (b) refuse the application and in writing inform the applicant of the decision and the reasons for the decision. (4) The Master must make a decision in respect of an application made under subsection (2) within 14 days of receiving the application. (5) Trustees must, within seven months after end of the financial year of the trust - (a) prepare or cause to be prepared the annual tax returns of the trust and submit it to the Namibia Revenue Agency; and (b) submit a tax clearance certificate or confirmation that the trust is not liable for any tax from the Namibia Revenue Agency to the Master , even if the trust is dormant, unless extension has been granted by the Master in the prescribed form and manner."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part 4",
+      "section": "20",
+      "title": "Keeping of books",
+      "content": "(1) Each trustee must keep up to date records, updated at prescribed intervals, of the following information relating to the trust - (a) the full legal names of the founder and national identification number of the founder and other information as prescribed ; (b) the full legal names of each beneficiary and the national identification number of each beneficiary and the official number appearing on the passport of a beneficiary who is not a Namibian citizen and other information as prescribed ; (c) the full legal names and national identification number of each trustee including co-trustees appointed and the official number appearing on the passport of a trustee who is not a Namibian citizen and other information as prescribed ; (d) the full legal names and national identification number of each beneficial owner , dates indicating the beginning and the conclusion of the beneficial ownership, the nature and extent of the beneficial ownership, the official number appearing on the passport of a beneficial owner who is not a Namibian citizen and other information as prescribed ; (e) the full legal names and national identification number of each trust practitioner and the official number appearing on the passport of a trust practitioner who is not a Namibian citizen and other information as prescribed ; (f) the trust instrument and any other documents that contain terms of the trust ; (g) any amendment of a provision of a trust instrument by the court and details of its effect on trust property ; (h) any amendment of a trust instrument and details of its effect on the trust property ; (i) records of the trust property that identify the assets, liabilities, income and expenses relating to the trust property and that are relevant to the value of the trust property ; (j) any foreign trust administered by the trustees; (k) all transactions, advisory communications and matters relating to trust accounts including trust investments; (l) prescribed details relating to financial institutions and accountable institutions- (i) with which the trustee has business relationships with and the nature of that business relationship ; (ii) which the trustee uses as agents to perform any of the trustee ’s functions relating to the trust property ; and (iii) from which the trustee obtains any services in respect of the trustee ’s functions relating to the trust property ; (m) any written contracts entered into during the trusteeship of the trustee ; (n) any records of the decisions of the trustee made during the trusteeship of the trustee ; (o) any books prepared during the trusteeship of the trustee ; (p) documents of appointment, removal and discharge of trustees, including any court orders appointing or removing trustees; (q) records of all expenses and disbursements paid to the trustee and trust practitioners; (r) any reports of material irregularities and how the trustee dealt with those material irregularities; (s) any documents referred to in paragraphs (a) to (r) that were kept by a former trustee during his or her trusteeship and passed on to the current trustee ; (t) any documents referred to in paragraphs (a) to (r) that were kept by a former accountable institution , financial institution and trust practitioner which the trustees have a business relationship with; (u) prescribed information relating to trusts, trustees and trusts practitioners; and (v) any other document necessary for the administration of the trust . (2) Despite subsection (1), a trustee must, where there were former trustees of a trust , keep a record of the full legal names and national identification numbers of each of the former trustees and their relationship with beneficiaries. (3) A trustee must give written notice of any change in the information referred to subsection (1) and (2) to the Master no later than 14 days after that change occurred. (4) The trustee must make available the register or record referred to in subsection (1) or (2) to the Master and competent authorities on request."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part 4",
+      "section": "21",
+      "title": "Trust account",
+      "content": "(1) A person who receives money in his or her capacity as a trustee must deposit that money in the trust account- (a) at a banking institution indicated in the undertaking referred to in section 8 (5)(c); or (b) in the case of a trustee acting under an authorisation issued under the repealed Act , at a banking institution communicated in writing to the Master within 30 days after the date of commencement of this Act . (2) A trustee and a trust practitioner must disclose his or her position to any person , accountable institution or another trust with which the trustee or trust practitioner engages in that capacity, and must make it known to that accountable institution , trust or person that the relevant transaction or business relationship relates to the trust property ."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part 4",
+      "section": "22",
+      "title": "Beneficial ownership register",
+      "content": "(1) A trustee must- (a) establish and record the beneficial ownership of a trust at registration of that trust in terms of this Act ; (b) keep a record of the prescribed information relating to the beneficial owners and beneficial ownership of the trust ; (c) lodge the record referred to in paragraph (b) with the Master ; (d) ensure that the prescribed information referred to in paragraphs (a) and (b) is accurate, verified and kept up to date, and updated at prescribed intervals; and (e) communicate any change in information relating to the beneficial owner and the beneficial ownership to the Master not later than 14 days after that change occurred. (2) The Master must verify information in the beneficial ownership register within the prescribed time and in the prescribed manner. (3) A trustee must make available the beneficial ownership register to the Master and any competent authority on request. (4) A trustee of a trust registered under the repealed Act must comply with the provisions of subsection (1) and provide the Master with all information referred to in that subsection within 90 days after the date of the commencement of this Act ."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part 4",
+      "section": "23",
+      "title": "Resignation of trustee",
+      "content": "(1) A trustee may resign by giving 30 days written notice to the- (a) Master ; (b) co-trustees in the case of more than one trustee ; and (c) ascertainable beneficiaries who have legal capacity and to the tutors or curators of the beneficiaries of the trust under tutorship or curatorship and guardians of beneficiaries who are minors, irrespective of whether the trust instrument provides for the resignation of the trustee or not. (2) Despite subsection (1) a resignation by a trustee is only effective if such resignation is not contrary to the provisions of the trust instrument and in the case of a sole trustee resigning, such resignation is only effective if that trustee has been relieved from his or her duties by the Master in writing and the Master has issued an amended trust certificate adding a replacement trustee ."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part 4",
+      "section": "24",
+      "title": "Death of trustee",
+      "content": "(1) Where a power or function of a trustee is vested in or imposed on two or more trustees jointly and one of those trustees dies, the surviving trustees, if any, may exercise such powers or perform such functions to allow him or her or them to maintain and preserve the trust property , for a period not exceeding 30 days , pending the appointment of a new trustee by the Master in accordance with section 11 , in the place of the trustee who died. (2) If a sole trustee or the last surviving or continuing trustee dies, and in the absence of a determination in the trust instrument as to a replacement for such trustee , the Master must, with the concurrence of the ascertainable beneficiaries of the trust , determine the person who must become the replacement trustee of the trust ."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part 4",
+      "section": "25",
+      "title": "Remuneration and expenses of trustee",
+      "content": "(1) A trustee may in respect of the execution of his or her official duties receive remuneration. (2) The remuneration of a trustee consists of- (a) such annual remuneration as provided for in the trust instrument , but which amount may not exceed the prescribed amount; or (b) where the trust instrument does not make provision for such remuneration, the remuneration which is prescribed . (3) A trustee may be reimbursed out of the trust property for expenses and liabilities duly and reasonably incurred by him or her in the administration of the trust property - (a) in the case of more than one trustees, if the other trustees approve in writing; or (b) in the amount determined by the Master in exercising his or her discretion in the event where the amounts claimed by the trustee are unreasonable or if there is a dispute between the trustees as to any amount payable."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part 4",
+      "section": "26",
+      "title": "Custody of books after termination of trust",
+      "content": "(1) A trustee and a trust practitioner must keep books or things which serves as proof of the investment, safe custody, control, administration, alienation or distribution of trust property for- (a) five years from the date of termination or deregistration of the trust ; or (b) such longer period as may be prescribed . (2) A trustee and a trust practitioner must keep the books or things referred to in section 20 for at least five years from the date of termination or deregistration of a trust, or for a longer period if so requested in writing by the Master or the competent authorities before the expiration of the five-year period. (3) Where there is more than one trustee of a trust , each trustee must comply with the provisions of subsection (1) and (2). Part 5 – TRUST PRACTITIONERS"
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part 5",
+      "section": "27",
+      "title": "Trust practitioners",
+      "content": "(1) Subject to the terms of the trust instrument , a trustee may employ or appoint trust practitioners for performance of services referred to in section 28 . (2) A person may not act as a trust practitioner unless the person is registered as a trust practitioner in terms of this Act . (3) The following persons are eligible for appointment as trust practitioners- (a) a legal practitioner; (b) an accountant or an auditor ; or (c) any other person who has the prescribed - (i) experience in working with trusts; or (ii) qualifications, and who is a fit and proper person in accordance with the guidelines issued by the Master . (4) A person who- (a) is eligible to act as a trust practitioner in terms of subsection (3); and (b) who has satisfactorily undergone the prescribed practical training, may apply to the Master in the prescribed form and manner to be registered as a trust practitioner and the Master may- (i) approve the application and register the applicant to act as a trust practitioner ; or (ii) refuse the application and in writing inform the applicant of the decision and the reasons for the decision. (5) The Minister , after consultation with the Master , may make regulations relating to requirements to be complied with by juristic persons who apply in terms of this Act to be registered as trust practitioners."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part 5",
+      "section": "28",
+      "title": "Services provided by trust practitioner",
+      "content": "(1) A trust practitioner may provide any of the following services: (a) acting as the agent to establish a trust on the instructions of a founder ; (b) preparing or drawing up, for or on behalf of any other person , a trust instrument ; (c) providing a registered office, business address or accommodation for the purpose of official correspondence or administrative address for a trust ; (d) providing guidance and advice in trust administration; (e) registration of a trust ; (f) acting as, or arranging for another person to act as, a trustee of a trust or performing the equivalent function for another form or legal arrangement; or (g) performing any other prescribed related services. (2) A trust practitioner may receive prescribed remuneration in respect of services rendered and in the case of a dispute regarding the correctness of the remuneration, must submit his or her account to the Master for taxation. (3) A person , other than a trust practitioner , who charges, demands or receives any fee or reward, whether in cash or in any other form, or knowingly permits any other person to charge, demand or receive any such fee or reward, for any services related to a trust rendered by him or her, commits an offence and is on conviction liable to a fine not exceeding N$ 10 000 000 or to imprisonment for a period not exceeding 10 years, or to both such fine and such imprisonment. Part 6 – DUTIES OF ACCOUNTANTS AND AUDITORS"
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part 6",
+      "section": "29",
+      "title": "Duties of accountants and auditors",
+      "content": "(1) An auditor or accountant must in the performance of his or her duties- (a) not act in conflict with a trust instrument for which he or she is appointed or employed as accountant or auditor ; (b) submit accurate financial statements and documents in his or her possession timeously to the Master on request; (c) verify financial statements; (d) in writing inform the Master when the trustees fail to cause the financial statements to be prepared within the period referred to in section 19 ; (e) in writing inform the Master if the trust is not administered in accordance with the provisions of this Act or the terms of the trust instrument ; (f) in writing inform the Master if the trustees fail to keep proper records; (g) in writing inform the Master if the trustees fail to register the trust with the Namibia Revenue Agency or to comply with section 19 (1); (h) in writing inform the Master if he or she resigns as accountant or auditor of the trust and provide the name of the new accountant or auditor , if available; and (i) in writing inform the Master of the reason for resignation as referred to in paragraph (h) and provide the Master with all financial statements and supporting documents in his or her possession. (2) If an auditor or accountant fails to to comply with subsection (1)- (a) the Master may issue a directive to the trustees, the accountant or the auditor for the removal of the auditor or accountant , after giving written notice to the trustee , accountant and auditor and giving the trustees, the accountant and auditor a reasonable notice to be heard; (b) the Master may lodge a complaint with the accreditation body with which the accountant or auditor is registered; or (c) the accountant or auditor may be liable to an administrative sanction in terms of section 47 ."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part 6",
+      "section": "30",
+      "title": "Duty to report material irregularities",
+      "content": "(1) Where the accountant and an auditor on reasonable grounds suspects or knows that there is a material irregularity in connection with the administration of a trust the accountant and an auditor must report it in writing to the trustee , and if such material irregularity is not rectified to the satisfaction of the accountant or auditor within 14 days from the date on which it was reported to the trustee , the accountant or auditor must report it in writing to the Master . (2) If an accountant or auditor fails to comply with subsection (1), that accountant or auditor may be liable to administrative sanctions in terms of section 47 . Part 7 – DUTIES AND POWERS OF MASTER"
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part 7",
+      "section": "31",
+      "title": "Power to appoint trustee",
+      "content": "(1) If the office of a trustee cannot be filled or becomes vacant, the Master must, in the absence of any provision in the trust instrument , and with the concurrence of the ascertainable beneficiaries, and if applicable the representative of a class of beneficiaries authorised by the beneficiaries, appoint a suitable person as trustee . (2) If the Master considers it necessary, the Master may, after consultation with the beneficiaries, despite the provisions of the trust instrument , appoint as co- trustee a person who is a trustee for another trust or a suitable person he or she considers appropriate. (3) Subject to the terms of the trust instrument , a trustee appointed under this section, has the same powers, functions and duties of trustees."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part 7",
+      "section": "32",
+      "title": "Duty to keep basic information register",
+      "content": "(1) The Master must keep a basic information register that contains prescribed information relating to trusts, trustees and trusts practitioners registered in terms of this Act and the repealed Act . (2) The basic information register must be kept at the office of the Master . (3) Any person may- (a) request to inspect the basic information register during office hours; and (b) request certified copies of information in the basic information register . (4) The Master must provide access to the basic information register to the competent authorities when so requested. (5) The Master must- (a) keep the basic information register in such form as may be prescribed ; (b) remove from the basic information register any trust which is terminated by the court or is deregistered; (c) remove from the basic information register , the name of a trustee who has died, resigned from office or is removed from office; and (d) remove from the basic information register a trust practitioner whose registration has lapsed or has been cancelled."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part 7",
+      "section": "33",
+      "title": "Duty to keep beneficial ownership register",
+      "content": "(1) The Master must keep a register in the prescribed form containing prescribed information about the beneficial owners and the beneficial ownership of a trust , including the beneficiaries, founders, trustees, and any other natural person exercising ultimate effective ownership or control over the trust . (2) The Master may take such necessary steps as prescribed to verify the information contained in the register referred to in subsection (1) to guarantee the accuracy of information in such register. (3) The trustee or the Master must on request make available to the competent authorities or other prescribed persons the information contained in the beneficial ownership register ."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part 7",
+      "section": "34",
+      "title": "Request for information",
+      "content": "The Master may at any time issue a directive requesting a trustee or a trust practitioner or any other person governed by this Act , to- (a) establish, verify, disclose or update any information in a beneficial ownership register or provide for inspection any book or thing referred to in section 20 or 22 ; and (b) provide any book or thing connected with the activities of the trust which the Master considers necessary for the purposes of exercising his or her functions under this Act ."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part 7",
+      "section": "35",
+      "title": "Copies of documents",
+      "content": "The Master must on written request- (a) by a trustee or the surety of a trustee , legal practitioner, representative, accountant or auditor of a trustee ; and (b) by the competent authority , furnish a certified copy of any book or document under his or her control relating to trust property to a trustee , to the surety of the trustee , representative, accountant , auditor or the competent authority . Part 8 – POWERS OF COURT"
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part 8",
+      "section": "36",
+      "title": "Power of court to amend trust instrument",
+      "content": "(1) The court may, on behalf of any of the beneficiaries specified in subsection (2), and who have an interest in the trust property , approve the amendment of the trust instrument . (2) For purposes of subsection (1), the beneficiaries are- (a) a beneficiary who lacks capacity; (b) a person who may acquire a beneficial interest at a future date or on the happening of a future event or on becoming a member of a certain class of persons; or (c) a future person who may acquire a beneficial interest. (3) An application for an approval referred to in subsection (1) may be made by- (a) the trustee or any one of the trustees; or (b) any person with a beneficial interest in the trust property . (4) On an application in terms of this section, the court must consider the- (a) nature of any person ’s interest in the trust property and the effect of the proposed order on that interest; (b) benefit or detriment that may result to any person with an interest in the trust property if the court makes or refuses to make the proposed order; and (c) intentions of the founder of the trust in settling the trust , if it is realistic to determine those intentions. (5) The court may not make an order in terms of this section if its effect would be to reduce or remove any vested interest in the trust property ."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part 8",
+      "section": "37",
+      "title": "Application for court order on failure by trustee to account or perform duties",
+      "content": "If a trustee fails to comply with a request by the Master in terms of section 34 or to perform any duty imposed on the trustee by this Act, the trust instrument or any other law, the Master or any person having an interest in the trust property may apply to the court for an order directing the trustee to comply with the request by the Master or to perform the imposed duty."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part 8",
+      "section": "38",
+      "title": "Removal of trustee",
+      "content": "(1) The Master or any person that has an interest in the trust property may apply to the court for the removal of a trustee by the court if any of the circumstances referred to in subsection (3) exist and the court is satisfied that the removal of the trustee is in the interests of the trust and the beneficiaries of the trust . (2) Despite subsection (1), trustees may be removed in accordance with the terms of the trust instrument , by an order of the court or in terms of subsection (3). (3) The Master may remove a trustee as contemplated in subsection (1) if the- (a) trustee becomes disqualified to be authorised as a trustee in terms of section 10 ; or (b) trustee fails to perform satisfactorily any duty imposed on him or her by or under this Act or fails to comply with the requirements of this Act or any lawful request of the Master . (4) Before removing a person as a trustee under subsection (3), the Master must give the trustee written notice of the intention to remove the trustee and must give the trustee a reasonable opportunity to be heard. (5) If a trustee is removed from his or her office or resigns, the trustee must return the trust certificate to the Master within 14 days of such removal or resignation. Part 9 – INVESTIGATION AND INSPECTION"
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part 9",
+      "section": "39",
+      "title": "Appointment of inspectors",
+      "content": "(1) The Executive Director of the Ministry , after consultation with the Master or on the request of the Master , may- (a) from among the staff members of the Ministry designate persons to be inspectors for purposes of this Act ; or (b) subject to applicable laws, appoint other persons to be inspectors for the purposes of this Act . (2) An inspector- (a) has such powers and functions as may be provided for by this Act or as may be delegated or assigned to the inspector by the Master ; and (b) must exercise such powers and perform such functions in compliance with the directions or instructions as may be specified by the Master . (3) The Master must issue an identification card to every person appointed as an inspector in terms subsection (1). (4) The identification card referred to in subsection (3)- (a) must be signed by the official appointed by the Master ; and (b) is prima facie evidence of the appointment of the person concerned. (5) An inspector must show the identification card referred to in subsection (3) and issued to him or her to any person in relation to whom he or she may seek to exercise any power or perform any function or duty under this Act ."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part 9",
+      "section": "40",
+      "title": "Inspection of books",
+      "content": "(1) The Master may from time to time inspect and audit the books of any of the following persons to determine the extent of compliance with the requirements of this Act - (a) trustees; (b) trust practitioners; or (c) any person who is or was acting as a trustee without holding an authorisation required by this Act . (2) For the purpose of an inspection in terms of subsection (1), the Master may instruct an inspector or may, after consultation with the Executive Director of the Ministry and subject to applicable laws, designate an auditor to inspect and audit books of the trustees and trust practitioners or any person who is or was acting as a trustee without holding an authorisation required by this Act . (3) A trustee and trust practitioner must give the Master full and free access to the books as may be reasonably required for an inspection or audit."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part 9",
+      "section": "41",
+      "title": "Investigation",
+      "content": "The Master may from time to time instruct an inspector to conduct an investigation for the following purposes- (a) if there are reasonable grounds to believe that an offence is committed or to be committed in terms of this Act ; (b) to ensure compliance with this Act ; or (c) to determine whether the trustee is conducting business in a manner not prejudicial to the trust property or the interest of the beneficiaries of the trust ."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part 9",
+      "section": "42",
+      "title": "Powers and functions of inspectors",
+      "content": "(1) In so far as section 40 , 41 and this section provides for a limitation on the fundamental rights contemplated in Sub-Article (1) of Article 13 of the Namibian Constitution, in that it authorises interference with the privacy of a person’s home, correspondence or communication, that limitation is enacted upon the authority of Sub-Article (2) of that Article. (2) A person who enters and searches any premises under section 40 , 41 or this section must exercise those powers with strict regard for decency and order, and with regard for each person’s right to dignity, freedom, security and privacy. (3) In carrying out an inspection or investigation in terms of this Act , an inspector may be accompanied and be assisted in the exercise of his or her powers by such other officials authorised by the Master or a member of the Namibian Police Force. (4) In conducting an inspection or investigation in terms of this Act an inspector may, subject to subsection (5), without a warrant or prior notice to the person under inspection or investigation- (a) enter any premises, other than premises that are a home or are being used as a home, occupied by the person under inspection or investigation and require the production of any book or thing relating to its business or affairs; (b) open any strong room, safe or other container in which the inspector, on reasonable grounds, suspects any book or thing relating to the business or affairs of the person under investigation or inspection is kept; (c) search the premises or any person on the premises if there are reasonable grounds for believing that the person has personal possession of any book or thing that has a bearing on the inspection or investigation; (d) use any computer system on the premises or require assistance of any person on the premises to use that computer system, to- (i) search any data contained in or available to that computer system; (ii) reproduce any record from that data; and (iii) seize any output from that computer for examination and copying; (e) if the inspector is of the opinion that any book or thing relating to the business or affairs of the person under inspection or investigation contains information relevant to the investigation, examine, make extracts from and copy the book or thing; (f) against the issue of a receipt, remove any book or thing to in paragraph (e) temporarily for the purposes referred to in that subsection; or (g) if the inspector is of the opinion that any book or thing referred to in paragraph (e) contains evidence of an offence under this Act or any other law, against the issue of a receipt, seize such books or thing and retain it for so long as it may be required for any criminal or other relevant legal proceedings. (5) In respect of premises or part of premises that are a home or are being used as a home, entry and search of the premises may be conducted- (a) only if authorised to do so by a warrant issued under subsection (6); (b) if there are reasonable grounds for the inspector to believe that- (i) the delay in obtaining a warrant would prejudice the object of the inspection or investigation, or failure to act immediately may prejudice securing books or things for the Master ; or (ii) a warrant will be issued under subsection (6) if the inspector or the Master applies for such warrant; (c) consent to entry and search has been given by- (i) the person lawfully in control of the premises or lawfully in possession or having custody of books or thing; or (ii) a person with the power to give such consent. (6) A judge or magistrate in chambers having jurisdiction in the area where the premises in question are located may, on application by an inspector or the Master , issue a warrant referred to in subsection (7). (7) A warrant may only be issued pursuant to subsection (6) if it appears from information given under oath or affirmation that there is reason to believe that one or more documents relating to the business or affairs of the person under inspection or investigation is kept at the premises concerned. (8) A person under inspection or investigation pursuant to this section or the authorised representative of such person may, during business hours, examine and make extracts from any book or thing under subsection (4)(f) or (g), under the supervision of an inspector. (9) If it transpires during or after an investigation conducted under this section that a document or other item referred to in subsection (4)(f) or (g) has no relation to the business or affairs of the person under inspection or investigation or is patently of a private nature, the inspector must release such book or thing to its rightful owner."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part 9",
+      "section": "43",
+      "title": "Privilege and self-incrimination",
+      "content": "(1) At any time during an inspection or investigation under this Act , the inspector or an officer authorised in writing by the Master , may summon any person who is believed to be able to furnish any information on the subject of the inspection or investigation, or to appear before the inspector at a specified time and place in order- (a) to be questioned; or (b) to deliver or produce such books or thing. (2) The inspector before whom a person appears in terms of subsection (1), may- (a) require that person to provide the information under oath or on affirmation; and (b) administer an oath to, or accept an affirmation from, that person . (3) No self-incriminating answer given or statement made to a person exercising any power or function in terms of this Act is admissible as evidence against the person who gave the answer or made the statement in any criminal proceeding, except in criminal proceedings for perjury or in which the person is tried for an offence contemplated in this section and only to the extent that the question of answer is relevant to prove the offence charged. (4) Any person who attends an investigation or inspection after having been summoned under this section is entitled to receive such compensation in respect of expenses incurred by him or her in connection with such attendance as he or she would be entitled to receive if he or she was a witness attending criminal proceedings before a magistrates’ court . (5) A person commits an offence if the person , without reasonable cause- (a) after having been duly summoned in terms of this section, fails to- (i) attend at the date, time and place specified in the summons; or (ii) remain in attendance until excused by the person conducting the investigation or presiding at the enquiry; (b) having been called upon to take an oath or make an affirmation in terms of this section, without sufficient cause- (i) refuses to be sworn or to affirm as a witness; or (ii) fails to answer fully and satisfactorily to the best of his or her knowledge all questions lawfully put to him or her or to produce any book or thing in his or her possession or custody or under his or her control which he or she has been required to produce; or (c) prevents another person from obeying a summons issued under this section or from giving evidence or producing a book or thing which he or she is required to give or produce, and is liable on conviction to a fine not exceeding N$ 10 000 000 or to imprisonment for a period not exceeding 10 years or to both such fine and such imprisonment. Part 10 – GENERAL PROVISIONS"
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part 10",
+      "section": "44",
+      "title": "Electronic filing",
+      "content": "(1) The Master may require that books , information or documents to be lodged, filed or submitted in terms of this Act , be lodged, filed or submitted electronically on an electronic filing system kept and maintained by the Ministry or a third party on behalf of the Ministry . (2) The regulations may provide for the form and procedure for lodging, filling or submitting books , information or documents as well as electronic signatures relating to such books , information or documents."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part 10",
+      "section": "45",
+      "title": "Review",
+      "content": "(1) The Master may on his or her own initiative or on application by an aggrieved party, reconsider any decision, action or directive made or issued by the Master under this Act . (2) An aggrieved party may apply to the Master in the prescribed form and manner for reconsideration of any decision, order or directive made or issued by the Master , within 14 days after the date of receiving the decision, order or directive. (3) The Master must consider the application made in terms of this section and make a decision in respect of that application within 30 days of receiving the application. (4) The Master may- (a) approve the application made under subsection (2) and set aside or amend the decision, order or directive on good cause shown, including but not limited to- (i) presentation of new facts or evidence which has bearing on the matter; or (ii) an error in law or procedure made in good faith; or (b) refuse the application made under subsection (2) and confirm the decision and in writing inform the applicant of the decision, the reasons for the decision and the applicant’s right of appeal."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part 10",
+      "section": "46",
+      "title": "Offences and penalties",
+      "content": "(1) A person commits an offence if the person - (a) administers and controls a trust without a trust certificate issued in terms of this Act ; (b) acts as trust practitioner without authorisation to act as a trust practitioner issued under this Act ; (c) provides false or misleading information in an application made under this Act ; (d) provides false or misleading information- (i) in the beneficial ownership register of a trust ; (ii) in the basic information register ; or (iii) any other register the trustee is required to keep in terms of this Act ; or (e) destroys any book or document or thing the person is required to keep in accordance with this Act , and is on conviction liable to a fine not exceeding N$ 10 000 000 or to imprisonment for a period not exceeding 10 years, or to both such fine and such imprisonment. (2) A- (a) trustee or trust practitioner who fails to comply with section 21 (2) in that he or she fails to disclose his or her position as trustee or trust practitioner to any person, accountable institution, juristic person or another trust with which he or she engages in that capacity; or (b) person who fails to make it known to a person , accountable institution , juristic person or trust that the relevant transaction or business relationship relates to trust property , commits an offence and is on conviction liable to a fine not exceeding N$ 10 000 000 or to imprisonment for a period not exceeding 10 years, or to both such fine and imprisonment. (3) An accountant or auditor who fails to report a material irregularity in connection with the administration of a trust in terms of section 30 commits an offence and is on conviction, liable to a fine not exceeding N$ 10 000 000 or to imprisonment for a period not exceeding 10 years, or to both such fine and such imprisonment. (4) A person who commits an offence in terms of this Act for which no penalty is specified is on conviction liable to a fine not exceeding N$ 10 000 000 or to imprisonment for a period not exceeding 10 years, or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part 10",
+      "section": "47",
+      "title": "Administrative sanctions",
+      "content": "(1) The Master may impose administrative sanctions referred to in subsection (6) to a person who- (a) fails to lodge a trust instrument with the Master in terms of section 8 ; (b) fails to notify the Master of the change of address in terms of section 18 ; (c) proceeds to act as a trustee in terms of a nomination in a trust instrument without obtaining the authority of the Master required under section 8 or 11 ; (d) fails to open and maintain a trust account as required under section 21 ; (e) fails to perform his or her duties in terms of sections 14 , 15 , 16 , 17 , 18 , 19 , 20 , 21 and 22 ; (f) fails to comply with a directive from the Master ; (g) takes remuneration or reimbursement for expenses which exceeds the prescribed amount; (h) fails to cause the annual financial statements to be prepared and submitted to the Master in terms of section 19 ; (i) fails to cause the annual tax returns of the trust to be prepared and submitted to the Namibia Revenue Agency in terms of section 19 ; or (j) fails to update a book or information as required under this Act . (2) A person who provides false or misleading information in the beneficial ownership register of a trust is liable to an administrative sanction referred to in subsection (6). (3) A trust practitioner who fails to comply with his or her duties or obligations under this Act may be liable to an administrative sanction referred to in subsection (6). (4) The Master must, before imposing an administrative sanction, give the person reasonable notice in writing- (a) of the nature of the alleged non-compliance; (b) of the intention to impose an administrative sanction; (c) of the amount or particulars of the intended administrative sanction; and (d) advising the person that the person may, in writing, within a period specified in the notice, make representations as to why the administrative sanction should not be imposed. (5) In determining an appropriate administrative sanction, the Master must consider- (a) the nature, duration, seriousness and extent of the relevant non-compliance; (b) whether the person has previously failed to comply with this Act ; (c) any remedial steps taken by the person to prevent a recurrence of the non-compliance; (d) any steps taken or to be taken against the person by another supervisory body or association of which the person is a member; and (e) any other relevant factor, including mitigating factors. (6) After considering any representations and the factors referred to in subsection (5) the Master may impose any one or more of the following administrative sanctions- (a) a written warning; (b) a reprimand; (c) a caution not to repeat the conduct which led to the non-compliance referred to in subsection (1); (d) a directive to take remedial action or to make specific arrangements; (e) to deregister a trust practitioner ; (f) the deregistration of the trust ; or (g) a financial penalty not exceeding N$ 10 000 000. (7) On imposing an administrative sanction, the Master must, in writing, notify the person of- (a) the decision and the reasons for the decision; (b) in the case of a financial penalty, of the amount payable as a penalty and any interest that may become payable and the interest rate, and the period within which the penalty must be paid; and (c) the right to review the decision in accordance with section 31 . (8) Any administrative penalty imposed must be paid to the State within the period and in the manner prescribed . (9) An administrative sanction contemplated in this section may not be imposed if the respondent has been charged with a criminal offence in respect of the same set of facts."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part 10",
+      "section": "48",
+      "title": "Prohibition of disclosure of confidential information",
+      "content": "The Master , an inspector, a person or a staff member of the Ministry exercising powers or performing functions in terms of this Act , may not disclose to any person information relating to the affairs of the Master of the High Court or of any other person , acquired in the performance of functions or the exercise of powers under this Act , except- (a) for the purpose of the exercise of powers or the performance of duties under this Act , or (b) when required to disclose that information before a court or under any law."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part 10",
+      "section": "49",
+      "title": "Guidelines",
+      "content": "(1) The Master may issue guidelines in relation to- (a) the interpretation, operation and application of this Act or a provision of this Act ; and (b) any matter relating to any of the Master ’s powers and functions under this Act . (2) The Master must publish guidelines issued under subsection (1) on the website of the Ministry and make them available to any person on request."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part 10",
+      "section": "50",
+      "title": "Limitation of liability",
+      "content": "The Master , inspector or a staff member of the Ministry assisting the Master in the exercise or performance of powers or functions is not liable, in his or her personal capacity, for any loss sustained by or damage caused to any person as a result of anything done or omitted by any person in good faith in the performance of any function or duty under this Act , unless it has been established that the act or omission was committed in a grossly negligent manner or committed intentionally."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part 10",
+      "section": "51",
+      "title": "Regulations",
+      "content": "(1) The Minister may, after consultation with the Master , by notice in the Gazette make regulations relating to- (a) any matter which is by this Act required or permitted to be prescribed ; (b) the form and manner of applications or authorisations in terms of this Act ; (c) the form and manner of a register a person is required to keep in terms of this Act ; (d) renumeration payable to trustees and trust practitioners; (e) the period for submission of any required book or information; (f) training required for registration as trust practitioner ; (g) information to be provided in any register to be kept in terms of this Act ; (h) electronic filing of documents or information and electronic signatures relating to such documents or information; (i) the time period which the Master , trustee , trust practitioner or any other person governed by this Act must comply with; (j) fees payable for applications or authorisations or for services rendered in terms of this Act ; or (k) the service of any document or directive in terms of this Act . (2) Regulations made under subsection (1) may prescribe penalties in respect of a contravention of or a failure to comply with any provision of those regulations not exceeding a fine of N$ 10 000 000 or imprisonment for a period not exceeding 10 years or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part 10",
+      "section": "52",
+      "title": "Delegation of powers and assignment of functions",
+      "content": "(1) The Master may, subject to such conditions as he or she may determine, in writing delegate a power conferred upon or assign a function or duty entrusted to the Master under this Act to a staff member of the Ministry . (2) The Master may not under subsection (1), delegate or assign powers to register a trust , to impose administrative sanctions, to authorise a person to act as a trustee or as a trust practitioner , to remove a trustee or a trust practitioner , to dispense with security, to issue directives or to approve applications under this Act . (3) A delegation or assignment made under subsection (1) does not prevent the Master from exercising the power so delegated or performing the function or duty so assigned."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part 10",
+      "section": "53",
+      "title": "Repeal of laws",
+      "content": "The Trust Moneys Protection Act, 1934 (Act No. 34 of 1934 ) as amended by the General Law Amendment Act, 1975 (Act No. 57 of 1975 ) is repealed."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part 10",
+      "section": "54",
+      "title": "Transitional and savings provisions",
+      "content": "(1) A person who, in relation to a trust or any part of it, was, immediately before the commencement date of this Act , a duly appointed trustee , accountant , auditor or any other person continues in that office subject to the terms of the appointment and the terms of the trust instrument . (2) A trustee , accountant , auditor or person referred to in subsection (1), who is required to obtain authorisation to act as such in terms of this Act must apply for authorisation to act in that capacity in accordance with this Act , within 90 days after the date of commencement of this Act . (3) A trust certificate or another document signifying the registration of a trust and issued in terms of the repealed Act or a prior law is valid and considered to have been issued in terms of this Act , to the extent that it is not inconsistent with this Act . (4) Any decision or action taken or purported to have been taken or done by the Master or a staff member in the public service assisting the Master in the exercise of powers and functions under the repealed Act , are, in so far as it is not inconsistent with the provisions of this Act , considered to have been taken or done under the corresponding provisions of this Act . (5) Anything done under any provision of the repealed Act which may be done under a corresponding provision of this Act is considered to have been done under that corresponding provision. (6) The Minister may, after consultation with the Master , make regulations - (a) providing transitional and savings provisions concerning the coming into force of this Act in addition to the transitional and savings provisions of this section; and (b) providing for any other matters necessary for facilitating or ensuring an orderly transition from the provisions of any enactments replaced by this Act to the provisions of this Act ."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part 10",
+      "section": "55",
+      "title": "Short title and commencement",
+      "content": "(1) This Act is called the Trust Administration Act, 2023 and comes into operation on a date determined by the Minister by notice in the Gazette . (2) Different dates may be determined under subsection (1) in respect of different provisions of this Act . History of this document 03 August 2023 Commenced by Trust Administration Act, 2023: Commencment 21 July 2023 this version Published in Government Gazette 8144 19 July 2023 Assented to Related documents Is commenced by Trust Administration Act, 2023: Commencment [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "accountable institution",
+      "definition": "a person or institution referred to in Schedule 1 of the Financial Intelligence Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "accountant",
+      "definition": "a person who has obtained a degree or equivalent qualification in accounting and who is a member of a body in Namibia which is recognised as the professional body for accountants",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Administration of Estates Act",
+      "definition": "the Administration of Estates Act, 1965 (Act No. 66 of 1965 )",
+      "source_provision": "s1"
+    },
+    {
+      "term": "auditor",
+      "definition": "a person registered as an auditor under section 23 of the Public Accountants’ and Auditors’ Act, 1951 (Act No. 51 of 1951 ) and who has been admitted as a member of the Institute of Chartered Accountants of Namibia as provided for in section 29 of that Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "banking institution",
+      "definition": "an institution authorised under the Banking Institutions Act, 1998 (Act No. 2 of 1998 ) to conduct banking business",
+      "source_provision": "s1"
+    },
+    {
+      "term": "basic information register",
+      "definition": "a register referred to in section 32",
+      "source_provision": "s1"
+    },
+    {
+      "term": "beneficial owner",
+      "definition": "a natural person that is a beneficial owner as defined in section 1 of the Financial Intelligence Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "beneficial ownership register",
+      "definition": "a register referred to in section 22 and 33",
+      "source_provision": "s1"
+    },
+    {
+      "term": "beneficiary",
+      "definition": "a person who has received, or who will or may receive, a benefit under a trust and includes a discretionary beneficiary, which is a person who may benefit under a trust at the discretion of the trustee but which person does not have a fixed, vested, or contingent interest in the trust property",
+      "source_provision": "s1"
+    },
+    {
+      "term": "books",
+      "definition": "any record, register, document or other record of information and any account or accounting record, however compiled, recorded or stored, whether in written or printed form or by electronic process or otherwise",
+      "source_provision": "s1"
+    },
+    {
+      "term": "breach of trust",
+      "definition": "a breach of any duty imposed on a trustee or trust practitioner by this Act , common law or by the terms of a trust instrument",
+      "source_provision": "s1"
+    },
+    {
+      "term": "business relationship",
+      "definition": "a business relationship as defined in section 1 of the Financial Intelligence Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "class",
+      "definition": "a group of persons that can be named a beneficiary of a trust as long as the class is definite or definitely ascertainable",
+      "source_provision": "s1"
+    },
+    {
+      "term": "competent authority",
+      "definition": "competent authority as defined in section 1 of the Financial Intelligence Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "court",
+      "definition": "the High Court of Namibia, or any other court in Namibia which has jurisdiction to hear and determine matters arising from this Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "days",
+      "definition": "any day which is not a Saturday, Sunday or public holiday",
+      "source_provision": "s1"
+    },
+    {
+      "term": "end of the financial year",
+      "definition": "the end of the financial year referred to in section 8 (1)",
+      "source_provision": "s1"
+    },
+    {
+      "term": "financial crime",
+      "definition": "an- (a) offence that involves theft, fraud or dishonesty under this Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Financial Intelligence Act",
+      "definition": "the Financial Intelligence Act, 2012 (Act No. 13 of 2012 )",
+      "source_provision": "s1"
+    },
+    {
+      "term": "means- (a) a financial institution as defined in section 1 of the Bank of Namibia Act, 2020 (Act No. 1 of 2020 ); or (b) a banking institution ; “ foreign trust",
+      "definition": "a trust which is created or registered in another country and which contains trust property located in Namibia",
+      "source_provision": "s1"
+    },
+    {
+      "term": "founder",
+      "definition": "a person who provides or donates property or makes a testamentary disposition on a trust or to a trust with the intention to establish a trust , and “settlor” and “donor” has a corresponding meaning",
+      "source_provision": "s1"
+    },
+    {
+      "term": "juristic person",
+      "definition": "a body corporate wherever incorporated",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Legal Practitioners Act",
+      "definition": "the Legal Practitioners Act, 1995 (Act No. 15 of 1995 )",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Master",
+      "definition": "the Master or Deputy Master of the High Court appointed under section of the Administration of Estates Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "material irregularity",
+      "definition": "any- (a) non-compliance with legislation",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister responsible for justice",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Ministry",
+      "definition": "the Ministry responsible for the administration of matters relating to justice",
+      "source_provision": "s1"
+    },
+    {
+      "term": "minor",
+      "definition": "a person who has not attained the age of 18 years",
+      "source_provision": "s1"
+    },
+    {
+      "term": "non-profit purpose",
+      "definition": "a charitable, religious, cultural, educational, political, social, fraternal purpose or any other type of welfare activity intended to benefit the public or a section of the public",
+      "source_provision": "s1"
+    },
+    {
+      "term": "non-profit trust",
+      "definition": "a trust , the permitted purpose of which is a non-profit purpose",
+      "source_provision": "s1"
+    },
+    {
+      "term": "oral trust",
+      "definition": "a trust that is not supported by a written trust instrument",
+      "source_provision": "s1"
+    },
+    {
+      "term": "person",
+      "definition": "any natural person or a juristic person",
+      "source_provision": "s1"
+    },
+    {
+      "term": "prescribed",
+      "definition": "prescribed in the regulations made by the Minister",
+      "source_provision": "s1"
+    },
+    {
+      "term": "registrar of deeds",
+      "definition": "the registrar as defined in section 102 of the Deeds Registries Act, 1937 (Act No. 47 of 1937 )",
+      "source_provision": "s1"
+    },
+    {
+      "term": "regulations",
+      "definition": "regulations made under this Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "repealed Act",
+      "definition": "the Trust Moneys Protection Act, 1934 (Act No. 34 of 1934 )",
+      "source_provision": "s1"
+    },
+    {
+      "term": "this Act",
+      "definition": "regulations , notices and directives made or issued under it",
+      "source_provision": "s1"
+    },
+    {
+      "term": "trust",
+      "definition": "referred to in section 2",
+      "source_provision": "s1"
+    },
+    {
+      "term": "trustee",
+      "definition": "a person , including the founder or settlor of a trust , who is authorised to act as a trustee in terms of authorisation issued by the Master in terms of this Act , including a person whose authorisation to act as a trustee is in force at the commencement of this Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "trust instrument",
+      "definition": "a written agreement, testamentary writing, a court order or a law in terms of which a trust is created",
+      "source_provision": "s1"
+    },
+    {
+      "term": "trust practitioner",
+      "definition": "a person registered as a trust practitioner in terms of section 27",
+      "source_provision": "s1"
+    },
+    {
+      "term": "trust property",
+      "definition": "money or any other movable, immovable, corporeal or incorporeal thing located inside or outside Namibia and includes any rights, interests and claims in that property whether vested, contingent or future, which in accordance with the trust instrument must be administered by a trustee . Part 2 – CREATION OF TRUST AND CHARACTERISTICS OF TRUST",
+      "source_provision": "s1"
+    }
+  ]
+}

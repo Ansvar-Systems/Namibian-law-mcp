@@ -1,0 +1,723 @@
+{
+  "id": "na-act-gn-2000-155",
+  "type": "statute",
+  "title": "Petroleum Products Regulations, 2000",
+  "title_en": "Petroleum Products Regulations, 2000",
+  "short_name": "Petroleum Products Regulati...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/gn/2000/155/eng@2017-11-15",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Chapter 1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "In these Regulations , unless the context otherwise indicates, a word or expression defined in the Act has the same meaning, and- “ approved specification ” means any specification or standard applied by the Minister in terms of regulation 44(1); “ bulk quantity ” means a single quantity of 200 litres or more; “ business of a wholesaler ” means to act as a wholesaler and to conduct any activity reasonably required in connection with fuel or incidental thereto, including the handling, possession, conveying and storage of such fuel ; “ certificate ” mean s a consumer installation certificate issued in terms of regulation 18; “ certificate-holder ” means the holder of a certificate ; “ certified ”, in respect of a document, means a copy certified by a commissioner of oaths to be a true copy of the original document; “ consumer installation ” means a petrol or diesel installation, including any pump, storage tank and piping used in relation thereto, for the purpose of dispensing fuel into own or hired petrol or diesel consuming equipment or own or hired vehicles; “ commercial user ” means an installation at commercial or industrial undertaking operating its own petroleum consuming equipment and operating the undertaking or company ’s or industrial undertaking’s own vehicle or train operated for its own productive purposes and the undertaking must be contractually bound by the company not to resell petrol supplied from such installations and for the purposes of this definition, resell includes the supply of petrol and diesel from such installations to any other vehicle or equipment not provided for in this definition; [definition of “commercial user” inserted by GN 122/2016 ] “ company ” means oil marketing company designated by the Minister for storage, supply, distribution and marketing of petroleum in Namibia; [definition of “company” inserted by GN 122/2016 ] “ dangerous situation ” means a situation involving petroleum products that- (a) is immediately endangering the safety or health of a person, or the safety of a person’s property; or (b) is creating an immediate risk of significant environmental harm, and includes a petroleum product spill ; “ diesel ” means a distillate oil which can be used as fuel for the operation of a compression ignition engine and which has an approximate boiling temperature of between 150°C to 400°C; “ fuel ” means petrol or diesel ; “ Government institution ” means any department, division, office, agency or Ministry of State; “ inspector ” means any person appointed or authorised as an inspector or as a regional controller in terms of section 3 of the Act ; “ licence ” means a retail licence or a wholesale licence ; “ licence-holder ” means the holder of a licence ; “ licensed premises ” means the premises in respect of which a retail licence is granted and which premises are described and specified in the retail licence ; “ local authority ” means a local authority as defined in section 1 of the Local Authorities Act, 1992 (Act No. 23 of 1992 ); “ local authority area ” means a local authority area as defined in section 1 of the Local Authorities Act, 1992 (Act No. 23 of 1992 ); “ marker ” means chemicals approved by the Minister and which are introduced into petroleum products; [definition of “marker” inserted by GN 122/2016 ] “ marking ” means the introduction of a marker or a substance into a petroleum product, mixing of diesel , petrol and kerosene with the correct quantity of marker or substance required for these products calculated and manually poured into the compartment or fuel tanker approved by the Minister; [definition of “marking” inserted by GN 122/2016 ] “ marking company ” means the marking company contracted by the Ministry or the nominee of the marking company designated to mark all petroleum products, sample, analyse, report and manage the marking program. [The definition of “marking company” is inserted by GN 122/2016 . It should end with a semicolon rather than a full stop.] “ operate ” means to conduct the operations of an operator ; “ operate a consumer installation ” means to install and to conduct the activity of an operator in respect of such an installation, and to conduct any activity reasonably required in connection with fuel or incidental thereto, including the obtaining, handling, possession, storage and dispensing of such fuel ; “ operate a retail outlet ” means to conduct the activity of an operator in respect of the outlet, and to conduct any activity reasonably required in connection with fuel incidental thereto, including the obtaining, handling, possession and storage of such fuel ; “ operator ” means a person who is responsible for the day to day activities of a retail outlet or consumer installation , whether or not the person is located on the relevant premises during business hours and whether or not the person is the owner of the retail outlet or consumer installation and, in the case of a retail outlet , if such activities are for own profit or loss; “ petrol ” means a light distillate fuel which can be used as fuel for the operation of a spark ignition engine and which has an approximate boiling temperature of between 30°C to 200°C; “ petroleum product spill ” means the discharge of a petroleum product onto or into any land or water, or any structure or thing; “ plant ” includes- (a) any machine, engine, equipment, container or device; (b) any component, fitting, pipe or accessory used in or in connection with any machine, engine, equipment, container or device; “ RATPLAN ” means the Fuel Resellers Rationalisation Plan for Namibia as signed between the Minister and the participating wholesaler companies on 10 April 1991, and as extended; “ regional council ” means a regional council established under section 2 of the Regional Council’s Act 1992 (Act No. 22 of 1992 ); “ relevant premises ” means- (a) in the case of a retail licence-holder , the licensed premises ; (b) in the case of a wholesale licence-holder , the premises where the wholesale licence-holder ’s storage facilities are situated; and (c) in the case of a certificate-holder , the site ; “ retail licence ” means a licence issued in terms of regulation 5; “ retail licence-holder ” means the holder of a retail licence ; “ retail outlet ” means any place from where fuel is sold or is offered for sale to consumers for purposes of use or consumption; “ retail sale ” means the sale of fuel at a retail outlet ; “ site ”, in relation to a consumer installation , means- (a) in the case of a below-ground storage tank or an above-ground storage tank that is permanently fixed to the ground, the premises on which such storage tank is installed; (b) in the case of an above-ground storage tank that is not permanently fixed to the ground, the premises where activities in connection with such consumer installation are conducted; “ storage facility ” means a facility in which any petroleum product is stored, including a storage facility at a harbour terminal or inland depot; “ storage tank ” means a closed container that is used for storing petroleum products; “ the Act ” means the Petroleum Products and Energy Act, 1990 (Act No. 13 of 1990 ); “ these Regulations ” mean these Regulations as amended from time to time; “ wholesale licence ” means a licence issued in terms of regulation 12; “ wholesale licence-holder ” means the holder of a wholesale licence ; “ wholesaler ” means any person who imports or distributes fuel for the purposes of the wholesale sale thereof by that person in Namibia, or who exports fuel ; and “ wholesale sale ” means the sale of fuel in bulk quantities."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Chapter 1",
+      "section": "2",
+      "title": "Application of Regulations",
+      "content": "These Regulations, unless specifically stated otherwise, apply only in respect of fuel . Chapter 2 LICENCES AND CERTIFICATE Part I – POSSESSION AND SALE OF, AND OTHER ACTS RELATING TO, FUEL"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Chapter 2, Part I",
+      "section": "3",
+      "title": "Licensing and certification",
+      "content": "(1) No person shall- (a) operate a retail outlet or conduct the business of a wholesaler , unless authorised to do so under a retail licence or a wholesale licence , respectively; or (b) operate a consumer installation , unless authorised to do so under a certificate . (2) No person shall posses or store any fuel except under authority of a licence or a certificate , excluding- [The word “possess” is misspelt in the Government Gazette , as reproduced above.] (a) a person who possesses or stores such fuel in a quantity of 200 litres or less in any container kept at a place within a local authority area ; or (b) a person who possesses or stores such fuel in a quantity of 600 litres or less in any container kept at a place outside a local authority area ; or (c) a person who possesses or stores such fuel in the tank of a vehicle for the purposes of propelling such vehicle, subject thereto that the Minister may on the written application by any person, and on good cause shown, in writing authorise a person referred to in paragraph (a) to possess or store such fuel in a quantity or quantities of more than 200 litres, or a person referred to in paragraph (b) to possess or store such fuel in a quantity or quantities of more than 600 litres. (3) Any person who fails to comply with the provisions of subregulations (1) and (2) shall be guilty of an offence. (4) The following licences and certificate may, in accordance with these Regulations , be granted and issued in respect of the acts mentioned in subregulation (1): (a) A retail licence ; (b) a wholesale licence ; and (c) a consumer installation certificate . Part II – RETAIL LICENCES"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Chapter 2, Part II",
+      "section": "4",
+      "title": "Application for retail licence",
+      "content": "(1) Any person desiring to operate a retail outlet shall apply to the Minister for a retail licence by duly completing Form PP/1 as set out in Annexure B, and shall lodge such application with the Minister together with such other documents or records as may be required by these Regulations . (2) An application for a retail licence shall be accompanied by- (a) a certified copy of the applicant’s identity document and, in the case of a non-Namibian citizen, a permanent residence permit or an employment permit and proof of residence in Namibia, or proof of domicile in Namibia, as the case may be; (b) if the applicant is a body corporate, a certified copy of its registration documents; (c) if an environmental impact assessment study has been conducted, a certified copy of the document setting out the outcome of such study; (d) if applicable, a written confirmation by the supplying wholesaler that it agrees to supply fuel to the applicant and a list of all buildings, structures and plant and any other item or assistance such wholesaler agrees to supply to the applicant in the event of a successful application; (e) a signed declaration by the applicant that there is sufficient capital available for the operation of a retail outlet and a description of the amount and nature of such capital and particulars as regards the terms under which the capital is held or invested; (f) final design or construction drawings of all buildings, roadworks, structures and plant to be erected on the proposed premises, including the location of the proposed premises, or if not available, preliminary sketches or a general layout plan thereof; and (g) in the case of an applicant being a wholesaler , a written confirmation whether the applicant intends to operate the proposed retail outlet itself or whether the applicant intends to enter into an agreement with another person in terms of which such other person shall operate such retail outlet . (3) An application in terms of subregulation (1) shall be accompanied by the appropriate application fee imposed by Annexure A."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Chapter 2, Part II",
+      "section": "5",
+      "title": "Grant, issue and form of retail licence",
+      "content": "(1) The Minister shall consider an application for a retail licence and may, subject to this Chapter and after consideration of any recommendations made under regulation 26- (a) refuse the application; (b) grant the application and issue a retail licence to the applicant subject to the general conditions set out in regulation 7(1) and such further special conditions as the Minister may determine in accordance with regulation 7(2); or (c) if all required information has not been submitted, provisionally grant the retail licence subject thereto that the retail licence may only be issued once all the required information has been submitted. (2) A separate retail licence shall be issued for each retail outlet an applicant intends to operate . (3) The Minister may refuse an application if in the Minister’s opinion the past conduct of the applicant affords reasonable grounds for belief that the activities to be conducted pursuant to the retail licence shall not be conducted in accordance with these Regulations and in a safe manner. (4) A retail licence issued under this Part shall be issued, upon payment of the appropriate fee imposed by Annexure A, in the form of Form PP/2 as set out in Annexure B. (5) If the Minister refuses to grant a retail licence , the Minister shall in writing inform the applicant of such refusal and give reasons for the refusal. (6) A retail licence is valid from the date of issue thereof and remains valid subject to these Regulations ."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Chapter 2, Part II",
+      "section": "6",
+      "title": "Criteria for decisions relating to retail licence",
+      "content": "(1) In making a decision in respect of the grant, issue, or amendment under regulation 30, or any other matter pertaining to a retail licence , the Minister shall take the following matters, in so far as they are applicable, into account: (a) The protection of employees, and public safety and health; [The word “the” at the beginning of paragraph (a) should not be capitalised.] (b) the protection of the environment; (c) the record of compliance with the Act , these Regulations and other relevant laws by the person with regard to whom the decision shall be made; (d) the suitability of the premises concerned with regard to safety, health, security, hazardous substances, environment and town planning requirements; (e) the need for facilities and services to be provided for consumers at the premises concerned and the extent to which the interests of petroleum product consumers shall be served; (f) the social upliftment of previously disadvantaged individuals in Namibia; (g) the possibility of a monopolistic condition in the petroleum product retail sale industry detrimental to the public interest being created or aggravated and the extent to which fair and reasonable competition in the retail sale of petroleum products shall be affected; (h) the prevention of vertical integration by wholesalers of the petroleum product retail sale industry; (i) the economic viability of a retail outlet with reference to the location thereof and capital available; (j) the number of retail outlets already operated by the person with regard to whom the decision has to be made; (k) any recommendation by a person or a body to which the matter has been referred under regulation 26; and (l) any matter relevant to the orderly provision of petroleum products in Namibia. (2) The Minister may request the person with regard to whom a decision referred to in subregulation (1) has to be made to submit information to the Minister relating to matters mentioned in subregulation (1) in order to enable the Minister to make an informed decision regarding the grant, issue or amendment of, or any other matter pertaining to, the retail licence ."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Chapter 2, Part II",
+      "section": "7",
+      "title": "Conditions of retail licence",
+      "content": "(1) The following general conditions apply to all retail licences: (a) The retail licence-holder shall at all times comply with the Act and these Regulations and all other applicable laws, including laws relating to labour, safety, hazardous substances, security, health and environment; [The word “the” at the beginning of paragraph (a) should not be capitalised.] (b) the retail licence-holder shall inform the Minister as soon as practicable of any dangerous situation arising from the conduct of activities authorised under the retail licence , including the steps taken or proposed to be taken by the licence-holder to rectify such situation or to eliminate or minimise the danger arising from such situation; (c) the retail licence-holder shall keep such records and shall submit such information to the Minister as required by or under these Regulations ; (d) the retail licence-holder shall comply with all provisions of these Regulations relating to petroleum product spills; (e) the retail licence-holder may not abandon the licensed premises otherwise than in accordance with these Regulations ; (f) petroleum products sold to consumers shall comply with approved specifications made applicable by or under these Regulations ; (g) the retail licence-holder shall at all times hold such permits, licences and certificates relating to the sale of petroleum products and other services provided at the retail outlet , as may be required by any other law; and (h) the retail licence-holder may not obtain fuel by means of wholesale sale for purposes of retail sale from any person other than a wholesale licence-holder . (2) The Minister may make special conditions applicable to a retail licence relating to- (a) the reporting of dangerous situations or accidents; (b) the preparation and submission to the Minister of assessments of the safety, health, environment and security risks associated with the activities authorised under the retail licence ; (c) the safe disposal of petroleum products, including the collection and discarding of used oil; (d) insurance against, or guarantee for, petroleum product spills, which insurance or guarantee shall cover the cost involved in the cleaning-up of such spills up to an amount not exceeding N$ 500 000. [The full stop at the end of paragraph (d) should be a semicolon now that it is no longer the last paragraph in the subregulation.] (e) any other matter which the Minister considers to be in the interest of- (i) the safe, economically efficient and orderly supply of petroleum products in Namibia; (ii) the maintenance, security and continuity of petroleum product supplies in Namibia; (iii) the maintenance of contingency and reserve petroleum product stocks. [paragraph (e) inserted by GN 202/2002 ]"
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Chapter 2, Part II",
+      "section": "8",
+      "title": "Bulk quantity sale",
+      "content": "(1) A retail licence-holder may only sell fuel in bulk quantities by dispensing it directly into- (a) a container, other than the tank of a vehicle, used for the storage of fuel ; or (b) the tank of a vehicle with a mass of 3 500 kilograms or more for purposes of propelling such vehicle, and for the purposes of this section, “vehicle” includes any ship or other kind of vessel. (2) No retail licence-holder may sell petrol in quantities of less than 200 litres at a time at any price other than the price determined under the Act ."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Chapter 2, Part II",
+      "section": "9",
+      "title": "Commencement and cessation of business under retail licence",
+      "content": "(1) A retail licence-holder shall commence with retail sales at the licensed premises within a period of six months after the date on which a retail licence has been issued to the licence-holder . (2) The Minister may extend, on the written application by a retail licence-holder and if there are good reasons for such extension, the period of time referred to in subregulation (1) for consecutive periods of six months each. (3) If, without the Minister’s prior written approval, the business of retail sales from a licensed premises is not conducted for a continuous period of more than three months during the validity of the retail licence , the Minister may in terms of regulation 31 cancel the licence ."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Chapter 2, Part II",
+      "section": "10",
+      "title": "Information to be submitted to Minister by retail licence-holder",
+      "content": "(1) A retail licence-holder shall in writing supply to the Minister, on written notice by the Minister and within the period of time specified in the notice, the following information: (a) Any information the Minister may request regarding any dangerous situation , and the remedial measures taken in respect thereof; and [The word “any” at the beginning of paragraph (a) should not be capitalised.] (b) any information the Minister may request in order to enable the Minister to effectively exercise his or her power s under these Regulations . (2) Every retail licence-holder shall submit to the Minister, during the currency of the licence , not later than 28 February of each year, the following information in respect of the preceding year: (a) Confirmation that the retail outlet is still in operation and that for no continuous period of more than three months in the preceding year or portion of a year the business of retail sales from the licensed premises was not conducted; [The word “confirmation” at the beginning of paragraph (a) should not be capitalised.] (b) any change of the information requested in terms of regulation 4 and Form PP/ 1 as set out in Annexure B, with regard to which change it is not necessary to apply for an amendment of the retail licence ; and (c) the total throughput of petroleum products (specified by product). Part III – WHOLESALE LICENCE"
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Chapter 2, Part III",
+      "section": "11",
+      "title": "Application for wholesale licence",
+      "content": "(1) Any person desiring to conduct business as a wholesaler shall apply to the Minister for a wholesale licence by duly completing Form PP/3 as set out in Annexure B, and shall lodge such application with the Minister together with such other documents or records as may be required by or under these Regulations . (2) An application for a wholesale licence shall be accompanied by- (a) a certified copy of the applicant’s identity document and, in the case of a non-Namibian citizen, permanent residence permit or employment permit and proof of residence in Namibia, or proof of domicile in Namibia, as the case may be; (b) if the applicant is a body corporate, a certified copy of its registration documents; (c) a list of all retail outlets and others which it at the time of the application intends to supply with fuel ; (d) a list of the ports of entry or exit from where it intends to import or export, as the case may be, fuel ; (e) a list of all storage facilities intended to be used, including shared storage facilities, with specific reference to- (i) the location of the storage facilities; (ii) the capacity of the storage facilities; (iii) the ownership of the storage facilities (including the ownership of the land on which the storage facilities are situated, if different) and, in the case of shared ownership, the basis of sharing; (iv) the names of other wholesalers sharing the same storage facilities; (f) in the case of storage facilities to be erected, final design or construction drawings of buildings, roadworks, structures and plant , including the location thereof, to be erected, or if not available, preliminary sketches or a general layout plan thereof, and in the case of existing storage facilities, the as built or record drawings of buildings, roadworks, structures and plant , including the location thereof; (g) if an environmental impact assessment study has been conducted, a certified copy of the document setting out the outcome of such study. (3) The information required under subregulation (2)(e) shall be provided according to the different petroleum products which are to be stored. (4) An application in terms of subregulation (1) shall be accompanied by the appropriate application fee imposed by Annexure A."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Chapter 2, Part III",
+      "section": "12",
+      "title": "Grant, issue and form of wholesale licence",
+      "content": "(1) The Minister shall consider an application for a wholesale licence and may subject to this Chapter- (a) refuse the application; (b) grant the application and issue a wholesale licence to the applicant subject to the general conditions set out in regulation 14(1) and such further special conditions as the Minister may determine in accordance with regulation 14(2); or (c) if all required information has not been submitted, provisionally grant the wholesale licence subject thereto that the wholesale licence may only be issued once all the required information has been submitted. (2) The Minister may refuse an application if in the Minister’s opinion the past conduct of the applicant affords reasonable grounds for the belief that the activities to be conducted pursuant to the wholesale licence shall not be conducted in accordance with these Regulations and in a safe manner. (3) If the Minister refuses to grant a wholesale licence , the Minister shall inform the applicant of such refusal in writing, including the reasons for the refusal. (4) A wholesale licence granted under this Part shall be issued, upon payment of the appropriate fee imposed by Annexure A, in the form of Form PP/4 as set out in Annexure B. (5) A wholesale licence is valid from the date of issue thereof and remains valid subject to these Regulations ."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Chapter 2, Part III",
+      "section": "13",
+      "title": "Criteria for decisions relating to wholesale licence",
+      "content": "(1) In making a decision in respect of the grant or issue, or the amendment under regulation 30, or any other matter pertaining to a wholesale licence , the Minister shall take the following matters, in so far as they are applicable, into account: (a) The matters listed in the provisions of regulation 6 (1)(a), (b), (c), (f), (g) and (k), for which purpose any reference in those provisions to “ retail sale ” shall be construed as a reference to wholesale sale ; [The word “the” at the beginning of paragraph (a) should not be capitalised.] (b) the suitability of the storage facilities proposed to be used with regard to safety, health, security, hazardous substances, environment and town planning requirements; (c) the need for import, export and distribution of wholesale fuel to be provided in Namibia; (d) any significant negative impact such decision may have on the petroleum industry; (e) the extent to which the interests of fuel consumers shall be served; and (f) any other matter relevant to the orderly provision of petroleum products in Namibia. (2) The Minister may request the person with regard to whom a decision referred to in subregulation (1) has to be made, to submit information to the Minister relating to matters mentioned in that subregulation, in order to enable the Minister to make an informed decision regarding the grant, issue or amendment or any other matter pertaining to the wholesale licence ."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Chapter 2, Part III",
+      "section": "14",
+      "title": "Conditions of wholesale licence",
+      "content": "(1) The following general conditions apply to all wholesale licences: (a) The wholesale licence-holder shall at all times comply with the Act , these Regulations and all other applicable laws, including laws relating to labour, safety, hazardous substances, security, health and environment; [The word “the” at the beginning of paragraph (a) should not be capitalised.] (b) the wholesale licence-holder may sell fuel only in bulk quantities; (c) if the wholesale licence-holder sells fuel to any person other than a retail licence-holder , certificate-holder , Government institution , local authority or regional council , the provisions of regulation 8 shall apply, with the necessary changes; (d) the sale of fuel to a person referred to in paragraph (c) may not be made from any place other than from a dispensing point situated at the relevant premises of the wholesaler ; (e) all relevant import and export, and wholesale sale , of fuel , approvals and permits as required under the Act or any other applicable law shall be obtained prior to any import into, export from or wholesale sale of fuel in, Namibia; (f) the wholesale licence-holder shall keep such records and shall submit such information to the Minister as are required by or under these Regulations ; (g) petroleum products imported or distributed shall comply with approved specifications as made applicable by or under these Regulations ; (h) ... than in accordance with these Regulations ; [There seems to be some error in respect of the wording above; the paragraphs jump from (g) to (i), suggesting that some words have been inadvertently omitted.] (i) all applicable duties, levies and taxes shall be paid to the relevant authorities and bodies; (j) the wholesale licence-holder shall inform the Minister in writing of any changes to be effected to storage facilities prior to effecting such changes; (k) the wholesale licence-holder shall inform the Minister as soon as practicable of any dangerous situation arising from the conduct of activities authorised under the licence , including the steps taken or proposed to be taken by the licence-holder to rectify such situation or to eliminate or minimise the danger arising from such situation; and (l) the wholesale licence-holder shall comply with all provisions of these Regulations relating to petroleum product spills. (2) The Minister may make special conditions applicable to a wholesale licence relating to- (a) the reporting of dangerous situations or accidents; (b) the preparation and submission to the Minister of assessments of the safety, health, environment and security risks associated with the activities authorised under the wholesale licence ; (c) the safe disposal of petroleum products, including the collection and discarding of used oil; (d) insurance against, or guarantee for, petroleum product spills which insurance or guarantee cover the cost involved in the cleaning-up of such spills up to an amount not exceeding N$ 500 000. [The full stop at the end of paragraph (d) should be a semicolon now that it is no longer the last paragraph in the subregulation.] (e) any other matter which the Minister considers to be in the interest of- (i) the safe, economically efficient and orderly supply of petroleum products in Namibia; (ii) the maintenance, security and continuity of petroleum product supplies in Namibia; (iii) the maintenance of contingency and reserve petroleum product stocks. [paragraph (e) inserted by GN 202/2002 ]"
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Chapter 2, Part III",
+      "section": "15",
+      "title": "Information to be submitted to Minister by wholesale licence-holder",
+      "content": "(1) A wholesale licence-holder shall supply to the Minister, on written notice by the Minister and within the period of time specified in the notice- (a) any information the Minister may request regarding any dangerous situation and remedial measures taken in respect thereof; (b) any information the Minister may request regarding the storage and place of storage of petroleum products in Namibia by the wholesaler ; (c) any information the Minister may request in order to enable the Minister to effectively exercise his or her powers under these Regulations . (2) Every wholesale licence-holder shall submit to the Minister, during the currency of the licence , not later than 28 February of each year, the following information in respect of the preceding year: (a) The total quantity petroleum products imported and exported during that year specified according to the different petroleum products; [The word “the” at the beginning of paragraph (a) should not be capitalised.] (b) in the case of petroleum product imports, the source from where those products were obtained (the name of the seller), and in the case of petroleum product exports, the name of the export customer and the country of destination; (c) all ports of entry into and exit out of Namibia used with regard to the import and export of petroleum products; (d) the cost, insurance and freight (CIF) price of petroleum products referred to in paragraph (a) converted to Namibian dollars at the date of import; (e) a list of all storage facilities used, including shared storage facilities, with specific reference, according to different petroleum products, to- (i) the location of the storage facilities; (ii) the capacity of the storage facilities; (iii) the ownership of the storage facilities (including the ownership of the land on which the storage facilities are situated, if different) and, in the case of shared ownership, the basis of sharing; and (iv) the names of other wholesalers sharing the same storage facilities; (f) retail outlets and consumer installations which it supplied, or which it discontinued to supply, with petroleum products, specifying the name of the retail licence-holder or certificate-holder , the number of the retail licence or certificate , the name of the retail outlet , the location of the retail outlet or consumer installation , as the case may be, and the total quantity of petroleum products supplied to a retail outlet or consumer installation during that year specified according to the different petroleum products; (g) any other person than a person mentioned in paragraph (f) to whom any petroleum product was supplied, specifying the name and address of such person and the total quantity petroleum products supplied to such person during that year specified according to the different petroleum products; (h) any change of the information required in terms of regulation II and Form PP/3 as set out in Annexure B, with regard to which change it is not necessary to apply for an amendment of the wholesale licence . Part IV – CONSUMER INSTALLATIONS"
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Chapter 2, Part IV",
+      "section": "16",
+      "title": "No consumer installation without authorisation",
+      "content": "(1) No person shall operate a consumer installation without being authorised thereto under a certificate issued under this Part. (2) A certificate referred to in subregulation (1) may be issued under this Part in respect of- (a) a petrol consumer installation ; or (b) a diesel consumer installation . (3) A certificate referred to in subregulation () may only be issued in respect of a commercial or industrial undertaking, a farm of a bona fide farmer or a mine. (4) A certificate referred to in subregulation (1) shall clearly state whether it authorises a petrol consumer installation or a diesel consumer installation . (5) A person shall submit a separate application for each consumer installation such person intends to operate . (6) Any person who contravenes, or fails to comply with, subregulation (1) shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Chapter 2, Part IV",
+      "section": "17",
+      "title": "Application for certificate",
+      "content": "(1) A person desiring to operate a consumer installation shall apply to the Minister for a certificate in the form of Form PP/5 as set out in Annexure B, duly completed, and shall lodge such application with the Minister, together with such other documents or records as may be required by or under these Regulations . (2) An application for a certificate shall be accompanied by- (a) a certified copy of the applicant ‘s identity document and, in the case of a non-Namibian citizen, permanent residence permit or employment permit and proof of residence in Namibia, or proof of domicile in Namibia, as the case may be; (b) if the applicant is a body corporate, a certified copy of its registration documents; (c) proof that the applicant operates a commercial or industrial undertaking or mine or is a bona fide farmer; (d) if an environmental assessment study has been conducted, a certified copy of the document setting out the outcome of such study; and (e) in the case of an application for a petrol consumer installation , a signed declaration by an accountant or auditor registered under the Public Accountants’ and Auditors’ Act, 1951 (Act No. 51 of 1951 ), that the applicant has for a consecutive period of at least three months consumed more than 10 000 litres of petrol per month and further proof shall also be submitted that the 10 000 litres of petrol was obtained from the same supply point. (3) An application in terms of subregulation (1) shall be accompanied by the appropriate application fee imposed by Annexure A. (4) The Minister may, on the written application by an applicant for a certificate , exempt the applicant from submitting a declaration that the applicant has for a consecutive period of at least three months consumed more than 10 000 litres of petrol per month as required in subregulation 17(2)(e), if there are good reasons therefor. (5) For the purposes of subregulation (2)(e), “supply point” means the point where petrol is dispensed at a retail outlet of a retail licence-holder or at a storage facility of a wholesale licence-holder ."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Chapter 2, Part IV",
+      "section": "18",
+      "title": "Grant, issue and form of certificate",
+      "content": "(1) The Minister shall consider an application for a certificate and may- (a) refuse the application; (b) grant the application and issue a certificate to the applicant subject to the general conditions set out in regulation 21(1) and such further special conditions as the Minister may determine in accordance with regulation 21(2); or (c) if all required information has not been submitted, provisionally grant the certificate subject thereto that the certificate may only be issued in such case once all the required information has been submitted. (2) A separate certificate shall be issued for each consumer installation a person intends to operate . (3) The Minister may refuse an application if in the Minister’s opinion the past conduct of the applicant affords reasonable grounds for belief that the activities to be conducted pursuant to the certificate shall not be conducted in accordance with these Regulations and in a safe manner. (4) If the Minister refuses to grant a certificate , the Minister shall inform the applicant of such refusal in writing, including the reasons for the refusal. (5) A certificate issued under this Part shall be issued, upon payment of the appropriate fee imposed by Annexure A, in the form of form PP/6 as set out in Annexure B."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Chapter 2, Part IV",
+      "section": "19",
+      "title": "Validity and duration of certificate",
+      "content": "(1) A temporary certificate or a permanent certificate may be issued. (2) In the case of a temporary certificate , the period of time for which the certificate is issued shall be clearly stated on the certificate . (3) A temporary certificate remains valid for the period of time for which it has been issued, subject thereto that the Minister may, on the written application by a temporary certificate-holder , extend the initial period of time for such further periods as the Minister may determine. (4) A permanent certificate is valid from the date of issue thereof and remains valid subject to these Regulations ."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Chapter 2, Part IV",
+      "section": "20",
+      "title": "Criteria for decisions relating to certificate",
+      "content": "(1) In making a decision in respect of the grant, issue, or the amendment under regulation 30, or any other matter pertaining to a certificate , the Minister shall take the following matters, in so far as they are applicable, into account: (a) The protection of the environment; [The word “the” at the beginning of paragraph (a) should not be capitalised.] (b) the record of compliance with the Act , these Regulations and other applicable laws by the person with regard to whom the decision shall be made; (c) if applicable, the suitability of the site concerned with regard to safety, health, security, hazardous substances, environment and town planning requirements; (d) any significant negative impact on the petroleum product retail sale industry; (e) any recommendation by a person or body to which the matter has been referred under regulation 26; and (f) any other matter relevant to the orderly provision of petroleum products in Namibia. (2) The Minister may request the person with regard to whom a decision referred to in subregulation (1) has to be made to submit to the Minister information relating to matters mentioned in that subregulation in order to enable the Minister to make an informed decision regarding the grant, issue or amendment or any other matter pertaining to the certificate ."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Chapter 2, Part IV",
+      "section": "21",
+      "title": "Conditions of a certificate",
+      "content": "(1) The following general conditions apply to all certificates: (a) The certificate-holder shall at all times comply with the Act , these Regulations and all other applicable laws, including laws relating to labour, safety, hazardous substances, security, health and environment; [The word “the” at the beginning of paragraph (a) should not be capitalised.] (b) any fuel purchased pursuant to the certificate may only be used by the certificate-holder for own personal use with regard to own or hired petrol or diesel consuming equipment or own or hired vehicles, and may not be resold; (c) no other fuel may be bought pursuant to the certificate other than the type of fuel specified in the certificate ; (d) the certificate-holder shall inform the Minister as soon as practicable of any dangerous situation arising from the conduct of activities authorised under the certificate , including the steps taken or proposed to be taken by the certificate-holder to rectify such situation or to eliminate or minimise the danger arising from such situation; (e) the certificate-holder may not permit any other person to use the certificate to purchase fuel for a person other than the certificate-holder ; (f) the certificate-holder shall keep such records and submit such information to the Minister as are required by or under these Regulations ; (g) the certificate-holder shall comply with all provisions of these Regulations relating to petroleum product spills; (h) the certificate-holder may not abandon a site otherwise than in accordance with these Regulations ; and (i) a pump or dispenser operated under the certificate shall have a model and serial number. (2) The Minister may make special conditions applicable to a certificate relating to- (a) the reporting of dangerous situations or accidents; (b) the preparation and submission to the Minister of assessments of the safety, health, environment and security risks associated with the activities authorised under the certificate ; (c) the safe disposal of petroleum products, including the collection and discarding of used oil; (d) insurance against, or guarantee for, petroleum product spills which insurance or guarantee cover the cost involved in the cleaning-up of such spills up to an amount not exceeding N$ 500 000. [The full stop at the end of paragraph (d) should be a semicolon now that it is no longer the last paragraph in the subregulation.] (e) any other matter which the Minister considers to be in the interest of- (i) the safe, economically efficient and orderly supply of petroleum products in Namibia; (ii) the maintenance, security and continuity of petroleum product supplies in Namibia; (iii) the maintenance of contingency and reserve petroleum product stocks. [paragraph (e) inserted by GN 202/2002 ]"
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Chapter 2, Part IV",
+      "section": "22",
+      "title": "Exemption",
+      "content": "Regulation 21(1)(b) shall not apply in respect of the use or purchase of diesel by one contractor from another contractor who has a diesel consumer installation - certificate if such diesel is used in connection with construction works in which both contractors are involved."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Chapter 2, Part IV",
+      "section": "23",
+      "title": "Cessation of certificate",
+      "content": "(1) If a certificate-holder whose certificate relates to petrol ceases for a consecutive period of more than three months to have a throughput of 10 000 litres of petrol a month, during the validity of the certificate , the Minister may in terms of regulation 31 cancel that certificate . (2) The Minister may on written application by a certificate-holder , exempt such certificate-holder from subregulation (1), if there are good reasons therefor."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Chapter 2, Part IV",
+      "section": "24",
+      "title": "Information to be submitted to Minister by certificate-holder",
+      "content": "(1) A certificate-holder shall supply to the Minister, on written notice by the Minister and within the period specified in the notice- (a) any information the Minister may request regarding a dangerous situation and remedial measures taken in respect thereof; (b) any information the Minister may request regarding the site where a consumer installation is being operated by the certificate-holder ; (c) any information the Minister may request in order to enable the Minister to effectively exercise his or her powers under these Regulations ; (d) confirmation that the consumer installation concerned is still in operation and, in the case of a petrol consumer installation , that for no continuous period of more than three months in the preceding year was the throughput less than 10 000 litres a month. (2) Every certificate-holder shall submit to the Minister, during the currency of the certificate and not later than 28 February of each year, the total throughput of the type of fuel specified in the certificate for the preceding year or portion of a year, as the case may be. Part V – GENERAL"
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Chapter 2, Part V",
+      "section": "25",
+      "title": "Disqualification for licence and certificate",
+      "content": "A licence or certificate may not be issued to a person, nor may any person hold a licence or certificate , if such person- (a) has during the five years preceding the application for the licence or certificate been convicted of an offence under the Act , or is so convicted during the currency of the licence or certificate , as the case may be; or (b) is not a Namibian citizen or is not lawfully resident in Namibia, or, in the case of a body corporate, is not registered in Namibia, as the case may be, or loses his or her Namibian citizenship, or the right to be lawfully resident in Namibia, or, in the case of a body corporate, its registration in Namibia is cancelled, as the case may be; or (c) is or becomes, as the case may be, an unrehabilitated insolvent; or (d) is or becomes subject to an order of a competent court declaring such person to be mentally ill or disordered, as the case may be."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Chapter 2, Part V",
+      "section": "26",
+      "title": "Referral of applications",
+      "content": "(1) Unless otherwise provided in these Regulations , the Minister may refer an application for the issue or amendment of a licence or certificate , if such issue or amendment may have an impact on the environment, to the Ministry of Environment and Tourism for its written recommendation. (2) The Ministry of Environment and Tourism shall provide the recommendation within a period of 21 days after receiving a request thereto from the Minister, and shall supply written reasons for such recommendation. (3) If the Ministry of Environment and Tourism fails to provide a recommendation within a period of 21 days after having been requested thereto, the Minister may proceed with the application without such recommendation. (4) The Minister may refer an application for the issue or amendment of a licence or certificate to any other relevant body or person for the written recommendation by such body or person if the Minister deems it necessary, and subregulations (2) and (3) apply with the necessary changes to a referral under this subregulation. (5) If the Minister, in making a decision under this Chapter- (a) grants an application contrary to the recommendation by a person or body to which the matter has been referred under regulation 26; or (b) refuses an application contrary to the unanimous recommendations of the persons or bodies to which the matter has been referred under regulation 26, the Minister shall give the reasons for the decision in writing at the time of making the decision and, on application by any person, provide the person with a copy of the written reasons."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Chapter 2, Part V",
+      "section": "27",
+      "title": "Abandonment of premises",
+      "content": "(1) Subject to subregulation (6), if a licence-holder or certificate-holder , for whatever reason, including the closing down of the business to which the licence or certificate relates or a change of premises, wishes to abandon the relevant premises , the licence-holder or certificate-holder shall by written notice inform the Minister of the intended date of closure, change or abandonment at least one month prior to such intended date. (2) In the case of a change of relevant premises referred to in subregulation (1), the provisions of regulation 30 shall in addition be complied with. (3) After receipt by the Minister of a notice in terms of subregulation (1), an inspector , or other competent person authorised thereto by the Minister, shall inspect the relevant premises in order to determine whether such premises has been sufficiently restored with regard to the petroleum activities conducted thereon in order not to pose a threat to the environment or the safety and health of the public. (4) Pursuant to subregulation (3), an inspector , or other competent person referred to in that subregulation, shall issue a certificate of compliance in the form of Form PP/7 as set out in Annexure B. (5) For the purposes of this regulation, “restore” means- (a) the return of the relevant premises , but in the case of a consumer installation , only that part or parts of a site where activities relating to petroleum products were conducted, to its original or its natural state; or (b) the rendering of the relevant premises , or part or parts of a site , compatible with its intended after-use after cessation of petroleum-related activities thereon, and includes the removal of buildings, structures, plant and debris, establishment of compatible contours and drainage, replacement of top soil, re-vegetation, slope stabilisation and infilling of excavations. (6) This regulation applies only- (a) with regard to wholesale licence -holders, in the case where the wholesale licence-holder is the last person to abandon the relevant premises ; (b) with regard to certificate -holders, in the case where the consumer installation to which the certificate relates, is permanently fixed to the ground."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Chapter 2, Part V",
+      "section": "28",
+      "title": "Application for duplicate licence or certificate",
+      "content": "(1) When a licence or certificate has been lost, damaged or destroyed the holder thereof may apply to the Minister for a duplicate thereof. (2) An application for a duplicate licence or certificate shall be made to the Minister in the form of Form PP/8 as set out in Annexure B, and shall be accompanied by the appropriate fee imposed by Annexure A for such an application. [subregulation (2) substituted by GN 202/2002 ] (3) The Minister may grant an application made in terms of subregulation (2). (4) A duplicate licence or certificate , as the case may be, issued under this regulation shall be in the form of the original licence or certificate , as the case may be, but shall on the front of it be clearly marked “DUPLICATE”. (5) A duplicate retail licence , wholesale licence or certificate shall be issued upon payment of the appropriate fee imposed by Annexure A for the issue of such a duplicate. [subregulation (5) inserted by GN 202/2002 ]"
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Chapter 2, Part V",
+      "section": "29",
+      "title": "Licence and certificate not transferable",
+      "content": "(1) A wholesale licence or certificate is not transferable. (2) A retail licence is not transferable except by way of amendment of the licence under regulation 30."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Chapter 2, Part V",
+      "section": "30",
+      "title": "Amendment of licence or certificate",
+      "content": "(1) If any information on a licence or certificate is to be changed, the licence-holder or certificate-holder shall prior to such change apply to the Minister for an amendment of the licence or certificate , as the case may be. (2) If any such change of information relates- (a) to a change of the relevant premises , the provisions of regulation 27 shall be complied with; or (b) in the case of a retail licence , to a change in the name of the operator , the records required in terms of regulation 4(2) shall be supplied with regard to the proposed new operator , and the proposed new operator shall complete Form PP/1 as set out in Annexure B, in as far as it is applicable, together with the application for an amendment. (3) Notwithstanding regulation 31(4) and (5), if a retail licence-holder operates a retail outlet in terms of an agreement with a wholesaler that is the owner of such retail outlet , that wholesaler may in the following circumstances apply to the Minister for a change in the name of the operator , whether to that of the wholesaler or to any other operator : (a) If it is alleged by the wholesale licence-holder that the agreement between the wholesale licence-holder and the retail licence-holder - [The word “if” at the beginning of paragraph (a) should not be capitalised.] (i) has been terminated by reason of breach of contract on the part of the retail licence-holder ; or (ii) has lapsed through the effluxion of time, without renewal of the agreement; (b) if the retail licence-holder surrenders the retail licence in accordance with regulation 31(1) without the prior approval of that wholesale licence-holder ; (c) if the retail licence-holder ’s licence is suspended or cancelled under regulation 31(2); or (d) if the retail licence ceases to have effect because the retail licence-holder became subject to a disqualification set out in regulation 25. (4) The Minister shall not, upon an application in the circumstances contemplated in subregulation (3)(a), amend a licence unless the Minister- (a) has given the relevant retail licence-holder notice in writing of the wholesaler ’s application; (b) has invited the retail licence-holder to make representations to the Minister, within a specified period, not being less than 14 days after receipt of the notice, concerning the wholesaler ’s application; and (c) has after the end of that period considered any representations made by the retail licence-holder . (5) Upon the occurrence of an event referred to in subregulation (3) the wholesaler concerned shall, until the Minister decides on the application under subregulation (4), be deemed to be the holder of the retail licence , except if, in the circumstances contemplated in subregulation (3)(a) the fact whether the agreement has lawfully been terminated or has lapsed is a dispute between the parties. (6) The Minister may at the Minister’s own initiative- (a) substitute, add, remove or amend a special condition of a licence or certificate ; (b) amend a licence or certificate if it has come to the knowledge of the Minister that any particulars of a licence or certificate has changed and the licence-holder or certificate-holder has failed to inform the Minister thereof or if any other sufficient cause exists. (7) If the Minister proposes to exercise any power under subregulation 6(a) or (b), the Minister must first give notice in writing to the holder of the licence or certificate concerned- (a) stating the reasons for the proposed action; and (b) inviting the holder to make representations to the Minister in connection with the proposed action within a specified period, not being less than 14 days after receipt of the notice. (8) (a) An application for the amendment of a licence or certificate in terms of subregulation (1) or (3) shall be made to the Minister in the form of Form PP/9 as set out in Annexure B and shall be accompanied by the application fee imposed by Annexure A. (b) The appropriate fee imposed by Annexure A for the issue of a licence or certificate shall be paid by the relevant licence-holder or certificate-holder for the issue of an amended licence or certificate issued upon an amendment under subregulation (1) or (3) or (6)(b) but no fee is payable for the issue of a licence or certificate under subregulation (6)(a). (9) If the Minister amends a licence or certificate on the Minister’s own initiative under subregulation (6), the Minister shall within a period of 14 days after such amendment in writing inform the holder thereof of the amendment, and any such amendment shall become of effect upon expiry of a period of 21 days after the date on which the holder is so informed. (10) An amendment of a licence or certificate in terms of this regulation may be effected- (a) by endorsement of the licence or certificate ; or (b) by notice in writing to the licence-holder or certificate-holder . [regulation 30 substituted by GN 202/2002 ]"
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Chapter 2, Part V",
+      "section": "31",
+      "title": "Surrender, suspension, cancellation or ceasing of effect of licence or certificate",
+      "content": "(1) Subject to regulation 27, a licence-holder or certificate-holder may at any time by notice in writing to the Minister surrender the licence or certificate . (2) If a licence-holder or certificate-holder fails to comply with any provision of these Regulations or any condition of the licence or certificate , or contravenes any such provision or condition, as the case may be, the Minister may, notwithstanding any other penalty which may be imposed under the Act or any other law and subject to subregulation (3)- (a) cancel the licence or certificate ; or (b) suspend the licence or certificate for such period of time as the Minister may deem appropriate. (3) The Minister may not cancel or suspend a licence or certificate unless - (a) the Minister has by written notice informed the licence-holder or certificate holder of the Minister’s intention to cancel or suspend such licence or certificate - (i) setting out the particulars of the alleged failure or contravention; and (ii) calling upon the licence-holder or certificate-holder to make such representations to the Minister as such holder may deem necessary or expedient within a period of 30 days after the date of such notice; (b) the Minister has taken into account- (i) any steps taken by such licence-holder or certificate-holder to remedy the failure or contravention concerned or to prevent any such failure or contravention from being repeated; (ii) any other matters submitted to the Minister by way of the representations made under paragraph (a). (4) The effect of a suspension of a licence or certificate is that no act may be legally performed thereunder until such suspension has been lifted. (5) A licence or certificate ceases to have effect if- (a) the licence-holder or certificate-holder becomes subject to a disqualification set out in regulation 25; (b) the licence or certificate is surrendered in terms of subregulation (1) of this regulation; or (c) the licence is cancelled. (6) If a licence or certificate ceases to have effect, the licence-holder or certificate-holder shall surrender the licence or certificate to the Minister within a period of 14 days from the date on which it so ceased to have effect."
+    },
+    {
+      "provision_ref": "s31A",
+      "chapter": "Chapter 2, Part V",
+      "section": "31A",
+      "title": "Return of original licence or certificate to Minister",
+      "content": "If, under these Regulations , a licence or certificate has been amended (except in the case of an amendment effected in accordance with regulation 30(10)), surrendered, suspended or cancelled, or ceases to have effect or a duplicate licence or certificate has been issued, the relevant licence-holder or certificate-holder must return the original licence or certificate , as the case may be, to the Minister. [regulation 31A inserted by GN 202/2002 ]"
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Chapter 2, Part V",
+      "section": "32",
+      "title": "Display of licence or certificate",
+      "content": "A licence-holder or a certificate-holder shall display the original licence or certificate in or on a conspicuous place- (a) in the case of a retail licence-holder , in any part of the licensed premises ; (b) in the case of a wholesale licence-holder , at the official place of business of such licence-holder in Namibia; (c) in the case of a certificate-holder , in any part of the site or the consumer installation , or at the official place of business of such certificate-holder in Namibia."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Chapter 2, Part V",
+      "section": "33",
+      "title": "Minister to make decision within reasonable time",
+      "content": "(1) If the Minister makes a decision under these Regulations regarding the issue, grant, amendment or any other matter pertaining to a licence or certificate , the Minister shall make such decision within a reasonable period of time. (2) If a decision regarding the grant or issue of a licence or certificate is not made within a period of 60 days after the lodging of an application, the Minister shall furnish, at the written request of the person in respect of whom the decision has to be made, such person with written reasons for the delay. Chapter 3 PROHIBITIONS, DUTIES, SPECIFICATIONS, STANDARDS, SAFETY AND ENVIRONMENT Part I – PROHIBITIONS"
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Chapter 3, Part I",
+      "section": "34",
+      "title": "Falsely claiming to hold a licence or certificate",
+      "content": "Any person who falsely claims or purports to be a licence-holder or a certificate-holder , as the case may be, shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Chapter 3, Part I",
+      "section": "35",
+      "title": "Sale of fuels",
+      "content": "(1) No retail licence-holder may dispense any fuel directly into the tank of a fuel driven vehicle or vessel otherwise than against payment in cash, and no person shall receive fuel from a retail licence-holder so dispensing it to such person directly into the tank of such vehicle or vessel otherwise than against payment in cash. (2) A person shall only with the written permission of the Minister use gas to propel a vehicle or a vessel, other than a fork lift, along any public road. (3) For the purpose of this regulation- (a) “payment in cash” means- (i) payment in notes or coins which are legal tender in Namibia; (ii) payment by cheque which is not post-dated and which is drawn on a current account with a banking institution registered as such in terms of the Banking Institutions Act, 1998 (Act No. 2 of 1998 ); (iii) payment by traveller’s cheque; (iv) payment by postal order or money order; (v) payment by any instrument- (aa) which is payable on demand; (bb) which may be deposited with any banking institution referred to in subparagraph (ii); and (cc) which may be cleared through the ordinary settlement process of the banking system; or (vi) an advance payment made to the retail licence-holder concerned: Provided that the amount of fuel purchased may not exceed the amount of such advance payment: Provided further that if the amount payable in respect of fuel purchased pursuant to an advance payment exceeds such advance payment, the difference between the two amounts shall be paid within a period of 30 days after the end of the month during which such purchases so exceeds the amount deposited; and (b) “gas” means liquid or non-liquid gas which can be used as fuel for the operation of a spark ignition engine. (4) Any person who contravenes, or fails to comply with, any provision of this regulation shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Chapter 3, Part I",
+      "section": "36",
+      "title": "Prohibition of benefits",
+      "content": "(1) No retail licence-holder may- (a) supply or offer to supply petrol at a retail outlet other than by way of sale at the price determined under the Act ; or (b) as a condition of or as a result of any sale of petrol at a retail outlet give or offer any benefit to any consumer. (2) For the purpose of this regulation, “benefit” means- (a) any money, article, service or concession having a commercial value; or (b) anything whatsoever, which, either by itself or in conjunction with any other thing or with the performance of any act, entitles or purports to entitle the recipient thereof to receive such money, article, service or concession, or to participate in any competition."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Chapter 3, Part I",
+      "section": "37",
+      "title": "Prohibition of self-service",
+      "content": "(1) No retail licence-holder shall sell fuel at any retail outlet and no person shall purchase fuel at any retail outlet in terms of any business practice, method of trading, agreement, arrangement or understanding according to which the sale of fuel at a retail outlet is effected in accordance with a system of self service. (2) No wholesaler shall supply fuel to any retail outlet if fuel is sold at such retail outlet in a manner prohibited in subregulation (1). (3) Any person who contravenes, or fails to comply with, any provision of this regulation shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Chapter 3, Part I",
+      "section": "38",
+      "title": "Prohibition of mixing or blending of petroleum products",
+      "content": "If the Minister has under regulation 44 applied an approved specification with regard to the composition of a petroleum product, no licence-holder may sell such petroleum product or a mixture or blend of such petroleum product if such petroleum product or mixture or blend does not comply with the approved specification ."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Chapter 3, Part I",
+      "section": "39",
+      "title": "Containers used to store or convey petroleum products",
+      "content": "(1) No person shall use any container for purposes of the storage or conveyance of a petroleum product unless such container is completely leakproof and spillproof, and otherwise suitable and safe for such storage and conveyance. (2) No person shall use a container in which a petroleum product was stored, as a water trough or for any other purpose which poses or may pose a risk of significant- (a) environmental harm; or (b) harm with regard to the safety or health of any person or animal. (3) Any person who contravenes, or fails to comply with, any provision of this regulation shall be guilty of an offence. Part II – GENERAL DUTIES"
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Chapter 3, Part II",
+      "section": "40",
+      "title": "General duty with regard to safe handling and disposing of petroleum products",
+      "content": "(1) Every person shall take, in the storing, keeping, handling, conveying, using or disposing of any petroleum product, such precautions and exercise such care as are reasonable in the circumstances in order- (a) to avoid endangering the safety or health of any person, or the safety of any person’s property; and (b) to prevent risk of significant environmental harm. (2) Any person disposing of a petroleum product shall do so in a manner and at a place intended for the safekeeping or dumping thereof in accordance with good petroleum industry practices and other applicable laws relating to the safekeeping and dumping of petroleum products."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Chapter 3, Part II",
+      "section": "41",
+      "title": "Duty in relation to buildings, roadworks, structures and plant",
+      "content": "(1) All buildings, roadworks, structures and plant erected or used in connection with petroleum products by a licence-holder or certificate-holder shall comply with these Regulations and all other applicable laws. (2) Buildings, roadworks, structures and plant used in connection with petroleum products by a licence-holder or certificate-holder shall be erected, executed and maintained in such a manner as- (a) to avoid endangering the safety or health of any person, or the safety of any person’s property; and (b) to prevent the risk of significant environmental harm."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Chapter 3, Part II",
+      "section": "42",
+      "title": "Further duties in relation to plant",
+      "content": "(1) This regulation applies to plant that is used, or that is reasonably expected to be used, by licence -holders and certificate -holders in connection with petroleum products. (2) For the purposes of this regulation, plant is in an environmentally sound condition if it is in a condition that does not give rise to a risk of significant environmental harm. (3) A licence-holder , certificate-holder or other person who is in charge of plant to which this regulation applies shall- (a) take such precautions, including preventative measures, and exercise such care as are reasonable in the circumstances in order to ensure that the plant is in a safe and environmentally sound condition when it is used in connection with petroleum products; and (b) ensure that the plant is in a safe and environmentally sound condition when it is not in use. (4) A licence-holder , certificate-holder or other person who uses plant to which this regulation applies shall- (a) ensure that the plant is in a safe and environmentally sound condition; and (b) take such precautions and exercise such care as are reasonable in the circumstances in order- (i) to avoid endangering the safety or health of any other person, or the safety of any person’s property; and (ii) to prevent the risk of significant environmental harm, whether during the use of the plant , or as a result of the use of the plant ; and (c) ensure that the plant is left in a safe and environmentally sound condition after use. (5) A licence-holder , certificate-holder or other person who performs, or who supervises the performance of, work on, or in relation to, plant to which this regulation applies shall take such precautions and exercise such care as are reasonable in the circumstances in order- (a) to avoid endangering the safety or health of any other person, or the safety of any person’s property; and (b) to prevent the risk of significant environmental harm, whether during the performance of the work, or as a result of the performance of the work."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Chapter 3, Part II",
+      "section": "43",
+      "title": "Duty with regard to correct measurements",
+      "content": "(1) A licence-holder or other person using a measuring instrument for trade in petroleum products shall at all times ensure that such measuring instrument is correct and complies with the requirements of the Trade Metrology Act, 1973 (Act No. 77 of 1973 ). (2) Any person who contravenes or fails to comply with any provision of subregulation (1) shall be guilty of an offence. Part III – SPECIFICATIONS AND STANDARDS"
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Chapter 3, Part III",
+      "section": "44",
+      "title": "Approval of specifications and standards",
+      "content": "(1) The Minister may, by notice served on a licence-holder or certificate-holder or by notice in the Gazette , apply, for the purposes of these Regulations , any specification or standard of the South African Bureau of Standards or any other equivalent specification or standard in the English language of any other board, council or other body established by statute, whether in Namibia or elsewhere, which specification or standard has been officially published for general information in any such country, and which specification or standard pertains to the handling, storage, distribution and composition of petroleum products and the installation, alteration or erection of any buildings, roadworks, structures or plant used in connection with petroleum products, and which is not inconsistent with these Regulations or the Act . (2) An approved specification may be made applicable- (a) to any licence-holder or certificate-holder ; (b) to any category of licence -holders or certificate -holders; (c) to any building, roadwork, structure or plant used in connection with petroleum products; (d) to a specific area or areas, from a date specified in a notice contemplated in subregulation (1), subject thereto that the Minister may determine different dates with regard to different licence -holders or certificate -holders, categories of licence -holders or certificate -holders, buildings, road­ works, structures, plant or areas. (3) The Minister shall- (a) give notice in the Gazette of an approved specification , including the name of the board, council or body which established the approved specification , and the place and time where and when a copy of such approved specification may be inspected; and (b) keep a copy of an approved specification available for inspection, without charge and during normal office hours, at an office determined by the Minister in the notice in terms of paragraph (a). (4) If a standard or specification has been made applicable under subregulation (1) with regard to the composition of a particular petroleum product, no person may sell or distribute, or in any other manner make available to any other person or, for the purpose of propelling or operating a vehicle or other mechanical device on or in a public road or public place, use- (a) any petroleum product of the kind to which such standard or specification relates, unless that product conforms to the requirements of that standard or specification; or (b) any other product or substance, or a mixture of any products or substances, which can be used for the purpose for which that particular petroleum product is used, unless that product or substance or mixture conforms to the requirements of that standard or specification. [subregulation (4) inserted by GN 202/2002 ]"
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Chapter 3, Part III",
+      "section": "45",
+      "title": "Deviation from approved specification",
+      "content": "(1) The Minister may, upon application in writing, in writing permit any person to deviate from the requirements of an approved specification in the specific respects mentioned in the application, if the Minister is satisfied that such deviation shall not detrimentally affect public safety or the environment. (2) The Minister may impose such conditions to a permission granted under subregulation (1) as the Minister deems necessary to ensure public safety or the protection of the environment. (3) Any person to whom a condition imposed under subregulation (2) applies, and who fails to comply with or contravenes any such condition, shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Chapter 3, Part III",
+      "section": "46",
+      "title": "Storage tanks",
+      "content": "(1) This regulation applies, in the case of an above-ground storage tank , to a storage tank with a capacity of 2 200 litres or more and in the case of an below­ ground storage tank , to a storage tank with a capacity of 4 500 litres or more. (2) Every licence-holder or certificate-holder shall with regard to any replacement or installation of a storage tank , or a remaining storage tank , to which this regulation applies and which is in the possession of such licence-holder or certificate ­ holder, annually not later than 28 February, duly complete Form PP/10 as set out in Annexure B, and shall submit such form together with the information requested therein to the Minister. Part IV – FIRE PRECAUTIONS"
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Chapter 3, Part IV",
+      "section": "47",
+      "title": "General duty with regard to fires and explosions",
+      "content": "(1) A licence-holder or certificate-holder shall- (a) ensure that all buildings, roadworks, structures and plant used in connection with petroleum products are designed, constructed, equipped and maintained so as to prevent fires and explosions, and if any such event occurs, so as to minimise the harmful effects of such fires and explosions; (b) take all such steps as may be necessary to ensure that personnel or employees involved in the handling of petroleum products exercise caution regarding anything which may cause fires or explosions and that they comply with the provisions of these Regulations and other applicable laws regarding fires and explosions; and (c) cause any place in or at a building, structure or plant where petroleum products are handled or stored, to be suitably signposted. (2) No person shall at any place where petroleum products are handled or stored, throw, leave or create any open or naked light, spark or flame or any burning or smouldering material if it may cause danger of fire or explosion. (3) No person shall- (a) keep a vehicle running while fuel is being dispensed into the tank of that vehicle; (b) smoke in the forecourt of a retail outlet where fuel is dispensed; or (c) receive or make calls from, or keep active, a cellular telephone or any other electronic communication apparatus - (i) within two metres from any dispensing pump or any other petroleum product supply point; or (ii) within 15 metres from a vehicle while a petroleum product is being discharged from such vehicle into an underground storage tank . (4) Any person who contravenes, or fails to comply with, any provision of this regulation shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Chapter 3, Part IV",
+      "section": "48",
+      "title": "Fire precaution and emergency measures",
+      "content": "(1) A licence-holder or certificate-holder shall, with regard to the storing, keeping, handling, conveying, using or disposing of petroleum products at all times take adequate precautions to prevent the outbreak of a fire. (2) Every licence-holder or certificate-holder shall provide and at all times keep available suitable and adequate fire-extinguishing appliances which shall be maintained in good working order, and tested at least once a year, and positioned in accessible places on the relevant premises where petroleum products are kept, stored, handled, conveyed or used. (3) A licence-holder shall ensure that a written fire emergency plan to deal with the outbreak of a fire on the relevant premises is in place and which plan shall- (a) include a suitable and adequate fire-fighting plan showing all locations and types of fire-fighting equipment and setting out a plan of action and the tasks of employees in the event of a fire outbreak; (b) include provisions for the training of employees to deal with a fire emergency situation; (c) be provided in the form of accurate copies to employees employed in or on the relevant premises personally; and (d) be submitted to the Minister on request. Part V – PETROLEUM PRODUCT SPILLS"
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Chapter 3, Part V",
+      "section": "49",
+      "title": "Petroleum product spills",
+      "content": "(1) A licence-holder or certificate-holder or any other person in control of activities conducted with regard to any petroleum product, and as soon as practicable after a petroleum product spill has occurred during the course of activities conducted under a licence or certificate or with regard to any petroleum product, shall- (a) inform, in the case of a major petroleum product spill , the Minister thereof by duly completing Form PP/11 as set out in Annexure B, and submitting it to the Minister; and (b) take all such steps as may be necessary in accordance with good petroleum industry practices or otherwise as may be necessary to clean up such petroleum product spill . (2) If a licence-holder or certificate-holder or other person referred to in subregulation (1) fails to comply with subregulation (1)(b) within such period of time as the Minister in the circumstances may deem reasonable, the Minister may order, by notice in writing addressed and delivered to such holder or person, to take within such period of time as may be specified in such notice, such steps as may be so specified in order to clean up the petroleum product spill . (3) If the holder or person referred to in subregulation (2) fails to comply, to the satisfaction of the Minister and within the period of time specified in the notice in terms of that subregulation, or within such further period of time as the Minister may allow in writing, on good cause shown, with the directions referred to in that subregulation, the Minister may cause such steps to be taken as may be necessary to clean up the petroleum product spill and to recover in a competent court in accordance with regulation 50 the costs incurred in respect of such cleaning up. (4) For the purposes of this regulation “major petroleum product spill ” means a petroleum product spill of more than 200 litres per spill. Chapter 4 MISCELLANEOUS Part I – COST RECOVERY"
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Chapter 4, Part I",
+      "section": "50",
+      "title": "Cost recovery in respect of incidents",
+      "content": "(1) This regulation applies to any incident- (a) constituting of or arising from, whether wholly or in part, a petroleum product spill or involving the risk of a petroleum product spill ; or (b) arising from the cleaning-up or restoring of a relevant premises . (2) If a Government institution , local authority or regional council (hereafter called “the relevant authority”) incurs costs or expenses as a result of the occurrence of an incident to which this regulation applies, any such costs or expenses reasonably incurred by the relevant authority are recoverable as a debt in a court of competent jurisdiction. (3) The costs or expenses may be recovered- (a) in the case of costs or expenses incurred by a local authority or regional council , by the local authority or regional council ; or (b) in the case of costs or expenses incurred by a Government institution , by the Government institution . (4) The costs or expenses may be recovered from- (a) in the case of an incident referred to in subregulation (1)(a)- (i) the person who was the owner of the petroleum product at the time of the incident; (ii) the person who was in control or possession of the petroleum product at the time of the incident; or (iii) the person who caused the incident; or (b) in the case of an incident referred to in subregulation (1)(b)- (i) the relevant licence-holder or certificate-holder ; (ii) the owner of the relevant premises or buildings, structures or plant on the relevant premises where such spill originated; or (iii) the person who caused the incident. (5) For the purposes of subregulation (4)(a)- (a) any petroleum product in the control or possession of an employee or agent while acting in the course of employment shall be deemed to be in the control or possession of the employer or principal; or (b) an act or omission of an employee or agent while acting in the course of employment shall be taken to be the act or omission of the employer or principal, if it is proven that- (i) the employer or principal connived at or permitted the act or omission by the employee or agent; or (ii) (aa) the employer or principal failed to take all reasonable steps to prevent the act or omission by the employee or agent; and (bb) the act or omission by the employee or agent fell within the scope of the authority of employment of the employee or agent. (6) Notwithstanding any provision of this regulation, costs and expenses are not recoverable against a person who proves- (a) that the incident was due to some cause beyond the person’s control or to the act or default of another person; or (b) that such person could not by the exercise of reasonable diligence have prevented the occurrence of the incident; and (c) that the incident is not attributable to an act or omission of a person who was an employee or agent of that person at the time when the incident occurred. (7) This regulation does not exclude, or derogate from, any right of a relevant authority to recover, under any other law or the common law, any amount in respect of costs or expenses which it is unable or not entitled to recover under these Regulations . (8) In any proceedings under this regulation, a document purporting to be signed by the principal officer of the relevant authority certifying as to the amount of the costs and expenses incurred as a result of the occurrence of an incident to which this regulation applies, constitutes prima facie proof of the matters so certified . (9) For the purposes of this regulation “principal officer”, in relation to a Government institution , means- (a) in the case of an administrative unit of the Public Service, the Permanent Secretary or chief executive officer of that unit; (b) in the case of any other Government institution , the chief executive officer or head of that institution or a person designated by law as principal officer or head of that institution; or (c) in the case of a local authority or regional council , the administrative head of that local authority or regional council . (10) This regulation and regulation 49 do not apply to the holder of a production licence , as defined in section 1 of the Petroleum (Exploration and Production) Act, 1991 (Act No. 2 of 1991 ), and to whom section 71 of that Act applies. Part II – INSPECTORS"
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Chapter 4, Part II",
+      "section": "51",
+      "title": "Exercise of powers by inspectors",
+      "content": "(1) When exercising any power under this Part or, if an inspector has been declared a peace officer under section 334(1) of the Criminal Procedure Act, 1977 (Act No. 51 of 1977 ), under any provision of Chapter 2 of that Act, an inspector shall- (a) produce the certificate of appointment referred to in section 3(5) of the Act ; and (b) prior to exercising such power, provide a person with regard to whom such power is exercised with a notice in the form of Form PP/12 as set out in Annexure B, or if it is not reasonably possible to provide such notice prior to the exercise of a power, as soon as practicable thereafter. (2) An inspector may require an occupier of any premises or other place, or a person apparently in charge of any building, structure, plant , vehicle or other thing to give to the inspector such assistance as is reasonably required by the inspector for the effective exercise of powers conferred by these Regulations ."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Chapter 4, Part II",
+      "section": "52",
+      "title": "Prohibition notices by inspectors",
+      "content": "(1) If an inspector is of the opinion that a dangerous situation exists in or on any premises or other place, the inspector may issue to the person apparently in control of the relevant premises or other place, or of the activity giving rise to the danger or risk, a prohibition notice in the form of Form PP/12 as set out in Annexure B, prohibiting the conducting of the activity until an inspector is satisfied that adequate measures have been taken to avert, eliminate or minimise the danger or risk. (2) A prohibition notice shall- (a) identify the relevant place or activity giving rise to the danger or risk; and (b) state the grounds for the inspector ’s opinion. (3) An inspector may in a prohibition notice include reasonably practical directions as to the measures to be taken to avert, eliminate or minimise the danger or risk to which the notice relates. (4) An inspector may withdraw and issue a new notice, or revoke a prohibition notice issued under this regulation."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Chapter 4, Part II",
+      "section": "53",
+      "title": "Failure to comply with prohibition notice",
+      "content": "(1) If a person is required by a prohibition notice to take any specified measures and the person contravenes, or fails to comply with, a provision of the notice, the inspector who issued the notice may- (a) after giving reasonable notice to the person required to take the measures, enter and take control of any place, taking such measures as are reasonably necessary for the purpose; and (b) do, or cause to be done, such things as full and proper compliance with the notice may require. (2) The State may recover as a debt in a court of competent jurisdiction and from the person who contravened or failed to comply with the notice, the costs and expenses reasonably incurred by an inspector exercising his or her powers under subregulation (1)."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Chapter 4, Part II",
+      "section": "54",
+      "title": "Action in emergency situations",
+      "content": "(1) If an inspector , on reasonable grounds, is of the opinion that a dangerous situation exists and that there is insufficient time to issue a notice in the form of Form PP/ 12, under this Part, the inspector may, after giving such notice orally or in writing, as may be, reasonable in the circumstances, take such action or cause such action to be taken as may be necessary to avert, eliminate or minimise the danger or risk. (2) In the exercise of powers under this regulation, an inspector - (a) may at any time enter and take control of any place, taking such measures as are reasonably necessary for the purpose; and (b) may be accompanied by such assistants as may be necessary or desirable in the circumstances. (3) The State may recover as a debt in a court of competent jurisdiction and from the person who caused the danger or risk referred to in subregulation (1), the costs and expenses reasonably incurred by an inspector exercising his or her powers under this regulation."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Chapter 4, Part II",
+      "section": "55",
+      "title": "Certain acts with regard to inspectors prohibited",
+      "content": "(1) No person shall- (a) hinder or obstruct an inspector in the exercise of any of the powers conferred by these Regulations ; (b) use abusive, threatening or insulting language to an inspector ; (c) refuse or fail to comply with a requirement, direction or notice or” an inspector ; (d) when required by an inspector to answer a question, refuse or fail to answer the question to the best of the person’s knowledge, information and belief; or (e) falsely represent, by words or conduct, that he or she is an inspector , or impersonate an inspector . (2) Any person who contravenes, or fails to comply with, any provision of this regulation shall be guilty of an offence. Part III – INFORMATION AND RECORDS"
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Chapter 4, Part III",
+      "section": "56",
+      "title": "Supply of false or misleading information",
+      "content": "(1) No person shall furnish false or misleading information, or make any false or misleading statement knowing such information or statement to be false or misleading, in connection with any application, statement, record or other document submitted to any authority in terms of these Regulations . (2) Any person who contravenes, or fails to comply with, any provision of this regulation shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Chapter 4, Part III",
+      "section": "57",
+      "title": "Register and information to be kept by Minister",
+      "content": "(1) The Minister shall cause a register to be kept of all licences and certificates issued under Chapter 2 of these Regulations . (2) The following information shall be recorded and kept up to date in the register to be kept in terms of subregulation (1): (a) The name and address of every licence-holder and certificate-holder ; [The word “the” at the beginning of paragraph (a) should not be capitalised.] (b) the licence or certificate number and date of issue and, in the case of a temporary certificate , the period of validity; (c) the type of licence or certificate ; (d) the relevant premises ; (e) particulars regarding storage tanks as submitted under regulation 46; (f) in the case of a wholesale licence , particulars regarding storage facilities; and (g) any special conditions attached to the licence or certificate . (3) The register referred to in subregulation (1) shall be kept available for public inspection during office hours at a place determined by the Minister in writing."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Chapter 4, Part III",
+      "section": "58",
+      "title": "Particulars of dealings with petroleum products",
+      "content": "The Minister may by notice in writing require- (a) a person who is conducting, or has conducted, or is or was concerned in, or has had or has any interest in, a business involving or related to petroleum products; (b) a person who, as agent or employee of a person referred to in paragraph (a), has or has had duties, or provides or has provided services in connection with a business so referred to, to furnish in writing, within the period of time specified in the notice or such further period of time as the Minister may allow, such information in respect of those petroleum products specified in the notice, not being information relating to any period of time after the date of the requirement."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Chapter 4, Part III",
+      "section": "59",
+      "title": "Service of notices",
+      "content": "(1) Any notice, document or other communication required or authorised by or under these Regulations to be given or delivered to any person by the Minister or an inspector or any person authorised thereto, shall be given or delivered- (a) to such person personally; or (b) by despatching it by pre-paid registered post, or any other kind of pre-paid post, addressed to such person at the last known address which may be any such place or office as referred to in paragraph (c), or the last known post office box number or private bag number of such person or of such person’s employer; or (c) to an adult person apparently residing at or occupying or employed at such person’s last known abode or office or place of business; or (d) in the case of a body corporate- (i) to the public officer of the body corporate; or (ii) to an adult person apparently residing at or occupying or employed at the body corporate’s registered address; or (iii) by despatching it by pre-paid registered post, or by any other kind of pre-paid post, addressed to the body corporate or its public officer, at the last known address, which may be any such office or place as is referred to in subparagraph (ii) or last known post office box number or private bag number of the body corporate or of such public officer’s employer; or (iv) by transmitting it by means of a facsimile transmission to the person concerned at the registered office of the body corporate. (2) Any notice, document or other communication referred to in subregulation (1) which has been given or delivered in the manner contemplated in subregulation (1)(b) or (1)(d)(iii) is deemed, unless the contrary is proved, to have been received by the person to whom it was addressed at the time when it would, in the ordinary course of post, have arrived at the place to which it was addressed."
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Chapter 4, Part III",
+      "section": "60",
+      "title": "Contravention of or failure to comply with notice",
+      "content": "Any person to whom a notice referred to in regulation 59 has been given or delivered and who contravenes or fails to comply with any provision of such notice shall be guilty of an offence. Part IV – GENERAL"
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Chapter 4, Part IV",
+      "section": "61",
+      "title": "Confidentiality",
+      "content": "A person may not divulge any information relating to information obtained, whether by that person or some other person, in the course of the administration or implementation of these Regulations except- (a) if authorised by or under the Act ; or (b) with the consent of the person from whom the information was obtained or to whom the information relates; or (c) for the purpose of any legal proceedings arising out of the administration or enforcement of the Act or a corresponding Namibian law."
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Chapter 4, Part IV",
+      "section": "62",
+      "title": "Immunity from personal liability",
+      "content": "No personal liability attaches to the Minister, an inspector or any other person engaged in the administration of these Regulations for an act or omission in the exercise or discharge, or purported exercise of discharge, of a power, function or duty by or under these Regulations which act or omission has been exercised or discharged in good faith and without gross negligence."
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Chapter 4, Part IV",
+      "section": "63",
+      "title": "Evidence",
+      "content": "In any proceedings in connection with an offence under these Regulations , a document purporting to be a certificate of the Minister certifying- (a) that a person was or was not the holder of a licence or certificate of a specified kind at a specified date; (b) that a condition was a condition of a licence or certificate ; (c) that a specified substance is or was a petroleum product of a specified kind; (d) that the contents of an approved specification is a true copy of such approved specification ; (e) that an extract from the register referred to in regulation 57 is a true copy of such extract, constitutes prima facie proof of the matters so certified ."
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "Chapter 4, Part IV",
+      "section": "64",
+      "title": "Transitional provisions",
+      "content": "(1) Any person who, at the commencement of these Regulations and in terms of the RATPLAN - (a) sells fuel by retail sale ; (b) conducts business as an operator of a retail outlet ; (c) imports, exports or distributes fuel by wholesale; or (d) operates a consumer installation , may continue, notwithstanding regulation 3(1), but subject to this regulation, with the activity concerned. (2) A person referred to in subregulation (I) shall apply for a retail licence , wholesale licence or consumer installation certificate , as the case may be, within a period of six months from the date of the commencement of these Regulations - (a) in the case of a person referred to in subregulation (1)(a) and (b), by submitting an application in the form in terms of regulation 4(1); (b) in the case of a person referred to in subregulation (1)(c), by submitting an application Form in terms of regulation 11(1); (c) in the case of a person referred to in subregulation (1)(d), by submitting an application form in terms of regulation 17(1), and for the purposes of this subregulation the documents required in terms of regulations 4(2), 11 (2) and 17(2) must, with the necessary changes, be attached to an application referred to in paragraphs (a), (b) and (c) respectively. (3) The Minister may- (a) by notice in the Gazette extend the period of six months referred to in subregulation (1) for consecutive periods of six months each; (b) by notice in the Gazette determine separate dates or period s for applications during such six month period on which or within which persons or a category of persons specified in such notice or persons located in areas specified in such notice shall apply for a licence or certificate in accordance with this regulation; (c) notwithstanding subregulation (1), if the Minister is of the opinion that the objectives of the RATPLAN as set out in items 1, 2 and 3 under the heading “Objectives” in the RATPLAN would not be detrimentally affected, on written application, in writing authorise a person to apply for a licence or certificate in terms of this regulation and in such case the provisions of this regulation would with the necessary changes apply to such a person. (4) Notwithstanding any other provision to the contrary in these Regulations , but excluding paragraph (a) of regulation 25, an application under this regulation- (a) shall not be referred to the Ministry of Environment and Tourism or any other body or person for a recommendation; and (b) shall, if the application complies with subregulation (2), be granted. (5) A licence or certificate issued under this regulation is subject to the general conditions set out in regulation 7(1), 14(1), or 21(1), whichever may be applicable, and such further special conditions as the Minister may determine under regulation 7(2), 14(2) or 21(2), whichever may be applicable. (6) For the purpose of these Regulations , any person referred to in subregulation (1) shall be deemed, until such time as a licence or certificate has been issued to such person under these Regulations , to be the holder of the licence or certificate concerned, and these Regulations shall apply to such person from the date of commencement of these Regulations . (7) If a person referred to in subregulation (1) has failed to apply, within a period of six months or an extended period contemplated in subregulation (3)(a) from the date of commencement of these Regulations , for a licence or certificate in terms of subregulation (2), such person shall, after the expiration of that six month period no longer be deemed to be the holder of the licence or certificate concerned. Chapter 5 MARKING OF PETROLEUM PRODUCTS [Chapter 5, comprising Regulations 65-73, inserted by GN 122/2016 . The use of boldface type in the heading is replicated as in the Government Gazette .]"
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "Chapter 5",
+      "section": "65",
+      "title": "Appointment of marking company for petroleum products",
+      "content": "(1) For the purposes of this Chapter petroleum products includes petrol and diesel excluding Jet A1 fuel and kerosene or paraffin. (2) The Minister must for purposes of marking petroleum products, appoint a company to mark petroleum products and to provide a complimentary service as may be required."
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "Chapter 5",
+      "section": "66",
+      "title": "Transportation of petroleum product",
+      "content": "A person transporting for re-sale, storage or transit of a petroleum product must- (a) ensure that the petroleum product is marked with markers specified in Form PP/13; and (b) label the area of the source as specified in Form PP/14 or any other location which may be identified by the Minister and notified in the regulations."
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "Chapter 5",
+      "section": "67",
+      "title": "Marking petroleum product",
+      "content": "(1) Every company must ensure that a petroleum product leaving for the inland storage terminal or which is destined for a retailer, commercial user or is in transit through Namibia is marked in terms of these regulations. (2) A ferrying company must, before distributing or delivering a petroleum product, notify the marking company to mark such petroleum product."
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "Chapter 5",
+      "section": "68",
+      "title": "Inspection and testing of petroleum products",
+      "content": "(1) An inspector may- [The number for subregulation (1) is missing in the Government Gazette .] (a) enter and search without a warrant any premises, any vehicle, vessel or any receptacle; (b) seize, without a warrant, a whole batch or a sample of any petroleum product for purposes of monitoring or verifying compliance with the provisions of this Chapter; (c) send petroleum products for testing to a laboratory approved by the Minister; (d) demand of any person who owns, offers for sale or supplies petroleum products governed by these Regulations , any relevant documentation in respect of such petroleum products and such person must, if so instructed, provide the inspector with such documentation; and (e) from time to time, for purposes of monitoring compliance with these Regulations , sample and test petroleum products in terms of standards approved by the Minister. (2) The results of any test or examination conducted under this Chapter may be available to the marking company , to the Ministry, the concerned company and the concerned party from whom the sample is taken where a specific request is made."
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "Chapter 5",
+      "section": "69",
+      "title": "Unauthorised dilution",
+      "content": "(1) An operator of an undertaking or any person from whom a sample of petroleum product is taken under these regulations commits an offence, if the results of an examination of that sample reveals- (a) that the marker in the petroleum product is diluted by a margin of ten percent or more; or (b) that an unauthorised product has been added to the petroleum product. (2) An operator or a person who contravenes subregulation (1) commits an offence and if found guilty is liable upon conviction to a fine not exceeding N$20 000 or to imprisonment for a period not exceeding 2 years or to both such fine and imprisonment. (3) The Minister may confiscate and dispose of petroleum product in an environmentally accepted manner in terms of these Regulations ."
+    },
+    {
+      "provision_ref": "s70",
+      "chapter": "Chapter 5",
+      "section": "70",
+      "title": "Prohibition to trade in unmarked petroleum product",
+      "content": "(1) A company , retailer, commercial user or operator of an undertaking or any other person may not sell a petroleum product that is not marked. (2) A company , retailer, operator of an undertaking or a person who contravenes subregulation (1) commits an offence and is liable on conviction to a fine not exceeding N$20 000 or to imprisonment for a period not exceeding 2 years or to both such fine and imprisonment. (3) The Minister may, in addition to the penalty under subregulation (2) where an operator of an undertaking or any person is convicted of an offence under this regulation- (a) suspend the licence of such a company , retailer or commercial user until a remedy in terms of these regulations is adhered to; or (b) suspend the operations of a service station as in terms of regulation 70(2) where the service station is owned by a retailer until the retailer remedies the situation to the satisfaction of the Ministry."
+    },
+    {
+      "provision_ref": "s71",
+      "chapter": "Chapter 5",
+      "section": "71",
+      "title": "Unauthorised possession of marker",
+      "content": "A person who, without legal authority, is found in possession of the marker commits an offence and is liable on conviction to a fine not exceeding N$20 000 or to imprisonment for a period not exceeding 2 years or to both such fine and imprisonment."
+    },
+    {
+      "provision_ref": "s72",
+      "chapter": "Chapter 5",
+      "section": "72",
+      "title": "Interference with marked petroleum product",
+      "content": "A person who illegally diverts or causes to be diverted to another use any petroleum product that is intended for a specific use, or uses any such petroleum product, knowing it to have been wrongfully or unlawfully diverted, commits an offence and is liable on conviction to a fine not exceeding N$20 000 or to imprisonment for a period not exceeding 2 years or to both such fine and imprisonment."
+    },
+    {
+      "provision_ref": "s73",
+      "chapter": "Chapter 5",
+      "section": "73",
+      "title": "Unauthorised sale of petroleum product",
+      "content": "Any person who sells any petrol , diesel , or a mixture of the substances at a roadside, dwelling place, warehouse, shelter or any other unauthorised outlet commits an offence and is liable upon conviction to a fine not exceeding N$20 000 or to imprisonment for a period not exceeding 2 years or to both such fine and imprisonment. Annexure A Fees [Annexure A substituted by GN 202/2002 ] Item Applicable Regulation Description of fee Amount 1. Regulation 4(3) Application of fee for retail licence [The word “of” is superfluous.] N$ 100,00 2. Regulation 5(4) Fee for issue of retail licence N$ 250,00 3. Regulation 11(4) Application fee for wholesale licence N$ 100,00 4. Regulation 12(4) Fee for issue of wholesale licence N$1000,00 5. Regulation 17(3) Application fee for consumer installation certificate N$ 100,00 6. Regulation 18(5) Fee for issue of consumer installation certificate N$ 250,00 7. Regulation 28(2) Application fee for duplicate licence or certificate N$ 100,00 8. Regulation 28(5) Fee for issue of duplicate retail licence N$ 250,00 9. Regulation 28(5) Fee for issue of duplicate wholesale licence N$1000,00 10. Regulation 28(5) Fee for issue of duplicate consumer installation certificate N$ 250,00 11. Regulation 30(8) Application fee for amendment of licence/certificate N$ 100,00 Annexure B Forms [Forms PP/13 and PP/14 inserted by GN 122/2016 ] [Editorial note: The forms have not been reproduced.] History of this document 15 November 2017 this version Consolidation 03 July 2000 Commenced 23 June 2000 Published in Government Gazette 2357 Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "approved specification",
+      "definition": "any specification or standard applied by the Minister in terms of regulation 44(1)",
+      "source_provision": "s1"
+    },
+    {
+      "term": "bulk quantity",
+      "definition": "a single quantity of 200 litres or more",
+      "source_provision": "s1"
+    },
+    {
+      "term": "business of a wholesaler",
+      "definition": "to act as a wholesaler and to conduct any activity reasonably required in connection with fuel or incidental thereto, including the handling, possession, conveying and storage of such fuel",
+      "source_provision": "s1"
+    },
+    {
+      "term": "certificate-holder",
+      "definition": "the holder of a certificate",
+      "source_provision": "s1"
+    },
+    {
+      "term": "consumer installation",
+      "definition": "a petrol or diesel installation, including any pump, storage tank and piping used in relation thereto, for the purpose of dispensing fuel into own or hired petrol or diesel consuming equipment or own or hired vehicles",
+      "source_provision": "s1"
+    },
+    {
+      "term": "commercial user",
+      "definition": "an installation at commercial or industrial undertaking operating its own petroleum consuming equipment and operating the undertaking or company ’s or industrial undertaking’s own vehicle or train operated for its own productive purposes and the undertaking must be contractually bound by the company not to resell petrol supplied from such installations and for the purposes of this definition, resell includes the supply of petrol and diesel from such installations to any other vehicle or equipment not provided for in this definition",
+      "source_provision": "s1"
+    },
+    {
+      "term": "company",
+      "definition": "oil marketing company designated by the Minister for storage, supply, distribution and marketing of petroleum in Namibia",
+      "source_provision": "s1"
+    },
+    {
+      "term": "dangerous situation",
+      "definition": "a situation involving petroleum products that- (a) is immediately endangering the safety or health of a person, or the safety of a person’s property",
+      "source_provision": "s1"
+    },
+    {
+      "term": "diesel",
+      "definition": "a distillate oil which can be used as fuel for the operation of a compression ignition engine and which has an approximate boiling temperature of between 150°C to 400°C",
+      "source_provision": "s1"
+    },
+    {
+      "term": "fuel",
+      "definition": "petrol or diesel",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Government institution",
+      "definition": "any department, division, office, agency or Ministry of State",
+      "source_provision": "s1"
+    },
+    {
+      "term": "inspector",
+      "definition": "any person appointed or authorised as an inspector or as a regional controller in terms of section 3 of the Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "licence",
+      "definition": "a retail licence or a wholesale licence",
+      "source_provision": "s1"
+    },
+    {
+      "term": "licence-holder",
+      "definition": "the holder of a licence",
+      "source_provision": "s1"
+    },
+    {
+      "term": "licensed premises",
+      "definition": "the premises in respect of which a retail licence is granted and which premises are described and specified in the retail licence",
+      "source_provision": "s1"
+    },
+    {
+      "term": "local authority",
+      "definition": "a local authority as defined in section 1 of the Local Authorities Act, 1992 (Act No. 23 of 1992 )",
+      "source_provision": "s1"
+    },
+    {
+      "term": "local authority area",
+      "definition": "a local authority area as defined in section 1 of the Local Authorities Act, 1992 (Act No. 23 of 1992 )",
+      "source_provision": "s1"
+    },
+    {
+      "term": "marker",
+      "definition": "chemicals approved by the Minister and which are introduced into petroleum products",
+      "source_provision": "s1"
+    },
+    {
+      "term": "marking",
+      "definition": "the introduction of a marker or a substance into a petroleum product, mixing of diesel , petrol and kerosene with the correct quantity of marker or substance required for these products calculated and manually poured into the compartment or fuel tanker approved by the Minister",
+      "source_provision": "s1"
+    },
+    {
+      "term": "marking company",
+      "definition": "the marking company contracted by the Ministry or the nominee of the marking company designated to mark all petroleum products, sample, analyse, report and manage the marking program. [The definition of “marking company” is inserted by GN 122/2016 . It should end with a semicolon rather than a full stop.] “ operate ” means to conduct the operations of an operator",
+      "source_provision": "s1"
+    },
+    {
+      "term": "operate a consumer installation",
+      "definition": "to install and to conduct the activity of an operator in respect of such an installation, and to conduct any activity reasonably required in connection with fuel or incidental thereto, including the obtaining, handling, possession, storage and dispensing of such fuel",
+      "source_provision": "s1"
+    },
+    {
+      "term": "operate a retail outlet",
+      "definition": "to conduct the activity of an operator in respect of the outlet, and to conduct any activity reasonably required in connection with fuel incidental thereto, including the obtaining, handling, possession and storage of such fuel",
+      "source_provision": "s1"
+    },
+    {
+      "term": "operator",
+      "definition": "a person who is responsible for the day to day activities of a retail outlet or consumer installation , whether or not the person is located on the relevant premises during business hours and whether or not the person is the owner of the retail outlet or consumer installation and, in the case of a retail outlet , if such activities are for own profit or loss",
+      "source_provision": "s1"
+    },
+    {
+      "term": "petrol",
+      "definition": "a light distillate fuel which can be used as fuel for the operation of a spark ignition engine and which has an approximate boiling temperature of between 30°C to 200°C",
+      "source_provision": "s1"
+    },
+    {
+      "term": "petroleum product spill",
+      "definition": "the discharge of a petroleum product onto or into any land or water, or any structure or thing",
+      "source_provision": "s1"
+    },
+    {
+      "term": "RATPLAN",
+      "definition": "the Fuel Resellers Rationalisation Plan for Namibia as signed between the Minister and the participating wholesaler companies on 10 April 1991, and as extended",
+      "source_provision": "s1"
+    },
+    {
+      "term": "regional council",
+      "definition": "a regional council established under section 2 of the Regional Council’s Act 1992 (Act No. 22 of 1992 )",
+      "source_provision": "s1"
+    },
+    {
+      "term": "retail licence",
+      "definition": "a licence issued in terms of regulation 5",
+      "source_provision": "s1"
+    },
+    {
+      "term": "retail licence-holder",
+      "definition": "the holder of a retail licence",
+      "source_provision": "s1"
+    },
+    {
+      "term": "retail outlet",
+      "definition": "any place from where fuel is sold or is offered for sale to consumers for purposes of use or consumption",
+      "source_provision": "s1"
+    },
+    {
+      "term": "retail sale",
+      "definition": "the sale of fuel at a retail outlet",
+      "source_provision": "s1"
+    },
+    {
+      "term": "storage facility",
+      "definition": "a facility in which any petroleum product is stored, including a storage facility at a harbour terminal or inland depot",
+      "source_provision": "s1"
+    },
+    {
+      "term": "storage tank",
+      "definition": "a closed container that is used for storing petroleum products",
+      "source_provision": "s1"
+    },
+    {
+      "term": "the Act",
+      "definition": "the Petroleum Products and Energy Act, 1990 (Act No. 13 of 1990 )",
+      "source_provision": "s1"
+    },
+    {
+      "term": "wholesale licence",
+      "definition": "a licence issued in terms of regulation 12",
+      "source_provision": "s1"
+    },
+    {
+      "term": "wholesale licence-holder",
+      "definition": "the holder of a wholesale licence",
+      "source_provision": "s1"
+    },
+    {
+      "term": "wholesaler",
+      "definition": "any person who imports or distributes fuel for the purposes of the wholesale sale thereof by that person in Namibia, or who exports fuel",
+      "source_provision": "s1"
+    },
+    {
+      "term": "wholesale sale",
+      "definition": "the sale of fuel in bulk quantities.",
+      "source_provision": "s1"
+    }
+  ]
+}

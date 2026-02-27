@@ -1,0 +1,72 @@
+{
+  "id": "na-act-1994-30",
+  "type": "statute",
+  "title": "Import and Export Control Act, 1994",
+  "title_en": "Import and Export Control Act, 1994",
+  "short_name": "Import and Export Control A...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/1994/30/eng@1994-11-30",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "In this Act, unless the context otherwise indicates - “ export ” means to take out or cause to be taken out of Namibia, whether in the course of trade or otherwise; “ import ” means to bring or cause to be brought into Namibia, whether in the course of trade or otherwise; “ Minister ” means the Minister of Trade and Industry."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Powers of Minister in relation to import and export of goods",
+      "content": "(1) The Minister may, whenever it is necessary or expedient in the public interest, by notice in the Gazette prohibit - (a) the import into or the export from Namibia; or (b) the import into or the export from Namibia, expect under the authority of and in accordance with the conditions stated in a permit issued by the Minister or by a person authorised by him or her, of any goods of a class or kind specified in such notice or of any goods other than goods of a class or kind specified in such notice. (2) For the purposes of subsection (1) goods may be classified also according to the source or origin or the intermediate or final destination thereof or according to the channels along which or manner in which they are imported or exported or according to the purposes for which they are intended to be used. (3) A permit issued under subsection (1) may prescribe the quantity or value of goods which may be imported or exported thereunder, the price at which, the period within which, the port through or from which, the country or territory from or to which and the manner in which the goods may be imported or exported, and such other conditions as the Minister may direct, including any condition relating to the possession, ownership or disposal of goods after the import thereof or to the use to which they may be put. (4) The Minister or any person authorized by him or her, may cancel, amend or suspend any permit issued under subsection (1), if the Minister is satisfied that any condition of the permit has not been complied with, or if the holder of the permit has been convicted of an offence under this Act, or if it is necessary or expedient in the public interest. (5) The Minister may by like notice withdraw or amend any notice issued under subsection (1)."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Furnishing of information to Minister",
+      "content": "The Minister or any person authorized by him or her, may in writing direct any person who imports, exports or manufactures any goods or trades in any goods or in the course of his or her business or trade handles or has under his or her control any goods, to furnish the Minister within a period specified in the direction with any information at his or her disposal in relation to the import , export , manufacture, supply or storage of the goods concerned."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Offence and penalties",
+      "content": "(1) Any person who - (a) imports or exports any goods in contravention of a provision of a notice issued under section 2; (b) fails to comply with a condition stated in a permit issued under section 2; (c) fails to comply with a directive made under section 3; or (d) furnishes any false information in complying with such an order, shall be guilty of an offence and liable on conviction to a fine not exceeding N$20 000 or imprisonment for a period not exceeding two years or to both such fine and such imprisonment and to a further fine not exceeding three times the commercial value of the goods, if any, in respect of which the offence was committed. (2) The court convicting any person of importing or exporting or attempting to import or export any goods in contravention of a provision of a notice issued under section 2, or of failing to comply with a condition stated in a permit issued under that section, may declare the goods to be forfeited to the State. (3) A declaration made under paragraph (a) shall not affect any rights which any person other than the convicted person may have to the goods but if such other person is the owner of the goods, such a declaration shall be binding upon such owner unless it is proved that the owner did not know that the goods were being dealt with in contravention of such a provision or condition. (4) The provisions of subsections (4) and (5) of section 35 of the Criminal Procedure Act, 1977 (Act 51 of 1977 ), shall mutatis mutandis apply to any forfeiture under subsection (2)."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Jurisdiction of magistrate’s court",
+      "content": "Notwithstanding anything to the contrary in any other law contained, a magistrate’s court shall have jurisdiction to impose any penalty prescribed by this Act."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Repeal of Act 45 of 1963",
+      "content": "(1) The Import and Export Control Act, 1963 (Act 45 of 1963 ), is hereby repealed. (2) Anything done, or deemed to have been done, under the provisions of the said Act, shall be deemed to have been done under the corresponding provisions of this Act."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Short title",
+      "content": "This Act shall be called the Import and Export Control Act, 1994. History of this document 30 November 1994 this version Published in Government Gazette 980 Commenced 16 November 1994 Assented to Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "export",
+      "definition": "to take out or cause to be taken out of Namibia, whether in the course of trade or otherwise",
+      "source_provision": "s1"
+    },
+    {
+      "term": "import",
+      "definition": "to bring or cause to be brought into Namibia, whether in the course of trade or otherwise",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister of Trade and Industry.",
+      "source_provision": "s1"
+    }
+  ]
+}

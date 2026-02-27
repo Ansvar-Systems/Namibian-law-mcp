@@ -1,0 +1,600 @@
+{
+  "id": "na-act-2005-5",
+  "type": "statute",
+  "title": "Atomic Energy and Radiation Protection Act, 2005",
+  "title_en": "Atomic Energy and Radiation Protection Act, 2005",
+  "short_name": "Atomic Energy and Radiation...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/2005/5/eng@2005-05-16",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Chapter 1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "In this Act , unless the context otherwise indicates - “ accident ” means any event relating to a radiation source , including an operating error, equipment failure or other mishap, the consequences or potential consequences of which are not negligible from the point of view of protection or safety; “ authorisation ” means an authorisation issued under section 17 (3); “ Authority ” means the National Radiation Protection Authority established by section 33 ; “ Board ” means the Atomic Energy Board established by section 3 ; “ chairperson ” means the chairperson of the Board ; “ committee ” means a committee established under section 10 ; “ compliance order ” means an order issued under section 23 ; “ control ”, in relation to any juristic person, means the power, directly or indirectly, to direct or cause the direction of the management of that person, whether through the ownership of shares, voting, securities, partnership or other ownership interests, or through agreements or otherwise; “ customs officer ” means an officer as defined in the Customs and Excise Act, 1998 (Act No. 20 of 1998 ); “ Director-General ” means the Director-General appointed in terms of section 34 ; “ disposal ”, in relation to radioactive waste , includes its removal, deposit, or destruction, its discharge, whether into water or into air or into a sewer or drain or its burial and “dispose of” must be construed accordingly; “ dose limit ” means the prescribed maximum value of the effective amount of radiation to which a person has been exposed and which is determined in the manner prescribed ; “ medical exposure ” means exposure incurred by - (a) patients as part of their own medical or dental diagnosis or treatment; (b) persons, (other than those subjected to occupational exposure ) while voluntarily helping in the support and comfort of patients; and (c) volunteers in a programme of biomedical research involving their exposure to radiation ; “ Minister ” means the Minister designated under section 44 (1)(a); “ Ministry ” means the Ministry determined under section 44 (1)(b) to be charged with the administration of this Act ; “ non-ionising radiation ” means, electromagnetic radiation whose primary mode of interaction with matter does not produce ion pairs, any sonic, infrasonic or ultrasonic waves and any particulate emission; “ notification ” means a notification referred to in section 17 (1); “ nuclear material ” means - (a) plutonium (except plutonium with isotopic concentration exceeding 80% in plutonium-238); (b) uranium enriched in isotope uranium-235, or uranium containing the mixture of isotopes as occurring in nature other than in the form of ore or ore residue; and (c) any substance or device that may be necessary or useful in the manufacture of nuclear weapons, prescribed to be nuclear material, any mixture or compound that contains nuclear material , except any naturally occurring mineral containing uranium that has not been processed in any manner to concentrate the uranium contents or change the isotopic mixture of the uranium: Provided that the regulations may prescribe that any material included in this definition is not regarded as nuclear material for the purpose of this Act ; “ occupational exposure ” means exposure of workers incurred in the course of their work, with the exception of exposures excluded from the Standards and exposures from practices or sources exempt from the Standards ; “ practice ” means any human activity that introduces additional pathways of exposure to radiation or extends exposure to radiation to additional people, animals or plants or modifies the network of pathways of exposure to radiation from existing services; “ prescribed ” means prescribed by regulation, and “prescribe” must be construed accordingly; “ prescribed non-ionising radiation ” means non-ionising radiation in respect of which the provision in question has been made applicable as contemplated in section 43 (1)(l); “ premises ” includes - (a) any land, whether developed or not; (b) any place underground; and (c) any land covered by water; and (d) any building, structure, vehicle, vessel, aircraft or container; [Paragraphs (b) and (c) both have the word “and” at the end in the Government Gazette .] “ Protocol to the Safeguards Agreement ” means the Protocol signed between the Government of the Republic of Namibia and the International Atomic Energy Agency in Vienna on 22 March 2000; “ radiation ” means - (a) electromagnetic radiation or high energy particles that react with matter by forming ion pairs; and (b) non-ionising radiation in so far as the application of this Act has been prescribed for such radiation; “ radiation protection officer ” means a radiation protection officer appointed under section 33 (3); “ radiation safety rules ” means a detailed document prepared under section 29 (2)(c) specifying how the licence holder intends to ensure the safety of workers, clients, patients, the public and the environment; “ radiation safety officer ” means a radiation safety officer appointed under section 30 (1); “ radiation source ” means any device, radioactive material or any other material that emits radiation ; “ radioactive material ” means any matter or substance containing one or more radio nuclides but does not include any material the activity or concentration of which does not exceed the prescribed exemption levels; “ radioactive waste ” means material, whatever its physical form, remaining from practices or interventions and for which no further use is foreseen - (a) that contains or is contaminated with radioactive substances and has an activity or activity concentration higher than the prescribed level; and (b) exposure to which is not excluded from the Standards ; “ radionuclide ” means an atom whose nucleus undergoes radioactive decay naturally; “ registration ” means registration under section 18 ; “ regulations ” means regulations made under section 43 ; “ Safeguards Agreement ” means the Agreement between the Government of the Republic of Namibia and the International Atomic Energy Agency for the Application of Safeguards in connection with the Treaty on the Non-Proliferation of Nuclear Weapons, signed in Vienna on 19 March 1998; “ safety assessment ” means a review of the aspects of design and operation of a source which are relevant to the protection of persons or the safety of the source concerned, including the analysis of the provisions for safety and protection established in the design and operation of the radiation source concerned and the analysis of risks associated with normal conditions and accident situations and which contains the prescribed information and the results of such studies as may be prescribed ; “ Standards ” means the standards published by the International Commission on Radiological Protection, the International Commission on Non-ionising Radiation, the International Atomic Energy Agency or other relevant international organisations, made applicable under section 43 (2) or as prescribed under section 43 (1)(e); “ this Act ” includes regulations made under the Act; “ transfer of a licence ” includes the acquisition of control of the licence holder; “ waste ” means material for which no further use is foreseen; “ worker ” means a person who works and who has recognised rights and duties in relation to occupational radiation protection."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Chapter 1",
+      "section": "2",
+      "title": "Objects of this Act",
+      "content": "The objects of this Act are - (a) to minimise the exposure of persons and the environment in Namibia to the effects of harmful radiation ; (b) to ensure that adequate control is exercised over the possession, production, processing, sale, export and import of radiation sources and nuclear material ; (c) to create the necessary mechanisms to facilitate the compliance with the obligations of Namibia under international agreements relating to nuclear energy, nuclear weapons and protection against the harmful effects of radiation . Chapter 2 Atomic Energy Board"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Chapter 2",
+      "section": "3",
+      "title": "Establishment of Board",
+      "content": "(1) There is hereby established a Board to be known as the Atomic Energy Board which is a national advisory board on all matters relating to radiation sources and nuclear energy."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Chapter 2",
+      "section": "4",
+      "title": "Composition of Board",
+      "content": "The Board consists of the following members appointed by the Minister - (a) a chairperson who must have experience in the application of radiation sources; (b) a person nominated by the Minister responsible for foreign affairs; (c) a person nominated by the Minister responsible for health; (d) a person nominated by the Minister responsible for mines and energy; (e) a person nominated by the Minister responsible for labour; and (f) a person nominated by the Minister responsible for environmental affairs."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Chapter 2",
+      "section": "5",
+      "title": "Disqualification for appointment as member of Board",
+      "content": "A person does not qualify to be appointed as a member of the Board who - (a) is not a Namibian citizen or a holder of a permanent residence permit; (b) is an unrehabilitated insolvent; (c) has under any law been declared to be of unsound mind; (d) has been convicted of an offence under this Act or of an offence involving dishonesty; or (e) has during the period of 10 years immediately preceding the date of commencement of this Act , or at any time after that date, been convicted, whether in Namibia or outside of Namibia, of an offence and sentenced to imprisonment without the option of a fine."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Chapter 2",
+      "section": "6",
+      "title": "Term of office of members of Board",
+      "content": "Subject to section 7 , a member of the Board holds office for a period of three years and is at the expiration of that period, eligible for re-appointment."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Chapter 2",
+      "section": "7",
+      "title": "Vacation of office and filling of vacancies",
+      "content": "(1) A member of the Board vacates his or her office if he or she - (a) becomes subject to a disqualification referred to in section 5 ; (b) is absent from three consecutive meetings of the Board without the leave of the chairperson ; (c) resigns his or her office by written notice to the Minister ; or (d) is removed from office by the Minister under subsection (2). (2) The Minister may remove a member of the Board from office if there are sufficient reasons to do so and after giving the member concerned a reasonable opportunity to be heard. (3) If a member of the Board dies or he or she vacates his or her office in terms of subsection (1), the Minister may appoint a person, with due regard to section 4 , to fill the vacancy for the unexpired portion of the term of office of the member in whose stead he or she is appointed."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Chapter 2",
+      "section": "8",
+      "title": "Functions of Board",
+      "content": "The functions of the Board are to - (a) advise the Minister on matters relating to radiation protection, radiation sources, radioactive materials, radioactive waste and prescribed non-ionising radiation sources; (b) advise government ministries, departments and agencies, as well as regional and local authorities on matters within the scope of the functions of the Board ; (c) advise licence holders on the appropriateness of a person who is appointed as a radiation safety officer under section 30 (1); (d) recommend to the Minister the payment scales for fees to be paid, if any, for authorisations, inspections and other related services, and how the fees may be collected; (e) recommend to organs of the State how to co-ordinate emergency response and the assistance required in the case of a radiation related emergency; (f) advise organs of the State on how to initiate, or provide support on intervention during emergencies, as may be appropriate; (g) make recommendations to relevant persons and the Government related to the promotion of peaceful uses of atomic energy and related research on radiation safety issues; (h) maintain contact for information exchange and co-operation with other bodies in Namibia, regulatory bodies of other countries and relevant international organisations in particular, with regard to treaties and conventions entered into between the Government of the Republic of Namibia and those countries and organisations, particularly on radiation or nuclear safety; (i) advise the Minister on how the obligations of the Safeguards Agreement and the Additional Protocol to the Safeguards Agreement may be implemented; (j) advise the Minister on the appropriate mechanisms to inform the public about the regulatory process and the radiation safety aspects and related practices; (k) recommend to relevant authorities measures required to ensure proper and full collection and dissemination of information to the public generally and licence holders in particular, regarding measures necessary or desirable to be taken to minimise exposure to radiation from radiation sources or radioactive materials to acceptable or prescribed limits; (l) report to the Minister annually on the extent of the implementation of this Act regarding the safety of radiation sources, radioactive materials, radioactive waste and prescribed non-ionising radiation sources; and (m) perform any other function that is incidental or consequential to its functions under this Act , or as may be conferred on it by any other law or by the Minister ."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Chapter 2",
+      "section": "9",
+      "title": "Meetings of Board",
+      "content": "(1) The first meeting of the Board must be held at a time and place determined by the Minister , and thereafter the Board must meet at such times and places as the Board may determine, but the Board must meet at least three times in a year. (2) The chairperson may at any time convene an extraordinary meeting of the Board to be held at a time and place determined by the chairperson . (3) The chairperson , or in his or her absence, a member of the Board elected by the members present must preside at a meeting of the Board . (4) The quorum at a meeting of the Board is three members of the Board . (5) A decision of a majority of the members present at a meeting of the Board constitutes a decision of the Board and, in the event of an equality of votes, the person presiding has a casting vote in addition to his or her deliberative vote. (6) A decision taken by or an act performed under the authority of the Board is not rendered invalid by reason only of a vacancy on the Board or of the fact that a person who is not entitled to sit as a member of the Board sat as such a member at the time when the decision was taken or the act was authorised, if the decision was taken or the act was authorised by the majority of the members of the Board who were present at the time and entitled to vote. (7) The person presiding at a meeting of the Board must cause a record to be kept of the proceedings of the meeting and must cause that record to be submitted to the Minister as soon as possible after that meeting. (8) The Board may co-opt a person to assist it on any matter if the Board is satisfied that the person concerned has such qualifications or experience that he or she is likely to render useful assistance to the Board . (9) A person co-opted under subsection (8) in relation to a particular matter may take part in the proceedings of the Board concerning that matter, but is not entitled to vote on that matter or take part in any other proceedings of the Board . (10) Subject to this section, the Board may regulate its own proceedings."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Chapter 2",
+      "section": "10",
+      "title": "Committees of Board",
+      "content": "(1) The Board may establish one or more committees to - (a) inquire into and advise the Board on such matters within the scope of the functions of the Board as the Board may refer to the committee concerned; (b) exercise such powers or perform such duties of the Board as the Board may delegate or assign to that committee . (2) The Board may appoint as a member of a committee a person who is or is not a member of the Board , but at least one member of a committee must be a member of the Board . (3) If a committee consists of more than one member, the Board must designate one member of the committee who is also a member of the Board as chairperson of the committee . (4) The chairperson of a committee , or in his or her absence, any other member elected by the members present, must preside at a meeting of a committee . (5) The Board is not absolved from responsibility for the performance of any function entrusted to a committee in terms of this section. (6) The quorum at a meeting of a committee is a majority of the members of the committee . (7) A decision of a majority of the members present at a meeting of a committee constitutes a decision of the committee and, in the event of an equality of votes, the person presiding has a casting vote in addition to his or her deliberative vote. (8) A decision taken by or an act performed under the authority of a committee is not rendered invalid by reason only of a vacancy on the committee or of the fact that a person who is not entitled to sit as a member of a committee sat as such a member at the time when the decision was taken or the act was authorised, if the decision was taken or the act was authorised by the majority of the members of a committee who were present at the time and entitled to vote. (9) The person presiding at a meeting of a committee must cause a record to be kept of the proceedings of the meeting and must cause that record to be submitted to the Board , as soon as possible after a meeting of the committee ."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Chapter 2",
+      "section": "11",
+      "title": "Remuneration and allowances of members of Board and of committees",
+      "content": "(1) There must be paid to a member of the Board or of a committee , who is not in the full-time employment of the State, such remuneration as the Minister , with the concurrence of the Minister of Finance, may determine. (2) The State may re-imburse a member of the Board or a member of a committee for expenses reasonably incurred by him or her while travelling to or attending a meeting of the Board or of a committee . (3) The State may pay allowances or re-imburse a member of the Board or a committee who is in full time employment of the State expenses reasonably incurred by him while travelling to or attending a meeting of the Board or of a committee with the approval of the Minister . [The word “reimburse” is misspelt in the Government Gazette , as reproduced above.]"
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Chapter 2",
+      "section": "12",
+      "title": "Delegation of powers and assignment of functions",
+      "content": "(1) The Board may, subject to such conditions as the Board may determine, delegate or assign in writing to the chairperson , a member of the Board , an officer of the Board or to a committee , any power conferred or function assigned to the Board by this Act other than the functions referred to in section 8 (d), 8 (i) and 8 (l). (2) The terms and conditions regulating the exercise of the powers delegated under this section must be contained in the instrument of delegation. (3) A person must, in the exercise of a delegated power or function assigned under this section, comply with such directions or guidelines as the Board may from time to time communicate in writing to that person. (4) A delegation or assignment under subsection (1) does not divest the Board of a power delegated or a function assigned. Chapter 3 Secretariat and staff of Board"
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Chapter 3",
+      "section": "13",
+      "title": "Secretary",
+      "content": "(1) The Director-General is the secretary of the Board . (2) The secretary must perform such functions as may be assigned to him or her by the Board ."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Chapter 3",
+      "section": "14",
+      "title": "Other staff",
+      "content": "The Permanent Secretary of the Ministry must designate such staff members in that Ministry to perform the work of the Board as may be necessary."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Chapter 3",
+      "section": "15",
+      "title": "Annual report of Board",
+      "content": "(1) An annual report must be prepared for each period starting on the first of April and ending on the 31st of March in the following year. (2) The Director-General must as soon as possible, but not later than two months, after the 31st of March prepare the annual report referred to in subsection (1). (3) The annual report referred to in subsection (1) must report on the activities of the Board and the authority and must contain particulars of any accident that occurred during the period of that report. (4) The Director-General must within one month after it has been prepared, submit the annual report to the Board who must adopt it with or without amendments. (5) After the annual report has been adopted in terms of subsection (4), it must be submitted to the Minister . (6) The Minister must lay upon the table of the National Assembly the annual report received by him or her within 60 days from the date of receipt thereof, if the National Assembly is then in ordinary session or, if the National Assembly is not then in ordinary session, within 30 days after the commencement of the next ordinary session. Chapter 4 Authorisations, licences and registrations"
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Chapter 4",
+      "section": "16",
+      "title": "Prohibition of certain actions without authorisation , licence and registration",
+      "content": "(1) Except when such activity is explicitly authorised by a licence, no person may - (a) possess any radiation source or nuclear material ; (b) import into or export from Namibia any radiation source or nuclear material or transport any radiation source or nuclear material or instruct, require or permit any person employed by him or her, or acting on his or her behalf so to import, export or transport a radiation source or nuclear material ; (c) dispose of, dump or abandon any radiation source or nuclear material , unless that person has in every case made a notification as contemplated in section 17 (1) and an authorisation has been issued in terms of section 17 (3). (2) No person may without a licence - (a) possess any nuclear material , except for the purpose of transporting such material as the agent for a licence holder; (b) operate or use any radiation source or instruct or permit any person in his or her employ or acting in any manner on his or her behalf or promoting his or her interests to operate or use any radiation source ; (c) store or keep a radiation source for a period exceeding a prescribed period. (3) Different periods may be prescribed under subsection (2)(c) in respect of different classes of radiation sources and in respect of different classes of persons storing or keeping such source, or in respect of any other circumstances in respect of such person or source. (4) No person may use or operate any radiation source , unless that source as well as the facilities in which such source is being operated, is registered as provided by this Act ."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Chapter 4",
+      "section": "17",
+      "title": "Notification",
+      "content": "(1) A notification referred to in section 16 (1) must be in writing and must contain - (a) the name and address of the person making the notification ; (b) the name and address of the person that the person making the notification represents; (c) the name and address of the manufacturer or producer of the radiation source or the nuclear material concerned; (d) the nature of the intended practice ; and (e) all relevant details of the intended practice and identification of each radiation source or nuclear material . (2) A notification must be made to the Director-General : Provided that regulations may prescribe circumstances under which a notification may be made to a customs officer or a member of the Namibian Police. (3) The Director-General (or where the notification may be made to a customs officer or a member of the Namibian Police, any person to whom the power to issue authorisations has been delegated) may issue an authorisation to perform the act specified in the notification . (4) An authorisation issued under subsection (3) may be given subject to conditions relating to - (a) any safety measures that must be taken; (b) the route along which the source or material must be transported; (c) the container in which such source or material must be stored or transported; (d) the time during which such source or material may be in Namibia; (e) the time during which that source or material may be in possession of any specified person; (f) the persons (including the qualifications of such persons) that may or may not perform any specified action in respect of such source or material; (g) any reports that must be submitted to the authority in respect of the activity authorised; (h) any records that must be kept in respect of such source or material; (i) notification that must be given to any person or the public in general relating to any specified activity; (j) any other matter that may be necessary or desirable in order to promote the objects of this Act ."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Chapter 4",
+      "section": "18",
+      "title": "Registration",
+      "content": "Unless any exemptions have been prescribed , any licence holder must register every radiation source , every facility used in respect of such source and the location where such source is used and the location where such source is stored."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Chapter 4",
+      "section": "19",
+      "title": "Application for registration",
+      "content": "(1) An application for registration required in terms of section 18 must be submitted to the Director-General in the prescribed form. (2) Before the Director-General approves an application for a registration , he or she must conduct a pre- registration generic safety assessment of the design of facilities and equipment as well as of the related operating procedures, to ascertain compliance of the facility design and installations or practice with prescribed requirements. (3) The Director-General must approve an application for registration if he or she is satisfied that the application complies with the relevant regulations made under this Act . (4) The Director-General must record the information contained in the application referred to in subsection (1) in a register of the Authority for registrations, and the register may be open for inspection by the public."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Chapter 4",
+      "section": "20",
+      "title": "Cancellation of registration",
+      "content": "(1) The Director-General may cancel a registration if - (a) the radiation source , facility or location is no longer being used for the purpose for which it was registered; (b) the Director-General believes that the information available to him or her on which the original registration was based, has changed substantially. (2) The Director-General may suspend a registration pending an investigation, if he or she believes that there may be grounds for cancelling the registration concerned."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Chapter 4",
+      "section": "21",
+      "title": "Application for a licence",
+      "content": "(1) An application for a licence contemplated in section 16 (2) must be submitted to the Director-General in the prescribed form and must, in addition to the particulars stated in section 17 (1), contain - (a) particulars of any authorisations, registrations and licences which have been granted under this Act to the applicant as well as particulars of any applications for authorisations, registrations or licences that have been refused; (b) the prescribed particulars of the applicant; (c) a technical description of the practices for which the applicant requires a licence; (d) the planned time of commencement and completion of all the facilities relating to the practice concerned; (e) the name and qualifications of at least one person designated as a radiation safety officer ; (f) all relevant information relating to the impact of the practice concerned on public interests; (g) the results of all assessments, including environmental impact assessments and studies that have been carried out in respect of the practice concerned as well as reports of those assessments and studies when the application is for disposal of radioactive waste or storage of radioactive sources for long periods; (h) particulars of the impact of the practice concerned on private interests, including the interests of affected landowners and holders of other rights and interests in land; (i) copies of consents and permits required under any other law or of the relevant applications if such consents or permits have not yet been granted. (2) Before the Director-General approves an application for a licence, he or she must conduct a pre-licensing generic safety assessment of a particular design of facilities and equipment as well as the related operating procedures of the applicant, to ascertain compliance of the undertaking or the practice with the standards and any other requirements that may be necessary to fulfil the objects of this Act . (3) The Director-General must within 30 days after receipt of the application, inform the applicant, in writing, whether or not the application is complete and whether additional information is required before the application can be considered. (4) The Director-General must, within 90 days after informing the applicant as contemplated in subsection (3) if no further information is required, or after the information required in terms of that subsection has been provided, grant or refuse to grant a licence for an application made under subsection (1). (5) The Director-General must record the information contained in the application referred to in subsection (1) in a register of the authority for licences."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Chapter 4",
+      "section": "22",
+      "title": "Matters to be considered in relation to application",
+      "content": "(1) The Director-General must, when granting or refusing an application for a licence or for a renewal of a licence, take into consideration, as far as is adequate for the practice applied for - (a) the impact of the proposed operations on the social, cultural and recreational life of any effected community; (b) the need to protect the environment and to conserve natural resources; (c) land use and the location of any radiation source or other facilities; (d) the ability of the applicant to operate in a manner designed to protect the health and safety of users, workers, beneficiaries and other members of the public who would be affected by the operations of the applicant; (e) the ability of the applicant to ensure the security of radiation sources, and installations processing radioactive substances and nuclear material . (2) Notwithstanding subsection (1), the Director-General must, in granting an application for a licence or for a renewal of a licence, take into consideration the policies of the Government and any other matter that the Director-General may consider likely to have a bearing on the operations of the applicant. (3) The Director-General must, where he or she refuses to grant an application for a licence, give the applicant reasons for the refusal within 30 days after the refusal. (4) Nothing in this Act prevents a licence holder who has fulfilled all the obligations under a licence from applying for and obtaining any other licence under this Act . (5) Before a licence may be issued or renewed, the applicant must pay the fee that is prescribed for that class of licence. (6) Different fees may be prescribed in respect of different classes of activities authorised by the licence concerned or in respect of different classes of applicants and it is lawful that no fees are prescribed in respect of certain classes of licences or licence holders. (7) The Director-General may issue a licence subject to such conditions as he or she may deem necessary in order to fulfil the objects of this Act . (8) Conditions referred to in subsection (7) may relate to any matter that may be prescribed and may impose conditions that may impose additional requirements on a specific licence holder although regulations have already been made concerning the same matter."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Chapter 4",
+      "section": "23",
+      "title": "Compliance order",
+      "content": "(1) If the Director-General is of the opinion that a person is not complying with any condition subject to which an authorisation , registration or licence has been issued to him or her, or is contravening any provision of this Act , the Director-General may by notice in writing, direct the licence holder to comply with that condition or requirement. (2) A notice under subsection (1) containing a direction to comply must be sent to the licence holder and other directly affected parties and must - (a) state the relevant condition or provision of this Act to which the breach is related; (b) contain the allegations of fact which, in the opinion of the Director-General , constitute a contravention of the condition or provision; (c) specify the period within which the licence holder must rectify the breach or contravention; (d) specify the period, not being less than 20 days from the date of receiving the notice, within which representations or objections may be made by the person or directly affected parties; and (e) specify the date before which the person to whom the order is directed must comply with the order. (3) The date referred to in subsection (2)(e) must be at least 14 days after the expiry of the period referred to in subsection (2)(d). (4) After the Director-General has received representations as contemplated in subsection (2)(d), he or she may - (a) uphold the order of compliance; (b) vary the original order of compliance; or (c) withdraw the order of compliance. (5) When the Director-General decides to uphold or vary the order, he or she must issue a notice to the person to whom the original order has been directed - (a) informing that person of his or her decision; and (b) indicating the period (which may not be less than 14 days) within which that person must comply with the order."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Chapter 4",
+      "section": "24",
+      "title": "Compliance order in urgent matters",
+      "content": "(1) Where the Director-General , following consultations with the relevant licence holder and a directly affected party, is satisfied that a person is not complying with any condition subject to which an authorisation , registration or licence has been issued to him or her, or is contravening any provision of this Act , and that immediate action is necessary - (a) to protect the health of any person; (b) to prevent irreversible damage to animal or plant life or the environment; or (c) to prevent serious damage to property, he or she may direct the licence holder to take immediate action to discontinue or refrain from that practice . (2) Where the licence holder does not comply with a direction issued under subsection (1), the Director-General may take any necessary action on behalf of the licence holder at the cost of the licence holder."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Chapter 4",
+      "section": "25",
+      "title": "Duration of registration and licence",
+      "content": "(1) Subject to this Act , a registration or a licence remains in force for the period prescribed for a particular class of registration or licence. (2) A registrant or a licence holder may within 90 days before the expiry of a registration or a licence, apply to the Director-General for a renewal of the registration or the licence."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Chapter 4",
+      "section": "26",
+      "title": "Revocation and suspension of licence",
+      "content": "(1) The Director-General may subject to subsections (2) and (3), and if he or she is satisfied that the licence holder is not operating in accordance with the terms and conditions of the licence or this Act or prescribed standards, and after affording the licence holder concerned a reasonable opportunity to be heard, revoke or suspend a licence, if the breach - (a) inflicts significant damage on public or private interests; (b) takes place repeatedly after three consecutive warnings; or (c) causes the Director-General to believe that it is likely that the licence holder is unable to fulfil his or her duties under the licence or this Act . (2) Where the Director-General suspends a licence he or she may direct the storage of radiation sources under conditions preventing exposure of the public or workers to potential radiation hazards above prescribed limits. (3) Where the Director-General revokes or suspends a licence, he or she must take such action as is necessary to ensure that all the practices authorised by the licence cease immediately."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Chapter 4",
+      "section": "27",
+      "title": "Modification of conditions of licence",
+      "content": "(1) The Director-General may modify the conditions of a licence on his or her own motion or on application of the licence holder. (2) If the Director-General intends to modify the conditions of a licence, he or she must inform the licence holder in the prescribed manner of his or her intention to do so and give the licence holder an opportunity to be heard."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Chapter 4",
+      "section": "28",
+      "title": "Transfer of licence",
+      "content": "(1) A licence holder may not transfer his or her licence without the written notification to and the written permission of the Director-General . (2) A licence holder who wishes to transfer a licence, must apply to the Director- General, in the prescribed form. (3) An application under subsection (2) must be accompanied by the application in the prescribed form of the person to whom the licence holder intends to transfer the licence which contains the information required by section 21 (1) and the prescribed transfer fees, if any, must be paid on the approval of the transfer."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Chapter 4",
+      "section": "29",
+      "title": "Duties of licence holder",
+      "content": "(1) The primary responsibility for the safety and security of radiation sources and nuclear materials rests with the licence holder who may seek further advice from the Board . (2) A licence holder must - (a) carry out his or her practice in accordance with the provisions of this Act and the conditions of his or her licence; (b) keep records and compile reports relating to radiation protection or radiation safety standards required to be observed under this Act ; (c) prepare in consultation with the Board , radiation safety rules and within a practice or for the use, handling, storage, transportation, or disposal of radiation sources or nuclear material produced or prepared by the licence holder; (d) whenever the Director-General requires it or whenever it otherwise becomes necessary, submit amendments to the rules prepared under paragraph (c) to the Board ; and (e) annually submit the records and reports referred to in paragraph (b) to the Director-General . (3) A registrant or a licence holder must, at the request of the Director-General and at the cost, of the registrant or the licence holder, provide all available information about the relevant technical, hydrological, geological or environmental matters and any other relevant information of regulatory concern, relating to the operations of the registrant or the licence holder. (4) A licence holder undertaking more than one licensed operation must keep separate records and reports for each operation."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Chapter 4",
+      "section": "30",
+      "title": "Duty of licence holder to appoint radiation safety officer",
+      "content": "(1) Subject to subsection (2) and (3), every licence holder must appoint, after consulting with the Board , a person who is technically competent in radiation protection matters as a radiation safety officer . (2) If the Director-General is of the opinion that the scale of operations of a licence holder does not justify the appointment of a radiation safety officer , he or she may exempt the licence holder from the provisions of subsection (1). (3) The Director-General may if in his or her opinion it is necessary, direct that a licence holder appoint more than one radiation safety officers in respect of such portions of the operations of the licence holder as the Director-General may determine. (4) Every radiation safety officer appointed under this section must - (a) advise the licence holder in relation to all matters pertaining to the protection of workers and the public from radiation exposure and the safety of radiation sources and the environment; (b) advise the licence holder regarding the application of this Act and the radiation safety rules ; (c) advise and consult with the Director-General regarding the implementation of radiation protection measures at his or her place of work; (d) assess radiation safety rules and reports submitted by licence holders to the Director-General under section 29 (2)(e); and (e) assist the Director-General and radiation protection officers in the enforcement of this Act in relation to the operations in respect of which he or she is appointed. (5) Notwithstanding any law or any rule of the common law to the contrary, no act or thing done or omitted to be done by any radiation safety officer , if done bona fide in the furtherance of this Act , makes him or her personally liable for any claim whether arising from contract, delict or otherwise, nor to any disciplinary or other measure by or on behalf of his or her employer relating to the continuance, terms or conditions of his or her employment."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Chapter 4",
+      "section": "31",
+      "title": "Notice of intended termination of operations",
+      "content": "A licence holder must notify the Director-General of his or her intended termination of operations as prescribed and must follow the prescribed decommissioning procedure or if no procedure is prescribed , such procedure as the Director-General may determine in order to ensure the safety of the public and the environment."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Chapter 4",
+      "section": "32",
+      "title": "Notice of accidents",
+      "content": "(1) Subject to regulations made under subsection (2), a licence holder must as soon as possible but in any event within a reasonable time, notify the Director-General of any accident which has occurred in any undertaking operated by him or her and of any loss of life or serious personal injury caused by any such accident . (2) The period within which the licence holder must notify the Director-General as contemplated in subsection (1) as well as - (a) the form that the notification must take; (b) the particulars that must be contained in the notification , may be prescribed . (3) Different periods and different particulars may be prescribed in respect of different classes of accidents or practices. (4) Regulations made under subsection (2) may provide that such sets of further particulars as may be prescribed must be given within prescribed periods after the initial notification . Chapter 5 National Radiation Protection Authority"
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Chapter 5",
+      "section": "33",
+      "title": "National Radiation Protection Authority",
+      "content": "(1) There is hereby established an independent National Radiation Protection Authority which consists of the Director-General and such staff members as are charged with the administration of this Act . (2) The Director-General and the Authority must act independently in the exercise of any discretion or the performance of any duty under this Act and must consider only the relevant provision of this Act and such scientific and technical matters as may be relevant to the issue concerned. (3) The duties of the Authority are - (a) to inform the Board annually about the extent of radiation exposure in Namibia; (b) to inspect at such intervals as may be necessary any radiation source or nuclear material in order to assess radiation safety conditions and other requirements imposed by or under this Act ; (c) to take such action as is necessary to enforce any provision of this Act and any duty imposed under this Act ; and (d) to establish and maintain a register of radioactive materials, imported into, or produced in, Namibia, and of premises licensed to install, store and use radiation sources or dispose of radioactive waste which register contains the name of the owner of the materials and sources concerned. (4) When the Public Service Commission recommends the appointment of a staff member in the Authority , it must also consider a report on the appropriateness of every candidate for such appointment prepared by the Director-General . (5) The powers of the Authority under this Act are exercised by the Director-General and he or she may delegate any of such power to any other staff member of the Authority ."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Chapter 5",
+      "section": "34",
+      "title": "Director-General of National Radiation Protection Authority and radiation protection officers",
+      "content": "(1) The Minister must subject to the laws governing the Public Service in Namibia appoint the Director-General of the Authority . (2) The Director-General must have wide experience in radiation protection and safety of radiation sources. (3) The Minister must appoint such staff members in the Authority as may be necessary in order to fulfil the objects of this Act as radiation protection officers. (4) The duties of radiation protection officers are - (a) to ensure the protection of persons from harm resulting from radiation ; and (b) to assist the Director-General in the exercise of the powers and functions provided in this Act ."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Chapter 5",
+      "section": "35",
+      "title": "Powers of radiation protection officers",
+      "content": "(1) Upon the appointment of any staff member in the public service to be a radiation protection officer , the Director-General must furnish that officer with a certificate of appointment signed by the Minister and an identification card signed by the Director-General for the purposes of authenticating the authority of that officer in the exercise of his or her functions. (2) A radiation protection officer may - (a) take samples of any material in order to test for the presence of radiation ; (b) make such inspections and inquiries as may be necessary to ascertain that this Act and any conditions of a licence or authorisation are being complied with; (c) question, either alone or in the company of any other person whose presence he or she considers necessary, any person with respect to any matter connected with the enforcement of this Act ; (d) if the radiation protection officer is a medical practitioner he or she may carry on such medical enquiries or examinations (with the permission of the person to be examined or with the permission of any other person that can consent to medical treatment) as may be prescribed for the purpose of determining dose limits under this Act ; and (e) do such other act or thing as is necessary, expedient or desirable for the effective carrying out of the objects of this Act ."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Chapter 5",
+      "section": "36",
+      "title": "Entry and search of premises",
+      "content": "(1) For the purpose of ascertaining or establishing whether any person has engaged in or is engaging or is about to engage in conduct that constitutes or may constitute a contravention of or a failure to comply with any provision of this Act or any condition imposed under this Act , a radiation protection officer may - (a) enter upon and search any premises ; (b) search any person on the premises if there are reasonable grounds for believing that the person has personal possession of any document or article that has a bearing on the investigation; (c) examine any document or article found on the premises that has a bearing on the investigation; (d) request any information about any document or article from - (i) the owner of the premises ; (ii) the person in control of the premises ; (iii) any person who has control of the document or article; or (iv) any other person who may have the information; (e) take extracts from, or make copies of, any book or document found on the premises that has a bearing on the investigation; (f) take samples of any material on the premises and deal with such sample in any manner that he or she thinks fit; (g) use any measuring instrument or any other device on the premises in order to determine the level of radiation or the effects that radiation may have caused to anything on the premises ; (h) use any computer system on the premises , or require assistance of any person on the premises to use that computer system, to - (i) search any data contained in or available to that computer system; (ii) reproduce any record from that data; and (iii) seize any output from that computer system for examination and copying; and (i) attach and, if necessary, remove from the premises for examination and safekeeping anything that has a bearing on the investigation. (2) Subject to subsection (8), a radiation protection officer may not enter upon and search any premises unless the radiation protection officer obtains a warrant authorising such entry and search in accordance with subsection (3). (3) If a judge of the High Court is satisfied, upon application made in chambers on oath or affirmation, that there is reasonable ground for believing that it is necessary, in order to ascertain or establish whether any person has engaged in or is engaging or is about to engage in conduct that constitutes or may constitute a contravention of or a failure to comply with any provision of this Act or any condition imposed under this Act , for a radiation protection officer to exercise the powers conferred by subsection (1), the judge may grant a warrant authorising a radiation protection officer to exercise those powers in relation to any premises specified in the warrant. (4) A warrant must - (a) identify the premises that may be entered and searched; and (b) authorise a radiation protection officer named in the warrant to enter and search the premises and exercise any of the powers conferred by subsection (1). (5) A warrant continues in force for a period of 30 days from the date it is issued but lapses if - (a) the purpose for which it was granted is satisfied; or (b) it is cancelled by the judge by whom it was issued or by any other judge of the High Court. (6) A warrant may be executed on any day between 7:00 and 18:00 unless a different time that is reasonable in the circumstances is authorised and specified in the warrant by the judge granting the warrant. (7) Upon first entering any premises under a warrant the person authorised by the warrant must - (a) provide to the owner or person in control of the premises proof of - (i) his or her authority to enter the premises by handing a copy of the warrant to that person; and (ii) his or her identity; or (b) if none of the persons mentioned in paragraph (a) is present, affix a copy of the warrant to the premises in a prominent and visible place. (8) Notwithstanding subsection (2), a radiation protection officer may without a warrant enter any premises , other than a private dwelling, to exercise the powers conferred by subsection (1) if - (a) the owner, or any other person in control of the premises consents to the entry and search of the premises ; or (b) the radiation protection officer on reasonable grounds believes - (i) that a warrant would be issued under subsection (3) if applied for; and (ii) that the delay in obtaining a warrant would defeat the object of the entry and search. (9) Subject to subsection (10), a radiation protection officer who removes anything from any premises under subsection (1)(i) must - (a) issue a receipt for that thing to the owner of, or to the person in control of, the premises ; and (b) return that thing as soon as practicable after achieving the purpose for which it was removed. (10) If anything was removed under subsection (1)(i) that - (a) may not be lawfully possessed by the person from whose possession it has been taken; (b) may cause harm to human beings, animals, plants or the environment; (c) has been used as an instrument or the means to commit an offence under this Act , the radiation protection officer must arrange for its safekeeping until it is dealt with under subsection (11) or section 40 (4). (11) If it is not reasonably possible to keep the thing referred to in subsection (10) without danger to any person or serious damage to property or the environment, the Director-General must cause it to be disposed of in a safe manner or cause such alterations to be made to it as he or she thinks necessary to render it harmless. (12) A radiation protection officer exercising the powers conferred by subsection (1) by virtue of a warrant or in terms of subsection (8) may be accompanied and be assisted by one or more police officers."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Chapter 5",
+      "section": "37",
+      "title": "External experts",
+      "content": "(1) The Authority may, in performing its functions under this Act , contract external experts. (2) An external expert contracted under subsection (1) must have a maximum degree of independence from persons involved in the production and use of nuclear material and radiation sources. (3) An external expert may be appointed as a radiation protection officer . Chapter 6 General provisions"
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Chapter 6",
+      "section": "38",
+      "title": "Confidentiality",
+      "content": "Every member of the Board or of a committee or the Authority and every radiation protection officer performing any functions arising from this Act must treat as confidential any information which comes to his or her knowledge in the course of the performance of his or her functions, and which is of a type ordinarily considered as being subject to professional, commercial, trade or industrial secrets, the revelation of which is not necessary for the implementation of this Act ."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Chapter 6",
+      "section": "39",
+      "title": "Appeals",
+      "content": "Subject to regulations prescribing the procedures and any time limits for such appeal, a person aggrieved by the issuing of a compliance order may appeal to the High Court against that order."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Chapter 6",
+      "section": "40",
+      "title": "Offences and penalties",
+      "content": "(1) A person who - (a) contravenes section 16 ; (b) intentionally or negligently operates, stores, transports, disposes of or abandons any radiation source in such a manner that any human being may be subject to a dangerous amount of radiation or that a substantial amount of radiation or radioactive material may be released into the environment; (c) destroys, or damages in any way or tampers with any radiation source or any equipment, facility, storage location or any other thing used in connection with a radiation source ; or (d) does any thing that causes the uncontrolled or unregulated emission of radiation which is likely to cause loss of life, significant bodily harm or serious damage to the environment or the property of any person, is guilty of an offence and is liable on conviction to a fine not exceeding N$200 000 or to imprisonment for a period not exceeding 10 years or to both such fine and such imprisonment. (2) Any person who - (a) sells a radiation source or nuclear material to another person without that other person having produced a valid licence authorising him or her to use or possess that type of radiation source or nuclear material ; (b) fails to notify the Director-General as required by section 32 or fails to provide such particulars as must be provided in terms of that section read with regulations made under section 32 (4); (c) fails or refuses to comply with a compliance order ; (d) victimises or in any manner disadvantages a radiation safety officer or withholds any benefit from him or her as a result of any action performed in pursuance of any duty imposed on a radiation safety officer by this Act ; (e) contravenes section 38 , is guilty of an offence and is liable on conviction to a fine not exceeding N$100 000 or to imprisonment for a period not exceeding five years or to both the fine and imprisonment. (3) A person who without any reasonable excuse - (a) fails or refuses to produce any register, licence, certificate, notice or other document required of him or her by a radiation protection officer , in the performance of his or her functions under this Act ; (b) in any other manner obstructs a radiation protection officer in the course of performing any act under this Act ; (c) fails or refuses to keep such records or submit such reports as may be required by or under this Act ; (d) operates, stores, transports, decommissions or disposes of a radiation source while contravening or failing to comply with any requirement, condition or duty imposed by or under this Act , is guilty of an offence and is liable on conviction to a fine not exceeding N$8 000 or to imprisonment for a period not exceeding two years, or to both such fine and such imprisonment. (4) Where any person is convicted of an offence under this section, the court convicting him or her may, in addition to any penalty that it may impose, make an order for the forfeiture, impounding, destruction, incapacitation, sealing or disposal in any manner of any radiation source or nuclear material in respect of which or with which the offence in question may have been committed."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Chapter 6",
+      "section": "41",
+      "title": "Institution of criminal proceedings",
+      "content": "The Prosecutor-General may delegate his or her power to conduct criminal proceedings in relation to any offence under this Act to the Director-General or any staff member of the Authority subject to such control and directions as the Prosecutor-General thinks fit."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Chapter 6",
+      "section": "42",
+      "title": "Transitional provision",
+      "content": "Notwithstanding anything contained in this Act , any person using radioactive materials or some other source of radiation prior to the commencement of this Act must submit an application for a licence or registration to the Director-General in the prescribed form within 90 days from the date of commencement of this Act and may continue to operate until a licence is issued or refused under this Act ."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Chapter 6",
+      "section": "43",
+      "title": "Regulations",
+      "content": "(1) The Minister may, on the recommendation of the Board , make regulations - (a) prescribing the requirements with which radiation sources and any facilities or equipment used in connection therewith must comply, for the purpose of protection against environmental pollution, or of people against exposure to radiation , and for the purpose of ensuring the safety and security of radiation sources; (b) prescribing dose limits applicable in the case of medical procedures and occupational exposures; (c) prescribing structural or other design requirements for premises used or intended to be used in connection with the installation, use or storage of radiation sources or nuclear material ; (d) prescribing safety requirements relating to facilities and installation of equipment, operating procedures and quality assurance which must be met as a precondition for registration and the safety requirements to be imposed on each registrant; (e) in general, prescribing radiation protection or radiation safety standards to be observed; (f) prescribing the exposures that are excluded from regulatory requirements on the basis of their being not amenable to regulatory control ; (g) prescribing exemption levels for classes of practices and classes of radiation sources; (h) relating to the safe transport of radiation sources and nuclear material ; (i) relating to the safe management of radioactive waste and notices required to be published for public information about disposal sites for radioactive wastes; (j) prescribing the procedures, steps and requirements to be followed when a radiation source is taken out of operation; (k) relating to radiation protection in medical exposures and the qualifications of persons who may administer any specified medical procedure involving exposure to radiation ; (l) providing that specified provisions of this Act apply to specified classes of non-ionising radiation ; (m) relating to radiation safety during extraction and processing of radioactive materials; (n) prescribing fees payable in respect of any act performed by the Authority or a radiation safety officer under this Act ; (o) prescribing duties with which persons must comply in order to ensure the security and proper accounting for nuclear material ; (p) prescribing any other matter required or permitted to be prescribed under this Act ; (q) prescribing any matter that is necessary or expedient to prescribe in order to achieve the objects of this Act . (2) Regulations made under subsection (1) must take due account of any guidelines or standards published by the International Commission on Radiological Protection, the International Commission on Non-ionising Radiation, the International Atomic Energy Agency or other relevant international organisations. (3) The Minister may incorporate the guidelines established and published by the International Atomic Energy Agency, World Health Organisation, the International Commission on Radiological Protection or the International Commission on Non-Ionising Radiation or any other standards or guidelines published by any international organisation into regulations made under this section by reference. (4) The Minister may incorporate such standards or guidelines with such amendments as he or she thinks fit."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Chapter 6",
+      "section": "44",
+      "title": "Administration of Act",
+      "content": "(1) The President may by proclamation in the Gazette - (a) assign the administration of this Act to any Minister ; (b) determine which Ministry is charged with the administration of this Act . (2) The President may in the proclamation referred to in subsection (1) - (a) determine that different provisions of this Act are administered by different Ministers; (b) determine that any power granted by this Act must be exercised by one Minister after consultation or with the concurrence of one or more other Ministers. [ section 44 brought into force on 16 May 2005 by GN 50/2005 (GG 3429)]"
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Chapter 6",
+      "section": "45",
+      "title": "Amendment of laws",
+      "content": "The Hazardous Substances Ordinance, 1974 ( Ordinance No. 14 of 1974 ) is amended as set out in the Schedule."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Chapter 6",
+      "section": "46",
+      "title": "Act to bind State",
+      "content": "This Act binds the State."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Chapter 6",
+      "section": "47",
+      "title": "Short title and commencement",
+      "content": "(1) This Act is called the Atomic Energy and Radiation Protection Act, 2005 and (except section 44 which comes into operation on the date of publication in the Gazette of this Act ) comes into operation on a date to be determined by the Minister by notice in the Gazette . (2) Different dates may be determined in respect of different provisions of this Act . Schedule (Section 44)"
+    },
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Substitution of long title of Ordinance 14 of 1974",
+      "content": "The Hazardous Substances Ordinance, 1974, (hereinafter referred to as “the Ordinance”) is amended by the substitution for the long title thereof of the following long title: “To provide for the control of substances which may cause injury or ill- health to or death of human beings by reason of their toxic, corrosive, irritant, strongly sensitizing or flammable nature or the generation of pressure thereby in certain circumstances; to provide for the division of such substances into groups in relation to the degree of danger; to provide for the prohibition and control of the importation, manufacture, sale, use, operation, application, modification, disposal or dumping of such substances; and to provide for matters connected therewith.”."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Amendment of section 1 of Ordinance No. 14 of 1974",
+      "content": "Section 1 of the Ordinance is amended by - (a) the deletion of the definition of “administration”; (b) the deletion of the definition of “Director”; (c) the deletion of the definition of “electronic product”; (d) the deletion of the definition of “electronic product radiation”; (e) the deletion of the definition of “Executive Committee”; (f) the substitution for the definition of “Group I, Group II, Group III or Group IV hazardous substance” of the following definition: “Group I or Group II [, Group III or Group IV] hazardous substance” means a substance, mixture of substances, product or material declared in terms of section 3 (1) to be a Group I or Group II [, Group III or Group IV] hazardous substance, respectively;”; and (g) the insertion after the definition of “label” of the following definition: ‘“Minister’ means the Minister responsible for health;”; (h) the insertion of the following definition after the definition of “package”: ‘“Permanent Secretary’ means the Permanent Secretary of the Ministry responsible for health;”; (i) the deletion of the definition of “radio active material”; (j) the deletion of the definition of “secretary”."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Amendment of section 3 of Ordinance No. 14 of 1974",
+      "content": "Section 3 of the Ordinance is amended by - (a) the substitution for subsection (1) of the following subsection: “(1) The Minister may, subject to the provisions of subsections (2) and (3), by notice in the Gazette , declare any substance or mixture of substances which, in the course of customary or reasonable handling or use, including ingestion, might, by reason of its toxic, corrosive, irritant, strongly sensitizing or flammable nature or because it generates pressure through decomposition, heat or other means, cause injury, ill-health or death to human beings, to be a Group I or a Group II hazardous substance.”; (b) the substitution for paragraph (a) of subsection (2) of the following paragraph: “(a) If the [Executive Committee] Minister intends to declare any substance or mixture of substances to be a Group I or Group II hazardous substance, [or any electronic product to be a Group III hazardous substance or any radioactive material to be a Group IV hazardous substance, it] he or she shall cause to be published in the [Official] Gazette a notice of [its] his or her intention to do so and in such notice invite interested persons to submit to the [Secretary] Minister any comments and representations they may wish to make in connection therewith.”."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Amendment of section 4 of Ordinance No. 14 of 1974",
+      "content": "Section 4 of the Ordinance is amended - (a) by the substitution for subsection (1) of the following subsection: “(1) Subject to the provisions of subsection (2) no person shall sell any Group I hazardous substance - (a) unless he or she is the holder of a licence issued to him or her in terms of section 5 (a); and (b) otherwise than subject to the conditions prescribed or determined by the Permanent Secretary;”; (b) by the substitution for subsection (2) of the following subsection: “(2) If a person has in his or her possession a substance immediately before the date on which it is declared to be a Group I [or a Group III] hazardous substance in terms of section 3 , he or she may, notwithstanding the provisions of subsection (1), sell, use [, operate,] or apply [or install or keep installed on any premises, as the case may be,] that substance - (a) at any time during a period of 180 days calculated from the date on which it as so declared to be such a substance; and (b) if, before the expiry of the period mentioned in paragraph (a), an application was made in terms of section 5 for a licence [or a registration] which would authorise such sale, use, [operation,] or application [or installation], at any time until such application has been finally refused in terms of this Ordinance.”."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Substitution of section 5 of Ordinance No. 14 of 1974",
+      "content": "The following section is substituted for section 5 of the Ordinance: “5. Licensing The Permanent Secretary may, on an application in the prescribed manner and on payment of the prescribed fee (if any) and subject to the prescribed conditions and further conditions as the Permanent Secretary may in each case determine, issue to any natural person a licence to carry on business as a supplier of Group I hazardous substances.”."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Substitution of section 8 of Ordinance No. 14 of 1974",
+      "content": "The following section is substituted for section 8 of the Ordinance: “8. Withdrawal or suspension of licence Subject to Article 18 of the Namibian Constitution the Minister may at any time withdraw or suspend a licence under section 5 if any condition to which such licence is subject, has not been complied with.”."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Amendment of section 9 of Ordinance No. 14 of 1974",
+      "content": "Section 9 of the Ordinance is amended - (a) by the substitution for subsection (1) of the following subsection: “(1) The Minister may appoint any person he or she may deem fit as an inspector for Group I and Group II hazardous substances, and any such inspector shall, in respect of any substance in respect of which he or she has been so appointed, and subject to the control of the Minister, be vested with the powers, duties and functions conferred or imposed on an inspector by this Ordinance.”; (b) by the repeal of subsection (2); (c) by the substitution for subsection (3) of the following subsection: “(3) Each person appointed under subsection (1) [and each person deemed under subsection (2) to have been so appointed] shall be provided with a letter of authority signed by or on behalf of the [Secretary] Minister and certifying that such person has been appointed as an inspector in terms of this Ordinance [and indicating for which groups of hazardous substances he has been so appointed].”. (d) by the substitution for subsection (4) of the following subsection: “(4) The powers, duties and functions of an inspector for Group I and Group II hazardous substances may also be exercised or performed - (a) by an officer as defined in the Customs and Excise Act, 1998 (Act No. 20 of 1998 ) authorised thereto in writing by the Minister after consultation with the Minister responsible for finance; or (b) a member of the Namibian Police.”;"
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Amendment of section 10 of Ordinance No. 14 of 1974",
+      "content": "Section 10 of the Ordinance is amended - (a) by the substitution for paragraph (a) of subsection (1) of the following paragraph: “(a) inspect or search such premises or examine, or extract, or take and remove samples of, any substance [other than a Group III or a Group IV hazardous substance] found in or upon such premises, or any appliance or other object so found which is or is suspected to be used, or destined or to be intended for use, for, in or in connection with the manufacture, packing, marking, labelling, storage, conveyance, use, application or administration of a grouped hazardous substance, or for, in or in connection with any other operation or activity with or in connection with any grouped hazardous substance, or open any package suspected to contain a grouped hazardous substance;”; and (b) by the deletion of paragraph (b)."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Amendment of section 11 of Ordinance No. 14 of 1974",
+      "content": "Section 11 of the Ordinance is amended by the repeal of subsection (2)."
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Amendment of section 27 of Ordinance No. 14 of 1974",
+      "content": "Section 27 is amended - (a) by the deletion of paragraph (d), subparagraph (iii) of paragraph (f) and paragraphs (o) to (r), inclusive; (b) by the substitution for subsection (3) of the following subsection: “(3) Different regulations may be made in respect of different types, classes or categories of grouped hazardous substances, or different classes or categories of premises, [or different classes or categories of persons in control of Group III hazardous substances or premises on which Group III hazardous substances have been installed] or different classes or categories of persons employed in connection with the operation of any Group I hazardous substance.”; and (c) by the repeal of subsection (4); [This provision ends with a semicolon in the Government Gazette .]"
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "Amendment of Ordinance No. 14 of 1974",
+      "content": "[This provision is incorrectly numbered as “12” in the Government Gazette , as reproduced below. It should be numbered “11”.] The Ordinance is amended by the substitution for - (a) “Administration”, wherever the term occurs, of “State”; (b) “Director”, wherever the term occurs, of “Permanent Secretary”; (c) “Executive Committee”, wherever the term occurs, of “Minister”; (d) “ Official Gazette ”, wherever the term occurs, of “ Gazette ”; (e) “Secretary”, wherever the term occurs, of “Minister”; (f) “Secretary for Customs and Excise”, wherever the term occurs, of “Commissioner for Customs and Excise”; and [Section 26 and section 39(11) of the Namibia Revenue Agency Act 12 of 2017 both provide that a reference in any law to the Commissioner of Customs and Excise must now be construed as a reference to the Commissioner of the Revenue Agency. This presumably also applies to references to the Commissioner for Customs and Excise.] (g) “the Territory”, wherever the term occurs, of “Namibia”. History of this document 16 January 2012 Commenced by Commencement of Atomic Energy and Radiation Protection Act, 2005 16 May 2005 this version Published in Government Gazette 3429 24 April 2005 Assented to Related documents Amends Hazardous Substances Ordinance, 1974 Is commenced by Commencement of Atomic Energy and Radiation Protection Act, 2005 Subsidiary legislation Title Decommissioning of Facilities Regulations, 2025 Government Notice 80 of 2025 Radiation Protection and Waste Disposal Regulations, 2011 Government Notice 221 of 2011 [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "accident",
+      "definition": "any event relating to a radiation source , including an operating error, equipment failure or other mishap, the consequences or potential consequences of which are not negligible from the point of view of protection or safety",
+      "source_provision": "s1"
+    },
+    {
+      "term": "authorisation",
+      "definition": "an authorisation issued under section 17 (3)",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Authority",
+      "definition": "the National Radiation Protection Authority established by section 33",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Board",
+      "definition": "the Atomic Energy Board established by section 3",
+      "source_provision": "s1"
+    },
+    {
+      "term": "chairperson",
+      "definition": "the chairperson of the Board",
+      "source_provision": "s1"
+    },
+    {
+      "term": "committee",
+      "definition": "a committee established under section 10",
+      "source_provision": "s1"
+    },
+    {
+      "term": "compliance order",
+      "definition": "an order issued under section 23",
+      "source_provision": "s1"
+    },
+    {
+      "term": "customs officer",
+      "definition": "an officer as defined in the Customs and Excise Act, 1998 (Act No. 20 of 1998 )",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Director-General",
+      "definition": "the Director-General appointed in terms of section 34",
+      "source_provision": "s1"
+    },
+    {
+      "term": "dose limit",
+      "definition": "the prescribed maximum value of the effective amount of radiation to which a person has been exposed and which is determined in the manner prescribed",
+      "source_provision": "s1"
+    },
+    {
+      "term": "medical exposure",
+      "definition": "exposure incurred by - (a) patients as part of their own medical or dental diagnosis or treatment",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister designated under section 44 (1)(a)",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Ministry",
+      "definition": "the Ministry determined under section 44 (1)(b) to be charged with the administration of this Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "notification",
+      "definition": "a notification referred to in section 17 (1)",
+      "source_provision": "s1"
+    },
+    {
+      "term": "nuclear material",
+      "definition": "- (a) plutonium (except plutonium with isotopic concentration exceeding 80% in plutonium-238)",
+      "source_provision": "s1"
+    },
+    {
+      "term": "occupational exposure",
+      "definition": "exposure of workers incurred in the course of their work, with the exception of exposures excluded from the Standards and exposures from practices or sources exempt from the Standards",
+      "source_provision": "s1"
+    },
+    {
+      "term": "practice",
+      "definition": "any human activity that introduces additional pathways of exposure to radiation or extends exposure to radiation to additional people, animals or plants or modifies the network of pathways of exposure to radiation from existing services",
+      "source_provision": "s1"
+    },
+    {
+      "term": "prescribed",
+      "definition": "prescribed by regulation, and “prescribe” must be construed accordingly",
+      "source_provision": "s1"
+    },
+    {
+      "term": "prescribed non-ionising radiation",
+      "definition": "non-ionising radiation in respect of which the provision in question has been made applicable as contemplated in section 43 (1)(l)",
+      "source_provision": "s1"
+    },
+    {
+      "term": "premises",
+      "definition": "- (a) any land, whether developed or not",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Protocol to the Safeguards Agreement",
+      "definition": "the Protocol signed between the Government of the Republic of Namibia and the International Atomic Energy Agency in Vienna on 22 March 2000",
+      "source_provision": "s1"
+    },
+    {
+      "term": "radiation",
+      "definition": "- (a) electromagnetic radiation or high energy particles that react with matter by forming ion pairs",
+      "source_provision": "s1"
+    },
+    {
+      "term": "radiation protection officer",
+      "definition": "a radiation protection officer appointed under section 33 (3)",
+      "source_provision": "s1"
+    },
+    {
+      "term": "radiation safety rules",
+      "definition": "a detailed document prepared under section 29 (2)(c) specifying how the licence holder intends to ensure the safety of workers, clients, patients, the public and the environment",
+      "source_provision": "s1"
+    },
+    {
+      "term": "radiation safety officer",
+      "definition": "a radiation safety officer appointed under section 30 (1)",
+      "source_provision": "s1"
+    },
+    {
+      "term": "radiation source",
+      "definition": "any device, radioactive material or any other material that emits radiation",
+      "source_provision": "s1"
+    },
+    {
+      "term": "radioactive material",
+      "definition": "any matter or substance containing one or more radio nuclides but does not include any material the activity or concentration of which does not exceed the prescribed exemption levels",
+      "source_provision": "s1"
+    },
+    {
+      "term": "radioactive waste",
+      "definition": "material, whatever its physical form, remaining from practices or interventions and for which no further use is foreseen - (a) that contains or is contaminated with radioactive substances and has an activity or activity concentration higher than the prescribed level",
+      "source_provision": "s1"
+    },
+    {
+      "term": "radionuclide",
+      "definition": "an atom whose nucleus undergoes radioactive decay naturally",
+      "source_provision": "s1"
+    },
+    {
+      "term": "registration",
+      "definition": "registration under section 18",
+      "source_provision": "s1"
+    },
+    {
+      "term": "regulations",
+      "definition": "regulations made under section 43",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Safeguards Agreement",
+      "definition": "the Agreement between the Government of the Republic of Namibia and the International Atomic Energy Agency for the Application of Safeguards in connection with the Treaty on the Non-Proliferation of Nuclear Weapons, signed in Vienna on 19 March 1998",
+      "source_provision": "s1"
+    },
+    {
+      "term": "safety assessment",
+      "definition": "a review of the aspects of design and operation of a source which are relevant to the protection of persons or the safety of the source concerned, including the analysis of the provisions for safety and protection established in the design and operation of the radiation source concerned and the analysis of risks associated with normal conditions and accident situations and which contains the prescribed information and the results of such studies as may be prescribed",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Standards",
+      "definition": "the standards published by the International Commission on Radiological Protection, the International Commission on Non-ionising Radiation, the International Atomic Energy Agency or other relevant international organisations, made applicable under section 43 (2) or as prescribed under section 43 (1)(e)",
+      "source_provision": "s1"
+    },
+    {
+      "term": "this Act",
+      "definition": "regulations made under the Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "transfer of a licence",
+      "definition": "the acquisition of control of the licence holder",
+      "source_provision": "s1"
+    },
+    {
+      "term": "waste",
+      "definition": "material for which no further use is foreseen",
+      "source_provision": "s1"
+    },
+    {
+      "term": "worker",
+      "definition": "a person who works and who has recognised rights and duties in relation to occupational radiation protection.",
+      "source_provision": "s1"
+    }
+  ]
+}

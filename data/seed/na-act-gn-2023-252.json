@@ -1,0 +1,38 @@
+{
+  "id": "na-act-gn-2023-252",
+  "type": "statute",
+  "title": "Regulations relating to fees payable to the Bank of Namibia, 2023",
+  "title_en": "Regulations relating to fees payable to the Bank of Namibia, 2023",
+  "short_name": "Regulations relating to fee...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/gn/2023/252/eng@2023-08-08",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "In these regulations a word or an expression to which a meaning has been assigned in the Act has that meaning, and unless the context indicates otherwise- “ the Act ” means the Payment System Management Act, 2023 (Act No. 14 of 2023 )."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Fees payable for non-refundable application fees",
+      "content": "A person who wishes to apply for a licence under section 10(1) of the Act or authorisation under section 11(3) of the Act must pay the following non-refundable fees to the Bank: (a) N$5000 for an application for a payment service provider licence; and (b) N$5000 for an application for authorisation as a payment system operator."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Methods of payment",
+      "content": "(1) The fees payable as set out in regulation 2 must be paid to the Bank by transfer into a bank account nominated by the Bank in writing from time to time. History of this document 08 August 2023 this version Published in Government Gazette 8171 Commenced 01 August 2023 Assented to Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "the Act",
+      "definition": "the Payment System Management Act, 2023 (Act No. 14 of 2023 ).",
+      "source_provision": "s1"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "id": "na-act-genn-2015-22",
+  "type": "statute",
+  "title": "Regulations in respect of Type Approval and Technical Standards for Telecommunications Equipment, 2015",
+  "title_en": "Regulations in respect of Type Approval and Technical Standards for Telecommunications Equipment, 2015",
+  "short_name": "Regulations in respect of T...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/genn/2015/22/eng@2017-11-15",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "In these regulations, any word or expression to which a meaning is assigned in the Act , shall have the same meaning and- “ accredited test laboratory ” means any laboratory accredited by its own national accreditation body or another recognised accreditation body in terms of International Organisation for Standardisation/ International Electrotechnical Commission(ISO/IEC) requirements; “ Act ” means the Communications Act, 2009 (Act No. 8 of 2009 ); “ applicant ” means a person applying for type approval of telecommunications equipment in accordance with these regulations; “ Authority ” means the Communications Regulatory Authority of Namibia as established in terms of Section 4 of the Communications Act , Act 8 of 2009 ; “ Customs ” means the Department of Customs and Excise within the Ministry of Finance. “ declaration of conformity ” means a written declaration issued by an applicant or manufacturer or supplier of telecommunications equipment in accordance with ISO/IEC 17050-1 requirements for which type approval is sought conforms to these regulations and applicable technical standards; “ electronic communications ” means any emission, transmission or reception of sound, pictures, text or any other information by wire, radio waves, optical media, electromagnetic systems or any other means of a like nature; “ electronic communications network ” means any system of electronic communications facilities, including without limitation- (a) satellite systems; (b) fixed systems (circuitand packet-switched); (c) mobile systems; (d) fibre optic cables (undersea and land-based); (e) electricity cable systems (to the extent used for electronic communications services); and (f) other transmission systems, used for conveyance of electronic communications ; “ electronic communications service ” means a service provided to the public, sections of the public, the State, or the subscribers to such service, which consists wholly or mainly of the conveyance by any means of electronic communications over an electronic communications network ; “ foreign regulatory authority ” means a regulatory authority outside Namibia, which performs the same or substantially the same functions as the Authority and whose standards are acceptable to the Authority ; “ telecommunications equipment ” means communications or networking equipment with an interface to public network or wide area network services and includes but not limited to telecommunications terminal equipment, information technology equipment (including but not limited to a digital set-top box decoder), radio communication equipment powered by means of an internal or external electrical AC/DC energy source and electronic communications network equipment. “ the website ” means the website of the Authority with URL: www.cran.na. “ type approval ” means- (a) The process undertaken by the Authority of authorising the use of telecommunications equipment in Namibia, involving the verification of such equipment’s conformity to and compatibility with the Act , applicable technical standards and other regulatory requirements; or (b) the process undertaken by the Authority of examining and testing telecommunications equipment so as to determine whether such equipment has passed performance tests and quality assurance tests, and meets qualification criteria in accordance with applicable technical standards and other regulatory requirements. “ type approval fees ” means fees relating to type approval as set out in Annexure 2 of these regulations; “ type approval certificate ” means a certificate issued by the Authority to an applicant confirming that such applicant ’s telecommunications equipment has been type approved; “ type approval register ” means a register kept by the Authority pursuant to section 27 of the Act that contains basic technical and compliance information on all type approved telecommunications equipment , including any conditions the Authority attached to such type approval ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Submission of documents to the Authority",
+      "content": "In these regulations “submit in writing to the Authority ” means either physically or electronically- (1) by hand to the head offices of the Authority , namely Communication House, 56 Robert Mugabe Avenue, Windhoek; (2) by post to the head offices of the Authority , namely Private Bag 13309, Windhoek 9000; (3) by electronic mail to the following address: operations@cran.na ; (4) by facsimile to the following facsimile number: +264 61 222 790; or (5) in any other manner or at alternative addresses set out by the Authority from time to time."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Purpose",
+      "content": "(1) The purpose of these regulations is to establish a type approval procedure to ensure that- (a) telecommunications equipment used in Namibia comply with international standards applicable in Namibia; (b) no sub-standard equipment which may represent health and safety hazards to consumers in general are operated in Namibia; [The verb “are” should be “is” to be grammatically correct.] (c) consumers are protected from products that are incompatible with local networks; and (d) the operating frequency of telecommunications equipment , generally and radio apparatus in particular are in conformance with the national frequency band plan in Namibia so that no harmful interference is caused to essential services."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Applicability",
+      "content": "(1) These regulations apply to- (a) all persons (whether legal or natural persons) who use, sell, offer for sale or connect telecommunications equipment to an electronic communications network within the Republic of Namibia; and (b) all telecommunications equipment used, sold, offered for sale or connected to an electronic communications network within the Republic Namibia. (c) all radio communications equipment or apparatus’ pursuant to the Regulations regarding Licence Exempt Spectrum published in Government Gazette No. 4839, General Notice No. 395 dated 25 November 2011. (2) These Regulations shall bind the State."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Telecommunication equipment requiring type approval",
+      "content": "(1) Any person or entity who intends to- (a) connect telecommunications equipment to an electronic communication network in Namibia for purposes of electronic communications ; (b) use, sell or offer for sale telecommunications equipment within the Republic of Namibia. must apply for type approval to the Authority in respect of such telecommunications equipment prior to the use, connection, sale or re-sale thereof within the Republic of Namibia. (2) Notwithstanding sub-regulation (1), telecommunications equipment that is temporarily imported into Namibia for re-export does not require type approval . (3) All telecommunications equipment type approved by the former Namibian Communications Commission (NCC) in respect of which type approval certificates were issued should be submitted to the Authority for a re-assessment within six (6) from xxxxxxxxx of these regulations in order to be transitioned and be type approved in terms of the Act and these regulations. [This regulation appears to be incomplete. The “xxxxxxxxx” appears to have been intended as a placeholder for a date which was never filled in.]"
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Registration of supplier",
+      "content": "(1) An applicant will be registered as a supplier of telecommunications equipment on the database of the Authority upon approval of such Applicant’s application for type approval . (2) Registration of an applicant as supplier will happen once the supplier of telecommunications equipment applies for type approval for such equipment. (3) Suppliers must inform the Authority if any of their registration details have changed within fourteen (14) days from the date when such registration details have changed."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Application procedures",
+      "content": "(1) An applicant must submit an application on Form 1 set out in Annexure 1 of these Regulations in respect of telecommunications equipment requiring type approval . (2) An application for type approval must be accompanied by- (a) personal identification, a certificate of incorporation or a valid trade licence in the name of the applicant ; (b) a declaration of conformity in accordance with regulation 7; (c) technical, physical, operational, installation and user information; (d) software and firmware numbers of the telecommunications equipment being type approved; (e) all other documentation as required by Part 5 of the application form; (f) proof of payment of the applicable type approval fees as stipulated in Annexure 2. (3) All copies of original documents submitted to the Authority in respect hereof should be certified copies, which has been certified by a Commissioner of Oath. (4) The Authority may require an applicant to submit additional information as proof of complying with the applicable technical standards. (5) An application form is not complete unless accompanied by the documents required in terms of sub-regulation (2) and where applicable, sub-regulation (4). (6) In addition to the requirements of sub-regulation (2), the Authority may request an applicant for a sample of the telecommunications equipment requiring type approval for examination and testing to determine whether such equipment has passed performance tests and quality assurance tests, and meets the qualification criteria in accordance with applicable technical standards and other regulatory requirements. (7) Samples of telecommunications communications equipment referred to in subregulation (6) must be- (a) in good and proper working condition; (b) properly configured for testing, complete with the necessary test adaptors, and (c) clearly marked with the trade name, model and serial number. (8) If the Authority requires clarification in respect of technical details or other specifications of the telecommunications equipment requiring type approval , or any other information or documentation required in terms hereof, the Authority may require the applicant to provide such clarification within fourteen (14) days from the date of such request by the Authority . (9) The Authority will not be able to consider an application for type approval favourably if the applicant fails to respond to a request for clarification contemplated by sub-regulation (8) or fails to respond within the timeframe specified by the Authority . (10) If an application for type approval does not comply with criteria and / or requirements as contained in these regulations the Authority must reject the application and notify the applicant in which respects the application is non-compliant. (11) An unsuccessful applicant may address any non-compliance and submit a new application for type approval in terms of the procedures provided for in these regulations. (12) If the Authority is satisfied that all the requirements of these regulations have been met, the Authority may issue a type approval certificate to the successful applicant , subject to such conditions that the Authority may impose. (13) The type approval certificate referred to in sub-regulation (12) shall contain a registration number. (14) All type approved telecommunications equipment must be entered on the type approval register which the Authority will publish on its website from time to time. (15) If type approved telecommunications equipment undergoes a change of model, design, function and/or specifications, the type approval certificate will no longer be valid for the telecommunications equipment that underwent such change of model, design and/or specifications. (16) A type approval certificate is no longer valid, if in terms of sub-regulation (15), the telecommunications equipment that underwent a change of model, design, function or specifications will require to be type approved in terms of these regulations."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Declaration of conformity and criteria for approval",
+      "content": "(1) The Authority may accept a declaration of conformity by an applicant if accompanied by a certified copy of test reports and data issued by an accredited test laboratory confirming conformity of the telecommunications equipment for which type approval is sought with the applicable technical standards. (2) In an application for type approval , the applicant must submit the test reports and data referred to in sub-regulation (1) without any modification whatsoever. (3) In assessing an application for type approval , the Authority will take into account whether the test reports and data referred to in sub-regulation (1) were submitted and accepted by a foreign regulatory authority . (4) The Authority shall not have regard to any test report and data accompanying a declaration of conformity in terms of sub-regulation (1) if such report and data are older than 5 years. (5) The Authority may regard a declaration of conformity and its accompanying test reports and data as valid if such declaration, test report and data were prepared for the telecommunications equipment for which application for type approval is made and if no modification to the equipment was made following the completion of the test reports. (6) The Authority is under no obligation to accept the test reports and may at its sole discretion require equipment to undergo another test"
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Decision by the Authority",
+      "content": "(1) The Authority shall consider only complete applications for type approval and make a decision as to whether the application is approved or not, withinfourty (40) days from the date of the submission of the application to the Authority by the Applicant. [The word “withinfourty” should be “within forty”.] (2) The Authority should determine and/ or confirm whether the telecommunications equipment , for which type approval is applied for, complies with the required technical standards in respect of that particular telecommunications equipment . (3) In the event that an application for type approval has been approved by the Authority , such decision shall in addition, be published on the official website of the Authority with the reasons for its decision, within seven (7) days from the date that the decision has been made. (4) In the event that an application for type approval has been approved by the Authority , such applicant shall then be accordingly issued with a type approval certificate by the Authority ."
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Effect of successful application for type approval",
+      "content": "(1) The exclusive right to use the registration number for type approved telecommunications equipment belongs to the person or entity to whom a type approval certificate has been issued. (2) Any other person may import or sell telecommunications equipment of the same brand name and model number as type approved telecommunications equipment only if such person obtained the prior written consent of the holder of the type approval certificate in respect of such type approved equipment or such person obtained a type approval certificate therefor. (3) The holder of a type approval certificate may only use, sell, offer for sale or connect telecommunications equipment to an electronic communications network which are identical in all material respects to the type approved telecommunications equipment in respect of which the type approval certificate has been issued. (4) A type approval certificate is not transferable to any other natural person or juristic person except with the prior written approval of the Authority . (5) After registration, any telecommunications equipment sample submitted at the request of the Authority may be returned to the applicant but the Authority may retain any related documents for reference purposes. (6) A type approval certificate is ordinarily valid for a period of three (3) years and may be renewed by the Authority at the written request of the holder of such certificate within a period of not less than thirty (30) days and not more than sixty (60) days prior to the date upon which the certificate will lapse after the three years validity period; and upon the submission of such documents as the Authority may require provided that- (a) no modification in respect of the model, design, function, or other information recorded in the type approval certificate or type approval register is made to the type approved telecommunications equipment ; (b) no significant changes are made to the technical specifications of the type approved telecommunications equipment , including but not limited to- (i) the operating frequency band; and (ii) RF power and technical standards upon which the telecommunications equipment was type approved. (7) Neither the grant of type approval , nor the acceptance of test results in terms of these regulations may not be construed as a guarantee by the Authority for the proper functioning, performance or quality of the type approved telecommunications equipment . [There is a grammatical error in subregulation (7). The word “not” in the phrase “may not be construed” should probably be deleted to eliminate the illegal double negative.] (8) The holder of a type approval certificate must ensure that the type approved telecommunications equipment inter-connects properly with electronic communication networks in Namibia. (9) The Authority shall not be liable for interference caused to other equipment, injury, loss of life or damage to property arising from the direct or indirect use of the type approved telecommunications equipment . (10) A network operator may not refuse connection of type approved telecommunications equipment unless there are reasonable grounds, as determined by the Authority , that such connection should be refused."
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "Monitoring compliance and inspections",
+      "content": "(1) The Authority may perform market surveillance activities from time to time in accordance with the provisions of Chapter X of the Act . (2) The holders of type approval certificates must cooperate in such activities and may be required by the Authority to provide, without charge to the Authority , samples of telecommunications equipment and documentation. (3) If any person is found to be in non-compliance with these regulations or the applicable technical standards, the person must forthwith cease to use, sell or offer for sell or connect the telecommunications equipment to an electronic communications network or type of telecommunications equipment concerned and dispose thereof at their own expense as directed by the Authority . (4) The Authority may seize non type approved telecommunications equipment that does not comply with applicable technical standards or these regulations or that belongs to a category of telecommunications equipment for which type approval is required as contemplated in these regulations and that has not been so approved."
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "Revocation of type approval certificate",
+      "content": "(1) Where the Authority is satisfied upon an investigation conducted in terms of Chapter X of the Act that- (a) any information provided to the Authority by the holder of a type approval certificate is found to be counterfeited or false; (b) type approved telecommunications equipment does not comply with applicable technical standards or these regulations; (c) there is a breach of any condition endorsed on the type approval certificate ; (d) type approved telecommunications equipment is causing or likely to cause harmful interference to an electronic communications network or is a risk to human health or the environment, the Authority may by written notice to the holder of a type approval certificate inform such holder that the Authority intends to cancel the type approval certificate , and in such notice state the grounds for such intended action and require the holder of the type approval certificate to cease the distribution and selling of such equipment with immediate effect. (2) A holder of a type approval certificate may, within fifteen (15) days from the date of receipt of a notice referred to in sub-regulation (1), make written representations to the Authority on good cause shown as to why the certificate should not be cancelled. (3) After consideration of the representations referred to in sub-regulation (2) or, if no such representations have been made, upon the expiry of the period mentioned in that sub-regulation, the Authority may - (a) if the Authority is satisfied that it is just and equitable to do so in the particular case, by written notice to the registered holder of a type approval certificate withdraw the notice referred to in sub-regulation (1); or (b) by written notice to the holder of the type approval certificate cancel the certificate. (4) All telecommunications equipment that is the subject of a cancelled type approval certificate must be withdrawn from the market at the cost of the holder of the cancelled certificate within thirty (30) days from the date of receipt of the written notice referred to in paragraph (b) of sub-regulation (3)."
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "Fees",
+      "content": "(1) The Authority will charge type approval fees in accordance with Annexure 2 of these regulations which shall be applicable per equipment category as indicated in Annexure 2 hereof. (2) All fees are payable in advance and are non-refundable. (3) The fees set out in Annexure 2 will be adjusted in accordance with the Consumer Price Index as published by the Namibia Statistics Agency from time to time or such other percentage determined by the Authority . (4) Fees adjusted annually as contemplated in sub-regulation (3) must be published annually in the Government Gazette by the Authority ."
+    },
+    {
+      "provision_ref": "s14",
+      "section": "14",
+      "title": "Prohibited telecommunications equipment",
+      "content": "(1) The Authority may from time to time publish a list of prohibited telecommunications equipment on its website. (2) No person may import, sell, offer for sale or connect telecommunications equipment appearing on the list referred to in sub-regulation (1). (3) The Authority may in conjunction with relevant Government agencies restrict the importation of any telecommunications equipment into Namibia, where the Authority is satisfied that such equipment may cause damage or harmful interference to electronic communications networks or poses a risk to public health and safety or the environment. (4) An applicant , being a natural and/or legal person, who intends to use, sell, offer for sale or connect telecommunications equipment to an electronic communications network within the Republic of Namibia, shall not be allowed to import such telecommunications equipment into the Republic of Namibia without a type approval certificate issued by the Authority ."
+    },
+    {
+      "provision_ref": "s15",
+      "section": "15",
+      "title": "Amendment of technical standards",
+      "content": "(1) Whenever technical standards are amended, the holder of such type approved telecommunications equipment must ensure that such equipment is re-assessed by the Authority to determine if due to the amended standard, the equipment requires further type approval in terms of these regulations. (2) If the equipment referred to in sub-regulation (1) requires further type approval , an application must be made to the Authority in this regard in terms of regulation 7 hereof before the date when the amended technical standards comes into operation and subject to regulation 13 of these regulations."
+    },
+    {
+      "provision_ref": "s16",
+      "section": "16",
+      "title": "Non-compliance, Offences and Enforcement",
+      "content": "[The capitalisation of this heading is reproduced as it appears in the Government Gazette .] (1) It shall be the duty of every person who uses, sells, offers for sale or connects to an electronic communication network any telecommunications equipment requiring type approval in terms of these regulations to ensure that such equipment is type approved by the Authority and complies with the provisions of the Act and these regulations. (2) The Authority will prosecute regulatory offences and enforce the provisions of these regulations in terms of sections 114 to 127 of the Act where applicable."
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "Oral Hearings",
+      "content": "[The capitalisation of this heading is reproduced as it appears in the Government Gazette .] (1) If the Authority considers it necessary and appropriate, it will also hear oral submissions in respect of applications made in terms of these regulations. (2) The Authority will invite the public, at least fourteen (14) days prior to the hearing, to make oral submissions. (3) Unless otherwise specified by the Authority , such hearings will be open to the public. (4) The format and agenda of the hearing is at the discretion of the Authority , depending on the nature of the proceedings, provided however, that the hearing should be informal in nature. (5) All oral submissions must- (a) include a statement indicating the name and contact details of the person making the oral submission and the name and contact details of the person for whom the oral submission is made, if different; (b) be clear and concise; and (c) conform to any further requirements determined by the authority from time to time. (6) If the Authority considers it necessary, it will provide the opportunity to the Applicant to respond to oral submissions. (7) The Authority may request further oral or written submissions, for example, further information or clarification, which must be provided to the Authority in the time and in the manner as set out in regulation 7(8) and regulation 2 respectively in these regulations. (8) At the conclusion of the hearing, a concise report summarizing the oral submissions must be prepared and placed in the relevant application file by the Authority ."
+    },
+    {
+      "provision_ref": "s18",
+      "section": "18",
+      "title": "Condonation",
+      "content": "(1) In the event an applicant is unable to comply with any time set out in these regulations, it may request from the Authority an extension of time at least seven (7) days prior to the time set out or within such other time period agreed by the Authority upon good cause shown. (2) The Authority will respond to the request for condonation as soon as practicable, and may at its sole discretion either grant or deny the request, in its sole discretion, based on, among other things, the nature of the information and the reasons for non-compliance with the time set out."
+    },
+    {
+      "provision_ref": "s19",
+      "section": "19",
+      "title": "Ex parte communications",
+      "content": "[The phrase “ ex parte ” does not appear in italics in the Government Gazette .] (1) A person may not communicate with the members of the Board, the CEO or staff members of, or consultants to the Authority , to discuss the subject matter of an application proceeding in terms of these regulations, except as provided for herein."
+    },
+    {
+      "provision_ref": "s20",
+      "section": "20",
+      "title": "Record of proceedings",
+      "content": "(1) All documents deemed relevant by the Authority to the application proceedings contemplated by these regulations, including information and documentation provided in terms of these regulations and decisions made by the Authority , must be maintained by the Authority separately for each application in files located at the Head offices of the Authority and, if practicable, on the Authority ’s website. (2) Except for information deemed to be confidential in terms of section 28 of the Act , any person may examine the application proceeding files either at the Head offices of the Authority during normal business hours and copies may be made on payment of a fee determined by the Authority from time to time, and, if available, on the Authority ’s website where copies may be downloaded free of charge."
+    },
+    {
+      "provision_ref": "s21",
+      "section": "21",
+      "title": "Reconsideration",
+      "content": "(1) The Authority may, on its own motion, reconsider any decision made in terms of these regulations within ninety (90) days from the date of making decision. (2) Any person may submit to the Authority in writing a request to reconsider any decision made in terms of these regulations within thirty (30) days from the date that the decision has been made, and the Authority may reconsider the decision within ninety (90) days from the date that the decision has ben made. [The word “been” in the phrase “the decisions has been made” is misspelt in the Government Gazette , as reproduced above.] (3) The Authority may publish its decision on reconsideration in terms of the provisions of these Regulations. Annexure 1 Forms [Editorial note: The forms have not been reproduced.] Annexure 2 TYPE APPROVAL FEES EQUIPMENT CATEGORY EQUIPMENT INCLUDED IN THIS CATEGORY FEES (N$) Radio Transmitter Equipment Community Radio Transmitter 1,000.00 Call Monitoring Equipment Call metering unit 250.00 Call monitoring unit 250.00 Call barring unit 250.00 Call recording unit 250.00 Subscriber private meter 250.00 Data Equipment Modem 450.00 Router 450.00 Switch 450.00 Packet Assembler/Disassembler (PAD) 450.00 Multiplexer (MUX) 450.00 Facsimile Equipment All types 450.00 Network Equipment Microwave transmitter 3,000.00 Base Station transmitter 3,000.00 Network Management System 3,000.00 Paging Equipment All types 450.00 Payphone Terminal Equipment All types 450.00 Private Exchange Equipment Private Manual Branch Exchange (PMBX) 1,500.00 Private Manual Branch Exchange (PABX) 1,500.00 Voice messaging system 1,500.00 Switchboard equipment 1,500.00 Media convergence server 1,500.00 Radio Communications Equipment High Frequency (HF) 450.00 Very High Frequency (VHF) 450.00 Ultra-Hugh Frequency (UHF) 450.00 Radio alarm transmitter 450.00 Citizen band 450.00 Amateur 450.00 Satellite Earth Terminal Global Mobile Personal Communications Services (GMPCS) terminal (with ITU MoU Mark) 100.00 Global Mobile Personal Communications Services (GMPCS) terminal (without ITU MoU Mark) 450.00 Very Small Aperture Terminal (VSAT) 1,500.00 Short Range Devices/Low power terminals Access control (including door and gate openers) 250.00 Alarms and movement detectors 250.00 Closed-circuit television (CCTV) 250.00 Cordless audio devices, including wireless microphones 250.00 Industrial control 350.00 Local Area Networks 350.00 Medical implants 350.00 Ultra-Wideband (UWB) Sensors & Radars (such as ground probing radar) 250.00 Remote control 250.00 Radio frequency identification (RFID) 250.00 Road Transport Telematics 250.00 Bluetooth Devices 250.00 Car Radios 250.00 Telemetry. [superfluous full stop] 250.00 Telephone Terminal Equipment Ordinary telephone 250.00 Executive telephone 250.00 Cordless telephone 250.00 Answer machine integrated into the telephone 250.00 2 line Executive telephone 450.00 Cordless executive telephone 450.00 Intelligent executive telephone 450.00 Answering machine unit 450.00 Global System for Mobile (GSM) terminal 450.00 Code Division Multiple Access (CDMA) terminal 450.00 Digital Set-Top Box All Types 450.00 Voice Over Internet Protocol (VOIP) Network Equipment E1 interface card 2,500.00 VoIP gateway 2,500.00 IP terminal 2,500.00 WiMAX terminal All types 450.00 Annexure 3 Forms [Editorial note: The forms have not been reproduced.] History of this document 15 November 2017 this version Consolidation 03 August 2015 Commenced 30 January 2015 Published in Government Gazette 5659 Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "accredited test laboratory",
+      "definition": "any laboratory accredited by its own national accreditation body or another recognised accreditation body in terms of International Organisation for Standardisation/ International Electrotechnical Commission(ISO/IEC) requirements",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Act",
+      "definition": "the Communications Act, 2009 (Act No. 8 of 2009 )",
+      "source_provision": "s1"
+    },
+    {
+      "term": "applicant",
+      "definition": "a person applying for type approval of telecommunications equipment in accordance with these regulations",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Authority",
+      "definition": "the Communications Regulatory Authority of Namibia as established in terms of Section 4 of the Communications Act , Act 8 of 2009",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Customs",
+      "definition": "the Department of Customs and Excise within the Ministry of Finance. “ declaration of conformity ” means a written declaration issued by an applicant or manufacturer or supplier of telecommunications equipment in accordance with ISO/IEC 17050-1 requirements for which type approval is sought conforms to these regulations and applicable technical standards",
+      "source_provision": "s1"
+    },
+    {
+      "term": "electronic communications",
+      "definition": "any emission, transmission or reception of sound, pictures, text or any other information by wire, radio waves, optical media, electromagnetic systems or any other means of a like nature",
+      "source_provision": "s1"
+    },
+    {
+      "term": "electronic communications network",
+      "definition": "any system of electronic communications facilities, including without limitation- (a) satellite systems",
+      "source_provision": "s1"
+    },
+    {
+      "term": "electronic communications service",
+      "definition": "a service provided to the public, sections of the public, the State, or the subscribers to such service, which consists wholly or mainly of the conveyance by any means of electronic communications over an electronic communications network",
+      "source_provision": "s1"
+    },
+    {
+      "term": "foreign regulatory authority",
+      "definition": "a regulatory authority outside Namibia, which performs the same or substantially the same functions as the Authority and whose standards are acceptable to the Authority",
+      "source_provision": "s1"
+    },
+    {
+      "term": "telecommunications equipment",
+      "definition": "communications or networking equipment with an interface to public network or wide area network services and includes but not limited to telecommunications terminal equipment, information technology equipment (including but not limited to a digital set-top box decoder), radio communication equipment powered by means of an internal or external electrical AC/DC energy source and electronic communications network equipment. “ the website ” means the website of the Authority with URL: www.cran.na. “ type approval ” means- (a) The process undertaken by the Authority of authorising the use of telecommunications equipment in Namibia, involving the verification of such equipment’s conformity to and compatibility with the Act , applicable technical standards and other regulatory requirements",
+      "source_provision": "s1"
+    },
+    {
+      "term": "type approval fees",
+      "definition": "fees relating to type approval as set out in Annexure 2 of these regulations",
+      "source_provision": "s1"
+    },
+    {
+      "term": "type approval certificate",
+      "definition": "a certificate issued by the Authority to an applicant confirming that such applicant ’s telecommunications equipment has been type approved",
+      "source_provision": "s1"
+    },
+    {
+      "term": "type approval register",
+      "definition": "a register kept by the Authority pursuant to section 27 of the Act that contains basic technical and compliance information on all type approved telecommunications equipment , including any conditions the Authority attached to such type approval .",
+      "source_provision": "s1"
+    }
+  ]
+}

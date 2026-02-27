@@ -1,0 +1,44 @@
+{
+  "id": "na-act-gn-1996-272",
+  "type": "statute",
+  "title": "General Regulations, 1996",
+  "title_en": "General Regulations, 1996",
+  "short_name": "General Regulations, 1996",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/gn/1996/272/eng@2017-11-15",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "In these regulations, unless the context otherwise indicates, any word or expression defined in the Act shall have that meaning, and- “ the Act ” means the Agricultural (Commercial) Land Reform Act, 1995 (Act 6 of 1995 )."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Particulars to be furnished in connection with an offer to sell agricultural land to the State",
+      "content": "An offer to sell agricultural land to the State, as required by section 17 of the Act , shall contain or be accompanied by a statement containing the following information: (a) The name, nationality, postal address, business address and telephone number of the owner of the land; [The word “the” at the beginning of paragraph (a) should not be capitalised.] (b) a description of the location of the land, with reference to the road along or in the vicinity of which it is situated, the nearest town and the distance from, and direction of situation in relation to such town, and any other information that may assist in locating the land; (c) whether the owner is residing on the land and the period for which he or she has been residing thereon, and if the owner is not personally resident on the land, particulars as to the management of the farming or other operations carried on upon the land; (d) if a person other than the owner is entitled to the beneficial occupation of the land, the name and address of such person and the nature and particulars of the right under which that person occupies the land; and (e) the present land use, with reference to- (i) the nature of the farming or other operations being carried on upon the land; (ii) the dimensions of areas comprising- (aa) cultivated land; (bb) orchards; (cc) vineyards; (dd) commercial plantations; and (ee) grazing-land; with an indication in each case of the extent of such area which is arid land or under irrigation; (iii) the number of livestock, large and small, currently kept on the land; and (iv) the carrying capacity for livestock, and the natural grazing conditions; (f) particulars of water resources on or available to the land, including dams weirs, boreholes, reservoirs and other fixed works in connection with the development and use of water on the land as well as information concerning- (i) the State Water Control Area in which the land is situated; (ii) if a permit is held in relation to the use of water, the number and date of issue of such permit and the quantity of water to which the land is entitled per year thereunder; (iii) the number of hectares permitted to be irrigated under any irrigation scheme which may be applicable to the land; (g) a description of all buildings and structures on the land, including the materials of construction and approximate areas thereof and, if known, the year of their erection or construction; (h) particulars of other developments on the land, including soil conservation and irrigation works, grazing camps, and the nature and distance of boundary and other fencing; (i) whether any exploration or mining operations are being carried on upon the land and, where applicable, the nature of such operations and, if known, the type of licence under which the operations are carried on and the name and address of the holder of the licence; (j) particulars of any interest, lease, right of occupation or any other encumbrance affecting the land, the name and address of every person entitled to the benefit thereunder and, if available, a copy of the deed or other instrument embodying such interest, lease, right or encumbrance; (k) the number of employees and their family members residing on the land; and (l) any other information which the owner considers necessary or relevant to mention in connection with the offer to sell."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Certificate of waiver",
+      "content": "A certificate of waiver referred to in section 16 of the Act shall be in the form set out in Form 1 in the Annexure."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Application for option to purchase a farming unit",
+      "content": "An application for an option to purchase a farming unit in terms of section 47(2) of the Act shall be in the form set out in Form 2 in the Annexure. Annexure Forms [Form 1 is substituted by GN 243/2001 and by GN 181/2005 . Form 1A and Form 4 may have been intended to be inserted “after Form 3” by GN 120/2014 – which states that it is amending another set of regulations, but seems by virtue of its subject matter to have been intended as an amendment to these regulations. There is no “Form 3” in either these regulations or in the regulations identified by GN 120/2014 as the ones being amended. It is possible that the forms in question were intended to be inserted after Form 2 of these regulations.] [Editorial note: The forms have not been reproduced.] History of this document 15 November 2017 this version Consolidation 17 October 1996 Published in Government Gazette 1426 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "the Act",
+      "definition": "the Agricultural (Commercial) Land Reform Act, 1995 (Act 6 of 1995 ).",
+      "source_provision": "s1"
+    }
+  ]
+}

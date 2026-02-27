@@ -1,0 +1,281 @@
+{
+  "id": "na-act-gn-2010-70",
+  "type": "statute",
+  "title": "Regulations relating to Import and Export of Aquatic Organisms and Aquaculture Products, 2010",
+  "title_en": "Regulations relating to Import and Export of Aquatic Organisms and Aquaculture Products, 2010",
+  "short_name": "Regulations relating to Imp...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/gn/2010/70/eng@2017-11-15",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Definitions",
+      "content": "In these regulations a word or expression to which a meaning has been assigned in the Act has that meaning, and unless the context indicates otherwise- “ approved ” means approved by the Minister; “ aquatic organisms ” or “aquaculture products” includes genetically modified “aquatic organisms” or “aquaculture products”; “ Aquaculture (Licensing) Regulations ” means the Aquaculture (Licensing) Regulations published under Government Notice No. 246 of 03 December 2003; “ audit ” means an evaluation to determine the degree of compliance of quarantine facilities with the standards set out in Annexure G or H; “ biosecurity clearance ” means a letter signed by the competent authority releasing aquatic organisms from quarantine detention, and in the case of aquatic organisms released from an introductions and transfers quarantine facility, specifying risk management measures to be complied with; “ competent authority ” means- (a) in the case of Namibia, the Minister; and (b) in the case of any other country, the authority responsible for the control and supervision of the implementation of health measures relating to aquatic organisms ; “ exporter ” means a person registered as an exporter of aquatic organisms or aquaculture products in terms of regulation 17; “ exporting country ” means a country from which a shipment is send to a destination in another country; “ export permit ” means a permit issued in terms of regulation 19; “ health certificate ” means a certificate issued by a competent authority confirming the health status of a aquatic organisms or aquaculture product; [The phrase “a aquatic organisms” is grammatically incorrect; it should probably be “an aquatic organism”.] “ importer ” means a person registered as an importer of aquatic organisms in terms of regulation 4; “ importing country ” means a country that is the final destination to which a shipment is sent; “ import permit ” means a permit issued in terms of regulation 7; “ introduction ” means the human assisted movement of aquatic organisms and aquaculture products to an area outside their natural range; “ laboratory ” means a laboratory approved by a competent authority for conducting tests on aquatic organisms and aquaculture products; “ operator ” means a person who, in terms of regulation 14, is approved or holds a licence to operate a quarantine facility; “ quarantine ” means the holding or rearing of aquatic organisms and aquaculture products under conditions that prevent their escape, and the escape of any pathogens the aquatic organisms and aquaculture products may be carrying, into the surrounding environment; “ quarantine officer ” means- (a) in the case of Namibia, a person designated by the Minister as a quarantine officer; and (b) in the case of any other country, a person designated by the competent authority to regulate the operation of a quarantine facility; “ risk assessment ” means the process of identifying and estimating the risks associated with the importation of aquatic organisms and aquaculture products and evaluating the consequences of risks; “ risk management measures ” means measures developed as a result of risk assessment to prevent the transfer of infectious agents as a result of movement of aquatic organisms and aquaculture products; “ shipment ” means a shipment of aquatic organisms or aquaculture products; “the Act” means the Aquaculture Act, 2002 (Act No. 18 of 2002 ); “ transfer ” means the movement of aquatic organisms or aquaculture products to an area within the established or historical range of the species. Part II – IMPORT OF AQUATIC ORGANISMS"
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part II",
+      "section": "2",
+      "title": "Requirements for import of aquatic organisms",
+      "content": "A person intending to import aquatic organisms must register as an importer and apply for an import permit in terms of these regulations."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part II",
+      "section": "3",
+      "title": "Application for registration as importer",
+      "content": "An application for registration as an importer must be made to the Minister in the form substantially corresponding with Annexure A."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Decision on application for registration as importer",
+      "content": "The Minister must consider an application made in terms of regulation 3, and may- (a) approve the application and issue to the applicant registration as an importer in the form substantially corresponding with Annexure B; or (b) refuse the application."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Application for import permit",
+      "content": "(1) An application for an import permit must be made to the Minister in the form substantially corresponding with Annexure C. (2) A person intending to import aquatic organisms for the purpose of introduction or transfer must apply, in terms of regulation 21 of the Aquaculture (Licensing) Regulations , for a permit to introduce or transfer aquatic organisms ."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Risk assessment",
+      "content": "(1) Before making a decision on an application for an import permit , the Minister may require an applicant to carry out a risk assessment in respect of the aquatic organisms to be imported. (2) An assessment referred to in subregulation (1), must be carried out in accordance with the law or policy relating to environmental assessment."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "Decision on application for import permit",
+      "content": "The Minister must consider an application for an import permit , taking into account findings of a risk assessment carried out in terms of regulation 6, and may- (a) approve the application and issue to the applicant an import permit in the form substantially corresponding with Annexure D; (b) approve the application, subject to condition that the applicant complies with further risk management measures , which may include- (i) the quarantine , in the exporting country , of the aquatic organisms to be imported; (ii) diagnostic testing of the aquatic organisms to be imported to ensure that the organisms are free from diseases; or (iii) the issuing of a health certificate by the competent authority of the exporting country ; or (c) refuse the application."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part II",
+      "section": "8",
+      "title": "Conditions relating to import of certain aquatic organisms",
+      "content": "The Minister may only approve an application for an import permit - (a) relating to the import of aquatic organisms listed in Annexures I or J; or (b) relating to the import of aquatic organisms approved for introduction or transfer , if the applicant is an operator of an quarantine facility or has contractual access to a quarantine facility. [The phrase “an quarantine facility” is grammatically incorrect. The word “an” should be “a”. ]"
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part II",
+      "section": "9",
+      "title": "Additional requirements",
+      "content": "An importer must comply with additional importing requirements that are required by law. Part III – INSPECTION"
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part III",
+      "section": "10",
+      "title": "Documents to accompany shipment",
+      "content": "An imported shipment must be accompanied by- (a) a copy of the bill of lading; (b) the import permit ; and (c) a copy of the health certificate , if required under regulation 7(b)."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part III",
+      "section": "11",
+      "title": "Inspection and transfer of shipment",
+      "content": "(1) At the port of entry, an inspector or any other person authorised by law must carry out an inspection of an imported shipment , in order to- (a) determine the place of origin of the shipment ; (b) determine the nature and quantity of the shipment ; and (c) identify the presence of any mortalities or clinical signs of diseases. (2) An inspector or the person referred to in subregulation (1) may, if he or she considers it necessary and in the exercise of his or her powers, collect samples of a life aquatic organism for laboratory analysis or to confirm the identity of the organism. (3) An inspector or the person referred to in subregulation (1) must, after carrying out an inspection in terms of subregulation (1) or (2), re-seal the shipment with an approved seal and transfer the shipment to the custody of an operator who must secure the transportation of the shipment under quarantine conditions to the required quarantine facility."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part III",
+      "section": "12",
+      "title": "Costs",
+      "content": "The importer is responsible for the costs, if any, of an inspection, quarantine diagnostics tests, treatment, destruction or disposal of an infected aquatic organism. Part IV – QUARANTINE FACILITIES"
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part IV",
+      "section": "13",
+      "title": "Application for licence to operate quarantine facility",
+      "content": "(1) A person may not operate a quarantine facility, except in accordance with a licence issued or an approval granted in terms of regulation 14. (2) A person intending to operate a quarantine facility for- (a) aquatic organisms listed in Annexure I, must apply to the Minister for a licence in the form substantially corresponding with Annexure E. (b) purposes of introduction or transfer , must apply in writing to the Minister for approval to operate such a facility. (3) A quarantine facility for- (a) aquatic organisms listed in Annexure I; and (b) introduction or transfer , must comply with the standards set out in Annexures G and H, respectively."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part IV",
+      "section": "14",
+      "title": "Decision on application to operate quarantine facility",
+      "content": "The Minister must consider an application made in terms of regulation 13, taking into account the standards set out in Annexure G and H, and may - (a) in the case of an application for a licence referred to in regulation 13 2(a) approve the application and issue a licence to the applicant in the form substantially corresponding with Annexure F; (b) in the case of a request for approval referred to in regulation 13 2(b) grant the request and issue to the applicant an approval of request; (c) approve the application or request, on condition that the applicant complies with additional conditions the Minister may consider necessary to impose; or (d) refuse the application. Part V – EXPORT OF AQUATIC ORGANISMS OR AQUACULTURE PRODUCTS"
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part V",
+      "section": "15",
+      "title": "Requirements for export of aquatic organisms or aquaculture products",
+      "content": "A person intending to export aquatic organisms or aquaculture products must register as an exporter and apply for an export permit in terms of these regulations."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part V",
+      "section": "16",
+      "title": "Application for registration as exporter",
+      "content": "An application for registration as an exporter must be made to the Minister in the form substantially corresponding with Annexure K."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part V",
+      "section": "17",
+      "title": "Decision on application for registration as exporter",
+      "content": "The Minister must consider an application for an export permit , and may- (a) issue to the applicant registration as an exporter in the form substantially corresponding with Annexure L; or (b) refuse the application."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part V",
+      "section": "18",
+      "title": "Application for export permit",
+      "content": "(1) An application for export permit must be made to the Minister in the form substantially corresponding with Annexure M. (2) A person intending to export aquatic organisms listed in Annexure O, must apply to the Minister for a special clearance to export the organisms."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part V",
+      "section": "19",
+      "title": "Decision on application for export permit",
+      "content": "(1) In considering an application for an export permit , the Minister may require the applicant to show that the aquatic organism to be exported complies with- (a) the health certification requirements; or (b) other applicable requirements, of the importing country or a transit country. (2) If the Minster is satisfied that the applicant has complied with subregulation (1), the Minister may- (a) in the case of an application for an export permit , approve the application and issue to the applicant an export permit in the form substantially corresponding with Annexure N; (b) in the case of an application for a special clearance, approve the application and issue to the applicant a special clearance in the form determined by the Minister; (c) approve the application subject to conditions the Minister may consider necessary to impose; or (d) refuse the application."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part V",
+      "section": "20",
+      "title": "Additional requirements",
+      "content": "(1) An exporter must- (a) comply with the requirements of the importing country and any transit country; and (b) obtain additional authorisations that may be required by law. (2) The Minister may, at the request of an exporter - (a) perform the tests for determining the health status of an aquatic organism or aquaculture product to be exported; and (b) issue an international aquatic animal health certificate in respect of the aquatic organism or aquaculture product to be exported. Part VI – GENERAL REQUIREMENTS"
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part VI",
+      "section": "21",
+      "title": "Import and export at approved ports",
+      "content": "(1) Import and export of aquatic organisms or aquaculture products must be done at approved ports. (2) A person who fails to comply with subregulation (1) commits an offence and is on conviction liable to a fine not exceeding N$1 000 or to imprisonment for a period not exceeding three months."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part VI",
+      "section": "22",
+      "title": "Cancellation or suspension of authorisation",
+      "content": "(1) The Minister may, by notice to the holder of an authorisation cancel or suspend an authorisation granted in terms of these regulations, if- (a) the holder of the authorisation fails to comply with a condition of the authorisation or fails to remedy non-compliance with a condition within a reasonable time determined by the Minister, if the Minister has ordered the person to remedy non-compliance; (b) the holder of the authorisation, in the application for an authorisation furnished information which is or particulars which are not true; (c) the Minister considers that the cancellation or suspension is necessary to protect and conserve the environment; or (d) the holder of authorisation contravenes the Act. (2) Before taking any action in terms of subregulation (1), the Minister must allow the holder of an authorisation to make representations on the matter."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part VI",
+      "section": "23",
+      "title": "Keeping of lists",
+      "content": "(1) The Permanent Secretary must keep or cause to be kept a list of- (a) authorisations issued in terms of these regulations; (b) aquatic organisms whose importation into Namibia is restricted or prohibited; (c) aquatic organisms approved for importation; (d) competent authorities from the countries where Namibia’s main trading partners are located; (e) diseases of aquatic organisms or aquaculture products; (f) requirements relating to health certificates for the import of aquatic into Namibia; and (g) approved ports for the import or export of aquatic organisms or aquaculture products. (2) A person may, at the Ministry or at any other offices as the Minister may determine, inspect and on payment of a fee, obtain a copy of a list referred to in subregulation (1). Annexures A - F Forms [Editorial note: The forms have not been reproduced.] Annexure G Standards of construction, security and operation for quarantine facilities for aquatic organisms and aquaculture products listed in Annexure I Republic of Namibia Ministry of Fisheries and Marine Resources 1. Period of quarantine (a) The normal minimum period of quarantine is six weeks for shipments of freshwater ornamental aquatic organisms and three weeks for marine ornamental aquatic organisms. (b) If at the end of the specified quarantine period, the quarantine officer has reason to believe that a shipment of aquatic organisms still presents an unacceptable risk of disease or pest introduction, the shipment may be held in quarantine for further investigation, observation, treatment, testing or for any other purpose appropriate to the circumstances. If the risk cannot be effectively managed destruction of the shipment is to be ordered. 2. Standards of construction 2.1 Location of quarantine facilities (a) Quarantine facilities must be located within the local authority area and at an approved port that has a permanently based quarantine officer. (b) Premises may not be approved in the vicinity of private or government fish hatcheries, aquaculture facilities, watercourses or areas subject to frequent flooding. 2.2 Specifications of quarantine facilities (a) A quarantine facility must be accessible and the operator must arrange for such access through property owned, rented or leased by the operator, and such facility must be accessible to the quarantine officer during normal business hours and at such time that shipments are entering or leaving the premises. The operator must notify the quarantine officer of the times when the premises are attended and of any alterations to the normal business hours. (b) The quarantine facility must be located within a single operational entity and as such be structurally separated from any other operations. The quarantine facility may share a building with other areas that are used for different purposes, including wholesale or retail activities involving live aquatic organisms or their products. The quarantine facility may not be used as an access way to other parts of the building. (c) The quarantine facility must be weatherproof and maintained in a state of good condition. (d) The quarantine facility must be located within a secure, lockable building, or within a building that is located in an area surrounded by a lockable person-proof security fence. (e) The quarantine facility may not be used for any purpose, other than as a place for the performance of quarantine. (f) The holding capacity of the quarantine facility must be commensurate with the proposed quantities and number of species of aquatic organisms to be handled. (g) The quarantine facility must have facilities for the sterilization of all equipment that comes into contact with aquatic organisms or tank water during the quarantine period. 2.3 Specific construction and equipment requirements The quarantine facility must comply with the following specific construction and equipment requirements: (1) Windows must be screened to prevent the entry of insects. (2) The floor and walls must be constructed of concrete, tiles or other impervious material to enable hose down and disinfections with retention of all water. The floor must be sufficiently smooth and with sufficient gradient to drain to an approved septic tank, local authority sewerage or enclosed holding tank. (3) Floor to wall junctions and all gaps and cracks in the walls, floor and ceiling must be effectively sealed. (4) Lighting must be of sufficient intensity to allow proper inspection of all aquatic organisms. (5) A floor drainage with an insertable plug or other mechanism to prevent the accidental escape of aquatic organisms or uncontrolled release of water must be installed. Drainage must be to an approved septic tank, local authority sewer or an enclosed holding tank. (6) Doors must have a self-closer to ensure that they remain shut after entry or a self-closing insect-proof screen door must be installed. (7) Facilities must be provided at the quarantine facility for staff employed and quarantine officers to wash their hands before leaving such facility. (8) All tanks used for the holding of aquatic organisms must- (a) be identified with permanent numbers so that records for shipments may be correlated with them; (b) be fitted with lids or other approved equivalents so as to prevent transmission of pathogens between adjacent tanks due to splash from the aeration or filter system and to prevent the escape of aquatic organisms; (c) be arranged in a manner that permits ready access for inspection purposes, including a minimum width of 75 cm for corridors between rows of tanks or tanks and walls; (d) contain only sterilizable materials (such as plastic) that do not interfere with inspection; and (e) have at least the front transparent to provide good visibility of their contents and be stacked for adequate viewing. (9) The use of shared water recirculation systems must be avoided. If separate shipments of aquatic organisms share a common water recirculation system, aquatic organisms may not be approved for release from quarantine until the last shipment to enter the system has satisfactorily completed its quarantine requirements. If diseases or pests of quarantine concern are known or suspected, all aquatic organisms sharing the same water recirculation system may be subject to quarantine risk management measures, including their destruction, treatment or detention beyond the normal quarantine period. (10) All entry and exit points to the quarantine facility must prominently display a permanently affixed, professionally made, quarantine sign that states “Quarantine Area - Authorised Persons Only”, on a yellow background, with black lettering approximately 5 cm in height. (11) A suitable wash-up trough must be located in the quarantine area for the cleaning and disinfecting of equipment. An approved disinfectant must be available at the wash-up trough. A suitable draining rack must be provided for air drying of equipment. (12) A designated refrigerator or freezer must be provided solely for the storage and preservation of dead aquatic organisms. The refrigerator or freezer must be clearly identified as being for quarantine use only and located within or close to the quarantine area, and if outside the quarantine area it must be lockable. (13) Equipment necessary to carry out the disinfection of all wastewater, including wastewater originating from Namibian waters and wastewater originating from other waters used in the quarantine facility, must be supplied. (14) Contamination or infestation by pests is to be prevented by ensuring and providing secure storage facilities for food for aquatic organisms. (15) A fully stocked first aid cabinet must he provided and maintained. (16) Amenities to be provided for use by quarantine officers include access to a desk and chair, a telephone with a direct outside line, toilet facilities, hand washing facilities within the quarantine area and a hygienic means of drying hands, and suitable arrangements for daily cleaning of amenities. 3. Standards of operation 3.1 Wastewater disposal 3.1.1 Freshwater organisms (a) All wastewater of domestic origin to be discharged from the quarantine facility and that has not been used for the transport or holding of aquatic organisms must enter directly to an approved septic tank or a local authority sewerage system, or may be sterilized as described under item 3.2, and where wastewater is sterilized, it may be discharged at a place determined by the Minister, but such water may not flow directly into natural waterways. (b) All wastewater, whether of foreign or domestic origin, that has been used for the transport or holding of live freshwater organisms or for the cleaning of tanks and associated equipment, must be disinfected using an approved method before disposal. (c) Disposal of wastewater must also comply with the applicable law governing the disposal of wastewater. 3.1.2 Marine organisms All wastewater, including foreign water, discharged from the quarantine facility must enter directly to an approved septic tank, local authority sewerage system or may be sterilized as described under item 3.2 and sterilized wastewater may not be discharged directly into natural waterways. 3.2 Sterilization of wastewater Where sterilization of wastewater is required before disposal, it must be sterilized in accordance with one of the following methods: (a) Chlorination (i) All water must pass through an approved filter capable of removing suspended organic material before hypochlorite treatment. (ii) All water must pass to a retention vessel where sufficient hypochlorite (bleach) must be added to achieve a minimum concentration of 200 parts per million (ppm) (200 mg per liter) at 1 hour post-treatment. Sodium hypochlorite (bleach) must be used at 1.6 milliliters (ml) of hypochlorite solution (12.5% available chlorine) per liter of water, while calcium hypochlorite powder (such as, “Pool Chlor”, 65-70% available chlorine) must be used at 0.3 grams (g) of powder per liter of water. (iii) Before the treatment period starts, the chlorinated effluent must be brought to a pH between 5.0 and 7.0. (iv) Following addition of hypochlorite, wastewater must be agitated for at least 10 minutes to ensure thorough mixing of hypochlorite. (v) After a retention period of not less than 1 hour, the chlorine concentration is measured using an approved method. Tanks not achieving a minimum chlorine concentration of 200 ppm (200 mg per liter) at the allotted time must be re-treated until the requirement is met. (vi) The chlorine in the wastewater may be neutralized by adding sodium thiosulphate at a rate of 1.25 g (2.5 ml of 50% sodium thiosulphate solution) per liter of treated wastewater, then agitated for not less than 10 minutes before discharge. (vii) Chlorination records must be maintained noting: the amount of compound added, the volume of effluent, the time that treatment period commenced, the pH at commencement of the treatment period and the 1 hour posttreatment concentration. (viii) Chlorinated water may not be discharged directly into adjacent waterways. (b) Heat treatment Before discharge, wastewater must be heated to at least 85 degrees celsius for a minimum of 30 minutes. Water heating units must be approved by the competent authority and be fitted with temperature and flow recorders. (c) Ultraviolet (UV) light radiation (i) All water to be treated must pass through a filter capable of removing suspended organic material before irradiation. (ii) Commercial UV water treatment units operating in the spectral range of 190-280 nm (254 nm recommended) delivering doses of at least 130 mWs/cm2 are required. 3.3 Disinfection of equipment (a) Before removal from the quarantine area and before restocking with a new shipment of aquatic organisms, all tanks and tank equipment must be thoroughly cleaned and disinfected with- (i) hypochlorite solution at 200 ppm concentration for 5 minutes; (ii) an approved iodophore solution cont"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "approved",
+      "definition": "approved by the Minister",
+      "source_provision": "s1"
+    },
+    {
+      "term": "aquaculture products",
+      "definition": "genetically modified “aquatic organisms” or “aquaculture products”",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Aquaculture (Licensing) Regulations",
+      "definition": "the Aquaculture (Licensing) Regulations published under Government Notice No. 246 of 03 December 2003",
+      "source_provision": "s1"
+    },
+    {
+      "term": "audit",
+      "definition": "an evaluation to determine the degree of compliance of quarantine facilities with the standards set out in Annexure G or H",
+      "source_provision": "s1"
+    },
+    {
+      "term": "biosecurity clearance",
+      "definition": "a letter signed by the competent authority releasing aquatic organisms from quarantine detention, and in the case of aquatic organisms released from an introductions and transfers quarantine facility, specifying risk management measures to be complied with",
+      "source_provision": "s1"
+    },
+    {
+      "term": "exporter",
+      "definition": "a person registered as an exporter of aquatic organisms or aquaculture products in terms of regulation 17",
+      "source_provision": "s1"
+    },
+    {
+      "term": "exporting country",
+      "definition": "a country from which a shipment is send to a destination in another country",
+      "source_provision": "s1"
+    },
+    {
+      "term": "export permit",
+      "definition": "a permit issued in terms of regulation 19",
+      "source_provision": "s1"
+    },
+    {
+      "term": "health certificate",
+      "definition": "a certificate issued by a competent authority confirming the health status of a aquatic organisms or aquaculture product",
+      "source_provision": "s1"
+    },
+    {
+      "term": "importer",
+      "definition": "a person registered as an importer of aquatic organisms in terms of regulation 4",
+      "source_provision": "s1"
+    },
+    {
+      "term": "importing country",
+      "definition": "a country that is the final destination to which a shipment is sent",
+      "source_provision": "s1"
+    },
+    {
+      "term": "import permit",
+      "definition": "a permit issued in terms of regulation 7",
+      "source_provision": "s1"
+    },
+    {
+      "term": "introduction",
+      "definition": "the human assisted movement of aquatic organisms and aquaculture products to an area outside their natural range",
+      "source_provision": "s1"
+    },
+    {
+      "term": "laboratory",
+      "definition": "a laboratory approved by a competent authority for conducting tests on aquatic organisms and aquaculture products",
+      "source_provision": "s1"
+    },
+    {
+      "term": "operator",
+      "definition": "a person who, in terms of regulation 14, is approved or holds a licence to operate a quarantine facility",
+      "source_provision": "s1"
+    },
+    {
+      "term": "quarantine",
+      "definition": "the holding or rearing of aquatic organisms and aquaculture products under conditions that prevent their escape, and the escape of any pathogens the aquatic organisms and aquaculture products may be carrying, into the surrounding environment",
+      "source_provision": "s1"
+    },
+    {
+      "term": "risk assessment",
+      "definition": "the process of identifying and estimating the risks associated with the importation of aquatic organisms and aquaculture products and evaluating the consequences of risks",
+      "source_provision": "s1"
+    },
+    {
+      "term": "risk management measures",
+      "definition": "measures developed as a result of risk assessment to prevent the transfer of infectious agents as a result of movement of aquatic organisms and aquaculture products",
+      "source_provision": "s1"
+    },
+    {
+      "term": "shipment",
+      "definition": "a shipment of aquatic organisms or aquaculture products",
+      "source_provision": "s1"
+    },
+    {
+      "term": "the Act",
+      "definition": "the Aquaculture Act, 2002 (Act No. 18 of 2002 )",
+      "source_provision": "s1"
+    },
+    {
+      "term": "transfer",
+      "definition": "the movement of aquatic organisms or aquaculture products to an area within the established or historical range of the species. Part II – IMPORT OF AQUATIC ORGANISMS",
+      "source_provision": "s1"
+    }
+  ]
+}

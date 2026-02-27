@@ -1,0 +1,44 @@
+{
+  "id": "na-act-p-1977-ag15",
+  "type": "statute",
+  "title": "Executive Powers (Statistics) Transfer Proclamation, 1977",
+  "title_en": "Executive Powers (Statistics) Transfer Proclamation, 1977",
+  "short_name": "Executive Powers (Statistic...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/p/1977/ag15/eng@1977-12-01",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Definition",
+      "content": "(1) In this Proclamation “General Proclamation” means the Executive Powers Transfer (General Provisions) Proclamation, 1977 (Proclamation No. AG. 7 of 1977). (2) A reference in this Proclamation to any particular law, shall be construed as including a reference to a regulation, rule or other enactment made under or relating to that law."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Transfer of administration of Department of Statistics",
+      "content": "Notwithstanding anything to the contrary contained in any law but subject to the provisions of this Proclamation and the General Proclamation, the administration of the affairs of the territory in relation to any matter which at the commencement of this Proclamation is administered by the Minister of Statistics of the Republic shall be carried on by the Administrator General."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Application of laws",
+      "content": "(1) Notwithstanding the provisions of section 3(2)(b) of the General Proclamation, the reference to the Minister of Statistics in section 2(7) of the Statistics Act, 1976 (Act 66 of 1976 ), for the first time shall include a reference to the Administrator-General. (2) The provisions of subsection (1) of section 4 of the General Proclamation shall not apply to the power which is conferred upon the Administrator-General under section 6 of the Statistics Act, 1976."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Short title",
+      "content": "This Proclamation shall be called the Executive Powers (Statistics) Transfer Proclamation, 1977. History of this document 01 December 1977 this version Published in Official Gazette 3677 Commenced 25 November 1977 Assented to Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "General Proclamation",
+      "definition": "the Executive Powers Transfer (General Provisions) Proclamation, 1977 (Proclamation No. AG. 7 of 1977). (2) A reference in this Proclamation to any particular law, shall be construed as including a reference to a regulation, rule or other enactment made under or relating to that law.",
+      "source_provision": "s1"
+    }
+  ]
+}

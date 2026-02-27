@@ -1,0 +1,486 @@
+{
+  "id": "na-act-2006-7",
+  "type": "statute",
+  "title": "Biosafety Act, 2006",
+  "title_en": "Biosafety Act, 2006",
+  "short_name": "Biosafety Act, 2006",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/2006/7/eng@2006-12-30",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Chapter 1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "(1) In this Act , unless the context otherwise indicates - “ chairperson ” means the chairperson of the Council ; “ committee ” means a committee of the Council established under section 13 ; “ Commission ” means the National Commission on Research, Science and Technology established by section 4 of the Research, Science and Technology Act, 2004 (Act No. 23 of 2004 ); “ contained use ” means any activity involving the genetic modification of living organisms or the production, processing, culture, storage, destruction, transport, disposal of or use in any way of genetically modified organisms and for which specific physical containment measures are used to limit their contact with, and their impact on, humans and the environment ; “ Council ” means the Biosafety Council referred to in section 5 ; “ deal with ”, in relation to a GMO or a GMO product , means to carry out any activity mentioned in section 3 , and “dealing” has a corresponding meaning; “ environment ” means the complex of natural and anthropogenic factors and elements that are mutually interrelated and affect the ecological equilibrium and the quality of life, and includes - (a) the natural environment being land, water, air, all organic and inorganic material and all living organisms; and (b) the human environment being the landscape and natural, cultural, historical, aesthetic, economic and social heritage and values; “ export ”, in relation to a GMO or GMO product , means to take or send the GMO or GMO product from Namibia to a destination outside Namibia or to cause it to be so taken or sent out, and includes the delivery or supply within Namibia for dispatch to a destination outside Namibia; “ facility ” means any physical structure where activities involving genetically modified organisms are carried out, including - (a) a building or part of a building; (b) a laboratory; (c) a greenhouse; (d) an animal house; (e) an aquarium or tank; (f) a fermentor; (g) any other place; “ genetically modified ”, in relation to an organism, means an organism that possesses a novel combination of genetic material obtained through the use of modern biotechnology , and includes combinations of genetically modified organisms; “ GMO ” means a genetically modified organism; “ GMO product ” means any article, material, substance or thing specified by the Minister under subsection (2) to be a GMO product for the purposes of this Act ; “ import ”, in relation to a GMO or GMO product , means to bring the GMO or GMO product from outside Namibia into Namibia or to cause it to be so brought into Namibia; “ inspector ” means an inspector appointed under section 18 ; “ living organism ” means any biological entity capable of transferring or replicating genetic material, including sterile organisms, viruses and viroids, animal and plant cells in culture; “ member ” means a member of the Council ; “ Minister ” means the Minister responsible for science and technology; “ modern biotechnology ” means the application of - (a) in vitro nucleic acid techniques, including recombinant deoxyribonucleic acid (DNA) and direct injection of nucleic acid into cells or organelles; or (b) fusion of cells beyond the taxonomic family, that overcome natural physiological reproductive or recombination barriers and that are not techniques used in traditional breeding and selection; “ permit ” means a permit issued under section 25 to conduct any dealings with a GMO as authorised by the permit; “ prescribed ” means prescribed by regulation ; “ Protocol ” means the Cartagena Protocol on Biosafety to the Convention on Biological Diversity adopted by the Parties to that Convention and acceded to by Namibia; “ Registrar ” means the Registrar of the Council referred to in section 16 ; “ regulation ” means a regulation made under section 49 ; “ release ” in relation to a GMO , means the introduction into the environment of the GMO ; “ this Act ” includes a regulation . (2) The Minister , after consultation with the Council , may by notice in the Gazette specify any article, material, substance or thing, derived from or containing a genetically modified organism or a combination of genetically modified organisms to be a GMO product for the purposes of this Act ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Chapter 1",
+      "section": "2",
+      "title": "Objectives",
+      "content": "The objectives of this Act are - (a) to introduce a system and procedures for the regulation of genetically modified organisms in Namibia in order to provide an adequate level of protection to the conservation and sustainable use of biological diversity, taking into account - (i) potential risks to the health and safety of humans and harmful consequences to the environment posed by genetically modified organisms or genetically modified products; and (ii) social, cultural, ethical and economic considerations: Provided that lack of scientific knowledge due to insufficient relevant scientific information or scientific consensus should not be interpreted as indicating a particular level of risk, or absence of risk, or an acceptable risk; and (b) to provide a framework for responsible research, development and the use of genetic engineering and to manage the risks posed by or as a result of gene technology by regulating activities involving the development, production, use, import , export , transport, release into the environment , marketing and other uses of genetically modified organisms and genetically modified products."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Chapter 1",
+      "section": "3",
+      "title": "Scope of the Act",
+      "content": "This Act is applicable to the following activities involving a GMO or GMO product , namely - (a) the import of a GMO or GMO product ; (b) the export of a GMO or GMO product ; (c) the release into the environment of a GMO or GMO product ; (d) the contained use of a GMO or GMO product ; (e) the placing on the market of a GMO or GMO product ; (f) the transport of a GMO or GMO product , including transport in transit through Namibia; and (g) the use or handling in any other way of a GMO or GMO product ."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Chapter 1",
+      "section": "4",
+      "title": "Act binds the State",
+      "content": "This Act binds the State, except a provision imposing criminal liability for an offence. Chapter 2 Biosafety Council"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Chapter 2",
+      "section": "5",
+      "title": "Establishment of the Biosafety Council",
+      "content": "(1) There is established a body, to be known as the Biosafety Council , to exercise the powers and perform the functions conferred on and assigned to it by or under this Act . (2) The Council is deemed to be a council established by the Commission under section 19(1) of the Research, Science and Technology Act, 2004 (Act No. 23 of 2004 ), and any reference in that Act to a council established thereunder must be construed as including a reference to the Biosafety Council."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Chapter 2",
+      "section": "6",
+      "title": "Composition of the Council",
+      "content": "(1) The Council consists of 7 members appointed by the Commission with the prior approval of the Minister . (2) The members appointed must be persons bringing skills or experience in the membership of the Council in each of the following areas: (a) environmental issues, including environmental assessment; (b) public health issues, including food hygiene and food safety; (c) animal health and welfare or other related agricultural issues; (d) molecular biology; (e) law; (f) research, science and technology; and (g) trade and economy. (3) Before appointing members of the Council , the Commission must, by notice in the Gazette and in at least two newspapers circulated widely in Namibia, and by any other means which the Commission may regard desirable, invite nominations from interested persons and organisations of persons with suitable skills or experience as contemplated in subsection (2) for appointment as members of the Council . (4) The notice referred to in subsection (3) must stipulate - (a) the period within which nominations must be submitted; and (b) the procedure to be followed in making a nomination. (5) The Commission - (a) is not bound by a nomination made; and (b) must, before appointing the members, submit the names and relevant particulars of the persons proposed to be appointed as members to the Minister for approval. (6) The Commission , with the prior approval of the Minister , must appoint one member to be the chairperson , and another member to be the deputy chairperson , of the Council ."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Chapter 2",
+      "section": "7",
+      "title": "Alternate members",
+      "content": "(1) The Commission , with the prior approval of the Minister , must appoint an alternate member for each member , with due regard to the requirements of section 6 (2). (2) An alternate member may act in the place of the member for whom he or she is the alternate, if - (a) the member is absent or unable to perform the duties of his or her office; (b) the member and the alternate member agree that the alternate member is to act in the member ’s place; or (c) the member ’s position is vacant. (3) An alternate member has all the functions of the member when acting in the member ’s place."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Chapter 2",
+      "section": "8",
+      "title": "Disqualification",
+      "content": "A person is not eligible for appointment as, or to be, a member or alternate member of the Council , if he or she - (a) is not a Namibian citizen or a person who has been lawfully admitted to Namibia for permanent residence therein and is ordinarily resident in Namibia; (b) is a member of the National Assembly of Namibia or a regional council established under section 2 of the Regional Councils Act, 1992 (Act No. 22 of 1992 ); (c) is an unrehabilitated insolvent; (d) is of unsound mind; or (e) has been convicted of an offence involving an element of dishonesty, or of a contravention of this Act , or of any other law relating to the protection of human and animal health or the environment or the utilisation of natural resources."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Chapter 2",
+      "section": "9",
+      "title": "Term of office",
+      "content": "(1) Subject to section 10 , a member or alternate member holds office for a period of three years. (2) A member or alternate member whose term of office has expired is eligible for reappointment."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Chapter 2",
+      "section": "10",
+      "title": "Vacating of office and filling of vacancy",
+      "content": "(1) A member or alternate member ceases to hold office if he or she - (a) becomes subject to a disqualification referred to in section 8 ; (b) resigns his or her office by giving notice in writing addressed to the Commission ; (c) being a member , has been absent from three consecutive meetings of the Council without leave of the Council or, being an alternate member , has been so absent, during the absence, or vacancy in the office, of the member for whom he or she was appointed; or (d) is removed from office under subsection (2). (2) The Commission may remove a member or alternate member from office by notice in writing, if - (a) there is good reason for doing so; (b) the member or alternate member has been given reasonable opportunity of making representations to the Commission ; and (c) the Commission has consulted with the Council . (3) If the office of a member or alternate member becomes vacant before the expiration of his or her term of office, the Commission must appoint, subject to section 6 (2), another person to fill the vacancy for the unexpired portion of that term."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Chapter 2",
+      "section": "11",
+      "title": "Remuneration",
+      "content": "A member or an alternate member , a consultant engaged under section 12 (9) or a member of a committee not being a member of the Council , must be paid such remuneration and allowances as the Commission , with the concurrence of the Minister and the Minister responsible for finance, may determine."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Chapter 2",
+      "section": "12",
+      "title": "Meetings of the Council",
+      "content": "(1) The first meeting of the Council must be held at a time and place determined by the Commission , and thereafter the Council must meet at the times and places determined by the Council . (2) The chairperson must convene the next meeting if for any reason a meeting determined by the Council cannot take place. (3) The Council must meet at least four times a year. (4) The chairperson may at any time, and must upon receipt of a request in writing of at least three other members, convene a special meeting of the Council . (5) The chairperson or, in the absence of the chairperson , the deputy chairperson , must preside at a meeting of the Council and, if neither of them are present, the members present must elect a member to preside at that meeting. (6) At a meeting of the Council - (a) a majority of the members form a quorum; (b) all questions are decided by a majority of votes of the members present and voting; and (c) the member presiding has a deliberative vote and, in the event of an equality of votes, also a casting vote. (7) The Council must, on a request in writing of the Commission or the Minister , consider any matter specified by the Commission or the Minister in relation to the Council ’s functions. (8) Unless the Council determines otherwise, the Registrar must attend the meetings of the Council and may take part in deliberations, but has no vote. (9) The Council may invite and engage as consultant any person who has expert knowledge of a matter which is before the Council or a committee for determination to attend the meeting of the Council or the committee and take part in deliberations in relation to that matter, but that person has no vote. (10) A decision taken by, or an act done under the authority of, the Council is not invalid only because of a defect or irregularity in or in connection with the appointment of a member . (11) The Council - (a) may regulate its own proceedings; (b) must cause minutes of proceedings and decisions at each meeting of the Council to be kept; and (c) must submit a copy of the minutes to the Commission and to the Minister as soon as possible after the minutes have been approved by the Council . (12) The minutes of proceedings and decisions of the Council must be available for inspection by members of the public on such conditions and in such form as the Council may determine."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Chapter 2",
+      "section": "13",
+      "title": "Committees",
+      "content": "(1) The Council may establish any committee - (a) to advise the Council on any matter in relation to the Council ’s functions; or (b) to perform, subject to the directions of the Council , any function of the Council which the Council delegates to it in writing. (2) A committee may consist of one or more members or of such members and any other person or persons whom the Council considers suitable. (3) The Council must appoint a member of the Council as chairperson of a committee . (4) The Council may at any time dissolve or reconstitute a committee ."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Chapter 2",
+      "section": "14",
+      "title": "Disclosure of interest",
+      "content": "(1) If a member of the Council or of a committee has a direct or indirect financial or other interest in any matter which is the subject of consideration by the Council or the committee and which may cause a conflict of interests in the proper performance of his or her duties as such a member , he or she must disclose that interest to the Council or to the committee as soon as is practicable after the relevant facts come to his or her knowledge. (2) A person who has an interest referred to in subsection (1) - (a) if he or she is present at a meeting of the Council or the committee at which the matter is to be considered, must disclose the nature of his or her interest to the meeting immediately before the matter is considered; or (b) if he or she is aware that the matter is to be considered at a meeting of the Council or the committee at which he or she does not intend to be present, must disclose the nature of his or her interest to the chairperson of the Council or the committee before the meeting is held. (3) A member of the Council or of a committee who has an interest referred to in subsection (1) must not - (a) be present during any deliberation; or (b) take part in any decision, of the Council or the committee in relation to the matter in question. (4) A disclosure by a member under this section must be recorded in the minutes of the relevant meeting of the Council or committee . (5) A member who knowingly fails to comply with subsection (1), (2), or (3) commits an offence and is liable on conviction to a fine not exceeding N$ 8000 or to imprisonment for a period not exceeding 2 years, or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Chapter 2",
+      "section": "15",
+      "title": "Functions of the Council",
+      "content": "Subject to this Act , the functions of the Council are - (a) to investigate and consider applications for permits to deal with GMOs or GMO products, and to report and make recommendations to the Minister in relation to such applications; (b) to consider and decide applications for the registration of facilities where specified classes of dealings with GMOs are required to be carried out; (c) to initiate and manage consultation and review processes on the development of national strategies, plans, policies and programmes on biotechnology and biosafety in Namibia; (d) to issue technical and procedural guidelines in relation to GMOs and biosafety; (e) to provide information and advice to the public in relation to the regulation of GMOs; (f) to encourage public participation in decision-making while maintaining confidentiality of information; (g) to undertake or promote research in connection with risk assessment and the biosafety of GMOs; (h) to keep abreast of international practice in relation to the regulation of GMOs; (i) to liaise with international groups or organisations concerned with the regulation of gene technology and biosafety and with agencies that regulate dealings with GMOs in countries outside Namibia; (j) to give advice to the Minister on - (i) any matter relating to the functions of the Council ; and (ii) the effectiveness of the legislative framework for the regulation of GMOs and products of GMOs, including possible amendments of relevant legislation; (k) to provide information and advice to, and liaise with, any Ministry or other State organ charged with or engaged in any matters concerning biotechnology and biosafety; (l) to be the national focal point of Namibia for the purposes of the Protocol and to fulfil the functions imposed on a national focal point by the Protocol ; (m) to perform such other functions as are assigned by or under this Act or any other law to the Council . Chapter 3 Administration, financing and inspectors"
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Chapter 3",
+      "section": "16",
+      "title": "Appointment of Registrar and supporting staff",
+      "content": "(1) The Commission must designate a suitably qualified or experienced employee of the Commission to serve in the capacity of Registrar of the Council and, subject to the control and directions of the Council , to exercise the powers and perform the functions conferred upon and assigned to the Registrar by this Act or any other law and to perform such other functions as the Council may from time to time assign to him or her. (2) The Commission must designate such other employees of the Commission as may be reasonably necessary to assist the Registrar in the performance of the work incidental to the performance by the Council of its functions. (3) If the Registrar is absent or unable to perform his or her functions, or if a vacancy in the office of the Registrar occurs, the Commission must designate another employee to act in the Registrar ’s place until the Registrar resumes his or her functions or the vacancy is filled."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Chapter 3",
+      "section": "17",
+      "title": "Delegation of powers and assignment of duties",
+      "content": "The Council may in writing, on such conditions as it may determine, delegate or assign to the Registrar , or any employee assisting the Registrar , any power conferred or duty imposed on the Council by or under this Act ."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Chapter 3",
+      "section": "18",
+      "title": "Inspectors",
+      "content": "(1) The Commission may appoint - (a) such employees of the Commission ; and (b) subject to subsection (2), such other persons, as are considered to be reasonably necessary to be inspectors for the purposes of this Act . (2) Before appointing a person who is a staff member of the Public Service or an employee of a statutory body or institution as an inspector , the Commission must consult and negotiate with the Minister responsible for the Ministry where the staff member is employed, or the person in charge of the statutory body or institution where the employee is employed, as the case may be, to obtain consent for, and agree upon the conditions of, any such appointment. (3) The Council must issue an identity card to an inspector , which must contain a recent photograph of the inspector . (4) An inspector must - (a) carry his or her identity card at all times when exercising powers or performing functions as an inspector ; and (b) produce his or her identity card for inspection if so required by a person in relation to whom the inspector seeks to exercise any power or perform any function. (5) The Commission may at any time withdraw the appointment of an inspector . (6) An inspector must comply with any directions of the Registrar in exercising powers or performing functions as an inspector ."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Chapter 3",
+      "section": "19",
+      "title": "Financing of Council",
+      "content": "(1) All expenditure incurred in the administration of this Act must be defrayed by the Commission from the National Research, Science and Technology Fund established by section 23 of the Research, Science and Technology Act, 2004. (2) All money - (a) received in respect of fees and charges levied under this Act ; (b) derived from any operations or activities undertaken in relation to the functions of the Council , including the sale of manuals, reference material, technical guidelines or other publications issued by the Council ; (c) received by way of donation or grant made to the Council ; (d) accruing to the Council from any other source, must be deposited in the National Research, Science and Technology Fund. (3) Money accruing to the Council by way of donation or grant which is made or given for a specific project or programme, must be applied solely for that project or programme and any balance on completion of the project or programme must be dealt with as agreed between the Commission and the person or body that made the donation or grant. Chapter 4 Requirements for dealings with GMOs"
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Chapter 4",
+      "section": "20",
+      "title": "Person not to deal with GMO or GMO product without a permit",
+      "content": "(1) A person must not deal with a GMO or GMO product unless - (a) the person is authorised by a permit issued under this Act to deal with the GMO or GMO product ; or (b) dealing with the GMO or GMO product is exempted under section 21 . (2) A permit holder must conduct dealings with a GMO or GMO product in accordance with any limitations or conditions to which the permit is subject. (3) A person who contravenes subsection (1) or (2) commits an offence and is liable on conviction to a fine not exceeding N$100,000 or to imprisonment for a period not exceeding 5 years, or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Chapter 4",
+      "section": "21",
+      "title": "Exemptions",
+      "content": "The Minister may by regulation - (a) prescribe exemptions from any of the provisions of this Act in relation to any GMOs or GMO products or any class of GMOs or GMO products; or (b) make provision for the granting by the Council of exemptions - (i) to any person or class of persons; or (ii) in relation to any GMOs or GMO products or any class of GMOs or GMO products, from all or any of the provisions of this Act in such circumstances and to the extent as may be prescribed ."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Chapter 4",
+      "section": "22",
+      "title": "Application for permit",
+      "content": "(1) An application for a permit must be submitted to the Registrar and must - (a) contain the information as is prescribed or as is specified by the Council in writing; (b) be accompanied by a risk assessment report and risk management plan referred to in section 23 if the application relates to a type of dealing for which the submission of a risk assessment report and risk management plan is prescribed or if the Council determines that such a report and plan must be submitted; and (c) be accompanied by the prescribed application fee, which is non-refundable. (2) The Registrar must verify whether the application conforms to the requirements of this Act and must - (a) if the application does not so conform, return the application to the applicant with such remarks in writing as the Registrar considers necessary; or (b) if the application does so conform, direct the applicant to advertise the application in accordance with subsection (4) if the application relates to a type of dealing for which advertisement is prescribed or if the Council determines that the application must be advertised. (3) If advertisement of the application is not required the Registrar must forthwith submit the application and any accompanying documents to the Council . (4) If advertisement of the application is required the applicant must advertise the application once a week for two consecutive weeks in at least two newspapers circulated widely in Namibia, and by any other means as may be prescribed , and the advertisement must - (a) contain the prescribed particulars in relation to the application; (b) state that the application and, if applicable, the risk assessment report and risk management plan relating to the application, are available for inspection at the office of the Registrar ; (c) invite written submissions in relation to the permit applied for to be lodged with the Registrar ; and (d) specify the closing date for submissions, which must not be earlier than the prescribed number of days after the date of the last publication of the advertisement in the newspapers. (5) The applicant must furnish proof of the advertisement in accordance with subsection (4) to the Registrar as soon as is practicable after the date of the last publication of the advertisement in the newspapers. (6) Not later than 14 days after the closing date for submissions specified in accordance with subsection (4)(d), the Registrar must submit to the Council - (a) the application and, if applicable, the accompanying risk assessment report and risk management plan; (b) the proof of the advertisement received in accordance with subsection (5); and (c) any submissions received in relation to the application."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Chapter 4",
+      "section": "23",
+      "title": "Risk assessment and risk management plan",
+      "content": "(1) Any risk assessment report and risk management plan to be submitted to the Council must - (a) comply with such basic requirements as may be prescribed ; (b) be carried out and prepared, at the applicant’s own expense, in a scientifically sound manner, by a person who has appropriate expertise in relation to the identification and evaluation of potential risks involved in the type of dealing with a GMO or GMO product as proposed to be authorised by the permit . (2) The person carrying out and preparing the risk assessment report and risk management plan must - (a) consult with any person, body or institution as prescribed or as determined by the Council on matters relevant to the preparation of the risk assessment report and the risk management plan; (b) in preparing the risk assessment report, take into account the risks that the type of dealings proposed to be authorised by the permit may pose to the health and safety of humans or animals or to the environment , having regard to - (i) the properties of the organism to which the dealings relate before it became, or will become, a GMO ; (ii) the effect, or the expected effect, of genetic modification that has occurred, or will occur, on the properties of the organism; (iii) provisions for limiting the dissemination or persistence of the GMO or its genetic material in the environment ; (iv) the potential risk for spread or persistence of the GMO or its genetic material in the environment ; (v) the extent or scale of the proposed dealings; (vi) any advice received pursuant to paragraph (a); and (vii) any other matter prescribed for the purposes of this paragraph; and (c) in preparing the risk management plan, take into account - (i) the means of managing any risks posed by those dealings in such a way as to protect the health and safety of humans and animals and the environment ; (ii) any advice in relation to the risk management plan received pursuant to paragraph (a); and (iii) any other matter prescribed for the purposes of this paragraph. (3) If any dealing proposed to be authorised by a permit involves the intentional release of a GMO or GMO product into the environment , the application for the permit must include, or be accompanied by, a statement containing - (a) information on the potential benefits of such release ; (b) an evaluation of potential alternatives to such release ; and (c) proposed strategies and procedures to monitor any anticipated or potential effects of such release , or an explanation of the reasons if such monitoring is not required."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Chapter 4",
+      "section": "24",
+      "title": "Procedure of consideration of application",
+      "content": "(1) The Council may take any action it considers appropriate for the purpose of considering an application for a permit and making its report and recommendations in relation to the application to the Minister , including - (a) consulting any institution, person or authority on the application, the risk assessment or risk management plan or any submission received in relation to the application; (b) appointing any person or a committee of persons to carry out an investigation, including a process of public consultation, and to report to the Council , in relation to any matter concerning the application, the risk assessment, the risk management plan or any submission; (c) holding a public hearing. (2) At least 14 days before the date fixed for the holding of a public hearing in accordance with subsection (1)(c), the Registrar must give notice of the public hearing - (a) in writing to the applicant; (b) in writing to every person from whom a submission in relation to the application has been received; and (c) by publication of the notice in at least two newspapers circulated widely in Namibia. (3) The notice in terms of subsection (2) must - (a) specify the date, time and place of the public hearing; and (b) contain a brief description of the nature of the application. (4) Any consultation or public hearing in terms of subsection (1) must be conducted with due regard to the requirements of this Act in relation to the disclosure of commercially confidential information. (5) For the purposes of subsection (4), the Council may - (a) direct that any part of a public hearing be held in private and may determine who may attend; or (b) give directions prohibiting or restricting the publication of evidence given, or material contained in documents produced at a public hearing. (6) A person who fails to comply with a direction given under subsection (5)(b) commits an offence and is liable to a fine not exceeding N$ 8000 or to imprisonment for a term not exceeding 2 years, or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Chapter 4",
+      "section": "25",
+      "title": "Submission of application to the Minister for decision",
+      "content": "(1) Not later than 30 days after conclusion of a public hearing in terms of subsection 24(1)(c) or, if no public hearing was held, 30 days after the closing date for submissions contemplated in section 22 (4)(d), the Council must submit to the Minister , through the Commission - (a) the application; (b) any submissions received in relation to the application; (c) the Council ’s report and recommendations in relation to the application, including the matters referred to in subsection (4), and any conditions which the Council recommends should be imposed in relation to the permit for which application is made. (2) The Minister may request the Council in writing to furnish any further information as the Minister may specify, and which must be furnished by the Council to the Minister within 30 days of receipt of the Minister ’s request. (3) The Minister must decide on an application within 30 days of its receipt from the council or, if further information was requested from the Council , within 30 days from the date of receipt of the requested information, and the Minister may either grant or refuse the application for the issue of a permit . (4) The Minister must not grant an application for the issue a permit unless the Minister is satisfied, in accordance with the report and recommendations of the Council - [The word “of” appears to have been omitted after the word “issue”.] (a) that any risks posed by the dealings proposed to be authorised by the permit are capable of being managed in such a way as to protect the health and safety of humans and animals, and the environment ; (b) that such dealings will be in the public interest; (c) that the applicant is a suitable person to hold a permit . (5) In determining whether or not any dealing proposed to be authorised by a permit will be in the public interest, the Council and the Minister may take into account any factors which the Council considers appropriate, including the extent to which the dealing is likely - (a) to contribute to sustainable development; (b) to undermine indigenous knowledge or technology; or (c) to affect the social and economic advancement of people and society, including a particular community. (6) Without limiting the matters which may be taken into account in deciding whether an applicant is a suitable person to hold a permit , the Council and the Minister may have regard to - (a) any conviction of the applicant for an offence which involved conduct relevant to dealings with a GMO or GMO product or for an offence under a law relating to human or animal health or the protection of the environment , or if the applicant is a body corporate, any such conviction of the body corporate at a time when - (i) any person who is presently a director or member of the body corporate, was a director or member thereof; or (ii) any officer, shareholder or member of the body corporate who is presently in a position to influence the management of the body corporate, was such an officer, shareholder or member thereof; (b) any revocation or suspension of a licence, permit or other authorisation (however described) held by the applicant under any law relating to the health and safety of humans or animals or the protection of the environment ; (c) the capacity of the applicant to meet the conditions of the permit . (7) If the Minister decides to grant an application for the issue of a permit , the Minister , with due regard to the recommendations of the Council , may impose conditions to which the permit is subject, in addition to any other conditions as may be prescribed . (8) Upon deciding an application for the issue of a permit , the Minister must in writing notify the applicant and the Council of his or her decision and, if the application is refused, state the reasons for the refusal. (9) If an application is granted, the Registrar must issue to the applicant the permit in such form as the Council determines, which must - (a) specify the type of dealing authorised by the permit ; and (b) contain, or have attached, to it any conditions imposed under subsection (7) in relation to the permit ."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Chapter 4",
+      "section": "26",
+      "title": "Conditions that may be prescribed or imposed",
+      "content": "Without limiting the power of the Council to recommend, and the Minister to impose, permit conditions under section 25 (7), or the power of the Minister to prescribe permit conditions, such conditions may relate to - (a) the scope of the dealings authorised by the permit ; (b) the purposes for which the dealings may be undertaken; (c) variations to the scope or purposes of the dealings; (d) the records and documents to be kept; (e) the required level of containment to be observed in respect of any dealing; (f) requirements in relation to the disposal of waste; (g) measures to manage risks posed to the health and safety of humans or animals or to the environment ; (h) data collection, including studies to be conducted; (i) auditing and reporting in relation to dealings; (j) actions to be taken in case of the release of a GMO from a contained environment ; (k) the geographic area in which dealings under the permit may be undertaken; (l) the appointment of a person or persons as biosafety officer or officers to be in charge of dealings under the permit and to perform the duties prescribed in relation to such officers; (m) that any dealing, or a particular activity relating to a dealing, be carried out by, or under the supervision of, a person with appropriate professional qualifications or experience as specified by the Council ; (n) the training of persons engaged in dealings under the permit ; (o) contingency planning in respect of unintended effects of the dealings authorised by the permit ; (p) measures for limiting the dissemination or persistence of the GMO or its genetic material in the environment ; (q) measures relating to the grading, storage, labelling, packaging or transport of any GMO or GMO product ."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Chapter 4",
+      "section": "27",
+      "title": "Activities to be carried out in facility registered by Council",
+      "content": "(1) Any activity carried out with or in relation to a GMO or GMO product as prescribed or required in terms of a permit condition, must be carried out in or at a facility which complies with the requirements prescribed for the class of activity in question and which has been registered by the Council for that class of activity. (2) A person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding N$20,000 or to imprisonment for a period not exceeding 4 years or to both such fine and such imprisonment. (3) An application for the registration of a facility must be made to the Council in writing and must - (a) contain the information as is prescribed or as is specified by the Council in writing; and (b) be accompanied by the prescribed application fee, which is non-refundable. (4) The Council may, by notice in writing, require an applicant for registration of a facility to furnish the Council with such further information in relation to the application as the Council requires. (5) The Council must cause the facility to be inspected by an inspector , or any other person designated by the Council , in order to assess whether the facility meets the requirements for registration, including the containment requirements specified in guidelines issued under section 29 . (6) On receipt of an assessment report pursuant to subsection (5), the Council may take any action the Council considers appropriate for the purpose of deciding the application, and may - (a) approve the application for registration and determine the containment level thereof in accordance with the containment requirements specified in guidelines issued under section 29 ; or (b) refuse the application. (7) If the Council - (a) approves the application it must issue to the applicant a certificate of registration, indicating the containment level thereof in accordance with the guidelines issued under section 29 ; or (b) refuses the application, it must notify the applicant in writing and state the reasons for the refusal. (8) The owner of a registered facility must display the certificate of registration conspicuously at the facility at all times."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Chapter 4",
+      "section": "28",
+      "title": "Conditions of registration",
+      "content": "The registration of a facility is subject to such conditions as - (a) may be imposed by the Council when granting the application for registration of the facility ; and (b) as are prescribed . [Paragraph (b) repeats the word “as” unnecessarily; this word also appears in the introductory text above paragraph (a).]"
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Chapter 4",
+      "section": "29",
+      "title": "Guidelines on registration of facility",
+      "content": "(1) The Council may, by written instrument issue technical or procedural guidelines in relation to the requirements for - (a) the registration of a facility ; and (b) the certification of a facility to a specified containment level. (2) The Council may vary or revoke the guidelines."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Chapter 4",
+      "section": "30",
+      "title": "Condition as to monitoring and auditing of dealings",
+      "content": "(1) It is a general condition of a permit that the permit holder and every other person authorised by the permit to deal with a GMO , must - (a) allow an inspector or any other person authorised thereto by the Council to enter any place where the dealing is being undertaken, for the purposes of auditing or monitoring the activities; and (b) give such assistance and furnish such information as may reasonably be required by such inspector or authorised person for the purpose of performing the functions under paragraph (a). (2) Subsection (1) does not limit the conditions that may be imposed by the Council or prescribed by the regulations."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Chapter 4",
+      "section": "31",
+      "title": "Duty to furnish certain information to the Council",
+      "content": "(1) A permit holder must - (a) take all reasonable steps to be kept informed of any information as to any risk to the health and safety of humans or animals, or to the environment , caused as a result of any dealing authorised by the permit ; and (b) forthwith inform the Council if at any time it appears that such a risk is more serious than was apparent when the permit was granted. (2) A permit holder must forthwith inform the Council if he or she becomes aware of - (a) any contravention of this Act or of any condition of the permit by a person covered by the permit ; or (b) any occurrence causing an unintentional or accidental release of a GMO , whether from a registered facility or otherwise. (3) A person who fails to comply with subsection (1) or (2) commits an offence and is liable on conviction to a fine not exceeding N$8000 or to imprisonment for a period not exceeding 2 years, or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Chapter 4",
+      "section": "32",
+      "title": "Packaging, labelling, identification and transport",
+      "content": "(1) Every permit holder must ensure that any GMO or GMO product is clearly labelled and identified as such, specifying - (a) the relevant traits and characteristics thereof; and (b) requirements for the safe-handling, storage, transport and use thereof. (2) The packaging and labelling of any GMO or GMO product must comply with such requirements as may be prescribed or as specified by a permit condition. (3) A person transporting any GMO or GMO product , including transport in transit must ensure - (a) that such GMO or GMO product is accompanied by such documents as are prescribed ; and (b) that such procedures of, and safety measures for, transport, as are prescribed are observed. Chapter 5 Suspension, cancellation or variation of permits or of registration of facilities"
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Chapter 5",
+      "section": "33",
+      "title": "Suspension cancellation or variation of permit",
+      "content": "(1) Subject to section 35 , the Minister , on the recommendation of the Council may, by notice in writing given to the holder of a permit , suspend or cancel the permit if - (a) the Minister believes on reasonable grounds that the permit holder or a person covered by the permit has - (i) breached a condition of the permit ; or (ii) has committed an offence under this Act ; (b) the prescribed annual charge payable for the renewal of the permit remains unpaid after the due date; (c) the permit was obtained fraudulently or on wrong information; (d) the Minister becomes aware of risks involved in the continuation of any dealing under the permit , and is satisfied that the permit holder has not proposed, or is not in a position to implement, adequate measures to deal with those risks; or (e) the Minister is satisfied that the permit holder is no longer a suitable person to hold the permit . (2) Subject to section 35 , the Minister may, at any time, by notice in writing given to the permit holder, vary a permit . (3) Without limiting the power conferred by subsection (2), the Minister may - (a) impose permit conditions or additional permit conditions; (b) revoke or amend permit conditions that were imposed under section 25 (7); or (c) extend or reduce the authority granted by the permit . (4) The Minister must not vary a permit unless the Minister , on the recommendation of the Council , is satisfied that any risks posed by the dealings proposed to be authorised by the permit as varied are capable of being managed in such a way as to protect the health and safety of humans and animals, and the environment ."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Chapter 5",
+      "section": "34",
+      "title": "Suspension, cancellation or variation of registration of facility",
+      "content": "(1) Subject to section 35 , the Council may, by notice in writing given to the owner of a registered facility , suspend or cancel the registration of that facility if - (a) the Council believes on reasonable grounds - (i) that a condition to which the registration is subject in terms of section 28 has been breached; or (ii) that the registered owner of the facility has committed an offence under this Act ; or (b) the prescribed annual charge payable for the renewal of the facility ’s registration remains unpaid after the due date; (c) the registration was obtained fraudulently or on wrong information. [It appears that the word “or” may have been omitted at the end of paragraph (b).] (2) Subject to section 35 , the Council may, by notice in writing given to the owner of a registered facility , vary the conditions imposed in relation to the registration of the facility under section 28 - (a) by imposing additional conditions; or (b) by revoking or amending conditions that were imposed by the Council under that section."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Chapter 5",
+      "section": "35",
+      "title": "Notice of proposed suspension, cancellation or variation",
+      "content": "(1) Before the Council - (a) makes a recommendation to the Minister for the suspension, cancellation or variation of a permit under section 33 ; (b) suspends, cancels or varies the registration of a facility under section 34 , the Council must give written notice of the Council ’s proposed action to the permit holder or the owner of the registered facility , as the case may be. (2) The notice in terms of subsection (1) must - (a) state that the Council proposes to recommend to the Minister the suspension, cancellation or variation of the permit , or proposes to suspend, cancel or vary the registration of the facility , as the case may be; (b) state the reasons for the proposed action; and (c) inform the permit holder or the owner of the registered facility , as the case may be, that he or she may submit written representations to the Council in connection with the Council ’s proposed action. (3) The Council may in a notice in terms of subsection (1) require the permit holder or the owner of the registered facility to give to the Council any information of a kind specified in the notice that is relevant to the proposed suspension, cancellation or variation of the permit or the registration of the facility . (4) The notice must specify the period within which the permit holder or the owner of the registered facility , as the case may be - (a) may submit written representations under subsection (2)(c); (b) must give the information referred to in subsection (3), which must be not less than 30 days after the day on which the notice was given. (5) If the Council recommends that a permit be suspended, cancelled or varied, the Council must submit to the Minister a report on, and the reasons for, the Council ’s recommendation, together with any representations and information received pursuant to subsection (2)(c) or (3). (6) If, after receipt of a submission in terms of subsection (5), the Minister decides to suspend, cancel or vary the permit in question, the Minister must in writing notify the permit holder concerned and the Council of his or her decision and the reasons therefor. (7) The Council must have regard to any representations and information received pursuant to subsection (2)(c) or (3) in relation to a proposed suspension, cancellation or variation of the registration of a facility and, if it decides to suspend, cancel or vary such registration, notify the registered owner of the facility in writing of its decision and the reasons therefor. (8) This section does not prevent - (a) the Minister , on the recommendation of the Council , from suspending, cancelling or varying a permit without prior notice, if the Minister ; or (b) the Council from suspending, cancelling or varying the registration of a facility without prior notice if the Council , considers that the suspension, cancellation or variation is necessary in order to avoid an imminent risk of death or serious illness or injury to humans or animals or damage to the environment ."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Chapter 5",
+      "section": "36",
+      "title": "Surrender of permit or registration of a facility",
+      "content": "The holder of a permit or the owner of a registered facility - (a) may, with the consent of the Council , surrender the permit or the registration of the facility , as the case may be; and (b) must comply with such conditions as the Council may impose in connection with the surrender. Chapter 6 General"
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Chapter 6",
+      "section": "37",
+      "title": "Powers of inspectors",
+      "content": "(1) For the purposes of establishing whether the provisions of this Act or the conditions of a permit or the registration of a facility have been or are being complied with, an inspector may at any reasonable time - (a) subject to subsection (2), enter any premises; (b) inspect any activity or process carried out in or upon the premises in connection with any activities referred to in this Act ; (c) request any information regarding such an activity or process from the owner or person in charge of the premises or from any person carrying out or in charge of the carrying out of such activities; (d) inspect, take extracts from or make copies of any book, record or document on the premises; (e) take onto the premises such equipment and materials as the inspector requires for the purposes of exercising any power in relation to the premises; (f) operate any equipment on the premises to see whether it or a disk, tape or other storage device that can be used with it or is associated with it, contains any information that is relevant to the purpose of the search; (g) seize any appliance, book, statement, document or thing, and take samples of material or substances, which appear to provide proof of a contravention of any provision of this Act ; and (h) give notice in writing to the owner of any thing seized under paragraph (g), or to the person who had control over it immediately before its seizure, to remove the seized item at such person’s own cost within a period, and to a place specified, in the notice. (2) An inspector must not under subsection (1) enter any premises, or any part of premises which is, or is being used as, a private dwelling, unless a warrant authorising the entry and search of such premises has been obtained from a judge of the High Court or a magistrate who has jurisdiction in the area in which the premises in question are situated. (3) To the extent that the provisions of subsections (1) and (2) authorise the interference with a person’s fundamental right to privacy by authorising the entry and search of premises, those provisions are enacted on the authority of Article 13 of the Namibian Constitution for the protection of health, the prevention of crime and the protection of the rights or freedoms of others. (4) A warrant may be issued under subsection (2) if it appears to the judge or magistrate from information on oath that there are reasonable grounds to believe that any material, substance, appliance, book, statement or document that may relate to a contravention of this Act , is upon or in the premises. (5) For the purposes mentioned in subsection (1), an inspector may enter any vehicle, vessel or aircraft and carry out a search for GMOs or GMO products, and may open any package or container found on the vehicle, vessel or aircraft and for the purpose of such search the provisions of subsection (1) apply with the necessary changes. (6) An item seized under a power conferred by this section must be returned as soon as possible to the person from whom it was seized if criminal proceedings are not instituted in connection with the item or if it appears that the item is not required as evidence at any trial or for the purpose of any court proceedings. (7) An item seized which served as an exhibit in criminal proceedings in which a person was convicted, must be handed to and inspector to be destroyed or otherwise disposed of as directed by the court. [The phrase “and inspector” should be “an inspector”.]"
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Chapter 6",
+      "section": "38",
+      "title": "Routine inspections",
+      "content": "An inspector may at any reasonable time without warrant enter the premises of a registered facility or any other premises where dealings with a GMO is authorised to be undertaken under a permit , and may - (a) open any container found in or on the premises which the inspector on reasonable grounds believes to contain material of a GMO or a GMO product ; (b) inspect, take measurements of, conduct tests on, or take samples of anything on the premises that relates to a GMO or a GMO product ; (c) inspect any activity or process carried out at the premises in connection with a GMO or GMO product ; and (d) require from the owner or occupier of the premises to produce for inspection, or for the purpose of obtaining copies or extracts thereof or therefrom, any book, label, shipping bill, bill of lading or other document relating to any activity, process or thing for the administration of this Act . [The word “from” in paragraph (d) is superfluous.]"
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Chapter 6",
+      "section": "39",
+      "title": "Register",
+      "content": "(1) The Council must maintain a register for the purpose of recording the prescribed particulars of - (a) every permit issued under this Act for dealing with a GMO and any condition to which the permit is subject; (b) every registration of a facility issued under this Act and any condition to which the registration is subject; (c) any suspension, cancellation or variation of a GMO permit or a registration of a facility ; (d) every exemption granted under section 21 or any regulation made under that section; and (e) such other matters as may be prescribed . (2) The register may be kept in any form as the Council determines. (3) The Council must ensure that information mentioned in subsection (1) is entered on the register as soon as reasonably practicable. (4) The Council must - (a) permit members of the public to inspect the register or any part thereof free of charge during normal office hours; and (b) afford to members of the public facilities for obtaining copies of entries, on payment of such charges as the Council determines."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Chapter 6",
+      "section": "40",
+      "title": "Emergency measures",
+      "content": "(1) Before any release or contained use of a GMO or GMO product is made or carried out, the Council may require the applicant to - (a) prepare an emergency plan for the protection of human or animal health or the environment outside the area of release or contained use in the event of an unintentional release and ensure that the appropriate emergency services are aware of the potential hazards and informed thereof in writing; (b) provide information on safety measures and procedures to be adopted in the case of an unintentional release to persons likely to be affected by the release ."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Chapter 6",
+      "section": "41",
+      "title": "Steps after accidental or unintentional release of GMO",
+      "content": "(1) In the event of an unintentional or accidental release of a GMO , the permit holder must forthwith - (a) inform the Registrar ; and (b) take every reasonable steps necessary for cleaning-up and for avoiding or mitigating any adverse impact on human and animal health and the environment . [The word “steps” in the phrase “every reasonable steps” should be singular to be grammatically correct.] (2) If a permit holder fails to comply with subsection (1), or fails to take the steps mentioned therein adequately to the satisfaction of the Council , the Council may cause such steps or containment measures to be undertaken as may be reasonably necessary under the circumstances, either with or without the cooperation of the permit holder. (3) The reasonable costs incurred by the Council in connection with any operations or measures undertaken in terms of subsection (2) may be recovered by the Council from the permit holder concerned for the benefit of the Fund."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Chapter 6",
+      "section": "42",
+      "title": "Report to Minister of notification given under Protocol of unintentional transboundary movement of GMO",
+      "content": "The Council must forthwith report to the Minister , in the prescribed manner, any incident where the Council has given notification in accordance with the requirements of the Protocol of any occurrence that has lead or may lead to an unintentional transboundary movement of a GMO that is likely to have significant adverse effects on the conservation and sustainable use of biological diversity."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Chapter 6",
+      "section": "43",
+      "title": "Declaration of information to be commercially confidential",
+      "content": "(1) A person may apply to the Council for a declaration by the Council that certain information as specified in the application, provided, or to be provided, by the person in connection with any application, or for any other purpose, under this Act , is commercially confidential information for the purposes of this Act . (2) An application in terms of subsection (1) must be in writing in the form approved by the Council . (3) Subject to subsection (4), if an applicant in terms of subsection (1) satisfies the Council that any information specified in the application - (a) is a trade secret; (b) is information of a particular commercial or other value that is not generally available to or known by others; or (c) is information that relates to the affairs of any individual, business or organisation which, if disclosed, could unreasonably affect that individual, business or organisation; the Council must declare that the information is commercially confidential. (4) The Council may refuse to declare that information is commercially confidential if the Council is satisfied that the public interest in disclosure of the information outweighs the prejudice that disclosure would cause to any person. (5) Information relating to any of the following matters is not to be regarded as confidential for the purposes of this section: (a) a description of any GMO or GMO product ; (b) the names and addresses of an applicant for a permit or registration of a facility ; (c) the purpose for which any dealing with a GMO is required to be authorised by a permit ; (d) methods and plans for the monitoring of GMOs in case of an accident; (e) the evaluation of any foreseeable effects, in particular any pathogenic or ecologically disruptive effects; (f) any other information as may be prescribed . (6) The Council must give the applicant written notice of the Council ’s decision about the application. (7) If the Council refuses an application under subsection (1) in relation to any information, the information is to be treated as commercially confidential until the determination of any appeal against such refusal under section 46 or the period for lodging such an appeal has expired."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Chapter 6",
+      "section": "44",
+      "title": "Revocation of declaration",
+      "content": "(1) The Council may, by written notice given to the applicant, revoke a declaration made under section 43 if the Council is satisfied - (a) that the information concerned no longer satisfies paragraph (a), (b) or (c) of section 43 (3); or (b) that the public interest in disclosure of the information outweighs the prejudice that disclosure would cause to any person. (2) A revocation by the Council under subsection (1) does not take effect until the determination of any appeal against such revocation under section 46 or the period for lodging such an appeal has expired."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Chapter 6",
+      "section": "45",
+      "title": "Commercially confidential information must not be disclosed",
+      "content": "(1) Subject to subsection (2), a person who - (a) has knowledge of commercially confidential information; (b) has acquired that knowledge because of performing duties or functions under this Act or any other law; and (c) knows that the information is commercially confidential information, must not disclose the information. (2) Subsection (1) does not apply to commercially confidential information which is disclosed - (a) to a member or the Registrar or to any staff member or other person engaged in the performance of any function under this Act and the disclosure is made within the ordinary scope of the duties of the person making the disclosure; (b) by order of a court; or (c) with the consent of the person who applied to have the information declared as commercially confidential commercial information. (3) A person who contravenes subsection (1) commits an offence and is liable to a fine not exceeding N$ 8000 or to imprisonment for a term not exceeding 2 years, or to both such fine and such imprisonment. (4) In this section: (a) “court” includes a tribunal, authority or person having power to require the production of documents or the answering of questions. (b) “disclose”, in relation to information, means give or communicate in any way."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Chapter 6",
+      "section": "46",
+      "title": "Appeal",
+      "content": "(1) Any person who feels aggrieved by a decisions or action taken by the Council , the Registrar or an inspector may, within the period and in the manner prescribed , and on payment of the prescribed fee, appeal against the decision or action to the Minister for determination by an appeal board to be appointed by the Minister . [The word “decisions” in the phrase “a decisions” should be singular to be grammatically correct.] (2) The Minister must appoint the appeal board within 60 days from the date of receipt of the appeal which must consist of a chairperson , being a legal practitioner with at least 5 years standing, and one or more persons with expert knowledge in the field of biotechnology or related fields. (3) A member of the appeal board must withdraw himself or herself as such a member if he or she has any direct or indirect interest in the subject matter of the appeal or if, for any other reason, there is likely to be a conflict of interests as a result of his or her membership of the appeal board. (4) An appeal board may make such orders as it thinks fit, confirming varying or setting aside the decision or action appealed against or referring the matter back for reconsideration by the Council . (5) If the appeal board makes an order - (a) setting aside the decision or action appealed against, the prescribed fee paid for the appeal must be refunded to the appellant; or (b) varying the decision or action appealed against, such portion of that prescribed fee as the appeal board determines must be refunded to the appellant. (6) The chairperson of an appeal board must cause copies of the full decision of the appeal board, including the reasons for the decision, to be sent to the parties to the appeal within 14 days after the final decision has been taken."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Chapter 6",
+      "section": "47",
+      "title": "Offences and competent court orders",
+      "content": "(1) A person who - (a) forges or utters, knowing it to be forged, or makes any unauthorised alteration to a permit or registration certificate, or any risk assessment report or risk management plan or any other document issued under or provided for in this Act ; (b) provides information under this Act which is false or misleading in any material particular; (c) makes any false entry or declaration in any register or document that the Registrar requires to be kept; (d) hinders, obstructs or assaults an inspector in the course of carrying out his or her duties under this Act commits an offence and is liable on conviction to a fine not exceeding N$8000.00 or to imprisonment for a period not exceeding 2 year, or to both such fine and such imprisonment. [The word “year” should be plural to be grammatically correct.] (2) In the event of a conviction under this Act the court may order that any damage to the environment resulting from the offence be repaired by the person so convicted to the satisfaction of the Minister . (3) If within a period of 30 days after a conviction, or such longer period as the court may determine at the time of the conviction, an order in terms of subsection (2) is not being complied with, the Minister may cause the necessary steps to be taken to repair the damage to the environment and recover the reasonable cost thereof from the person so convicted. (4) If a person is convicted of an offence under this Act and it appears that the person has by that offence caused loss or damage to any organ of State or any other person, the court may in the same proceedings at the written request of the Minister or other person concerned, and in the presence of the convicted person, inquire summarily and without pleadings into the amount of the loss or damage so caused. (5) Upon proof of such amount, the court may give judgment therefor in favour of the organ of State or other person concerned against the convicted person, and such judgment has the same force and effect, and be executable in the same manner, as if it had been given in a civil action by a competent court. [The phrase “be executable” should be “is executable” to be grammatically correct.] (6) If a person is convicted of an offence under this Act , the court convicting the person may summarily enquire into and assess the monetary value of any advantage gained or likely to be gained by the person in consequence of that offence, and, in addition to any other punishment imposed in respect of the offence or compensation order made under subsection (5), impose on that person a fine equal to the amount so assessed or, in default of payment, imprisonment for a period not exceeding one year. (7) If a manager, agent or employee of an employer does or omits to do an act which would constitute an offence under this Act if done or omitted to do by the employer, and the act or omission - (a) is of a nature which is the task of the manager, agent or employee, to do or to refrain from doing within the scope of his or her employment; and (b) occurred because the employer failed to take all reasonable steps to prevent the act or omission in question, then the employer is guilty of that offence, and proof of the act or omission by the manager, agent or employee constitutes prima facie evidence that the employer is guilty under this section. (8) An employer convicted under subsection 7 must not be imposed a penalty other than a fine specified in the relevant provision, but the court may, in addition, make an order under subsection (2), (5) or (6) against the employer. (9) Whenever a manager, agent or employee of an employer does or omits to do an act which it would be an offence under this Act for the employer to do or omit to do, the manager, agent or employee shall be liable to be convicted and sentenced in respect thereof as if he or she were the employer. (10) A person who is or was a director, officer or agent of a corporate body at the time of the commission by that corporate body of an offence under this Act , is personally guilty of that offence and liable on conviction to the penalty specified in this Act if - (a) the director, officer or agent connived in the commission of the offence; or (b) the director, officer or agent failed to take all reasonable steps to prevent the commission of the offence, and the issuing of instructions by the director forbidding any act or omission constituting the offence in question is not, by itself, a sufficient defence, and proof of the said offence by the corporate body shall constitute prima facie evidence that the director, officer or agent is guilty under this sub-section. (11) Any such manager, agent, employee or director may be so convicted and sentenced in addition to the employer or corporate body."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Chapter 6",
+      "section": "48",
+      "title": "Forfeiture",
+      "content": "(1) The court convicting a person of an offence under this Act may, when requested thereto by the prosecutor, declare any thing through which the offence was committed or which was used in the commission of the offence, or the rights of the convicted person to such thing, to be forfeited to the State. (2) A forfeiture under subsection (1) does not affect the rights which any person other than the convicted person may have to the thing concerned, if it is proved that he or she - (a) did not know that the thing was being used or would be used for the purpose of or in connection with the commission of the offence; or (b) could not prevent such use, and that he or she may lawfully possess such thing. (3) The provisions of the law relating to criminal procedure providing for the forfeiture of articles, the custody and disposal thereof, the determination of any third person’s claim to the forfeited article, including any subsequent appeal by such person, apply with the necessary changes to any thing declared forfeited in accordance with this Act ."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Chapter 6",
+      "section": "49",
+      "title": "Regulations",
+      "content": "(1) The Minister , after consultation with the Council , may make regulations in relation to - (a) any matter required or permitted by this Act to be prescribed ; (b) applications for permits and registration of facilities, and the issue of permits and registration certificates; (c) the transport, storage, handling and laboratory practices in relation to GMOs or GMO products; (d) the levying of fees and charges payable for any application, issue of a permit or certificate, or any other document, or carrying out routine inspections of registered facilities or performing any other service in connection with the Council ’s functions; (e) the criteria, parameters or standards for risk assessment or risk management or for any other matter required to be done under this Act ; (f) the labelling, identification and packaging of GMOs or GMO products; (g) the standards and requirements with which facilities must conform for registration and retention of registration; (h) the minimum qualifications for appointment of persons as biosafety officers; and (i) any matter for carrying out, and giving effect to, the provisions of the Protocol , and generally for the better achievement of the objects of this Act . (2) Regulations made under subsection (1) may - (a) create a criminal offence for a contravention of any of the provisions thereof; and (b) prescribe penalties in respect of any such offence not exceeding a fine of N$8000,00 or imprisonment for a period of 2 years, or both such penalty and such imprisonment."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Chapter 6",
+      "section": "50",
+      "title": "Limitation of liability",
+      "content": "The Council , a member of the Council or of a committee of the Council , the Registar or any person engaged or assisting in the performance of the functions of the Council , including an inspector or a person engaged as consultant, is not personally liable for any loss or damage occasioned to any person as result of a bona fide performance of any function or duty under this Act . [The word “Registrar” is misspelt in the Government Gazette, as reproduced above.]"
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Chapter 6",
+      "section": "51",
+      "title": "Transitional provisions",
+      "content": "Any person who, on the date of commencement of this Act , carries on any activity with or in relation to a GMO or GMO product for which a permit is required by this Act - (a) must, if he or she wishes to continue with that activity, apply in terms of this Act for a permit within 90 days after the commencement of this Act , or such longer period as the Minister on application, and good cause shown, may approve; (b) may, if he or she has lodged with the Council an application contemplated in paragraph (a), continue with the activity concerned with or in relation to the GMO or GMO product - (i) until the application for the permit is granted by the Council ; or (ii) if the application is not granted by the Council , for a period not exceeding 30 days after the date on which the Council notifies him or her of the refusal of the application."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Chapter 6",
+      "section": "52",
+      "title": "Compliance with other laws",
+      "content": "The provisions of this Act are in addition to, and not in substitution for, the requirements of any other law."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Chapter 6",
+      "section": "53",
+      "title": "Short title and commencement",
+      "content": "(1) This Act is called the Biosafety Act, 2006 and comes into operation on a date determined by the Minister by notice in the Gazette. (2) The Minister may under subsection (1) determine different dates in respect of different provisions of this Act . History of this document 01 November 2016 Commenced by Commencement of Biosafety Act, 2006 and Biosafety Regulations 30 December 2006 this version Published in Government Gazette 3763 22 December 2006 Assented to Related documents Is commenced by Commencement of Biosafety Act, 2006 and Biosafety Regulations Subsidiary legislation Title Biosafety Regulations, 2016 Government Notice 210 of 2016 [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "chairperson",
+      "definition": "the chairperson of the Council",
+      "source_provision": "s1"
+    },
+    {
+      "term": "committee",
+      "definition": "a committee of the Council established under section 13",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Commission",
+      "definition": "the National Commission on Research, Science and Technology established by section 4 of the Research, Science and Technology Act, 2004 (Act No. 23 of 2004 )",
+      "source_provision": "s1"
+    },
+    {
+      "term": "contained use",
+      "definition": "any activity involving the genetic modification of living organisms or the production, processing, culture, storage, destruction, transport, disposal of or use in any way of genetically modified organisms and for which specific physical containment measures are used to limit their contact with, and their impact on, humans and the environment",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Council",
+      "definition": "the Biosafety Council referred to in section 5",
+      "source_provision": "s1"
+    },
+    {
+      "term": "environment",
+      "definition": "the complex of natural and anthropogenic factors and elements that are mutually interrelated and affect the ecological equilibrium and the quality of life, and includes - (a) the natural environment being land, water, air, all organic and inorganic material and all living organisms",
+      "source_provision": "s1"
+    },
+    {
+      "term": "facility",
+      "definition": "any physical structure where activities involving genetically modified organisms are carried out, including - (a) a building or part of a building",
+      "source_provision": "s1"
+    },
+    {
+      "term": "GMO",
+      "definition": "a genetically modified organism",
+      "source_provision": "s1"
+    },
+    {
+      "term": "GMO product",
+      "definition": "any article, material, substance or thing specified by the Minister under subsection (2) to be a GMO product for the purposes of this Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "inspector",
+      "definition": "an inspector appointed under section 18",
+      "source_provision": "s1"
+    },
+    {
+      "term": "living organism",
+      "definition": "any biological entity capable of transferring or replicating genetic material, including sterile organisms, viruses and viroids, animal and plant cells in culture",
+      "source_provision": "s1"
+    },
+    {
+      "term": "member",
+      "definition": "a member of the Council",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister responsible for science and technology",
+      "source_provision": "s1"
+    },
+    {
+      "term": "modern biotechnology",
+      "definition": "the application of - (a) in vitro nucleic acid techniques, including recombinant deoxyribonucleic acid (DNA) and direct injection of nucleic acid into cells or organelles",
+      "source_provision": "s1"
+    },
+    {
+      "term": "permit",
+      "definition": "a permit issued under section 25 to conduct any dealings with a GMO as authorised by the permit",
+      "source_provision": "s1"
+    },
+    {
+      "term": "prescribed",
+      "definition": "prescribed by regulation",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Protocol",
+      "definition": "the Cartagena Protocol on Biosafety to the Convention on Biological Diversity adopted by the Parties to that Convention and acceded to by Namibia",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Registrar",
+      "definition": "the Registrar of the Council referred to in section 16",
+      "source_provision": "s1"
+    },
+    {
+      "term": "regulation",
+      "definition": "a regulation made under section 49",
+      "source_provision": "s1"
+    },
+    {
+      "term": "this Act",
+      "definition": "a regulation . (2) The Minister , after consultation with the Council , may by notice in the Gazette specify any article, material, substance or thing, derived from or containing a genetically modified organism or a combination of genetically modified organisms to be a GMO product for the purposes of this Act .",
+      "source_provision": "s1"
+    }
+  ]
+}

@@ -1,0 +1,776 @@
+{
+  "id": "na-act-gn-2011-221",
+  "type": "statute",
+  "title": "Radiation Protection and Waste Disposal Regulations, 2011",
+  "title_en": "Radiation Protection and Waste Disposal Regulations, 2011",
+  "short_name": "Radiation Protection and Wa...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/gn/2011/221/eng@2017-11-15",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Chapter 1",
+      "section": "1",
+      "title": "Definitions and interpretation",
+      "content": "(1) Unless the context indicates otherwise, in these regulations any term defined in the Act bears that meaning and - “ Act ” means the Atomic Energy and Radiation Protection Act, (Act No. 5 of 2005 ); “ appointed medical practitioner ” means the medical practitioner appointed in terms of regulation 26(1)(c); “ authorised discharge limits ” means the limits determined in accordance with regulation 68(1)(b) or 68(1)(c); “ characterisation ” in relation to waste, means the determination of the physical, chemical and radiological properties of the waste to establish the need for further adjustment, treatment, conditioning , or its suitability for further handling, processing, storage or disposal; “ clearance levels ” means values expressed in terms of activity concentrations or total activity, at or below which sources of radiation may be released from regulatory control as specified in conditions imposed in a licence or when authorisation is granted for the disposal of the waste in question; “ cleared waste ” means waste in respect of which the Director-General has in terms of regulation 68(1)(a) indicated that it has decayed to clearance levels ; “ conditioning ” means those operations that produce a waste package suitable for handling, transportation, storage and disposal and may include the conversion of the waste to a solid waste form , enclosure of the waste in containers or providing an overpack; “ consumer product ” means a device such as smoke detector, luminous dial or ion generating tube that contains a small amount of radioactive substances; “ controlled area ” means an area designated as such in terms of regulation 24(1); “ critical group ” means a group of members of the public which are reasonably homogeneous with respect to their exposure with relation to a given radiation source and given exposure pathway and are typical of persons receiving the highest effective dose or equivalent dose (as applicable) by the given exposure pathway from the given source ; “ dose limit ” means the value of the effective dose or the equivalent dose to persons from controlled practices that is specified in Schedule 2; “ employer ” means any person, including the State who - (a) employs or provides work for, a natural person and who remunerates or expressly or tacitly undertakes to remunerate that person; or (b) permits a natural person to assist that person in any manner in the carrying out or conducting of that person’s business; “ effective dose ” means the effective dose calculated in accordance with Schedule 3; “ equivalent dose ” means the equivalent dose calculated in accordance with Schedule 3; “ generic safety assessment ” means a safety assessment or a portion of a safety assessment which is applicable to multiple users within a practice and does not need to be repeated with each request for an authorisation; “ guidance level ” in respect of medical exposure means levels of exposure imposed in terms of regulation 38(1); “ health surveillance ” means medical supervision intended to ensure the initial and continuous fitness of workers for their intended task; “ intervening organisation ” means a body designated or otherwise recognised by the Government of the Republic of Namibia as being responsible for managing or implementing any aspect of an intervention ; “ intervention ” means any action intended to reduce or avert exposure or the likelihood of exposure to sources which are not part of a controlled practice or which are out of control as a consequence of an accident; “ inventory ” means a detailed, itemised record maintained by the licensee or Authority in accordance with these regulations, which may contain data such as physical quantity, the activity, the radionuclide content, and other characteristics; “ medical exposure ” means exposure - (a) incurred by human patients as part of their own medical or dental diagnosis or treatment; (b) by persons (other than those occupationally exposed) while voluntarily helping in the support and comfort of patients; and (c) by volunteers in a programme of biomedical research involving their exposure; “ medical practitioner ” means a person who is registered or regarded to be registered as such with the Medical and Dental Council established by the Medical and Dental Act , 2004 ( Act No. 10 of 2004 ) and includes a person registered or regarded to be registered as a dentist if the exposure involves dental x-rays; “ member of the public ” means any person who is not a radiation worker or a patient undergoing medical exposure ; “ mill ” means a facility engaged in concentration and processing ores, and its associated facilities including those for management of waste and effluents; “ mine ” means a facility engaged in extracting ore, and its facilities including those for management of waste and effluents and also includes a mill ; “ monitoring ” means the measurement of dose or contamination for reasons related to the assessment or control of exposure to radiation or radioactive substances, and the interpretation of the results; “ normal exposure ” means exposure which is expected to be received under normal operating conditions of an installation or a source , including possible minor mishaps that can be kept under control; “ occupational exposure ” means all exposures of workers incurred in the course of their work, with the exception of exposures excluded from these regulations and exposures from practices or sources exempted by these regulations; “ potential exposure ” means exposure that is not expected to be delivered with certainty but that may result from an accident at a source or owing to an event or sequence of events of a probabilistic nature, including equipment failures and operating errors; “ protective action ” means an intervention intended to avoid or reduce doses to members of the public in chronic or emergency exposure situations; “ public exposure ” means exposure incurred by members of the public from radiation sources, excluding any occupational or medical exposure and the normal local natural background radiation but including exposure from authorised sources and practices and from accidents and intervention situations; “ quality assurance ” means all planned and systematic actions necessary to provide adequate confidence that an item, process or service will satisfy given requirements for quality; “ radioactive discharges ” means radioactive substances arising from a source within a practice which are discharged as gases, aerosols, liquids or solids to the environment, generally with the purpose of dilution and dispersion and “discharge” when used with relation to radioactive substances is construed accordingly; “ radioactive ” when used in relation to any material or substance means that that material or substance contains one or more radionuclides the activity or concentration of which exceeds the exemption levels specified in Schedule 1; “ radioactive waste management ” means all activities, administrative and operational, including decommissioning activities, that are involved in the handling, pre-treatment, conditioning , storage and disposal of waste from a facility; “ safety assessment ” means a review of the aspects of design and operation of a source which are relevant to the protection of persons or the safety of the source , including the analysis of the provisions for safety and protection established in the design and operation of the source and the analysis of risks associated with normal conditions and accident situations; “ safety culture ” means the assembly of characteristics and attitudes in organisations and individuals which establishes that, as an overriding priority, protection and safety issues receive the attention warranted by their significance; “ sealed source ” means radioactive material that is permanently sealed in a capsule or closely bounded and in a solid form, the capsule or material of which is strong enough to maintain leaktightness under the conditions of use and wear for which the source was designed as well as under foreseeable mishaps; “ source ” means anything that may cause radiation exposure by emitting ionising radiation or releasing radioactive substances or materials, or in any other manner; “ storage ” means the placement of radioactive waste in a suitable facility where isolation, environmental protection and human control (for example, monitoring ) are provided with the intent that the waste will be retrieved for clearance or treatment and conditioning or disposal at a later time; “ supervised area ” means an area designated as such in terms of regulation 25(1); “ treat ” when used in relation to waste, means the operations intended to benefit safety or economy by changing the characteristics of the waste and “treatment” is construed accordingly; “ unsealed source ” means a source that does not meet the definition of a sealed source ; “ waste form ” means the waste in its physical and chemical form after treatment or conditioning (resulting in a solid product) prior to packaging. The waste form is a component of the waste package ; “ waste inventory ” means a detailed, itemised record maintained by the licensee or Authority in accordance with these regulations, which may contain data such as physical quantity, the activity of the waste, the radionuclide content, and other characteristics; “ waste package ” means the product of conditioning that includes the waste form and any container and internal barriers (e.g. absorbing materials and liner), as prepared in accordance with requirements for handling, transportation, storage or disposal; “ worker ” means any natural person - (a) who is employed by, or working for, any employer (whether full time or part time) and who is receiving, or entitled to receive, any remuneration; or (b) who in any manner assists in the carrying on or the conducting of the business of an employer . (2) For the purpose of these regulations, radioactive material is deemed to be below the exemption levels if - (a) the activity of every nuclide in column 1 of Schedule 1 on the premises of the licensee is lower than the amount specified for that nuclide in column 3 of Schedule 1; and (b) the activity concentration of every nuclide is lower than the activity concentration specified for that nuclide in column 2 of Schedule 1. (3) In these regulations, any reference to a source under the responsibility of a person is construed as a reference to a source operated, owned or possessed by that person, whether that source is registered or not. Chapter 2 APPLICABILITY AND EXEMPTIONS FROM PROVISIONS OF ACT"
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Chapter 2",
+      "section": "2",
+      "title": "Relation to other rules of law",
+      "content": "These Regulations specify the minimum requirements for protection of the people and environment against exposure to ionising radiation and for the safety of radiation sources and for the security of radioactive and nuclear material and they do not relieve any person from the duty to take any additional actions as may be appropriate and reasonably necessary to protect any person or the environment from any damage resulting from radiation."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Chapter 2",
+      "section": "3",
+      "title": "Exemption of practices and sources",
+      "content": "(1) Subject to subregulation (3), practices and sources within a practice are exempted from the requirements of these regulations if the levels of all radionuclides are below the levels specified in Schedule 1. (2) Subject to subregulation (3), sources specified in subregulation (1) are not regarded to be radioactive material for the purposes of the Act . (3) The provisions of subregulation (1) and (2) do not apply to waste that has been disposed of until such waste has been cleared as contemplated in regulation 68(2). (4) The following practices and sources within a practice are exempted from the requirements of these regulations, including the requirement for notification, registration and licensing - (a) radioactive substances for which the total activity of a given nuclide present on the premises at any one time or its activity concentration contained in a mass of 1000 kg or less of material does not exceed the exemption levels specified in Schedule 1; (b) apparatus containing radioactive substances exceeding the quantities or concentrations referred to in paragraph (a), if - (i) it is of a type approved by the Director-General; (ii) it is constructed in the form of a sealed source ; and (iii) it does not cause, in normal operating conditions, a dose rate exceeding 1 μ Sv per hour at a distance of 0.1 m from any accessible surface of the apparatus nor a dose to any member of the public exceeding 10 μ Sv in a year; (c) any cathode ray tube intended for the display of visual images or other electrical apparatus that emits ionising radiation if that tube or apparatus operates at a potential difference not exceeding 30 kV, if it does not cause in normal operating conditions a dose rate exceeding 1 μ Sv per hour at a distance of 0.1 m from any accessible surface of the apparatus; (d) any electrical apparatus emitting ionising radiation, other than apparatus referred to in paragraph (c), if it is of a type approved by the Director-General and it does not cause in normal operating conditions a dose rate exceeding 1 μSv per hour at a distance of 0.1 m from any accessible surface of the apparatus; and (e) natural radioactivity in the body, cosmic radiation and radiation resulting from unmodified concentrations of natural radionuclides in raw materials."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Chapter 2",
+      "section": "4",
+      "title": "Type approval",
+      "content": "(1) The Director-General may grant type approval for any consumer product , if in his or her opinion, products of that type are unlikely to expose any person to a significant risk of exposure to ionising radiation. (2) When type approval is granted, the product must be placed in one of the following categories - (a) products referred to in regulation 3(4)(c) or 3(4)(d); (b) products whose possession, import, use and installation does not require an authorisation if the product will not (even if it malfunctions or is used incorrectly or when it is disposed of) create a substantial risk of increasing radiation exposure significantly above background levels of radiation; (c) products whose possession does not require an authorisation, but that may only be used by a licensee or whose use require an authorisation if the product only produces ionising radiation when it is used and its use in the normal course will not create a significant risk of exposure to radiation. (3) The Director-General may impose conditions relating to a particular product referred to in subregulation (2)(b) or subregulation (2)(c) requiring - (a) the obtaining of an authorisation for the disposal of the product concerned; (b) requiring the keeping of registers of specified classes of products for which type approval has been granted; (c) requiring that the Director-General be informed when the possession or ownership of the specified product is transferred to another person. (4) The Director-General must keep a list of all products that have been type approved as contemplated in this regulation. (5) The list referred to in subregulation (4) must also specify any condition imposed in respect of the product concerned. (6) The list referred to in subregulation (4) must be made available to any person requesting it, and the whole or part of the list must be reproduced against payment of an amount that does not exceed the cost of reproduction."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Chapter 2",
+      "section": "5",
+      "title": "Notification",
+      "content": "(1) Any person who imports a radiation source that does not contain radioactive material must notify a customs officer who may grant an authorisation for the import and transport of the source . (2) The customs officer referred to in subregulation (1) must notify the Director-General as soon as possible of the import in question. (3) The authorisation referred to in subregulation (1) remains valid for one month only and does not apply to the use or further possession of the source . (4) Notwithstanding subregulation (1), a person referred to in that subregulation may beforehand obtain an authorisation for the import from the Director-General. (5) The authorisation referred to in subregulation (4) must be handed to the customs officer on the import of the source concerned for his or her endorsement. (6) A customs officer must inform the Director-General of the import in question as soon as possible after he or she has issued an authorisation in terms of subregulation (1) or he or she has made the endorsement as contemplated in subregulation (5)."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Chapter 2",
+      "section": "6",
+      "title": "Registration",
+      "content": "(1) An application for the registration of a source must be made in writing and must contain the following particulars - (a) particulars of all licences (as well as licences, permits, registrations or similar permissions under any other law) issued to the applicant; (b) full particulars of the source and the facilities where the source will be installed; (c) the purpose for which the source will be used; (d) particulars of all classes of persons including members of the public, workers, patients and any other relevant class of person who will be exposed to radiation emitted by that source ; (e) all relevant information required to assess the doses of radiation to which each class specified in paragraph (d) will be exposed; (f) all relevant particulars that may be necessary to enable the Director-General to assess the risks relating to the disposal of the source in question. (2) The Authority may provide forms on which applicants for registration must apply. (3) The Authority may provide different forms for different classes of registration. (4) The Director-General may request any further relevant information in order to evaluate an application for registration. (5) Licensees are exempted from registering any sources that consist of minerals mined in Namibia or any product produced from such minerals: Provided that the requirements of these regulations as well as any special conditions imposed as conditions of the issuing of a licence relating to safety and the control of exposure to radiation apply in respect of such sources."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Chapter 2",
+      "section": "7",
+      "title": "Classes of licence",
+      "content": "(1) The following classes of licence may be granted - (a) licences for the use of sources to search persons, or to detect the presence of any object or substance in the possession of a person for security or other similar purposes; (b) licences for the use by persons practising any health profession of x-rays to obtain images for diagnostic purposes; (c) licences for the use by persons practising any health profession of gamma rays or radionuclides to obtain images for diagnostic purposes; (d) licences for the use by persons practising any health profession of radionuclides, x-rays, or gamma rays for therapeutic purposes; (e) licences for the use of sealed sources for the purposes of density measurement, level detection, thickness control, moisture measurement and control, the examination of the quality of a component or product, and other similar industrial activities; (f) licences for mines that produce minerals that contain radioactive materials or nuclear material; (g) other licences. (2) In the case of licences referred to in subregulation (1)(a) the application must contain full particulars of the reasons why alternative methods of achieving the purpose are not feasible and why the benefits obtained from the use of radiation outweighs the possible harm of the use of radiation. (3) In the case of licences referred to in subregulation (1)(b), (1)(c) and (1)(d) the applicant must provide sufficient information to demonstrate that all persons that use the sources in question have received sufficient training relating to the use of the source for the licensed purpose. (4) Licences referred to in subregulation (1)(f) may only be granted to applicants who may mine the mineral in question lawfully."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Chapter 2",
+      "section": "8",
+      "title": "Application for licences",
+      "content": "(1) An application for a licence must be in writing and must contain all the information that according to the Act and these regulations must be provided as well as - (a) the personal particulars of the applicant; (b) the class of the licence for which the applicant applies; (c) particulars of all other licences or registrations granted by other public bodies in relation to the activities relating to the practices and use of sources; (d) particulars of all practices for which he or she intends to be licensed. (2) The Authority may provide forms on which applicants must apply. (3) Different forms may be provided in respect of different classes of licence. (4) The Director-General may request further information in respect of any application for a licence. (5) Whenever it is required by the Director-General, the applicant must also provide a radiation management plan which must include - (a) a comprehensive and technical description of the practices for which he or she applies to be licensed; (b) full particulars of the results of impact assessment and other studies that have been carried out in respect of the practice concerned; (c) a description of the organisational arrangements, including roles and responsibilities of all persons, and radiation safety officers, and assignment of responsibilities to different operational levels; (d) a description of the measures to be introduced for the assessment and optimisation of radiation protection of workers in accordance with the requirements of these regulations; (e) a description of the measures to be introduced for the assessment and optimisation of radiation protection for the environment and public in accordance with the requirements of these regulations; (f) a description of the measures to be introduced for the assessment and optimisation of the benefits resulting from medical exposures in accordance with the requirements of these regulations; (g) a technical description of the measures to be introduced to ensure that protection against radiation exposure during transportation is optimised in accordance with the requirements of these regulations; (h) a description of measures to be introduced to ensure that threats are assessed and physical protection measures are in place for security of radiation sources and response mechanism are established to respond to any breach of security systems; (i) a description of potential accident scenarios and a comprehensive description of the response and preparedness plan; (j) characterisation of the potential waste to be generated and the provisions to be introduced to ensure safe and secure management of radioactive waste in accordance with the requirements of these regulations. Chapter 3 RADIATION PROTECTION PERFORMANCE REQUIREMENTS"
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Chapter 3",
+      "section": "9",
+      "title": "Justification of practices",
+      "content": "(1) No practice or source within a practice may be licensed or registered unless it produces sufficient benefit to the exposed persons or to society to offset the radiation harm that it might cause, taking into account social, economic and other relevant factors. (2) The applicant for the licence or registration concerned must provide sufficient information to the Director-General relating to the benefits and the harm to support the justification of the practice. (3) For the purposes of subregulation (1), the following practices are deemed not to be justified whenever they would result in an increase in exposure to ionising radiation - (a) practices involving food, beverages, cosmetics or any other commodity or product intended for ingestion, inhalation or percutaneous intake by, or in relation to, a human being; or (b) practices involving the frivolous use of radiation or radioactive substances in commodities or products such as toys and personal jewelry or adornments."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Chapter 3",
+      "section": "10",
+      "title": "Dose limit",
+      "content": "(1) The normal exposure of persons must be restricted so that neither the total effective dose nor the total equivalent dose to relevant organs or tissues, caused by the possible combination of exposures from all practices, exceeds any relevant dose limit specified in Schedule 2, except in the special circumstances contemplated in regulation 11 and as contemplated in regulation 56. (2) Subregulation (1) does not apply to medical exposures from licensed practices."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Chapter 3",
+      "section": "11",
+      "title": "Special circumstances",
+      "content": "(1) The Director-General may grant approval for exposures exceeding the levels referred to in regulation 10 if a practice which is justified and for which radiation safety is optimised presents special circumstances which require a temporary change in some dose limit requirements of these regulations. (2) The application submitted by the licensee to obtain the approval contemplated in subregulation (1) must include information to demonstrate that - (a) all reasonable efforts have been made to reduce exposures and optimise radiation safety measures in accordance with the requirements of these regulations; and (b) the relevant employers and workers, through their representatives where appropriate, have been consulted on the need for and the conditions of the temporary change in dose limit requirements. (3) Any temporary change in a dose limit requirement of these regulations must be limited to specified work areas and must be in accordance with the time and dose limits for special circumstances specified in Schedule 2."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Chapter 3",
+      "section": "12",
+      "title": "Optimisation of protection and safety",
+      "content": "(1) In relation to exposures from any particular source within a practice, radiation safety must be optimised in order to ensure that the magnitude of individual doses (except for the volume of interest in cases of therapeutic medical exposures), the number of people exposed and the likelihood of incurring exposures must be kept as low as reasonably achievable, economic and social factors being taken into account: Provided that the dose to persons delivered by the source must be subject to dose constraints specified in the license condition imposed by the Director-General. (2) A licensee must use, to the extent practicable, procedures and engineering controls based upon sound radiation safety principles to achieve the objective referred to in subregulation (1)."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Chapter 3",
+      "section": "13",
+      "title": "Dose constraints",
+      "content": "(1) Except for medical exposure , the optimisation of the radiation safety measures associated with a given practice must satisfy the condition that the resulting doses to members of the critical group do not exceed dose constraints which are equal to the dose limits specified in Schedule 2 or any lower values established by the Director-General. (2) In case of any source that can release radioactive substances to the environment, the dose constraints must be established so that the prospective annual doses to members of the public, including people distant from the source and people of future generations, summed over all exposure pathways, including contributions by other practices and sources, are unlikely to exceed the dose limits specified in Schedule 2 or any lower values established by the Director-General. Chapter 4 MANAGEMENT REQUIREMENTS"
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Chapter 4",
+      "section": "14",
+      "title": "Safety culture",
+      "content": "(1) Licensees must establish a management system, commensurate with the size and nature of the activity in question, which ensures that - (a) policies and procedures are established that identify protection and safety as being of the highest priority; (b) problems affecting protection and safety are promptly identified and corrected in a manner commensurate with their importance; (c) the responsibilities of each individual for protection and safety are clearly identified and each individual is suitably trained and qualified; (d) all employees are informed at least annually, of the importance of effective safety measures and are trained in their implementation as appropriate; (e) training programmes are routinely evaluated in consultation with the Authority and updated as necessary; (f) clear lines of authority for decisions on protection and safety are defined; and (g) organisational arrangements and lines of communications are established that result in an appropriate flow of information on protection and safety at and between the various levels in the entire organisation."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Chapter 4",
+      "section": "15",
+      "title": "Quality assurance",
+      "content": "(1) Licensees must establish quality assurance programmes that provide, as appropriate - (a) adequate assurance that the relevant requirements relating to protection and safety are satisfied; and (b) quality control mechanisms and procedures for reviewing and assessing the overall effectiveness of protection and safety measures. [The subregulation number (1) in this regulation appears to be in error; there are no other subregulations.]"
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Chapter 4",
+      "section": "16",
+      "title": "Human factors",
+      "content": "(1) Licensees must ensure that all persons on whom protection and safety depend are appropriately trained and qualified so that they understand their responsibilities and perform their duties with appropriate judgement and according to defined procedures, and that they are periodically retrained and requalified as may be necessary. (2) Licensees, in co-operation with suppliers as appropriate, must follow sound ergonomic principles in designing equipment and preparing operating procedures in order to facilitate the safe use of equipment and minimise the contribution of human errors to accidents or incidents. (3) A licensee must inform his or her employees at least once a year of the importance of effective safety measures and train them in the implementation of those measures. (4) A licensee must routinely evaluate and update training programmes as may be necessary. (5) Licensees must maintain records for training provided which include - (a) the name of the person who provided the training as well as the nature of his or her accreditation; (b) the names of persons who received the training concerned; (c) the date and length of the training course; (d) the content of training modules covered; (e) copies of the certificates of training. (6) Licensees must provide appropriate equipment, safety systems and procedures which - (a) reduce, as far as practicable, the possibility of human errors leading to unplanned exposure of any person; (b) provide means to detect human errors and correct or compensate for them; and (c) facilitate intervention in the event of an accident."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Chapter 4",
+      "section": "17",
+      "title": "Radiation safety officers",
+      "content": "(1) A licensee must grant the radiation safety officer the authority to immediately stop work practices that are found to be radiologically unsafe. (2) The qualifications of the radiation safety officer must include a level of academic knowledge and of professional experience compatible with the levels of risks associated with the licensed practices or sources within a practice. Chapter 5 VERIFICATION OF PROTECTION AND SAFETY"
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Chapter 5",
+      "section": "18",
+      "title": "Safety assessments",
+      "content": "(1) Safety assessments related to protection and safety measures for sources within practices must be made by licensees at different stages and must contain information relating to the location, design, manufacture, construction, assembly, commissioning, operation, maintenance and decommissioning of the sources as appropriate, in order to - (a) identify the ways in which normal exposures and potential exposures could be incurred, account being taken of the effect of events external to the sources as well as events directly involving the sources and their associated equipment; (b) determine the expected magnitudes of normal exposures; (c) estimate the probabilities and the magnitudes of potential exposures; and (d) assess the quality and extent of the protection and safety provisions. [The subregulation number (1) in this regulation appears to be in error; there are no other subregulations.]"
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Chapter 5",
+      "section": "19",
+      "title": "Monitoring and verification of compliance",
+      "content": "(1) Licensees must conduct monitoring and measurements of the parameters necessary for verification of compliance with the requirements of these regulations and the licence. (2) For the purposes of monitoring and verification of compliance, licensees must provide suitable equipment, must indroduce verification procedures, must properly maintain and test that equipment and must calibrate that equipment at appropriate intervals with reference to standards traceable to national or international standards. [The word “introduce” is misspelt in the Government Gazette , as reproduced above.]"
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Chapter 5",
+      "section": "20",
+      "title": "Records",
+      "content": "Licensees must keep proper records of the results of monitoring and verification of compliance, including records of the tests and calibrations carried out in accordance with the requirements of these regulations."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Chapter 5",
+      "section": "21",
+      "title": "Approval of dosimetry services",
+      "content": "(1) The Director-General may, by a certificate in writing, approve (in accordance with such criteria as may from time to time be determined by the Director-General) a suitable dosimetry service for such of the purposes of these regulations as are specified in the certificate. (2) A certificate issued under subregulation (1) may be issued subject to conditions and may be revoked in writing at any time. (3) The Director-General may at such suitable periods as he or she considers appropriate carry out a re-assessment of any approval granted under subregulation (1). Chapter 6 OCCUPATIONAL EXPOSURE PROTECTION"
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Chapter 6",
+      "section": "22",
+      "title": "General responsibilities",
+      "content": "(1) Where workers who are liable to occupational exposure are not employed by a licensee, but by another employer - (a) both the employer and the licensee are jointly and severally liable to ensure compliance with these regulations; (b) any duty imposed upon a licensee by these regulations is also imposed on the employer of the workers concerned; (c) the employer and the licensee must conclude a contract (which must be submitted to the Authority) whereby the duties imposed by these regulations are allocated; and (d) in spite of the fact that a duty has been allocated to a party by the contract referred to in paragraph (c), the other party must take all reasonable steps to ensure that the other party fulfils his or her obligations under the agreement read with these regulations and no provision in that agreement relieves a party from any duty imposed by these regulations. (2) A licensee who employs workers who are engaged in activities that involve or could involve occupational exposure , is responsible for the protection of these workers against any occupational exposure which is not excluded from these regulations. (3) Licensees must ensure for all workers engaged in activities that involve or could involve occupational exposure , that - (a) occupational exposures are limited as specified in Schedule 2; (b) radiation safety is optimised in accordance with these regulations; (c) policies, procedures and organisational arrangements for occupational protection and safety are established to implement the relevant requirements of these regulations, and the resulting decisions on measures to be adopted for this purpose are recorded and made available to relevant persons, including workers and their representatives; (d) suitable and adequate facilities for radiation safety are provided, including personal protective devices and monitoring equipment, and arrangements are made for their proper use; (e) radiation safety and health surveillance services are provided through qualified experts; (f) arrangements are made to facilitate consultation and co-operation with workers, through their representatives where appropriate, about measures which are needed to achieve adequate radiation safety by effective implementation of these regulations; and (g) necessary conditions are provided and arrangements are made to promote a safety culture in the work force and achieve adequate training of workers on radiation safety matters. (4) If workers are to be engaged in work that involves or could involve a source which is not under the control of their employer , the licensee responsible for the source must - (a) obtain from the employer , as a pre-condition for engagement of such workers, information on their previous occupational exposure history and other information as may be necessary to provide protection and safety in compliance with these regulations; (b) provide such workers with protective measures and safety provisions which are at least as good as those provided for employees of the licensee; and (c) make dosimetric and other appropriate information available to the employer for the purpose of demonstrating that the level of protection provided to such workers is compatible with the requirements of these regulations. (5) A licensee must ensure that workers who are exposed to radiation from sources, other than natural sources, that are not directly related to or required by their work, receive the same level of protection as if they were members of the public. (6) A licensee must ensure that workers are informed of their obligations and responsibilities for their own protection and the protection of others against radiation and for the safety of sources and in particular, licensees must ensure that workers - (a) follow any applicable rules and procedures for protection and safety; (b) properly use the monitoring devices and the protective equipment and clothing provided; (c) abstain from any wilful action that could put themselves or others in a situation where any person contravenes or does not comply with the provisions of these regulations; and (d) promptly report to the licensee any circumstances that could adversely affect safety conditions or the requirements of these regulations. (7) A licensee must record any report received from a worker that identifies any circumstances that could affect safety conditions or compliance with the requirements of these regulations and must take appropriate remedial actions."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Chapter 6",
+      "section": "23",
+      "title": "Conditions of service",
+      "content": "(1) The conditions of service of workers must be independent of the existence or the possibility of occupational exposure . (2) Special compensatory arrangements or preferential treatment with respect to salary or special insurance coverage, working hours, length of vacation, additional holidays or retirement benefits may neither be granted nor be used as substitutes for the provision of proper protection and safety measures required to ensure compliance with the requirements of these regulations. (3) A licensee must advise a female worker that she must notify her employer when she becomes pregnant. (4) Once a female worker has notified the employer that she is pregnant, the employer must adapt the working conditions in respect of occupational exposure so as to ensure that the embryo or foetus is afforded the same broad level of protection which is required for members of the public, as it is specified in Schedule 2. (5) The notification of pregnancy may not be used as a reason to exclude a female worker from work. (6) An employer must make every reasonable effort to provide workers with suitable alternative workplace or employment in circumstances where it has been determined, either by the Director-General or in the framework of the health surveillance programme required by regulation 31 that the worker , for health reasons, may no longer continue in employment involving occupational exposure . (7) No person under the age of 16 years may be subjected to occupational exposure . (8) No person under the age of 18 years may be allowed to work in a controlled area unless supervised and then only for the purpose of training."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Chapter 6",
+      "section": "24",
+      "title": "Controlled areas",
+      "content": "(1) Licensees must designate as a controlled area any area in which specific protective measures or safety provisions are or could be necessary for - (a) controlling normal exposures or preventing the spread of contamination during normal working conditions; or (b) preventing or limiting the extent of potential exposures. (2) Licensees must - (a) determine the boundaries of any controlled area on the basis of the magnitude and likelihood of expected exposures and the nature and extent of the required protection and safety measures; (b) delineate controlled areas by physical means or, where this is not reasonably practicable, by some other suitable means; (c) where a source is brought into operation or energised only intermittently or is moved from place to place, delineate an appropriate controlled area by means that are appropriate under the prevailing circumstances and specify exposure times; (d) display a warning symbol, recommended by the International Organisation for Standardisation (ISO), and appropriate instructions at access points and other appropriate locations within controlled areas; (e) establish occupational protection and safety measures, including local rules and procedures that are appropriate for controlled areas; (f) restrict access to controlled areas by means of administrative procedures, such as the use of work permits, and by physical barriers, which could include locks or interlocks, the degree of restriction being commensurate with the magnitude and likelihood of the expected exposures; and (g) provide at entrances and exits of controlled areas appropriate means for change of clothing, contamination monitoring and personal decontamination."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Chapter 6",
+      "section": "25",
+      "title": "Supervised areas",
+      "content": "(1) Licensees must designate as a supervised area any area not already designated as a controlled area , but where occupational exposure conditions need to be kept under review even though specific protection measures and safety provisions are not normally needed. (2) Licensees must delineate and identify the supervised areas by appropriate means, taking into account the nature and extent of radiation hazards in those areas. (3) Licensees must periodically review conditions to determine the possible need to revise the protection measures or safety provisions, including the boundaries of controlled and supervised areas."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Chapter 6",
+      "section": "26",
+      "title": "Local rules and supervision",
+      "content": "(1) Licensees and employers must, in consultation with workers, through their representatives if appropriate - (a) establish in writing, in a language comprehensible to the workers and others, such rules and procedures as are necessary to ensure adequate levels of protection and safety for workers and other persons; (b) include in the local rules and procedures the values of any relevant authorised level, investigation level or other reference level and the procedure to be followed in the event that any such level is exceeded; (c) appoint a medical practitioner who is responsible for ensuring compliance with these regulations; and (d) ensure that any work involving occupational exposure is adequately supervised and take all reasonable steps to ensure that the rules, procedures, protective measures and safety provisions are observed. (2) Employers and licensees must - (a) provide to all workers adequate information on the health risks due to their occupational exposure , whether normal exposure or potential exposure , adequate instruction and training on protection and safety, including information on general and local rules and procedures and on available protection and safety provisions, as well as adequate information on the significance for protection and safety of their actions; (b) provide to female workers who are liable to enter controlled areas or supervised areas appropriate information on - (i) the risk to the embryo or foetus due to exposure of a pregnant woman; (ii) the importance for a female worker of notifying her employer as soon as she suspects that she is pregnant; and (iii) the risk to an infant ingesting radioactive substances by breast feeding; (c) provide to those workers who could be affected by an emergency plan appropriate information, instruction and training; and (d) keep records of the training provided to individual workers."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Chapter 6",
+      "section": "27",
+      "title": "Personal protective equipment",
+      "content": "Licensees and employers must - (a) minimise the need for relying on administrative controls and personal protective equipment for protection and safety during normal operations by providing appropriate well engineered controls and satisfactory working conditions; (b) if necessary, ensure that workers are provided with suitable and adequate personal protective equipment, including as appropriate - (i) protective clothing; (ii) protective respiratory equipment with information on its protection characteristics and instructions on its proper use; and (iii) protective aprons and gloves and organ shields; (c) arrange for regular testing and maintenance to be carried out on all personal protective equipment, including, as required, special equipment for use in the event of accidents and interventions; and (d) take into account the following factors when assigning personal protective equipment for a given task - (i) medical fitness to sustain possible extra physical effort while using the protective equipment; and (ii) additional work time or inconvenience or additional non-radiological risks associated with the use of the protective equipment."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Chapter 6",
+      "section": "28",
+      "title": "Exposure assessment",
+      "content": "(1) Licensees and employers must arrange for the assessment of the occupational exposure of workers and must ensure that adequate arrangements are made with appropriate dosimetry services under an adequate quality assurance programme. (2) Subject to subregulation (3), a licensee must undertake individual monitoring for every worker who is normally employed in a controlled area . (3) In cases where individual monitoring is not feasible, the occupational exposure of the workers must be assessed on the basis of the results of monitoring of the workplace and of information on the locations and duration of exposure of the workers. (4) A licensee must assess the occupational exposure of every worker who is normally employed in a supervised area or who enters a controlled area only occasionally, but the assessment may be on the basis of the results of monitoring of the workplace or of individual monitoring . (5) The nature, frequency and precision of individual monitoring must be determined with consideration of the magnitude and possible fluctuations of exposure levels and the likelihood and magnitude of potential exposures. (6) A licensee must ensure that workers, who may be exposed to radioactive contamination, including workers who use protective respiratory equipment, are identified and must arrange for appropriate monitoring to the extent necessary to demonstrate the effectiveness of the protection provided and to assess the intake of radioactive substances or the committed doses, as appropriate."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Chapter 6",
+      "section": "29",
+      "title": "Management of overexposure",
+      "content": "(1) Where a licensee suspects or has been informed that any person is likely to have received an exposure exceeding the relevant levels provided for in Schedule 2, the licensee concerned must perform an immediate investigation to determine whether there are circumstances which show beyond reasonable doubt that no exposure could have occurred and, unless this is shown, that licensee must - (a) as soon as practicable notify - (i) the Authority; (ii) in the case of an employee of some other employer , that other employer ; and (iii) in the case of his own employee, the appointed medical practitioner of the person affected, of that exposure; (b) make or arrange for such investigation of the circumstances of the exposure and an assessment of any relevant dose received as is necessary to determine, so far as is reasonably practicable, the measures, if any, required to be taken to prevent a recurrence of such exposure and must forthwith inform the persons and institutions referred to in paragraph (a) of the results of that investigation and assessment. [The subregulation number (1) in this regulation appears to be in error; there are no other subregulations.]"
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Chapter 6",
+      "section": "30",
+      "title": "Monitoring of workplace",
+      "content": "(1) A licensee must establish, maintain and keep under review a programme for the monitoring of the workplace commensurate with the nature of and the risks associated with all relevant sources. (2) The nature and frequency of monitoring of workplaces must - (a) be sufficient to enable - (i) the evaluation of the radiological conditions in all workplaces; (ii) the assessment of the exposure of workers in controlled areas and supervised areas; and (iii) the review of the classification of controlled and supervised areas; and (b) depend on the levels of ambient dose equivalent and airborne and surface activity concentration, including their expected fluctuations and the likelihood and magnitude of potential exposures. (3) The programmes for monitoring of the workplace must specify - (a) the quantities to be measured; (b) where and when the measurements are to be made and at what frequency; (c) the most appropriate measurement methods and procedures; and (d) reference levels of the measured quantities and the actions to be taken if they are exceeded. (4) Licensees must keep appropriate records of the findings of the workplace monitoring programme, which must be made available to workers and where appropriate their representatives."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Chapter 6",
+      "section": "31",
+      "title": "Health surveillance",
+      "content": "(1) Employers must make arrangements for appropriate health surveillance based on the general principles of occupational health and designed to assess the initial and continuing fitness of workers for their intended tasks. (2) Employers must ensure that a health record in respect of each employee is made and maintained and that that record or a copy thereof is kept until the person to whom the record relates has or would have attained the age of 75 years but in any event for at least 50 years from the date of the last entry made in it. (3) Where the appointed medical practitioner has certified in the health record of an employee that in his professional opinion that employee should not be engaged in work with ionising radiation or that he should only be so engaged under conditions he or she has specified in the health record, the employer may not permit that employee to be engaged in the work with ionising radiation except in accordance with the conditions, if any, so specified. (4) Where, for the purpose of carrying out his or her functions under these regulations, an appointed medical practitioner requests to inspect any workplace, the employer must permit him or her to do so. (5) The employer must make available to the appointed medical practitioner the summary of the dose record kept by the employer pursuant to regulation 32 and such other records kept for the purposes of these regulations as the medical practitioner may reasonably require."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Chapter 6",
+      "section": "32",
+      "title": "Records of worker exposure",
+      "content": "(1) A licensee must maintain records of exposure for each worker for whom assessment of occupational exposure is required under regulation 28. (2) The worker exposure records referred to in subregulation (1) must include information on - (a) the general nature of the work resulting in exposure, the doses and intakes at or above the relevant recording levels determined in the local rules referred to in regulation 26(1) and the data upon which the dose assessments are based; (b) the periods of employment with different employers, if any, and the corresponding doses and intakes in each period of employment; and (c) the doses or intakes due to emergency interventions or accidents, which must be distinguished from doses and intakes received during work in normal conditions. (3) A licensee must - (a) provide for access by workers to information in their own exposure records and workplace monitoring ; and (b) upon request of the Authority or other persons or organisations with a demonstrated need for such records, including relevant employers and supervisors of the health surveillance programme, provide access to worker exposure records with due care and attention to the maintenance of appropriate confidentiality. (4) Exposure records for each worker must be retained by the licensees and employers or by the Authority, if the licensees and employers cease their activities. (5) The records referred to in this regulation must be preserved at least until the worker attains or would have attained the age of 75 years, or for not less than 30 years after the termination of the work involving occupational exposure whichever date is the latest. Chapter 7 MEDICAL EXPOSURE PROTECTION"
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Chapter 7",
+      "section": "33",
+      "title": "General responsibilities",
+      "content": "(1) Licensees must ensure that - (a) no patient is administered a diagnostic or therapeutic medical exposure unless the exposure is prescribed by a medical practitioner ; (b) medical and paramedical personnel are available as needed, and are health professionals practising the appropriate profession under the laws of Namibia with appropriate training to adequately discharge assigned tasks in the conduct of the diagnostic or therapeutic procedures that the medical practitioner has prescribed; (c) for therapeutic uses of radiation (including teletherapy and brachytherapy), the calibration, dosimetry and quality assurance requirements of these regulations are conducted by or under the supervision of a qualified expert in radiotherapy physics; (d) the exposure of persons incurred knowingly while voluntarily helping (other than in their occupation) in the care, support or comfort of patients be constrained as specified in Schedule 2; and (e) training of personnel is carried out according to criteria approved by the Director-General. (2) Licensees must to the extent practicable ensure that for diagnostic uses of radiation the imaging and quality assurance requirements of these regulations are fulfilled with the advice of a qualified expert in radiodiagnostic physics, nuclear medicine physics and radiopharmacy in the compounding of radiopharmaceuticals as appropriate. (3) The medical practitioner who prescribes any treatment involving the use of ionising radiation, is assigned the primary task and obligation of ensuring overall patient protection and safety in the prescription of the treatment concerned. (4) A medical practitioner who prescribes any treatment involving the use of ionising radiation, must promptly inform the licensee of any deficiencies or needs regarding compliance with these regulations with respect to protection and safety of patients and must take such actions as may be appropriate to ensure the protection and safety of patients."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Chapter 7",
+      "section": "34",
+      "title": "Justification of medical exposure",
+      "content": "(1) Medical practitioners must consider the justification of medical exposures that they prescribe by weighing the diagnostic or therapeutic benefits they produce against the radiation detriment they might cause, taking into account the benefits and risks of available alternative techniques that do not involve medical exposure . (2) Any radiological examination for occupational, legal or health insurance purposes undertaken without reference to clinical indications is deemed to be not justified unless it is expected to provide useful information on the health of the person examined or unless the specific type of examination is justified by those requiring or requesting it in consultation with relevant professional bodies. (3) Mass screening of population groups involving medical exposure is deemed to be not justified unless the expected advantages for the persons examined or for the population as a whole are sufficient to compensate for the economic and social costs, including the radiation detriment. (4) The exposure of humans for medical research must be conducted subject to conditions imposed by the Director-General and must beforehand be approved by the Director-General which approval may only be granted if such research is justified."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Chapter 7",
+      "section": "35",
+      "title": "Optimisation of protection for medical exposures",
+      "content": "(1) In addition to satisfying the general requirements for optimisation of radiation safety specified in these regulations, licensees, in co-operation with suppliers where appropriate, must satisfy the following requirements - (a) equipment used in medical exposure must be so designed that failure of equipment or components can be promptly detected so that any unplanned exposure of patients can be avoided or minimised; and (b) the risk of delivering unplanned exposure to patients by human error is minimised. (2) Licensees, in co-operation with suppliers where relevant or appropriate, must - (a) ensure that radiation generators, sources and accessories are designed and manufactured so as to facilitate the keeping of medical exposures as low as reasonably achievable consistent with obtaining adequate diagnostic information or therapeutic results; (b) ensure that equipment containing sources for medical exposure conform to applicable international and national standards; (c) ensure that performance specifications and operating and maintenance instructions, including radiation safety aspects, are provided in English; (d) identify and take all reasonable measures to prevent failures and human errors that could result in unplanned medical exposures, including the establishment of adequate procedures for calibration, quality assurance and operation of diagnostic and therapeutic equipment as well as the selection, training and periodic retraining of suitably qualified personnel; (e) ensure that any radiation emitting equipment is provided with radiation beam control mechanisms, including safety interlocks and clear and fail-safe “on-off” indicators; (f) ensure that devices are provided to limit the exposure to the area being examined or treated and keep exposure rates outside this area, due to radiation leakage or scattering, as low as reasonably achievable; (g) ensure that, when appropriate, monitoring equipment is installed or is available to give warning of an unusual situation or trend in the use of radiation emitting equipment for diagnostic or therapeutic applications. (3) A licensee must ensure that for diagnostic exposure the medical practitioners and any other person who conduct radiological diagnostic examinations - (a) use the appropriate equipment; (b) ensure that the exposure of patients is the minimum necessary to achieve the required diagnostic objective, taking into account norms of acceptable image quality established by appropriate professional bodies and relevant guidance levels for medical exposure ; (c) take into account relevant information from previous examinations in order to avoid unnecessary additional examinations; (d) avoid a radiological examination causing exposure of the abdomen or pelvis of a woman who is pregnant or likely to be pregnant unless there are strong clinical reasons for such examination; (e) plan any diagnostic examination of the abdomen or pelvis of a woman of reproductive capacity so as to deliver the minimum dose to any embryo or foetus that might be present; (f) ensure that portable and mobile radiological equipment is used only for examinations where it is impractical or not medically acceptable to transfer patients to a stationary radiological installation and only after proper attention has been given to the radiation protection measures required in its use; (g) ensure that, whenever feasible, shielding of radiosensitive organs such as the gonads, lens of the eye, breast and thyroid is provided as appropriate; and (h) ensure that they and other imaging staff select the following parameters and use the following techniques and equipment, as relevant, such that their combination produces the minimum patient exposure consistent with acceptable image quality and the clinical purpose of the examination, paying particular attention to this selection for paediatric radiology and interventional radiology - (i) the area to be examined, the number and size of views per examination (e.g. number of films or computed tomography slices) or the time per examination (e.g. fluoroscopic time); (ii) the type of image receptor (e.g. high versus low speed screens); (iii) antiscatter grids; (iv) proper collimation of the primary X ray beam to minimise the volume of patient tissue being irradiated and to improve image quality; (v) operational parameters (e.g. tube generating potential, current and time or their product); (vi) image storage techniques in dynamic imaging (e.g. number of images per second); and (vii) adequate image processing factors (e.g. developer temperature and image reconstruction algorithms). (4) Licensees must ensure that for nuclear medicine investigations - (a) the medical practitioners who conduct diagnostic applications of radionuclides - (i) ensure that the exposure of patients is the minimum required to achieve the intended diagnostic objective taking into account relevant guidance levels for medical exposure ; (ii) take into account relevant information from previous examinations in order to avoid unnecessary additional examinations; (iii) avoid administration of radionuclides for diagnostic procedures to a woman who is pregnant or likely to be pregnant unless there are strong clinical indications; (iv) for mothers in lactation, recommend discontinuation of nursing until the radiopharmaceutical is no longer secreted in an amount estimated to give an unacceptable effective dose to the nursling; and (v) ensure that administration of radionuclides to children for diagnostic procedures is carried out only if there is a strong clinical indication, and the activity of the radionuclides administered is reduced according to body weight, body surface area and other appropriate criteria; (b) the medical practitioner and other imaging staff, as appropriate, endeavours to achieve the minimum patient exposure consistent with acceptable image quality by - (i) appropriate selection of the best available radiopharmaceutical and its activity, taking into account the special requirements for children and for patients with impairment of organ function; (ii) the use of methods for blocking the uptake in organs not under study and for accelerated excretion when applicable; and (iii) appropriate image acquisition and processing. (5) Licensees must ensure that the medical practitioners and other staff who conduct radiotherapy procedures with radiation sources or with radionuclides - (a) ensure that the prescribed absorbed dose is delivered to the planned target volume or organ; (b) ensure that exposure of normal tissue during radiotherapy is kept as low as reasonably achievable consistent with delivering the required dose to the planned target volume, and organ shielding is used when feasible and appropriate; (c) avoid radiotherapeutic procedures causing exposure of the abdomen or pelvis of a woman who is pregnant or likely to be pregnant unless there are strong clinical indications; (d) avoid administration of radionuclides for therapeutic procedures to a woman who is pregnant or likely to be pregnant or who is nursing, unless there are strong clinical indications; (e) plan any therapeutic procedure for a pregnant woman so as to deliver the minimum dose to any embryo or foetus; and (f) inform the patient of possible risks."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Chapter 7",
+      "section": "36",
+      "title": "Calibration, clinical dosimetry and quality assurance for medical exposures",
+      "content": "(1) Licensees must ensure that - (a) the calibration of sources used for medical exposure is traceable to a standards dosimetry laboratory; (b) all radiotherapy equipment is calibrated in terms of the relevant dosimetric quantities and irradiation conditions; (c) unsealed sources for nuclear medicine procedures are calibrated in terms of activity of the radio-pharmaceuticals to be administered; and (d) calibrations of equipment are carried out at the time of commissioning of a source , after any maintenance procedure that may affect the calibration and at regular intervals established or approved by the Director-General. (2) Licensees must ensure that representative values of clinical dosimetry parameters are determined and documented. (3) Quality assurance programmes for medical exposures must include - (a) measurements of the physical parameters of the radiation generators, imaging devices and irradiation installations at the time of commissioning and periodically thereafter; (b) verification of the appropriate physical and clinical factors used in patient diagnosis or treatment; (c) the keeping of written records of relevant procedures and results; (d) verification of the appropriate calibration and conditions of operation of dosimetry and monitoring equipment; and (e) as far as possible, regular and independent quality audit reviews of the quality assurance programme for radiotherapy procedures."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Chapter 7",
+      "section": "37",
+      "title": "Dose constraints",
+      "content": "(1) The optimisation of protection of persons exposed for medical research purposes, if such medical exposure does not produce direct benefit to the exposed persons, must be subjected to individual dose constraints established on a case-by-case basis by the Director-General after consultation with the Medical and Dental Council established by the Medical and Dental Act , 2004 ( Act No 10 of 2004 ). (2) Licensees must constrain any dose to persons incurred while voluntarily helping (other than in their occupation) in the care, support or comfort of patients undergoing medical exposure , and to visitors to patients who have received therapeutic amounts of radionuclides or who are being treated with brachytherapy sources, to a level not exceeding that specified in Item 5 of Schedule 2."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Chapter 7",
+      "section": "38",
+      "title": "Guidance levels",
+      "content": "(1) The Director-General may determine guidance levels as a condition of a licence when a licence is granted for the use of a source that is intended for medical purposes. (2) The guidance levels determined in terms of subregulation (1), must be used by medical practitioners in the conduct of diagnostic and therapeutic procedures involving exposure to radiation as well as in the optimisation of protection of patients. (3) Licensees must ensure that the performance of diagnostic radiology and nuclear medicine equipment is assessed on the basis of comparison with the guidance levels. (4) Licensees must ensure that corrective actions are taken as necessary if doses or activities fall substantially below the guidance levels, resulting in a decrease of medical benefit to patients by ineffective diagnostic information or insufficient therapeutic dosage. (5) Licensees must ensure that corrective actions are taken if doses or activities exceed the guidance levels, in order to ensure optimised protection of patients and to maintain appropriate levels of good practice. (6) The guidance levels must be applied with flexibility to allow higher exposures if these are indicated by sound clinical judgement and must be revised as required by technological and scientific developments."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Chapter 7",
+      "section": "39",
+      "title": "Maximum activity for patients in therapy on discharge from hospital",
+      "content": "(1) In order to restrict the exposure of any member of the household of a patient who has undergone a medical procedure with sealed or unsealed radionuclides and of members of the public, such a patient may not be discharged from hospital before the activity of radioactive substances in the body has fallen below the level specified for that purpose in the licence, unless otherwise justified and the justification is documented in the records kept in relation to the treatment of the patient concerned. (2) Written instructions to the patient concerning contact with other persons and relevant precautions for radiation protection must be provided as necessary."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Chapter 7",
+      "section": "40",
+      "title": "Investigation of accidental medical exposures",
+      "content": "(1) Licensees must promptly investigate any of the following incidents - (a) any therapeutic treatment delivered to either the wrong patient or the wrong tissue, or using the wrong pharmaceutical, or with a dose or dose fractionation differing substantially from the values prescribed by the medical practitioner ; (b) any diagnostic exposure substantially greater than intended or resulting in doses repeatedly and substantially exceeding the established guidance levels; and (c) any repeated equipment failure, accident, error, mishap or other unusual occurrence with the potential for causing a patient exposure significantly different from that intended. (2) Licensees must, with respect to any investigation required by subregulation (1) - (a) calculate or estimate the doses received and their distribution within the patient’s body; (b) indicate the corrective measures required to prevent recurrence of such an incident; (c) implement all the corrective measures that are under their own responsibility; (d) notify the Authority by telephone or facsimile as soon as practicable, but not later than 24 hours after discovery of any incident which has the potential for, or has resulted in, serious injury or death of a patient, or which involves more than one patient; (e) submit to the Authority within 30 days after discovery of the incident a written report that states the cause of the incident and includes information on the doses, corrective measures and any other relevant information; and (f) inform the patient and his or her doctor about the incident."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Chapter 7",
+      "section": "41",
+      "title": "Records",
+      "content": "Licensees must keep and make available, as appropriate, records of equipment calibration, clinical dosimetry and quality assurance , as well as any other necessary information to allow retrospective assessments of the doses received by patients. Chapter 8 PUBLIC EXPOSURE PROTECTION"
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Chapter 8",
+      "section": "42",
+      "title": "General responsibilities",
+      "content": "(1) Licensees must apply the requirements of these regulations to any public exposure delivered by a practice or source for which they are responsible, unless the exposure is excluded from these regulations or the practice or source delivering the exposure is exempted from the requirements of these regulations. (2) Licensees are responsible, with respect to the sources under their responsibility, for the establishment, implementation and maintenance of - (a) radiation safety policies, procedures and organisational arrangements for control of public exposure ; (b) measures for ensuring - (i) the optimisation of the protection, subject to constraints as may be appropriate, of members of the public whose exposure is attributable to such sources; and (ii) the limitation of the normal exposure of the relevant critical group , which is attributable to such sources, in order that the total exposure is not higher than the dose limits for members of the public as specified in Schedule 2; (c) measures for ensuring the safety of such sources, in order that the likelihood of public exposures is controlled in accordance with the requirements of these regulations; (d) suitable and adequate facilities, equipment and services for the protection of the public, the nature and extent of which are commensurate with the magnitude and likelihood of the exposure; (e) appropriate radiation safety training, and periodic retraining, to the personnel having functions relevant to the protection of the public; (f) appropriate monitoring equipment and surveillance programmes to assess public exposure ; and (g) adequate records of the surveillance and monitoring ."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Chapter 8",
+      "section": "43",
+      "title": "Control of visitors",
+      "content": "(1) Licensees must - (a) ensure that visitors are accompanied in any controlled area by a person knowledgeable about the radiation safety measures for that area; (b) provide adequate information and instruction to visitors before they enter a controlled area so as to ensure appropriate protection of the visitors and of other persons who could be affected by their actions; and (c) ensure that adequate control over entry of visitors to a supervised area be maintained and that appropriate signs be posted in such areas. [The subregulation number (1) in this regulation appears to be in error; there are no other subregulations.]"
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Chapter 8",
+      "section": "44",
+      "title": "Radioactive contamination in enclosed spaces",
+      "content": "(1) Licensees must ensure that - (a) in respect of sources for which they are responsible, measures that are optimised in accordance with the requirements of these regulations are taken as appropriate for restricting public exposure in areas accessible to the public; and (b) specific containment measures are established for the construction and operation of those sources in order to avoid or minimise spread of contamination in areas accessible to the public. [The subregulation number (1) in this regulation appears to be in error; there are no other subregulations.]"
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Chapter 8",
+      "section": "45",
+      "title": "Monitoring of public exposure",
+      "content": "(1) Licensees must, as appropriate - (a) establish and carry out a monitoring programme, of magnitude and complexity commensurate with the type of and risks associated with the sources under their responsibility, which is sufficient to ensure that the requirements of these regulations are satisfied and to assess the exposure of members of the public from sources of external irradiation and discharges of radioactive substances into the environment, as appropriate; (b) keep appropriate records of the results of the monitoring programmes; and (c) report a summary of the monitoring results to the Authority at intervals as stipulated in the authorisation or licence and promptly inform the Authority of any abnormal results which lead or could lead to an increase of public exposure . [The subregulation number (1) in this regulation appears to be in error; there are no other subregulations.]"
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Chapter 8",
+      "section": "46",
+      "title": "Consumer products",
+      "content": "(1) Consumer products capable of causing exposure to radiation may not be supplied to members of the public unless - (a) those products are exempted by regulation 3; (b) those products are approved by the Authority for use by members of the public as contemplated in regulation 4(2)(b). (2) Persons who import consumer products as contemplated in subregulation (1)(b), must include in the application to the Authority for type approval of the product, a copy of the license or authorisation issued by the Authority in the country of manufacture or origin which authorises distribution of the product concerned to members of the public in that country. (3) Persons who import consumer products contemplated in subregulation (1)(b), for sale and distribution to the public, must ensure that - (a) legible labels are visibly and firmly affixed to each consumer product and its package, stating, in English, that - (i) the product contains radioactive material; and (ii) the sale of the product to the public has been authorised by the Authority of the country of manufacture or origin; (b) basic information and instructions on the precautions of use and disposal of the product, written in English, are made available with the product. Chapter 9 REQUIREMENTS FOR THE SAFETY AND SECURITY OF SOURCES"
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Chapter 9",
+      "section": "47",
+      "title": "General responsibilities",
+      "content": "(1) Licensees must ensure the safety and security of the sources under their responsibility, from the moment of their acquisition throughout their entire operational life and up to their final disposal. (2) For this purpose, licensees must ensure that a multilayer system of provisions for protection, safety and security of sources, commensurate with the magnitude and likelihood of the potential exposures involved, is applied to the sources under their responsibility such that a failure at one layer is compensated for or corrected by subsequent layers, for the purposes of - (a) preventing accidents that may cause exposure; (b) preventing unauthorised access or damaged to, and loss of, theft of or unauthorised transfer of the source ; (c) mitigating or minimising the consequences of an accident or incident referred to in paragraph (b), should it occur; and (d) restoring sources to safe and secure conditions after an accident or an incident referred to in paragraph (b). (2) Licensees must ensure that, as applicable and appropriate, the location, design, construction and assembly, commissioning, operation and maintenance and decommissioning of sources are based on sound engineering practice which - (a) takes into account appropriate codes and standards and technical and scientific developments; (b) is supported by reliable managerial and organisational features, with the aim of ensuring protection, safety and security throughout the life of the sources; (c) includes adequate safety margins in the design, construction and operation of sources, such as to ensure reliable performance during normal operation, taking into account quality, redundancy and inspectability, with emphasis on preventing accidents, mitigating their consequences and restricting any future exposures. [This regulation has two subregulations numbered “(2)”; the subregulation above should be numbered “(3)”.]"
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Chapter 9",
+      "section": "48",
+      "title": "Accountability and security of sources",
+      "content": "(1) Licensees must conduct and keep verified physical inventory of all sealed sources annually or as specified in the licence. (2) The records must contain the following information - (a) the identity of each sealed source including the serial number and model thereof; (b) the type and quantity of every radionuclide and its activity on specified date; (c) the location of each sealed source ; (d) full particulars of the receipt or transfer or disposal of every source ; (e) the date of the inventory and the signature of the radiation safety officer. (3) Licensees must make arrangements for the sources under their responsibility to be kept secure by ensuring that - (a) control of a source is not relinquished without compliance with all relevant requirements specified in the license and without immediate communication to the Authority of information regarding any decontrolled, lost, stolen or missing source ; (b) a source may not be transferred unless the receiver possesses a valid authorisation; (c) records are maintained of source inventory , including records of receipt, transfer and disposal of sources; (d) a periodic stock taking of sources is conducted at intervals specified in the license to confirm that they are in their assigned locations and are secure; (e) all sources are marked with legible and durable labels, which include as a minimum serial numbers, model, activity and date of determination of activity, warning signs, supplier and manufacturer name, and name and contact details of the radiation safety officer; and (f) sources are appropriately secured to the site of operation in order to minimise the likelihood of unauthorised access or removal. (4) Licensees must immediately notify the Authority, in case of loss of control of sources, unauthorised access to, or unauthorised use of a source , malevolent acts threatening authorised activities, failures of equipment containing sources which may have security implications or discovery of unaccounted sources."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Chapter 9",
+      "section": "49",
+      "title": "Design and safety of sources",
+      "content": "(1) Licensees, in specific co-operation with suppliers whenever appropriate, must - (a) ensure, on procurement of new equipment containing radiation generators or sources, that such equipment and sources conform to applicable standards of the International Electrotechnical Commission (IEC) and the International Standards Organisation (ISO) or equivalent standards as may be determined as a condition for the registration of the source in question: Provided that standards other than IEC and ISO standards, applied in the country of origin of such equipment and sources must have the specific approval of the Director-General; (b) ensure that sources and equipment are tested to demonstrate compliance with the appropriate specifications; (c) conduct a safety assessment , either generic or specific, for the sources for which they are responsible, in accordance with the requirements of regulation 18; (d) ensure that performance specifications and operating and maintenance instructions, including protection and safety instructions, are provided in English and in compliance with the relevant IEC and ISO standards with regard to accompanying documents; and (e) ensure that, where practicable, the operating terminology and operating values are displayed on operating consoles or other control systems in English. (2) Where a radioactive substance is used as a source of ionising radiation, the licensee must ensure - (a) that, whenever reasonably practicable, the substance is in the form of a sealed source ; (b) that the design, construction and maintenance of any article containing or embodying a radioactive substance, including its bonding, immediate container or other mechanical protection, is such as to prevent the leakage of any radioactive substance; (c) that suitable tests are carried out bi-annually to detect leakage of radioactive substances from any sealed source and retain the record of each such test for inspection."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Chapter 9",
+      "section": "50",
+      "title": "Storing and moving sealed sources",
+      "content": "(1) Every employer must ensure that any radioactive sources under his or her possession which is not for the time being in use or being moved, transported or disposed of - (a) is kept in a suitable sources container; and (b) is kept in a suitable storage site. (2) Every licensee who causes or permits a source to be moved (otherwise than by transporting it as contemplated in regulation 52) must ensure that, so far as is reasonably practicable, the substance is kept in a suitable source holder, suitably labelled, while it is being moved. (3) Nothing in subregulations (1) and (2) applies in relation to a radioactive substance while it is in or on the live body or corpse of a human being."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Chapter 9",
+      "section": "51",
+      "title": "Records",
+      "content": "(1) Licensees must maintain and annually submit to the Authority records of tests, safety assessments, inventory of sources, source certificates, as well as any other necessary information to allow retrospective assessments of the doses received by persons. [The subregulation number (1) in this regulation appears to be in error; there are no other subregulations.] Chapter 10 TRANSPORT REQUIREMENTS"
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Chapter 10",
+      "section": "52",
+      "title": "Transport requirements",
+      "content": "(1) No radioactive material may be offered for transportation by rail, ship, aircraft or road vehicle unless the radioactive material is packed, shielded, marked and labelled in accordance with the Regulations for the Safe Transport of Radioactive Material, as drawn up by the International Atomic Energy Agency, details of which are obtainable from the Authority. (2) Any container of radioactive material imported from recognised foreign suppliers must be deemed to comply with provisions of these conditions relating to the packing, marking and labelling of radioactive material if it is packed, marked and labelled in accordance with the law in that connection in force for the time being in the country of origin. Chapter 11 REQUIREMENTS FOR EMERGENCY INTERVENTION"
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Chapter 11",
+      "section": "53",
+      "title": "Responsibilities of licensees",
+      "content": "(1) If an authorised practice or source within a practice has a potential for accidents which may cause unplanned exposure of any person, the licensee must ensure that an emergency plan appropriate for the source and its associated risks is prepared and is kept operational. (2) If a source is involved in an accident or incident, the licensee is responsible for taking such protective actions as may be required for protection of occupationally exposed workers undertaking intervention and for protection of the public from exposure as set out in the licence application and emergency plans approved by the Director-General, or as might otherwise be required by the Director-General to protect against, mitigate or remedy a hazardous situation involving the licensed sources."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Chapter 11",
+      "section": "54",
+      "title": "Licensee emergency response planning requirements",
+      "content": "(1) Each licensee responsible for sources for which prompt intervention may be required must ensure that the emergency plan defines on-site responsibilities and takes account of off-site responsibilities of other intervening organisations appropriate for implementation of the emergency plan. (2) Such emergency plans must, as appropriate - (a) characterise the content, features and extent of a potential emergency taking into account the results of any accident analysis and any lessons learned from operating experience and from accidents that have occurred with sources of a similar type; (b) identify the various operating and other conditions of the source which could lead to the need for intervention ; (c) describe the methods and instruments for assessing the accident and its consequences on and off the site; (d) provide for protection and mitigation actions, and assignment of responsibilities for initiating and discharging such actions; (e) provide for rapid and continuous assessment of the accident as it proceeds and for determining the need for protective actions; (f) allocate responsibilities for notifying the relevant duties and responsibilities and for initiating intervention ; (g) provide procedures, including communication arrangements, for contacting any relevant intervening organisation and for obtaining assistance from firefighting, medical, police and other relevant organisations; (h) provide for training personnel involved in implementing emergency plans and be rehearsed at suitable intervals in conjunction with relevant bodies; and (i) provide for periodic review and updating of the plan."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Chapter 11",
+      "section": "55",
+      "title": "Implementation of intervention",
+      "content": "(1) A licensee must ensure that the protective actions or remedial actions aimed at reducing or averting accidental exposures are only undertaken when they are justified, taking into account health, social and economic factors. (2) The form, scale and duration of any justified intervention must be optimised so as to produce the maximum net benefit under the prevailing social and economic circumstances. (3) Subject to section 32 of the Act , licensees must promptly notify the Authority when an accident requiring intervention has arisen or is expected to arise and must keep it informed of - (a) the current situation and its expected evolution; (b) the measures taken to terminate the accident and to protect workers and members of the public; and (c) the exposures that have been incurred and that are expected to be incurred."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Chapter 11",
+      "section": "56",
+      "title": "Protection of workers undertaking intervention",
+      "content": "(1) No worker undertaking an intervention may be exposed in excess of the maximum single year dose limit for occupational exposure specified in Schedule 2, except - (a) for the purpose of saving life or preventing serious injury; or (b) if undertaking actions to prevent the development of catastrophic conditions. (2) When undertaking an intervention under the circumstances mentioned in paragraph (a) or (b) of subregulation (1), all reasonable efforts must be made to keep doses to workers below twice the maximum single year dose limit , except for life saving actions, in which every effort must be made to keep doses below ten times the maximum single year dose limit in order to avoid deterministic effects on health. (3) In addition, workers undertaking actions in which their doses may approach or exceed ten times the maximum single year dose limit must do so only when the benefits to others clearly outweigh their own risk. (4) Workers who undertake actions in which the dose may exceed the maximum single year dose limit must be volunteers and must be clearly and comprehensively informed in advance of the associated health risk, and must, to the extent feasible, be trained in the actions that may be required. (5) Once the emergency phase of an intervention has ended, workers undertaking recovery operations, such as repairs to equipment and buildings, waste disposal or decontamination must be subject to the full system of detailed requirements for occupational exposure specified in these regulations. (6) All reasonable steps must be taken to provide appropriate protection during the emergency intervention and to assess and record the doses received by workers involved in emergency intervention . (7) When the intervention has ended, the doses received and the consequent health risk must be communicated to the workers involved. (8) Workers may not normally be precluded from incurring further occupational exposure because of doses received in an emergency exposure situation. (9) Qualified medical advice must be obtained before any such further exposure of a worker , if that worker has during emergency exposure receives a dose exceeding ten times the maximum single year dose limit , or if a worker who was subject to emergency exposure, at that worker ’s request."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Chapter 11",
+      "section": "57",
+      "title": "Responsibilities of the Authority",
+      "content": "(1) Pursuant to Section 24 (1) of the Act , the Authority may initiate any action and take any measures necessary to the public interest to prevent, eliminate or ameliorate the adverse effects of the accident and to restore the environment. (2) The Authority must ensure that - (a) emergency plans are prepared and approved for any practice or source which could reasonably give rise to a need for emergency intervention ; (b) emergency plans are periodically reviewed and updated; (c) provision is made for training personnel involved in implementing emergency plans and the plans rehearsed at suitable intervals in conjunction with relevant authorities; and (d) prior information is provided to members of the public who could reasonably be expected to be affected by an accident."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Chapter 11",
+      "section": "58",
+      "title": "Clean-Up and removal operations",
+      "content": "(1) The Director-General after consultation with the Board must determine - (a) the procedures for clean-up and removal operations in the event of an emergency exposure; (b) the method of storage and disposal of any radioactive substance or of any object, plant, animal, or any part of the environment removed in a clean-up or removal operation or otherwise affected by an exposure. [The subregulation number (1) in this regulation appears to be in error; there are no other subregulations.] Chapter 12 DISPOSAL OF WASTE"
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Chapter 12",
+      "section": "59",
+      "title": "Purpose",
+      "content": "This Chapter prescribes the basic technical and organisational requirements to be complied with by the waste generators and operators of waste management facilities in order to ensure the protection of human health and the environment from the hazards associated with radioactive waste within and beyond national borders, at present and in future."
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Chapter 12",
+      "section": "60",
+      "title": "Scope",
+      "content": "The scope of this Chapter covers the requirements associated with such steps in waste management as collection, segregation, characterisation , treatment, conditioning , storage and preparation for transport of radioactive waste arising from medical, industrial and research facilities where radioactive materials and sources of ionising radiation are produced, used or handled."
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Chapter 12",
+      "section": "61",
+      "title": "Radioactive waste classification",
+      "content": "(1) Radioactive waste must be classified using the following categories - (a) according to its physical form and composition as - (i) solid waste; (ii) liquid aqueous waste; (iii) Liquid organic waste; [The word “liquid” should not be capitalised.] (iv) gaseous waste; (v) sealed radiation sources; (vi) biological waste (e.g. animal carcasses which might undergo decomposition if not properly treated and stored); (vii) medical waste (e.g. syringes, bed linen and contaminated clothing from a hospital environment); (b) according to the activity concentration and half lives of radionuclides contained in the radioactive waste as - (i) category I low level radioactive waste (e.g. the activity is less than 10 MBq), containing short lived radionuclides only (e.g. with half-life less than 50 days) that will decay to clearance levels within one year after the time of its generation; (ii) category II low and intermediate level radioactive waste, containing radionuclides with half life less than 30 years and restricted long lived radionuclide concentrations and that is not expected to decay to clearance levels within one year from the time of its generation (limitation of longer lived alpha emitting radionuclides to 4000 Bq/g in individual waste packages and to an overall average of 400 Bq/g per waste package ); (iii) category III low and intermediate level radioactive waste, containing radionuclides with half life greater than 30 years and concentration of alpha emitters exceeding the limitations for category II; (iv) category IV high level radioactive waste, with thermal power above 2kW/m3 and concentration of alpha emitters exceeding the limitations for Category II (e.g. spent fuel from research reactors); (v) waste that has been produced by the extraction of a radioactive mineral or a mineral that is nuclear material. (2) Waste of category III and IV as contemplated in subregulation (1(b)(iii) and (iv) may be disposed of in deep geologic facilities only. [There is a bracket missing in the cross-reference, which should be “subregulation (1)(b)(iii) and (iv)”.] (3) Waste of category v must be disposed of in the manner determined when a licence is granted. [The waste category referred to should be “V” (capitalised).]"
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Chapter 12",
+      "section": "62",
+      "title": "General responsibilities",
+      "content": "(1) Primary responsibility for the safe management of radioactive waste rests with the waste generator who must take all necessary actions to ensure the safety of radioactive waste unless the responsibility has been transferred to another person or organisation as approved by the Director-General. (2) The waste generator is responsible for on-site segregation, collection, characterisation , and temporary storage of the radioactive waste arising from his or her activities and discharge of exempt waste. (3) Unless a licence condition or authorisation expressly allows a different process, no person or organisation may dispose of any radioactive waste unless the disposal facility designed and constructed specifically for this purpose is available and an authorisation has been obtained for such disposal."
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Chapter 12",
+      "section": "63",
+      "title": "Licence application",
+      "content": "(1) All proposals from applicants to generate radioactive waste must specify the following in a written application to the Authority - (a) nature and purpose of the proposed facility and equipment that generates radioactive waste; (b) suggested operational procedures, taking into account reduction of radioactive waste generation to the extent practicable; (c) quantity, type and characteristics of the radioactive waste to be generated; (d) proposed destination for the radioactive waste; (e) assessments of the safety and environmental impact of the facility under normal and accident conditions; (f) decommissioning procedures; (g) full particulars relating to availability of competent staff and provisions for their further training; (h) systems for records keeping and reporting; (i) proposed quality assurance programme; (j) contingency plans in the event of an emergency; (k) proposals for discharge and environmental monitoring as needed; (l) supporting research and development proposals as needed; (m) such other details as the Director-General may consider necessary. (2) An applicant must pay the amount of money determined by the Director-General to be necessary to cover the cost of the authorisation procedures. (3) The holder of an authorisation must comply with all limits and conditions specified in the authorisation including the amounts and characteristics of waste which may be generated, treated, conditioned or stored, and any specific radiation protection and physical security measures."
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "Chapter 12",
+      "section": "64",
+      "title": "Radiation safety officer",
+      "content": "(1) Each waste generator must appoint a technically competent person with the appropriate independence and authority to implement the provisions of this Chapter as a radiation safety officer who may be the same person appointed for other purposes. (2) The radiation safety officer referred to in subregulation (1), must - (a) establish, maintain and keep an up to date inventory of radioactive materials and generated waste; (b) make and maintain contact with all on-site persons using radioactive materials and provide an authoritative point of advice and guidance; (c) liaise as needed with the Authority; (d) establish and maintain a record keeping system in such a manner as to facilitate identification, characterisation , collection and storage of radioactive materials that becomes waste; (e) ensure that on-site transfer of radioactive materials and waste is carried out in accordance with written safety procedures; (f) ensure appropriate shielding, labelling, physical security and integrity of waste packages; (g) ensure that any discharge of effluents is made within clearance levels or limits specified as a condition for granting an authorisation for the disposal in question; (g) ensure that the activity or activity concentration of waste to be disposed of in a municipal landfill are below clearance levels ; (h) report on accidents and inappropriate waste management practices to the management and the Authority; (i) maintain up to date knowledge of the characteristics of the site sewerage system, local municipal landfills, available incinerators for non- radioactive waste and other facilities relevant to the organisation of waste management practices. [There are two paragraphs lettered (g) in this regulation; the last three paragraphs should be lettered (h), (i) and (j).]"
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "Chapter 12",
+      "section": "65",
+      "title": "Return of sources to supplier",
+      "content": "A person or organisation that applies to import a sealed source containing radioactive material which ten years after purchase will have an activity greater than 100 MBq must - (a) require the supplier, as a condition of any contract for purchase or as acceptance of any gift, to receive the source back after its useful lifetime within one year of the recipient requesting such return; (b) request to return the source to the supplier not later than 15 years after purchase as contemplated in paragraph (a); (c) submit to the Authority a copy of relevant parts of the contract or acceptance document and obtain its written agreement prior to entering the contract in force or accepting the source ; and (d) return the source to the supplier within 15 years or if later ensure that the source is conditioned, stored and disposed of at the cost of the waste generator."
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "Chapter 12",
+      "section": "66",
+      "title": "Segregation, collection and characterisation",
+      "content": "(1) The waste generator must keep control on waste generation to the minimum practicable. (2) The waste generator must segregate, collect and characterise waste as far as practical at the point of origin in accordance with the categories specified in regulation 61(1) in order to facilitate subsequent treatment, conditioning , storage and disposal. (3) After separation, each waste category must be kept separate in a suitable container. (4) Sufficient numbers of containers must be made available by the waste generator where radioactive waste is generated. (5) The waste containers must - (a) be easy to handle; (b) be strong enough to withstand normal handling; (c) not be affected by the waste content. (6) Waste requiring treatment and conditioning must be further segregated by the waste generator as stipulated in conditions imposed when the licence or authorisation is granted, which conditions must depend on the availability of treatment and conditioning facilities."
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "Chapter 12",
+      "section": "67",
+      "title": "Container labelling",
+      "content": "(1) A licensee must ensure that each container containing radioactive waste bears a durable, clearly visible label bearing the radiation symbol. (2) The label must be legible for the whole period of storage and must provide the following information - (a) nature of the waste in the container; (b) date of waste was generated; (c) commencement date of storage ; (d) major radiologically significant radionuclides; (e) external surface dose rate and waste category; (f) particulars of biological, chemical or other hazardous materials in the waste; (g) the name of a person responsible for the waste generation; (h) an identification number; (i) any other information that may be required by the Director-General in the authorisation for the disposal in question. (3) Every licensee must, prior to removal of empty containers to unrestricted areas, which after measuring have proved to be uncontaminated, remove or deface the label or otherwise clearly indicate that the container no longer contains radioactive waste. (4) A licensee must prior to its disposal remove the label from a container holding waste with the activity concentrations or activity levels below the exemption levels specified in Schedule 1."
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "Chapter 12",
+      "section": "68",
+      "title": "Discharge of radioactive substances to the environment",
+      "content": "(1) A licensee must ensure that radioactive waste is not discharged or released to the environment unless - (a) the waste has been cleared as contemplated in subregulation (2); (b) the discharge has been specifically authorised, subject to such conditions (including condition relating to discharge limits) imposed by the Director-General; or (c) such discharge is within the limits specified in the licence and is carried out in a controlled fashion using methods approved by the Director-General. (2) Unless specifically authorised or unless permitted by a licence condition, waste that has decayed below clearance level may only be disposed of after the Director-General has verified that the waste in question has decayed to clearance levels . (3) Before initiating the discharge to the environment of any solid, liquid or gaseous radioactive waste as contemplated in subregulation (1)(b) or (1)(c), a licensee must, as appropriate - (a) determine the characteristics and activity of the material to be discharged, and the potential points and methods of discharge; (b) determine by an appropriate pre-operational model study, all significant exposure pathways by which discharged radionuclides can deliver public exposure ; (c) assess the doses to the critical groups due to the planned discharges; (d) submit this information to the Authority as an input to the establishment of authorised discharge limits and conditions for their implementation. (4) A licensee, during the operational stages of radioactive waste management , must - (a) keep all radioactive discharges below discharge limits; (b) monitor the discharges of radionuclides with sufficient detail and accuracy to demonstrate compliance with the authorised discharge limits and to permit estimation of the exposure of critical groups; (c) record the monitoring results; (d) report the monitoring results to the Authority annually; (e) report promptly to the Authority any discharges exceeding the authorised discharge limits ."
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "Chapter 12",
+      "section": "69",
+      "title": "Discharge of cleared waste",
+      "content": "(1) The waste of Category I that is expected to decay below clearance levels within one year from its generation, must be stored safely on site, and after confirmation by measurements or other means that the exemption levels specified in Schedule 1 have been reached, must be appropriately discharged or released by the waste generator. (2) A licensee may discharge the cleared liquid effluents into sanitary sewerage only if the material is readily soluble or is readily dispersible in water. (3) A licensee may release the cleared solid waste into a municipal waste incinerator or landfill. (4) Nothing in these regulations is construed as relieving any person from any duty imposed by any law dealing with the disposal of hazardous waste contaminated with toxic compounds or infectious agents."
+    },
+    {
+      "provision_ref": "s70",
+      "chapter": "Chapter 12",
+      "section": "70",
+      "title": "Release of specific waste",
+      "content": "(1) A licensee may release the following material as if it were not radioactive - (a) 1.85 kBq, or less of Hydrogen-3 or Carbon-14 per gram of medium used for liquid scintillation counting; and (b) 1.85Bq, or less of hydrogen-3 or Carbon-14 per gram of animal tissue, averaged over the weight of the entire animal. (2) A licensee may not dispose of tissue under subregulation (1) in a manner that would permit its use either as food for humans or as animal feed."
+    },
+    {
+      "provision_ref": "s71",
+      "chapter": "Chapter 12",
+      "section": "71",
+      "title": "Waste storage",
+      "content": "(1) A licensee must provide for interim storage of radioactive waste prior to its clearance, discharge or disposal. (2) The interim storage facility must be properly designed and constructed with at least one physical barrier between the radioactive waste and other material in the store. (3) The store must be large enough to hold all generated and anticipated waste in an orderly manner and keep different categories separated. (4) The store design must provide for - (a) adequate shielding of the radioactive waste; (b) prevention of deterioration of the waste packages; (c) handling and retrievability of the waste packages; (d) adequate ventilation if volatile radioactive substances may be present in the waste; (e) conventional safety; and (f) physical protection. (5) The radioactive waste store must so far as is practicable not contain or be located close to any corrosive, explosive or flammable material. (6) The radioactive waste store must be legibly marked with the radiation symbol and details of the radiation safety officer of the waste generator."
+    },
+    {
+      "provision_ref": "s72",
+      "chapter": "Chapter 12",
+      "section": "72",
+      "title": "Transport of Radioactive Waste",
+      "content": "[The term “radioactive waste” in the heading should not be capitalised.] (1) Licensees must ensure that radioactive waste is prepared for transport, when so required, and is regarded as a radioactive source for transport in accordance with these regulations. [The subregulation number (1) in this regulation appears to be in error; there are no other subregulations.]"
+    },
+    {
+      "provision_ref": "s73",
+      "chapter": "Chapter 12",
+      "section": "73",
+      "title": "Treatment",
+      "content": "(1) The waste generator must treat the radioactive waste in order to reduce its volume and to facilitate further conditioning . (2) The treatment method must be suitably selected for the radioactive waste depending on such factors as the volume and type of the radioactive waste, the discharge requirements for liquid effluents and additional conditioning requirements."
+    },
+    {
+      "provision_ref": "s74",
+      "chapter": "Chapter 12",
+      "section": "74",
+      "title": "Conditioning",
+      "content": "(1) The radioactive waste for long term storage , transportation and disposal must be properly conditioned. (2) Waste packages produced by a conditioning process must be fully characterised with regard to important physical, chemical, radiological, mechanical and biological properties. (3) Radium sources must be conditioned for storage by encapsulating the source in a welded stainless steel tube, placing the tube in a lead shielding container followed by the emplacement of the container inside a 200 L mild steel drum filled with concrete. (4) Provisions for the retrieval of the encapsulated radium sources from drums and transportation to a disposal facility must be made."
+    },
+    {
+      "provision_ref": "s75",
+      "chapter": "Chapter 12",
+      "section": "75",
+      "title": "Quality assurance",
+      "content": "(1) All licensees must ensure that all radioactive waste management operations are carried out in accordance with a suitable quality assurance programme commensurate with the scope of activities and approved by the Director-General. (2) The quality assurance programme must be designed to ensure that the facilities and equipment are designed, constructed and operated in accordance with specified requirements for safe operation, all laws applicable in Namibia and conditions in a licence or registration are complied with. (3) Each licensee must develop and maintain an accurate and complete documentation system to cover all stages of radioactive waste management from its generation to disposal. (4) The quality assurance programme must provide for controlled approval, receipt, retention, distribution and disposition of all records important for safety. (5) Records, such as letters, drawings, specifications, etc. must include all pertinent information, such as stamps, initials, and signatures. (6) Each record must be legible throughout the specified retention period. (7) The licensee must retain the records until the Authority terminates each pertinent licence or registration requiring the record. (8) The licensee must maintain adequate safeguards against tampering with and loss of records. (9) The effectiveness of the quality assurance programme must be verified by independent audits to ensure that a radioactive waste management programme meets specific requirements, is covered by procedures, and that implementation is adequate."
+    },
+    {
+      "provision_ref": "s76",
+      "chapter": "Chapter 12",
+      "section": "76",
+      "title": "Physical protection",
+      "content": "Waste generators must ensure adequate physical protection measures to prevent any unauthorised access to the radioactive waste management facilities."
+    },
+    {
+      "provision_ref": "s77",
+      "chapter": "Chapter 12",
+      "section": "77",
+      "title": "Reporting to Authority",
+      "content": "(1) A licensee must prepare and maintain an inventory of existing and anticipated radioactive waste containing radionuclides with half lives above 50 days and an activity greater than 10 MBq and submit it to the Authority annually and whenever significant changes in radioactive waste amounts or characteristics occur. (2) The inventory must be based on the classification system specified in regulation 61(1), including information on important physical, chemical and radiological characteristics in addition to the quantity of the radioactive waste. (3) A licensee must report the loss or theft of any radioactive waste to the Authority as soon as such loss or theft becomes known to him or her if it is likely that an exposure could result to persons in unrestricted areas. (4) Within 30 days after such occurrence, the licensee must make a written report with a description of the radioactive material involved, its probable disposition, the circumstances under which the loss or theft occurred, and actions that have been taken. (5) A licensee must immediately report to the Authority any event involving radioactive waste possessed by the licensee that may have caused or threatens to cause the release of radioactive material, inside or outside of a restricted area. (6) A licensee must submit to the Authority annually a report that specifies details of quantities and types of - (a) all cleared waste disposed of at a municipal landfill, discharged into a public sewerage system or to the atmosphere; (b) all effluents discharged into the environment within authorised discharge limits ; (c) all conditioned radioactive waste in storage ; (d) all spent radiation sources sent to suppliers."
+    },
+    {
+      "provision_ref": "s78",
+      "chapter": "Chapter 12",
+      "section": "78",
+      "title": "Emergency preparedness",
+      "content": "A licensee must establish and implement an emergency response and preparedness plan in compliance with requirements specified in Chapter 11. SCHEDULE 1 EXEMPTION LEVELS Column 1 Column 2 Column 3 Nuclide Activity concentration Activity Bq/g Bq H-3 1 x 10 6 1 x 10 9 Be-7 1 x 10 3 1 x 10 7 C-14 1 x 10 4 1 x 10 7 O-15 1 x 10 2 1 x 10 9 F-18 1 x 10 1 1 x 10 6 Na-22 1 x 10 1 1 x 10 6 Na-24 1 x 10 1 1 x 10 5 Si-31 1 x 10 3 1 x 10 6 P-32 1 x 10 3 1 x 10 5 P-33 1 x 10 5 1 x 10 8 S-35 1 x 10 5 1 x 10 8 Cl-36 1 x 10 4 1 x 10 6 Ar-37 1 x 10 6 1 x 10 8 Cl-38 1 x 10 1 1 x 10 5 K-40 1 x 10 2 1 x 10 6 Ar-41 1 x 10 2 1 x 10 9 K-42 1 x 10 2 1 x 10 6 Ca-45 1 x 10 4 1 x 10 7 Sc-46 1 x 10 1 1 x 10 6 Ca-47 1 x 10 1 1 x 10 6 Sc-47 1 x 10 2 1 x 10 6 Sc-48 1 x 10 1 1 x 10 5 V-48 1 x 10 1 1 x 10 5 Cr-51 1 x 10 3 1 x 10 7 Mn-51 1 x 10 1 1 x 10 5 Fe-52 1 x 10 1 1 x 10 6 Mn-52 1 x 10 1 1 x 10 5 Mn-52m 1 x 10 1 1 x 10 5 Mn-53 1 x 10 4 1 x 10 9 Mn-54 1 x 10 1 1 x 10 6 Fe-55 1 x 10 4 1 x 10 6 Co-55 1 x 10 1 1 x 10 6 Mn-56 1 x 10 1 1 x 10 5 Co-56 1 x 10 1 1 x 10 5 Co-57 1 x 10 2 1 x 10 6 Co-58 1 x 10 1 1 x 10 6 Co-58m 1 x 10 4 1 x 10 7 Ni-59 1 x 10 4 1 x 10 8 Fe-59 1 x 10 1 1 x 10 6 Co-60 1 x 10 1 1 x 10 5 Co-60m 1 x 10 3 1 x 10 6 Co-61 1 x 10 2 1 x 10 6 Co-62m 1 x 10 1 1 x 10 5 Ni-63 1 x 10 5 1 x 10 8 Cu-64 1 x 10 2 1 x 10 6 Ni-65 1 x 10 1 1 x 10 6 Zn-65 1 x 10 1 1 x 10 6 Zn-69 1 x 10 4 1 x 10 6 Zn-69m 1 x 10 2 1 x 10 6 Ge-71 1 x 10 4 1 x 10 8 Ga-72 1 x 10 1 1 x 10 5 As-73 1 x 10 3 1 x 10 7 As-74 1 x 10 1 1 x 10 6 Kr-74 1 x 10 2 1 x 10 9 Se-75 1 x 10 2 1 x 10 6 As-76 1 x 10 2 1 x 10 5 Kr-76 1 x 10 2 1 x 10 9 As-77 1 x 10 3 1 x 10 6 Kr-77 1 x 10 2 1 x 10 9 Kr-79 1 x 10 3 1 x 10 5 Kr-81 1 x 10 4 1 x 10 7 Br-82 1 x 10 1 1 x 10 6 Kr-83m 1 x 10 5 1 x 10 1 2 [This number is reproduced as it appears in the Gazette .] Kr-85 1 x 10 5 1 x 10 4 Kr-85m 1 x 10 3 1 x 10 1 0 [This number is reproduced as it appears in the Gazette .] Sr-85 1 x 10 2 1 x 10 6 Sr-85m 1 x 10 2 1 x 10 7 Rb-86 1 x 10 2 1 x 10 5 Kr-87 1 x 10 2 1 x 10 9 Sr-87m 1 x 10 2 1 x 10 6 Kr-88 1 x 10 2 1 x 10 9 Sr-89 1 x 10 3 1 x 10 6 Mo-90 1 x 10 1 1 x 10 6 Sr-90a 1 x 10 2 1 x 10 4 Y-90 1 x 10 3 1 x 10 5 Sr-91 1 x 10 1 1 x 10 5 Y-91 1 x 10 3 1 x 10 6 Y-91m 1 x 10 2 1 x 10 6 Sr-92 1 x 10 1 1 x 10 6 Y-92 1 x 102 1 x 10 5 Nb-93m 1 x 10 4 1 x 10 7 Mo-93 1 x 10 3 1 x 10 8 Y-93 1 x 10 2 1 x 10 5 Zr-93a 1 x 10 3 1 x 10 7 Nb-94 1 x 10 1 1 x 10 6 Zr-95 1 x 10 1 1 x 10 6 Nb-95 1 x 10 1 1 x 10 6 Tc-96 1 x 10 1 1 x 10 6 Tc-96m 1 x 10 3 1 x 10 7 Zr-97a 1 x 10 1 1 x 10 5 Nb-97 1 x 10 1 1 x 10 6 Tc-97 1 x 10 3 1 x 10 8 Tc-97m 1 x 10 3 1 x 10 7 Ru-97 1 x 10 2 1 x 10 7 Nb-98 1 x 10 1 1 x 10 5 Tc-99 1 x 10 4 1 x 10 7 Tc-99m 1 x 10 2 1 x 10 7 Mo-99 1 x 10 2 1 x 10 6 Mo-101 1 x 10 1 1 x 10 6 K-43 [This number is reproduced as it appears in the Gazette .] Ru-103 1 x 10 2 1 x 10 6 Rh-103m 1 x 10 4 1 x 10 8 Pd-103 1 x 10 3 1 x 10 8 Ru-105 1 x 10 1 1 x 10 6 Rh-105 1 x 10 2 1 x 10 7 Ag-105 1 x 10 2 1 x 10 6 Ru-106a 1 x 10 2 1 x 10 5 Pd-109 1 x 10 3 1 x 10 6 Cd-109 1 x 10 4 1 x 10 6 Ag-110m 1 x 10 1 1 x 10 6 Ag-111 1 x 10 3 1 x 10 6 In-111 1 x 10 2 1 x 10 6 In-113m 1 x 10 2 1 x 10 6 Sn-113 1 x 10 3 1 x 10 7 In-114m 1 x 10 2 1 x 10 6 Cd-115 1 x 10 2 1 x 10 6 Cd-115m 1 x 10 3 1 x 10 6 In-115m 1 x 10 2 1 x 10 6 Sb-122 1 x 10 2 1 x 10 4 I-123 1 x 10 2 1 x 10 7 Te-123m 1 x 10 2 1 x 10 7 Sb-124 1 x 10 1 1 x 10 6 Sn-125 1 x 10 2 1 x 10 5 Sb-125 1 x 10 2 1 x 10 6 I-125 1 x 103 1 x 10 6 Te-125m 1 x 10 3 1 x 10 7 I-126 1 x 10 2 1 x 10 6 Te-127 1 x 10 3 1 x 10 6 Te-127m 1 x 10 3 1 x 10 7 I-129 1 x 10 2 1 x 10 5 Cs-129 1 x 10 2 1 x 10 5 Te-129 1 x 10 2 1 x 10 6 Te-129m 1 x 10 3 1 x 10 6 I-130 1 x 10 1 1 x 10 6 I-131 1 x 10 2 1 x 10 6 Cs-131 1 x 10 3 1 x 10 6 Te-131 1 x 10 2 1 x 10 5 Te-131m 1 x 10 1 1 x 10 6 Xe-131m 1 x 10 4 1 x 10 4 Ba-131 1 x 10 2 1 x 10 6 I-132 1 x 10 1 1 x 10 5 Cs-132 1 x 10 1 1 x 10 5 Te-132 1 x 10 2 1 x 10 7 I-133 1 x 10 1 1 x 10 6 Te-133 1 x 10 1 1 x 10 5 Te-133m 1 x 10 1 1 x 10 5 Xe-133 1 x 10 3 1 x 10 4 I-134 1 x 10 1 1 x 10 5 Cs-134m 1 x 10 3 1 x 10 5 Cs-134 1 x 10 1 1 x 10 4 Te-134 1 x 10 1 1 x 10 6 I-135 1 x 10 1 1 x 10 6 Cs-135 1 x 10 4 1 x 10 7 Xe-135 1 x 10 3 1 x 10 1 0 [This number is reproduced as it appears in the Gazette .] Cs-136 1 x 10 1 1 x 10 5 Cs-137a 1 x 10 1 1 x 10 4 Cs-138 1 x 10 1 1 x 10 4 Ce-139 1 x 10 2 1 x 10 6 Ba-140a 1 x 10 1 1 x 10 5 La-140 1 x 10 1 1 x 10 5 Ce141 1 x 10 2 1 x 10 7 Pr-142 1 x 10 2 1 x 10 5 Pr-143 1 x 10 4 1 x 10 6 Ce143 1 x 10 2 1 x 10 6 Ce-144a 1 x 10 2 1 x 10 5 Pm-147 1 x 10 4 1 x 10 7 Nd-147 1 x 10 2 1 x 10 6 Pm-149 1 x 10 3 1 x 10 6 Nd-149 1 x 10 2 1 x 10 6 Sm-151 1 x 10 4 1 x 10 8 Eu-152 1 x 10 1 1 x 10 6 Eu-152m 1 x 10 2 1 x 10 6 Sm-153 1 x 10 2 1 x 10 6 Gd-153 1 x 10 2 1 x 10 7 Eu-154 1 x 10 1 1 x 10 6 Eu-155 1 x 10 2 1 x 10 7 Gd-159 1 x 10 3 1 x 10 6 Tb-160 1 x 10 1 1 x 10 6 Dy-165 1 x 10 3 1 x 10 6 Dy-166 1 x 10 3 1 x 10 6 Ho-166 1 x 10 3 1 x 10 5 Er-169 1 x 10 4 1 x 10 7 Tm-170 1 x 10 3 1 x 10 6 Er-171 1 x 10 2 1 x 10 6 Tm-171 1 x 10 4 1 x 10 8 Yb-175 1 x 10 3 1 x 10 7 Lu-177 1 x 10 3 1 x 10 7 Hf-181 1 x 10 1 1 x 10 6 W-181 1 x 10 3 1 x 10 7 Ta-182 1 x 10 1 1 x 10 4 W-185 1 x 10 4 1 x 10 7 Os-185 1 x 10 1 1 x 10 6 Re-186 1 x 10 3 1 x 10 6 W-187 1 x 10 2 1 x 10 6 Re-188 1 x 10 2 1 x 10 5 Ir-190 1 x 10 1 1 x 10 6 Os-191 1 x 10 2 1 x 10 7 Os-191m 1 x 10 3 1 x 10 7 Pt-191 1 x 10 2 1 x 10 6 Ir-192 1 x 10 1 1 x 10 4 Os-193 1 x 10 2 1 x 10 6 Pt-193m 1 x 10 3 1 x 10 7 Ir-194 1 x 10 2 1 x 10 5 Hg-197 1 x 10 2 1 x 10 7 Hg-197m 1 x 10 2 1 x 10 6 Pt-197 1 x 10 3 1 x 10 6 Pt-197m 1 x 10 2 1 x 10 6 Au-198 1 x 10 2 1 x 10 6 Au-199 1 x 10 2 1 x 10 6 Tl-200 1 x 10 1 1 x 10 6 Tl-201 1 x 10 2 1 x 10 6 Tl-202 1 x 10 2 1 x 10 6 Hg-203 1 x 10 2 1 x 10 5 Pb-203 1 x 10 2 1 x 10 6 Po-203 1 x 10 1 1 x 10 6 Tl-204 1 x 10 4 1 x 10 4 Po-205 1 x 10 1 1 x 10 6 Bi-206 1 x 10 1 1 x 10 5 Bi-207 1 x 10 1 1 x 10 6 Po-207 1 x 10 1 1 x 10 6 Bi-210 1 x 10 3 1 x 10 6 Pb-210a 1 x 10 1 1 x 10 4 Po-210 1 x 10 1 1 x 10 4 At-211 1 x 10 3 1 x 10 7 Bi-212a 1 x 10 1 1 x 10 5 Pb-212a 1 x 10 1 1 x 10 5 Rn-220a 1 x 10 4 1 x 10 7 Rn-222a 1 x 10 1 1 x 10 8 Ra-223a 1 x 10 2 1 x 10 5 Ra-224a 1 x 10 1 1 x 10 5 Ra-225 1 x 10 2 1 x 10 5 Ra-226a 1 x 10 1 1 x 10 4 Th-226a 1 x 10 3 1 x 10 7 Ra-227 1 x 10 2 1 x 10 6 Th-227 1 x 10 1 1 x 10 4 Ra-228a 1 x 10 1 1 x 10 5 Th-228a 1 x 10 0 1 x 10 4 Ac-228 1 x 10 1 1 x 10 6 Th-229a 1 x 10 0 1 x 10 3 Th-230 1 x 10 0 1 x 10 4 Pa-230 1 x 10 1 1 x 10 6 U-230a 1 x 10 1 1 x 10 5 Th-231 1 x 10 3 1 x 10 7 Pa-231 1 x 10 0 1 x 10 3 U-231 1 x 10 2 1 x 10 7 Th-nat (incl. Th-232) 1 x 10 0 1 x 10 3 U-232a 1 x 10 0 1 x 10 3 Pa-233 1 x 10 2 1 x 10 7 U-233 1 x 10 1 1 x 10 4 Th-234a 1 x 10 3 1 x 10 5 U-234 1 x 10 1 1 x 10 4 Pu-234 1 x 10 2 1 x 10 7 U-235a 1 x 10 1 1 x 10 4 Pu-235 1 x 10 2 1 x 10 7 U-236 1 x 10 1 1 x 10 4 Pu-236 1 x 10 1 1 x 10 4 U-237 1 x 10 2 1 x 10 6 Np-237a 1 x 10 0 1 x 10 3 Pu-237 1 x 10 3 1 x 10 7 U-238a 1 x 10 1 1 x 10 4 U-nat 1 x 10 0 1 x 10 3 Pu-238 1 x 10 0 1 x 10 4 U-239 1 x 10 2 1 x 10 6 Np-239 1 x 10 2 1 x 10 7 Pu-239 1 x 10 0 1 x 10 4 U-240 1 x 10 3 1 x 10 7 U-240a 1 x 10 1 1 x 10 6 Np-240 1 x 10 1 1 x 10 6 Pu-240 1 x 10 0 1 x 10 3 Am-241 1 x 10 0 1 x 10 4 Pu-241 1 x 10 2 1 x 10 5 Am-242 1 x 10 3 1 x 10 6 Am-242ma 1 x 10 0 1 x 10 4 Cm-242 1 x 10 2 1 x 10 5 Pu-242 1 x 10 0 1 x 10 4 Am-243a 1 x 10 0 1 x 10 3 Cm-243 1 x 10 0 1 x 10 4 Pu-243 1 x 10 3 1 x 10 7 Pu-244 1 x 10 0 1 x 10 4 Cm-244 1 x 10 1 1 x 10 4 Cm-245 1 x 10 0 1 x 10 3 Cm-246 1 x 10 0 1 x 10 3 Cf-246 1 x 10 3 1 x 10 6 Cm-247 1 x 10 0 1 x 10 4 Cm-248 1 x 10 0 1 x 10 3 Cf-248 1 x 10 1 1 x 10 4 Bk-249 1 x 10 3 1 x 10 6 Cf-249 1 x 10 0 1 x 10 3 Cf-250 1 x 10 1 1 x 10 4 Cf-251 1 x 10 0 1 x 10 3 Cf-252 1 x 10 1 1 x 10 4 Cf-253 1 x 10 2 1 x 10 5 Es-253 1 x 10 2 1 x 10 5 Cf-254 1 x 10 0 1 x 10 3 Es-254 1 x 10 1 1 x 10 4 Es-254m 1 x 10 2 1 x 10 6 Fm-254 1 x 10 4 1 x 10 7 Fm-255 1 x 10 3 1 x 10 6 SCHEDULE 2 DOSE LIMITS FOR EXPOSURES INCURRED FROM PRACTICES 1. Occupational dose limits (1) Subject to subitem (2), the occupational exposure of any worker must be so controlled that the following limits are not exceeded - (a) an effective dose of 20 mSv per year averaged over five consecutive years; (b) an effective dose of 50 mSv in any single year; (c) an equivalent dose to the lens of the eye of 150 mSv in a year; and (d) an equivalent dose to the extremities (hands and feet) or the skin of 500 mSv in a year. (2) For apprentices of 16 to 18 years of age who are training for employment involving exposure to radiation and for students of age 16 to 18 who are required to use sources in the course of their studies, the occupational exposure must be so controlled that the following limits are not exceeded - (a) an effective dose of 6 mSv in a year; (b) an equivalent dose to the lens of the eye of 50 mSv in a year; and (c) an equivalent dose to the extremities or the skin of 150 mSv in a year. 2. Special circumstances When, in special circumstances, a temporary change in the dose limit requirements is approved under regulation 11 - (a) the dose averaging period referred to in paragraph (a) of subitem 1(1) may exceptionally be up to 10 consecutive years as specified by the Authority, and the effective dose for any worker may not exceed 20 mSv per year averaged over this period and may not exceed 50 mSv in any single year, and the circumstances must be reviewed when the dose accumulated by any worker since the start of the extended averaging period reaches 100 mSv; or (b) the temporary change in dose limit must be as specified by the Authority, but may not exceed 50 mSv in any year and the period of the temporary change may not exceed 5 years. 3. Dose limits for the public The estimated average doses to the relevant critical groups of members of the public that are attributable to practices may not exceed the following limits - (a) an effective dose of 1 mSv in a year: Provided that in special circumstances, an effective dose of up to 5 mSv in a single year may be approved: Provided further that the average dose over five consecutive years does not exceed 1 mSv: per year; (b) an equivalent dose to the lens of the eye of 15 mSv in a year; and (c) an equivalent dose to the skin of 50 mSv in a year. 4. Internal exposure Internal exposure caused by inhalation or ingestion of radioactive substances must be estimated in accordance with the methodologies, parameters and values contained in the International Basic Safety Standards for Protection against Ionising Radiation and for the Safety of Radiation Sources, IAEA Safety Series No. 115, Schedule II, as drawn up by the International Atomic Energy Agency, details of which are obtainable, on application, from the Authority. 5. Dose limits for comforters and visitors of patients (1) The dose of any comforter or visitor must be constrained so that it is unlikely that the dose will exceed 5 mSv during the period of the diagnostic examination or treatment. (2) The dose to children visiting patients who have ingested or have been injected with radioactive materials must be similarly constrained to less than 1 mSv. SCHEDULE 3 CALCULATION OF EFFECTIVE AND EQUIVALENT DOSE 1. (1) Equivalent dose is calculated by multiplying the amount of radiation absorbed by the tissue in question by the factor specified in Table 1 for the relevant type of radiation. (2) If the tissue is subject to more than one type of radiation, equivalent dose is the total of the amounts calculated in terms of subitem (1) for every type of radiation. 2. Effective dose is calculated by summing over all the tissues that have been exposed to radiation the product of - (a) the equivalent dose calculated in terms of item 1; and (b) the amount specified in Table 2 for the tissue in question. Table 1 Type and energy range of radiation Radiation weighting factor Photons, all energies 1 Electrons and muons, all energies 1 Neutrons, energy ¡ 10 keV 5 Neutrons 10 keV to 100 keV 10 Neutrons 100 keV to 2 MeV 20 Neutrons ¿2 MeV to 20 MeV 10 Neutrons ¿ 20 MeV 5 Protons, other than recoil "
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Act",
+      "definition": "the Atomic Energy and Radiation Protection Act, (Act No. 5 of 2005 )",
+      "source_provision": "s1"
+    },
+    {
+      "term": "appointed medical practitioner",
+      "definition": "the medical practitioner appointed in terms of regulation 26(1)(c)",
+      "source_provision": "s1"
+    },
+    {
+      "term": "authorised discharge limits",
+      "definition": "the limits determined in accordance with regulation 68(1)(b) or 68(1)(c)",
+      "source_provision": "s1"
+    },
+    {
+      "term": "clearance levels",
+      "definition": "values expressed in terms of activity concentrations or total activity, at or below which sources of radiation may be released from regulatory control as specified in conditions imposed in a licence or when authorisation is granted for the disposal of the waste in question",
+      "source_provision": "s1"
+    },
+    {
+      "term": "cleared waste",
+      "definition": "waste in respect of which the Director-General has in terms of regulation 68(1)(a) indicated that it has decayed to clearance levels",
+      "source_provision": "s1"
+    },
+    {
+      "term": "conditioning",
+      "definition": "those operations that produce a waste package suitable for handling, transportation, storage and disposal and may include the conversion of the waste to a solid waste form , enclosure of the waste in containers or providing an overpack",
+      "source_provision": "s1"
+    },
+    {
+      "term": "consumer product",
+      "definition": "a device such as smoke detector, luminous dial or ion generating tube that contains a small amount of radioactive substances",
+      "source_provision": "s1"
+    },
+    {
+      "term": "controlled area",
+      "definition": "an area designated as such in terms of regulation 24(1)",
+      "source_provision": "s1"
+    },
+    {
+      "term": "critical group",
+      "definition": "a group of members of the public which are reasonably homogeneous with respect to their exposure with relation to a given radiation source and given exposure pathway and are typical of persons receiving the highest effective dose or equivalent dose (as applicable) by the given exposure pathway from the given source",
+      "source_provision": "s1"
+    },
+    {
+      "term": "dose limit",
+      "definition": "the value of the effective dose or the equivalent dose to persons from controlled practices that is specified in Schedule 2",
+      "source_provision": "s1"
+    },
+    {
+      "term": "employer",
+      "definition": "any person, including the State who - (a) employs or provides work for, a natural person and who remunerates or expressly or tacitly undertakes to remunerate that person",
+      "source_provision": "s1"
+    },
+    {
+      "term": "effective dose",
+      "definition": "the effective dose calculated in accordance with Schedule 3",
+      "source_provision": "s1"
+    },
+    {
+      "term": "equivalent dose",
+      "definition": "the equivalent dose calculated in accordance with Schedule 3",
+      "source_provision": "s1"
+    },
+    {
+      "term": "generic safety assessment",
+      "definition": "a safety assessment or a portion of a safety assessment which is applicable to multiple users within a practice and does not need to be repeated with each request for an authorisation",
+      "source_provision": "s1"
+    },
+    {
+      "term": "health surveillance",
+      "definition": "medical supervision intended to ensure the initial and continuous fitness of workers for their intended task",
+      "source_provision": "s1"
+    },
+    {
+      "term": "intervening organisation",
+      "definition": "a body designated or otherwise recognised by the Government of the Republic of Namibia as being responsible for managing or implementing any aspect of an intervention",
+      "source_provision": "s1"
+    },
+    {
+      "term": "intervention",
+      "definition": "any action intended to reduce or avert exposure or the likelihood of exposure to sources which are not part of a controlled practice or which are out of control as a consequence of an accident",
+      "source_provision": "s1"
+    },
+    {
+      "term": "inventory",
+      "definition": "a detailed, itemised record maintained by the licensee or Authority in accordance with these regulations, which may contain data such as physical quantity, the activity, the radionuclide content, and other characteristics",
+      "source_provision": "s1"
+    },
+    {
+      "term": "medical exposure",
+      "definition": "exposure - (a) incurred by human patients as part of their own medical or dental diagnosis or treatment",
+      "source_provision": "s1"
+    },
+    {
+      "term": "medical practitioner",
+      "definition": "a person who is registered or regarded to be registered as such with the Medical and Dental Council established by the Medical and Dental Act , 2004 ( Act No. 10 of 2004 ) and includes a person registered or regarded to be registered as a dentist if the exposure involves dental x-rays",
+      "source_provision": "s1"
+    },
+    {
+      "term": "member of the public",
+      "definition": "any person who is not a radiation worker or a patient undergoing medical exposure",
+      "source_provision": "s1"
+    },
+    {
+      "term": "mill",
+      "definition": "a facility engaged in concentration and processing ores, and its associated facilities including those for management of waste and effluents",
+      "source_provision": "s1"
+    },
+    {
+      "term": "mine",
+      "definition": "a facility engaged in extracting ore, and its facilities including those for management of waste and effluents and also includes a mill",
+      "source_provision": "s1"
+    },
+    {
+      "term": "monitoring",
+      "definition": "the measurement of dose or contamination for reasons related to the assessment or control of exposure to radiation or radioactive substances, and the interpretation of the results",
+      "source_provision": "s1"
+    },
+    {
+      "term": "normal exposure",
+      "definition": "exposure which is expected to be received under normal operating conditions of an installation or a source , including possible minor mishaps that can be kept under control",
+      "source_provision": "s1"
+    },
+    {
+      "term": "occupational exposure",
+      "definition": "all exposures of workers incurred in the course of their work, with the exception of exposures excluded from these regulations and exposures from practices or sources exempted by these regulations",
+      "source_provision": "s1"
+    },
+    {
+      "term": "potential exposure",
+      "definition": "exposure that is not expected to be delivered with certainty but that may result from an accident at a source or owing to an event or sequence of events of a probabilistic nature, including equipment failures and operating errors",
+      "source_provision": "s1"
+    },
+    {
+      "term": "protective action",
+      "definition": "an intervention intended to avoid or reduce doses to members of the public in chronic or emergency exposure situations",
+      "source_provision": "s1"
+    },
+    {
+      "term": "public exposure",
+      "definition": "exposure incurred by members of the public from radiation sources, excluding any occupational or medical exposure and the normal local natural background radiation but including exposure from authorised sources and practices and from accidents and intervention situations",
+      "source_provision": "s1"
+    },
+    {
+      "term": "quality assurance",
+      "definition": "all planned and systematic actions necessary to provide adequate confidence that an item, process or service will satisfy given requirements for quality",
+      "source_provision": "s1"
+    },
+    {
+      "term": "radioactive discharges",
+      "definition": "radioactive substances arising from a source within a practice which are discharged as gases, aerosols, liquids or solids to the environment, generally with the purpose of dilution and dispersion and “discharge” when used with relation to radioactive substances is construed accordingly",
+      "source_provision": "s1"
+    },
+    {
+      "term": "radioactive waste management",
+      "definition": "all activities, administrative and operational, including decommissioning activities, that are involved in the handling, pre-treatment, conditioning , storage and disposal of waste from a facility",
+      "source_provision": "s1"
+    },
+    {
+      "term": "safety assessment",
+      "definition": "a review of the aspects of design and operation of a source which are relevant to the protection of persons or the safety of the source , including the analysis of the provisions for safety and protection established in the design and operation of the source and the analysis of risks associated with normal conditions and accident situations",
+      "source_provision": "s1"
+    },
+    {
+      "term": "safety culture",
+      "definition": "the assembly of characteristics and attitudes in organisations and individuals which establishes that, as an overriding priority, protection and safety issues receive the attention warranted by their significance",
+      "source_provision": "s1"
+    },
+    {
+      "term": "sealed source",
+      "definition": "radioactive material that is permanently sealed in a capsule or closely bounded and in a solid form, the capsule or material of which is strong enough to maintain leaktightness under the conditions of use and wear for which the source was designed as well as under foreseeable mishaps",
+      "source_provision": "s1"
+    },
+    {
+      "term": "source",
+      "definition": "anything that may cause radiation exposure by emitting ionising radiation or releasing radioactive substances or materials, or in any other manner",
+      "source_provision": "s1"
+    },
+    {
+      "term": "storage",
+      "definition": "the placement of radioactive waste in a suitable facility where isolation, environmental protection and human control (for example, monitoring ) are provided with the intent that the waste will be retrieved for clearance or treatment and conditioning or disposal at a later time",
+      "source_provision": "s1"
+    },
+    {
+      "term": "supervised area",
+      "definition": "an area designated as such in terms of regulation 25(1)",
+      "source_provision": "s1"
+    },
+    {
+      "term": "unsealed source",
+      "definition": "a source that does not meet the definition of a sealed source",
+      "source_provision": "s1"
+    },
+    {
+      "term": "waste form",
+      "definition": "the waste in its physical and chemical form after treatment or conditioning (resulting in a solid product) prior to packaging. The waste form is a component of the waste package",
+      "source_provision": "s1"
+    },
+    {
+      "term": "waste inventory",
+      "definition": "a detailed, itemised record maintained by the licensee or Authority in accordance with these regulations, which may contain data such as physical quantity, the activity of the waste, the radionuclide content, and other characteristics",
+      "source_provision": "s1"
+    },
+    {
+      "term": "waste package",
+      "definition": "the product of conditioning that includes the waste form and any container and internal barriers (e.g. absorbing materials and liner), as prepared in accordance with requirements for handling, transportation, storage or disposal",
+      "source_provision": "s1"
+    },
+    {
+      "term": "worker",
+      "definition": "any natural person - (a) who is employed by, or working for, any employer (whether full time or part time) and who is receiving, or entitled to receive, any remuneration",
+      "source_provision": "s1"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "na-act-gn-2017-257",
+  "type": "statute",
+  "title": "Regulations relating to Domestic Workers, 2017",
+  "title_en": "Regulations relating to Domestic Workers, 2017",
+  "short_name": "Regulations relating to Dom...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/gn/2017/257/eng@2017-09-29",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "In these Regulations, a word or an expression to which a meaning has been given in the Act has that meaning, and unless the context otherwise indicates- “ domestic work ” means work performed in or for a household; “ domestic worker ” means any person engaged in domestic work in an employment relationship, including a child-minder, cook, driver, gardener or housekeeper; and “ the Act ” means the Labour Act, 2007 (Act No. 11 of 2007 )."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Prohibition of child domestic work",
+      "content": "(1) Domestic work constitutes work-related activities contemplated in section 3(3)(d)(vi) of the Act . (2) A person must not employ a child under the age of 18 years as a domestic worker ."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Deductions of in-kind contributions",
+      "content": "For the purposes of section 8(3) of the Act , an employer of a domestic worker must not deduct from the minimum basic wage, determined pursuant to a wage order in terms of section 13 of the Act , the value of in-kind payments or contributions, such as food, clothing or housing."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Records and returns",
+      "content": "For the purposes of section 130 of the Act , an employer of a domestic worker must, not later than 30 November every year, submit to the Permanent Secretary of the Ministry or to the Labour Office, a form set out in the Annexure containing the particulars and information required in the form. ANNEXURE (Regulation 4) FORM FOR SUBMISSION OF PARTICULARS BY EMPLOYERS OF DOMESTIC WORKERS [Editorial note: The forms have not been reproduced.] History of this document 15 November 2017 Consolidation 29 September 2017 this version Published in Government Gazette 6428 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "domestic work",
+      "definition": "work performed in or for a household",
+      "source_provision": "s1"
+    },
+    {
+      "term": "domestic worker",
+      "definition": "any person engaged in domestic work in an employment relationship, including a child-minder, cook, driver, gardener or housekeeper",
+      "source_provision": "s1"
+    },
+    {
+      "term": "the Act",
+      "definition": "the Labour Act, 2007 (Act No. 11 of 2007 ).",
+      "source_provision": "s1"
+    }
+  ]
+}

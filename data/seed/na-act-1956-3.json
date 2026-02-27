@@ -1,0 +1,49 @@
+{
+  "id": "na-act-1956-3",
+  "type": "statute",
+  "title": "Vexatious Proceedings Act, 1956",
+  "title_en": "Vexatious Proceedings Act, 1956",
+  "short_name": "Vexatious Proceedings Act, ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/1956/3/eng@1956-02-17",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "In this Act, unless the context otherwise indicates - “ court ” means any provincial or local division of the Supreme Court of South Africa and includes the High Court of South-West Africa; “ State Attorney ” means the officer appointed under paragraph (a) of sub-section (2) of section two of the State Attorney Act, 1925 (Act No. 25 of 1925 ). [The State Attorney Act 25 of 1925 (SA) was replaced by the State Attorney Act 56 of 1957 (SA) (SA GG 5894), which was replaced in South West Africa by the RSA Government Attorney Proclamation, R.161 of 1982 (RSA GG 8367). This Proclamation converts the Windhoek branch of the Office of the State Attorney in Pretoria into the Government Attorney’s Office for the Territory of South West Africa. It was brought into force on 1 April 1984 by RSA Proc. 52 /1984 (RSA GG 9162).]"
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Powers of court to impose restrictions on the institution of vexatious legal proceedings",
+      "content": "(1) (a) If, on an application made by the State Attorney or any person acting under his written authority, the court is satisfied that any person has persistently and without any reasonable ground instituted legal proceedings in any court or in any inferior court , whether against the same person or against different persons, the court may, after hearing the person or giving him an opportunity of being heard, order that no legal proceedings shall be instituted by him against any person in any court or any inferior court without the leave of that court , or any judge thereof, or that inferior court , as the case may be, and such leave shall not be granted unless the court or judge or the inferior court , as the case may be, is satisfied that the proceedings are not an abuse of the process of the court and that there is prima facie ground for the proceedings. (b) If, on an application made by any person against whom legal proceedings have been instituted by any other person or who has reason to believe that the institution of legal proceedings against him is contemplated by any other person, the court is satisfied that the said person has persistently and without any reasonable ground instituted legal proceedings in any court or in any inferior court , whether against the same person or against different persons, the court may, after hearing that other person or giving him an opportunity of being heard, order that no legal proceedings shall be instituted by him against any person in any court or any inferior court without the leave of that court , or any judge thereof, or that inferior court , as the case may be, and such leave shall not be granted unless the court or judge or the inferior court , as the case may be, is satisfied that the proceedings are not an abuse of the process of the court and that there is prima facie ground for the proceedings. (c) An order under paragraph (a) or (b) may be issued for an indefinite period or for such period as the court may determine, and the court may at any time, on good cause shown, rescind or vary any order so issued. (2) Any proceedings under sub-section (1) shall be deemed to be civil proceedings within the meaning of paragraph (c) of section three of the Appellate Division Further Jurisdiction Act, 1911 (Act No. 1 of 1911 ). [The Appellate Division Further Jurisdiction Act 1 of 1911 is not in force in Namibia.] (3) The registrar of the court in which an order under sub­section (1) is made, shall cause a copy thereof to be published as soon as possible in the Gazette and in the Official Gazette of the territory of South-West Africa. (4) Any person against whom an order has been made under sub-section (1) who institutes any legal proceedings against any person in any court or any inferior court without the leave of that court or a judge thereof or that inferior court , shall be guilty of contempt of court and be liable upon conviction to a fine not exceeding one hundred pounds or to imprisonment for a period not exceeding six months. [A fine not exceeding one hundred pounds is equivalent to a fine not exceeding N$200.]"
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Application of Act to South-West Africa",
+      "content": "This Act shall apply also in the territory of South-West Africa."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Short title",
+      "content": "This Act shall be called the Vexatious Proceedings Act, 1956. History of this document 17 February 1956 this version Published in South African Government Gazette 5632 Commenced 06 February 1956 Assented to Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "court",
+      "definition": "any provincial or local division of the Supreme Court of South Africa and includes the High Court of South-West Africa",
+      "source_provision": "s1"
+    },
+    {
+      "term": "State Attorney",
+      "definition": "the officer appointed under paragraph (a) of sub-section (2) of section two of the State Attorney Act, 1925 (Act No. 25 of 1925 ). [The State Attorney Act 25 of 1925 (SA) was replaced by the State Attorney Act 56 of 1957 (SA) (SA GG 5894), which was replaced in South West Africa by the RSA Government Attorney Proclamation, R.161 of 1982 (RSA GG 8367). This Proclamation converts the Windhoek branch of the Office of the State Attorney in Pretoria into the Government Attorney’s Office for the Territory of South West Africa. It was brought into force on 1 April 1984 by RSA Proc. 52 /1984 (RSA GG 9162).]",
+      "source_provision": "s1"
+    }
+  ]
+}

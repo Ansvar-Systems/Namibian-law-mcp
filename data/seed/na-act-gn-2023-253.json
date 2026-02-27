@@ -1,0 +1,38 @@
+{
+  "id": "na-act-gn-2023-253",
+  "type": "statute",
+  "title": "Regulations relating to variation or revocation of designated entities, 2023",
+  "title_en": "Regulations relating to variation or revocation of designated entities, 2023",
+  "short_name": "Regulations relating to var...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/gn/2023/253/eng@2023-08-08",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "In these regulations a word or an expression to which a meaning has been assigned in the Act has that meaning, and unless the context indicates otherwise- “ the Act ” means the Payment System Management Act, 2023 (Act No. 14 of 2023 )."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Purpose and application of Regulations",
+      "content": "(1) The purpose of these Regulations is to set out the procedure for variation or revocation of any designation made under section 25 of the Act . (2) These Regulations apply to a payment, clearing or settlement system in the national payment system that the Bank has designated under section 25 of the Act ."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Variation and revocation of designation",
+      "content": "(1) Subject to section 26 of the Act , the Bank may vary or revoke any designation made under section 25 of the Act or the terms and conditions applicable to such designation, by written notice to the designated entity as set in the Annexure, informing the designated entity that the Bank intends to vary or revoke such designation or such terms and conditions and, in that notice, state the grounds for that intended action. (2) A designated entity may, within 30 business days from the date of receipt of a notice referred in subregulation (1), make written representations to the Bank. (3) On receipt of the written representations, the Bank must consider the representations made by the designated entity, if any, before making a decision. (4) Once the Bank has made a decision as contemplated in subregulation (3), the Bank must- (a) in writing, inform the designated entity of its decision and the reasons for such decision; and (b) publish the variation or revocation in a notice in the Gazette . (5) If the designated entity does not make written representations within the 30 business days from the date of receipt of the written notice, the Bank must, by written notice inform the designated entity of the variation or revocation of the designation and publish such variation or revocation in the Gazette . (6) The Bank must ensure that it has followed all due diligence processes before the variation or revocation of the designation. Annexure (Regulation 3(1), Section 26(1)) Forms - Notice of variation or revocation of designation [Editorial note: The forms have not been reproduced.] History of this document 08 August 2023 this version Published in Government Gazette 8171 Commenced 01 August 2023 Assented to Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "the Act",
+      "definition": "the Payment System Management Act, 2023 (Act No. 14 of 2023 ).",
+      "source_provision": "s1"
+    }
+  ]
+}

@@ -1,0 +1,769 @@
+{
+  "id": "na-act-2017-13",
+  "type": "statute",
+  "title": "Lotteries Act, 2017",
+  "title_en": "Lotteries Act, 2017",
+  "short_name": "Lotteries Act, 2017",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/2017/13/eng@2017-12-29",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part 1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "In this Act, unless the context otherwise indicates - “ benevolent lottery ” means a lottery contemplated in section 56; “ benevolent society ”, includes a friendly society as defined in section 1 of the Friendly Societies Act, 1956 (Act No. 25 of 1956 ), a welfare organisation as defined in section 1 of the National Welfare Act, 1965 (Act No. 79 of 1965 ) and any other club, institution, organisation or association of persons, and any separate branch or section of such a club, institution, organisation or association established for charitable purposes; “ Board ” means the Lotteries Board established by section 3; “ charitable expenditure ” means expenditure by any organisation or institution established for charitable, benevolent or philanthropic purposes, including friendly societies, welfare organisations and conduit organisations or trusts established in respect of any such organisation or institution; “ Chief Executive Officer ” means the Chief Executive Officer of the Board appointed in terms of section 16; “ draw ” means a random determination of a combination of numbers to select the winning participants; “ electronic software lottery ” means a lottery through which participants electronically purchase tickets to stand a chance to win prizes which are predetermined in their sum total or otherwise determinable, and guaranteed by the licensee ; “ inspector ” means a lottery inspector appointed in terms of section 19(1); “ licence ” means a licence to conduct the State Lottery , or sports pool as contemplated in section 30(2), or a licence as contemplated in section 78(1)(b); “ licensee ” means a holder of the licence for the State Lottery issued in terms of section 33 or a licensee as contemplated in section 78; “ lottery ”, includes any game, such as computer game, scheme, arrangement, system, plan, promotional competition or device for distributing prizes by lot or chance whether operated by manual, mechanical, electronic or other means or not; [The comma after the word “lottery” is superfluous. The article “a” should precede “computer game”.] “ lottery manager ” means a person who has been certified as such in terms of section 66(3) and is authorised to conduct a lottery on behalf of another person; “ Minister ” means the Minister responsible for lotteries; “ Ministry ” means the Ministry administering lotteries; “ minor ” means a person who has not attained the age of 21; “ State Lottery ” means the State Lottery referred to in section 26 and includes a sports pool and all lotteries conducted for, and being part of, the State Lottery; “ National Welfare Act ” means the National Welfare Act, 1965 (Act No. 79 of 1965 ); “ participant ”, in relation to a lottery other than a promotional competition contemplated in section 72, means a person who is in possession of a valid ticket in that lottery ; “ Permanent Secretary ” means the Permanent Secretary of the Ministry ; “ political office bearer ” means - (a) a member of Parliament; (b) a member of a regional council; (c) a member of a local authority council; (d) a diplomatic representative of Namibia who is not a staff member ; (e) any person holding public office by virtue of a political appointment in terms of the Namibian Constitution or any other law but excludes a judicial officer or a staff member ; and (f) a leader of a registered political party; “ prescribe ” means prescribe by regulation; “ private lottery ” means a lottery in Namibia which is conducted in accordance with section 55; “ prize ”, in relation to a lottery , means any money, thing of value or any right to or share in any money or thing of value, which is offered to be won by persons entering the lottery ; “ promoter ” means a person who directly or indirectly promotes, sponsors, organises or conducts a benevolent lottery , promotional competition or sports pool , or for whose benefit such a lottery , competition or sports pool is promoted, sponsored, organised or conducted; “ promotional competition ” means any competition, game, scheme, arrangement, system, plan or device for distributing prizes by lot or chance, if - (a) it is conducted in the ordinary course of business for the purpose of promoting a producer, distributor, supplier, or association of any such persons, or the sale of any goods or services; and (b) any prize offered exceeds the threshold prescribed in terms of section 72(4)(b)(iv), irrespective of whether a participant is required to demonstrate any skill or ability before being awarded a prize ; “ Public Enterprises Governance Act ” means the Public Enterprises Governance Act, 2006 (Act No. 2 of 2006 ); “ software ” means a set of instructions fixed or stored in any manner and which, when used directly or indirectly in a computer, directs its operation to bring about a result; “ sporting event ” means any football, rugby, cricket, golf or tennis match, any boxing, wrestling, shooting or swimming contest, any foot, cycle, motor, boat or horse race, and any other lawful sporting contest, competition, tournament or game usually attended by the public; “ sports pool ” means any scheme, excluding a scheme or competition in respect of horse racing which is authorised by the Board , or which is conducted in the same format and manner and under the same circumstances as a scheme or competition in respect of horse racing that existed prior to the commencement of this Act, under which - (a) any person is invited or undertakes to forecast the result of any series or combination of sporting events in competition with other participants; and (b) a prize is to be awarded to the competitor who forecasts the result correctly or whose forecast is more nearly correct than the forecasts of other competitors, or a number of prizes are to be awarded on that basis, and for the purposes of this definition the forecast of a result includes not only the forecast of the person, animal, thing or team that will be victorious or otherwise, but also any forecast relating to the system of scoring employed in the sporting event in question, or to the person who is responsible for the score; “ staff member ” means a staff member as defined in section 1 of the Public Service Act, 1995 (Act No. 13 of 1995 ); “ subscription ” means the payment, or delivery of any money, goods, article, matter or thing, including any ticket , coupon or entry form, for the right to compete in a lottery ; “ this Act, ” includes regulations made under this Act; [The comma after the term “this Act” is superfluous.] “ ticket ”, in relation to a lottery or sports pool , means any symbol, sign, token, coupon, warrant, card, printed paper, document or list or any other means or device which confers or purports to confer the right to take part in a lottery or sports pool and which is issued by or on behalf of the lottery or sports pool in question; and “ Trust Fund ” means the State Lottery Trust Fund established by section 41."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part 1",
+      "section": "2",
+      "title": "Application of Act",
+      "content": "The Casinos and Gambling Houses Act, 1994 (Act No. 34 of 1994 ) does not apply in relation to the State Lottery or any benevolent lottery or other lottery or activity authorised in terms of this Act or any connected activity. [The Casinos and Gambling Houses Act is Act 32 of 1994 , not Act 34 of 1994 .] Part 2 – LOTTERIES BOARD"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part 2",
+      "section": "3",
+      "title": "Establishment of Lotteries Board",
+      "content": "There is established a board to be known as the Lotteries Board which is a juristic person."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part 2",
+      "section": "4",
+      "title": "Powers and functions of Board",
+      "content": "(1) The powers and functions of the Board are - (a) to promote and conduct the State Lottery , either on its own or through a licensee ; (b) to advise the Minister on the issuing of the licence to conduct the State Lottery as contemplated in section 30 and on any matter contemplated in section 35(4); (c) to ensure that - (i) the State Lottery is conducted with all due propriety and strict compliance with this Act, and if conducted through a licensee , in accordance with the conditions of the licence together with any agreement relating to that licence ; (ii) the interests of every participant in the State Lottery are adequately protected; (iii) subject to subparagraphs (i) and (ii), the net proceeds of the State Lottery are as large as possible; (d) to administer the Trust Fund and hold it in trust; (e) to monitor, regulate and control lotteries that are incidental to exempt entertainment contemplated in section 54, private lotteries, benevolent lotteries, lotteries contemplated in section 78(1)(b) and any promotional competition contemplated in section 72; (f) to advise the Minister on percentages of money to be allocated in terms of section 44(3); (g) to advise the Minister on percentages of money to be allocated to the Trust Fund from any lottery ; (h) to advise the Minister on the efficacy of legislation pertaining to lotteries and ancillary matters; (i) to advise the Minister on establishing and implementing a social responsibility programme in respect of lotteries; (j) to administer and invest the money paid to the Board in accordance with this Act and the licence for the State Lottery ; (k) to perform such additional duties in respect of lotteries as the Minister may assign to the Board ; (l) to make such arrangements as may be directed by the Minister or as may be specified in the licence for the protection of prize monies and amounts for distribution; and (m) to advise the Minister on any matter relating to the State Lottery and other lotteries or any other matter on which the Minister requires the advice of the Board . (2) The Board may delegate or assign in writing any of its powers or functions conferred or imposed by or under this Act to the chairperson of the Board . (3) For purposes of attaining the objectives of subsection (1) and the purposes of this Act, the Board may - (a) hire, purchase or otherwise acquire moveable or immovable property and let, sell or otherwise dispose of such property; (b) establish or participate in the operations of any corporate body, a partnership, trust or unincorporated body or joint venture or similar arrangement; (c) take any steps conducive to consumer education and the promotion of awareness of this Act and lotteries that are regulated by this Act and responsible participation in lotteries; (d) borrow money to the limit approved by the Minister in consultation with the Minister responsible for finance; (e) investigate and conduct hearings of complaints concerning contraventions or non- compliance with this Act by any person; (f) enter into agreements with any State or foreign law enforcement agencies for the conduct of investigation, identification or registration of applicants for licenses or licensees; (g) recommend to the Minister amendments to this Act or regulations made under this Act; or (h) exercise such other incidental powers as may be necessary to attain the objects of this Act. (4) In exercising its powers and performing its functions under this Act, the Board - (a) must comply with policy guidelines issued to it by the Minister under section 5 relating to the State Lottery , sports pool , other lotteries or related activities; (b) may have regard to inter State developments in the field of lotteries and related activities; [The term “inter State” should be “interstate”.] (c) may consult any person, organisation or institution with regard to any matter which the Board considers necessary; and (d) may engage any person to give advice to and render services for the Board on such terms and conditions of engagement as the Board may determine."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part 2",
+      "section": "5",
+      "title": "Minister may issue policy guidelines to Board",
+      "content": "(1) The Minister , after consultation with the Board , may, by notice in the Gazette, issue general policy guidelines to the Board , not inconsistent with this Act, about the policies or priorities adopted or to be adopted by the Board in exercising its powers and performing its functions under this Act. (2) The Minister may only issue the policy guidelines referred to in subsection (1) if the Minister is satisfied that it is necessary to do so to promote the powers and functions of the Board or to protect the integrity of lotteries in Namibia. (3) The Minister must follow such process as he or she considers expedient to obtain the views of stakeholders in the lotteries industry before issuing guidelines in terms of subsection (1)."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part 2",
+      "section": "6",
+      "title": "Constitution of Board",
+      "content": "(1) Subject to section 14 and 15 of the Public Enterprises Governance Act , the Board consists of six members - (a) of whom no gender may be more than three in number; (b) who are suitably qualified, fit and proper persons having knowledge and experience relevant to the functions of the Board ; (c) appointed by the Minister after an open, fair and transparent process of invitation, interview and reccomendation by a recruitment panel as follows - [The word “recommendation” is misspelt in the Government Gazette, as reproduced above.] (i) one with legal qualification; (ii) one with knowledge and experience in finance or banking sector; (iii) one with knowledge and experience in health or social services; (iv) one with knowledge and experience in safety and security matters; (v) one with knowledge and experience in commercial and industrial matters; and (vi) one with knowledge and experience in arts, culture and heritage. (2) The Chief Executive Officer is an ex officio member and has no right to vote. (3) In addition to any advice given to him or her pursuant to section 14(1)(c) of the Public Enterprises Governance Act , the Minister when appointing members of the Board must have due regard to the integrity and stability of the lotteries industry in Namibia and the public interest. (4) The Minister must appoint one of the members appointed under subsection (1)(c) as chairperson of the Board . (5) The Minister may appoint for each member a person to be the alternate of the member to act in the place of the member if the member is absent from a meeting of the Board . (6) The Minister must by notice in the Gazette make known the names of persons appointed as members of the Board in terms of subsection (1) or as alternate members in terms of subsection (5) and the dates from which the appointment takes effect."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part 2",
+      "section": "7",
+      "title": "Disqualification for appointment as member of Board",
+      "content": "(1) A person does not qualify for appointment as member or alternate member of the Board , if the person - (a) is not a Namibian citizen or a permanent resident of Namibia; (b) is a political office bearer ; (c) has at any time during the preceding 10 years been sentenced to imprisonment of more than 12 months for any offence without the option of a fine in respect of such offence; (d) personally or through a spouse, partner or associate - (i) has or acquires a direct or indirect financial interest in a licence issued in terms of this Act, or in premises used for an activity that is licensed in terms of this Act; or (ii) has or acquires an interest in a business or enterprise that may conflict or interfere with the proper performance of the functions of a member of the Board ; (e) is an unrehabilitated insolvent; (f) has been removed from an office of trust on account of misconduct during the period of 10 years before the date of appointment; or (g) has under any law been declared to be of unsound mind. (2) For the purposes of subsection (1)(d), a person nominated or considered for appointment as a member of the Board may not be appointed unless that person, on notification by the Minister , of the proposed appointment, submits to the Minister a written statement in which he or she declares that he or she does not have any financial interest as contemplated in that subsection. [The comma after the phrase “on notification by the Minister” is superfluous.] (3) A member of the Board who acquires or intends to acquire a financial interest contemplated in subsection (1)(d) must disclose full details of such financial interest in writing to the Board and to the Minister . (4) A member of the Board or his or her spouse or partner or associate may not, without the prior approval of the Minister , within a period of two years after termination of his or her membership to the Board - (a) take up employment with; or (b) in any way receive any benefit from, any person who upon the termination of the membership is acting as a license holder. (5) A person who - (a) in a statement referred to in subsection (2), fails to disclose any interest which the person has as contemplated in that subsection; or (b) fails to comply with subsection (3), commits an offence and is liable to a fine not exceeding N$50 000 or to imprisonment for a period not exceeding eight years, or to both such fine and such imprisonment. (6) For the purposes of this section - (a) “associate” means - (i) an employer; (ii) a co-shareholder of a private company contemplated in section 20 of the Companies Act, 2004 (Act No. 28 of 2004 ); (iii) a co-member of a close corporation contemplated in section 2 of the Close Corporations Act, 1988 (Act No. 26 of 1988 ); (iv) a person to whom one has granted or from whom one has received a general power of attorney; and (v) a trustee or beneficiary of a trust contemplated in section 1 of the Trust Monies Protection Act, 1934 (Act No. 36 of 1934 ). (b) “partner” means a person with whom one has entered into a partnership agreement with the intention of making a profit; and (c) “spouse” means the partner of a person - (i) in a civil marriage; (ii) in a customary union according to customary law; or (iii) in a relationship in which the two persons live together in a manner resembling a marital relationship."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part 2",
+      "section": "8",
+      "title": "Term of office",
+      "content": "(1) Unless a different determination has been made in terms of section 14(1)(d) of the Public Enterprises Governance Act , and subject to subsection (2), a member of the Board holds office for a term of three years. (2) A member of the Board whose term of office has expired is eligible for re-appointment for a period not exceeding one other term."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part 2",
+      "section": "9",
+      "title": "Vacation of office and filling of vacancies",
+      "content": "(1) The office of a member of the Board becomes vacant if the member - (a) dies; (b) becomes subject to a disqualification referred to in section 7(1); (c) resigns from office by a 30 days written notice given to the Minister ; (d) has been absent without leave of the Board from three consecutive meetings of the Board ; or (e) is removed from office under subsection (2). (2) The Minister may by notice in writing remove a member from office if the Minister is satisfied, after giving the member a reasonable opportunity to be heard, that the member - (a) is incapable of performing the functions of his or her office by reason of physical or mental illness; or (b) is guilty of neglect of duty or misconduct or an offence as contemplated in subsection (3). (3) The Minister must by notice in writing suspend a member from office if the State institutes criminal proceedings against that member in a court of law on a charge of any common law offence or an offence in terms of the Anti-Corruption Act, 2003 (Act No. 8 of 2003 ). (4) If the office of a member or an alternate member of the Board becomes vacant the Minister may, in accordance with section 6(1), and subject to section 7(1), appoint another person to fill the vacancy for the remaining term of office of the member or alternate member whose office has become vacant."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part 2",
+      "section": "10",
+      "title": "Conduct of members and disclosure of interest",
+      "content": "(1) A member of the Board may not - (a) engage in an activity that may undermine the integrity of the Board ; (b) participate in any proceedings or decision concerning a matter in respect of which the member has an interest contemplated in section 7(1)(d); or (c) use any confidential information obtained in the exercise or performance of his or her powers or functions as a member to obtain, directly or indirectly, a financial or other advantage for himself or herself or any other person. (3) Every member of the Board must in writing disclose to the Minister any direct or indirect financial interest which the member has or acquires in any business carried on in Namibia or elsewhere or in any body corporate carrying on any business in Namibia or elsewhere. (4) A member who has or acquires an interest, either directly or indirectly, in any matter which is before the Board for discussion and determination must - (a) immediately and fully disclose the interest to the Board ; and (b) withdraw from any further discussion or determination by the Board of that matter. (5) A person who contravenes or fails to comply with any provision of this section commits an offence and is liable to a fine not exceeding N$200 000 or to imprisonment for a period not exceeding four years, or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part 2",
+      "section": "11",
+      "title": "Governance agreement with Board",
+      "content": "(1) The Minister and the Board must, within 30 days of the Board being constituted, enter into a written governance agreement contemplated in section 17 of the Public Enterprises Governance Act . (2) The agreement referred to in subsection (1) must contain the matters contained in section 17 of the Public Enterprises Governance Act and the business and financial plan contemplated in section 19 of that Act."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part 2",
+      "section": "12",
+      "title": "Performance agreements with individual Board members",
+      "content": "(1) The Minister and each member of the Board must, within 30 days of the appointment of the member, enter into a performance agreement contemplated in section 18 of the Public Enterprises Governance Act . (2) The agreement referred to in subsection (1) must contain the matters contained in section 18 of the Public Enterprises Governance Act ."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part 2",
+      "section": "13",
+      "title": "Meetings and decisions of Board",
+      "content": "(1) The first meeting of the Board is held at a time and place that the Minister determines and any meeting of the Board thereafter is held at a time and place that the Board determines and at that first meeting the members of the Board must elect a deputy chairperson of the Board . (2) The chairperson may at any time convene a special meeting of the Board , and must do so if so requested in writing - (a) by the Minister ; or (b) by two or more members of the Board . (3) The chairperson presides at a meeting of the Board and in his or her absence the deputy chairperson presides and, if both the chairperson and deputy chairperson are absent from a meeting, the members present must elect one of their number to preside at such meeting. (4) At a meeting of the Board - (a) a majority of the members of the Board forms a quorum; (b) all questions are decided by a majority of votes of the members present and voting; and (c) the member presiding has, in the event of an equality of votes, a casting vote in addition to his or her deliberative vote. (5) A decision of the Board or an act performed under a direction of the Board is not invalid because of - (a) a defect in the appointment of a member of the Board ; (b) the existence of a vacancy in the membership of the Board ; or (c) the fact that a person not entitled to sit as a member of the Board was in attendance when the decision was taken or act authorised, if the decision was taken or act authorised by a majority of the members who were present and entitled to vote at such meeting. (6) Despite subsection (4), the Board may transact a business of urgent nature which cannot be kept pending till the next meeting by circulating, in any manner determined by the Board , the matter together with proposed solution, if any, among all members, and - (a) any resolution so circulated and approved by a majority of the members is as effective and binding as if such resolution had been passed at a meeting of the Board ; and (b) the business so transacted and the resolution so circulated and approved is reported and recorded in the minutes at the next meeting of the Board . (7) The Chief Executive Officer must keep accurate minutes of the proceedings at meetings of the Board . (8) Subject to this Act, the Board may make rules to regulate the procedures to be followed at meetings of the Board or committees of the Board ."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part 2",
+      "section": "14",
+      "title": "Committees of Board",
+      "content": "(1) The Board may establish one or more committees to - (a) advise the Board in the exercise of its powers and performance of its functions; or (b) exercise or perform any power or function that the Board may delegate or assign to such committee. (2) A committee established under subsection (1) - (a) must consist of at least two members and such other person or persons as the Board may determine; and (b) may, with the approval of the Board , co-opt persons of special expertise to advise it in the performance of its functions, but such co-opted person has no right to vote. (3) The Board must designate a member of the Board as chairperson of a committee. (4) A committee must exercise its powers and perform its functions in accordance with such directives as the Board may determine. (5) Any reference in this Act to the Board or the chairperson, in relation to the exercise of any power delegate to any committee by the Board , must be construed as including a reference to such committee or to the chairperson. [The phrase “any power delegate” should be “any power delegated”.] (6) Sections 7 and 10, with the necessary changes, apply to members of a committee who are not members of the Board ."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part 2",
+      "section": "15",
+      "title": "Allowances of members of Board",
+      "content": "(1) A member of the Board or of a committee of the Board , who is not in the full time employment of the State, is entitled to be paid out of the funds of the Board such allowances in respect of his or her service as member, as the Minister , with the concurrence of the Minister responsible for finance, may determine in respect of the chairperson and other members. (2) Allowances determined under subsection (1) may differ according to the different offices held or functions performed by members."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part 2",
+      "section": "16",
+      "title": "Chief Executive Officer",
+      "content": "(1) The Board , with the concurrence of the Minister and on such terms and conditions as the Board may determine, must, subject to subsection (13), appoint a suitably qualified person to be the Chief Executive Officer of the Board . (2) The Chief Executive Officer , in accordance with the policies and directions of the Board , is responsible for - (a) the daily management and administration of the affairs of the Board ; and (b) ensuring that the powers and functions of the Board are exercised and performed appropriately. (3) Apart from matters dealt with in section 4, the directions referred to in subsection (2) may not be inconsistent with this Act and may specify that a particular function or category of functions - (a) may not be performed by the Chief Executive Officer without the prior approval of the Board ; (b) may be performed by the Chief Executive Officer in accordance with guidelines issued by the Board ; or (c) may be performed by the Chief Executive Officer at his or her discretion, but only where this Act or any other law is silent. (4) The Board , with the concurrence of the Minister , must, determine the remuneration and other service benefits of the Chief Executive Officer , subject to section 22(3) of the Public Enterprises Governance Act . [The comma after the word “must” is superfluous.] (5) A person appointed as Chief Executive Officer holds office for a period of five years, and is eligible for re-appointment at the expiration of that period. (6) The Chief Executive Officer is the accounting officer of the Board and is an ex officio member of the Board with no voting rights. (7) The Chief Executive Officer may at any time resign from office by submitting a written resignation to the Board at least three calendar months before the intended date of vacation of office, unless the Board with the concurrence of the Minister allows a shorter period. (8) The Board , with the approval of the Minister and after having given the Chief Executive Officer a reasonable opportunity to be heard, may by notice in writing remove the Chief Executive Officer from office on the grounds of misconduct, incapacity, incompetence or failure to comply with a provision of the performance agreement referred to in section 18. (9) The office of the Chief Executive Officer becomes vacant if the Chief Executive Officer - (a) dies; (b) becomes subject to a disqualification referred to in section 7; (c) resigns from office pursuant to subsection (7); (d) is removed from office pursuant to subsection (8); or (e) is for any reason unable to perform his or her functions for a period exceeding four months. (10) If the office of the Chief Executive Officer becomes vacant as a result of the happening of an event referred to in subsection (9), the Board , with the approval of the Minister , must designate an employee of the Board or other suitable individual to act as Chief Executive Officer , until a new Chief Executive Officer is appointed pursuant to subsection (11) or (12). (11) Subject to subsection (12), if there is a vacancy, a new Chief Executive Officer must be appointed pursuant to subsection (1) as soon as possible, but not later than six months, after the vacancy arises. (12) If, as required by subsection (11), a new Chief Executive Officer has not been appointed pursuant to subsection (1) after a period of six months, the Minister must appoint a suitably qualified person as Chief Executive Officer . (13) The Board may not appoint a person as Chief Executive Officer if such person is subject to a disqualification for appointment as a member of the Board as contemplated in section 7."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part 2",
+      "section": "17",
+      "title": "Staff of Board , transfer and secondment of staff",
+      "content": "(1) The Board may, on the recommendation of the Chief Executive Officer and on such remuneration and conditions of service as the Board may determine, appoint as employees of the Board , such persons as it considers necessary in order to assist the Board in the exercise and performance of its powers and functions in terms of this Act. (2) The Board , in the performance of its functions in terms of this Act, at its request and after consultation with the Minister and the Public Service Commission, may be assisted by staff members seconded to the service of the Board in terms of the Public Service Act, 1995 (Act No. 13 of 1995 )."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part 2",
+      "section": "18",
+      "title": "Performance agreements with senior management staff",
+      "content": "The Board , the Chief Executive Officer and such senior management staff of the Board as the Board may determine, must, within such time as may be determined by the Board , enter into the performance agreement contemplated in section 21 of the Public Enterprises Governance Act ."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part 2",
+      "section": "19",
+      "title": "Inspectors",
+      "content": "(1) The Board - (a) may appoint any suitably qualified person as inspector to monitor, investigate or evaluate any matter on behalf of the Board , subject to the control and direction of the Board ; and (b) must provide each inspector with a certificate of appointment with his or her picture and identity number stating - (i) that the inspector has been appointed under this Act; and (ii) any limitation on the authority of the inspector , if any. (2) An inspector exercising or performing a power or function under this Act must show his or her certificate of appointment to any affected person who demands to see it. (3) For the purpose of this Act or any other law relating to gambling and associated activities, an inspector is deemed to have been appointed as a peace officer for the purposes of the relevant sections of the Criminal Procedure Act, 1977 (Act No. 51 of 1977 )."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part 2",
+      "section": "20",
+      "title": "Powers and functions of inspectors",
+      "content": "(1) An inspector may, for the purposes of this Act, without prior notice - (a) enter any premises in which any activity under this Act is engaged in, conducted or made available, or in which records of any of those activities are prepared or maintained; (b) enter any premises in, on or from which it is suspected - (i) that any activity under this Act is engaged in, conducted or made available; or (ii) that any equipment, device, object, book, record, note, recording or other document used or capable of being used in connection with the conducting of an activity under this Act is engaged in, conducted or made available, may be found; (c) in any premises referred to in paragraph (a) or (b) - (i) conduct any enquiry that the inspector believes to be necessary, after having informed the person who appears to be in charge of the premises of the purpose of his or her visit; (ii) require the person in control of such premises to produce any licence or written permission or authorisation required under this Act or any law; (iii) question any person who is on or in those premises; (iv) examine any equipment, device, object, book, record, note, recording or other document in, about, upon or around the premises referred to in paragraph (a) or (b); and (v) seize and remove from those premises, and impound - (aa) any such equipment for the purposes of examination and inspection; or (bb) any book, record, ledger, game device, cash box and its contents; (d) require any person who appears to be in charge of any premises referred to in paragraph (a) or (b) - (i) to point out any equipment, device or object referred to in those paragraphs that the person has possession or custody of, or control over; (ii) to produce for the purpose of examination or of making copies or extracts, any book, record, note, recording or other document referred to in paragraph (a) or (b) that the person has possession or custody of, or control over; and (iii) to provide any information in connection with anything that has been pointed out or produced in terms of subparagraph (i) or (ii). (2) An inspector may - (a) serve warrants, notices, summonses, or other processes relating to the enforcement of this Act; (b) conduct investigations into the character, record, reputation of applicants for lottery licenses, all licensees, and such other persons as the Board may determine pertaining to lotteries; (c) investigate violations of laws pertaining to activities regulated under this Act and refer any violation constituting an offence to the relevant police or prosecuting authorities; and (d) perform any other function imposed or exercise any power conferred on an inspector by or under this Act. (3) When performing a function in terms of subsection (1) or (2), an inspector may be accompanied and assisted by an assistant, interpreter or a police officer. (4) Nothing in this section may be construed as prohibiting other law enforcement agencies from enforcing the provisions of this Act or from performing their other functions to the extent permitted by law."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part 2",
+      "section": "21",
+      "title": "Funds of Board",
+      "content": "(1) The funds of the Board consist of - (a) money appropriated by Parliament for the purposes of the operations of the Board ; (b) the payments made to the Board in terms of section 53; (c) application and licensing fees paid to the Board in terms of section 31(4); (d) other money paid to the Board , excluding any prize money paid by the licensee to the Board in terms of section 36(b); (e) fees and levies payable to the Board in terms of section 62(1) or in terms of any other provision of this Act; (f) money vesting in or accruing to the Board from any other source; and (g) interest derived from the investment of funds of the Board . (2) The Board must submit to the Minister for approval in each financial year, at the time determined by the Minister , a statement of the estimated income and expenditure of the Board relating to the next financial year. (3) Expenditure incurred for the activities of the Board is defrayed from the funds of the Board . (4) Any money of the Board that is not immediately required for expenditure by the Board may be invested in a manner and in an institution determined by the Board with the approval of the Minister and the Minister responsible for finance."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part 2",
+      "section": "22",
+      "title": "Accountability, financial year, audit and annual report",
+      "content": "(1) The Chief Executive Officer is the accounting officer of the Board and is responsible for - (a) all income and expenditure of the Board ; and (b) all assets and the discharging of all liabilities of the Board . (2) The financial year of the Board ends on 31 March each year. (3) The Board must cause such records of account to be kept in accordance with generally accepted accounting practices, principles and procedures as are necessary to represent fairly the state of affairs of funds of the Board and to explain the transactions and financial position of the Board . (4) Not later than three months after the end of each financial year, the Chief Executive Officer must prepare and submit to the Board for approval, financial statements, comprising - (a) a statement reflecting, with suitable and sufficient particulars, the income and expenditure of the Board during that financial year; and (b) a balance sheet showing the state of the assets, liabilities and financial position of the Board as at the end of that financial year. (5) The accounting records and the financial statements of the Board are audited annually by the Auditor-General. (6) The Board must submit to the Minister an annual report of the activities of the Board within six months after the end of each financial year, or such longer period as the Minister may determine, which report is accompanied by - (a) the audited financial statements of the Board referred to in subsection (5) for that financial year; (b) the auditor’s report relating to those financial statements; and (c) the financial statements and report referred to in section 43(3). (7) The Minister must table in the National Assembly the annual report and financial statements submitted to the Minister in terms of subsection (6) within 30 days from the date of their receipt or, if the National Assembly is not then in ordinary session, within 14 days after the commencement of its next ordinary session. (8) The Board must, if the Minister at any time so requires, furnish to the Minister a report and particulars relating to the performance of the functions of the Board in relation to any matter as the Minister may require."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part 2",
+      "section": "23",
+      "title": "Transfer of assets and liabilities",
+      "content": "(1) The Minister must as soon as possible after the date on which this Act comes into force, transfer such assets and liabilities to the Board as in his or her opinion are related to the performance of any task that in terms of this Act are performed by the Board . [For correct subject-verb agreement, the work “task” should be plural (“tasks”), or else the verb “are” should be “is”.] (2) Transfer duty, stamp duty or any other duty or tax are not payable in respect of a transfer made under subsection (1). [For correct subject-verb agreement, the verb “are” should be “is”.]"
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part 2",
+      "section": "24",
+      "title": "Confidentiality",
+      "content": "(1) A member or alternate member of the Board , the Chief Executive Officer , staff member of the Board referred to in section 17, inspector referred to in section 19, a consultant engaged by the Board or any other person who, in the performance of his or her functions under this Act, acquires any information in relation to the business or affairs of a licensee or any other person, may not disclose such information to any person, except - (a) for the purpose of the performance of his or her functions under this Act; or (b) when required to do so by a court of law or under any law. (2) A person who contravenes subsection (1), commits an offence and is liable to a fine not exceeding N$50 000 or to imprisonment for a period not exceeding four years, or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part 2",
+      "section": "25",
+      "title": "Co-operation with other agencies and organisations",
+      "content": "(1) The Board , with concurrence of the Minister , may enter into an arrangement with any agency or organisation, whether within or outside Namibia, that has any function related to the regulation or supervision of lotteries or any other matter relevant to the functions of the Board . (2) Arrangements referred to in subsection (1) may include provision for the exchange of information between the Board and such other agency or organisation and the rendering of assistance by such agency or organisation, subject always to the agency or organisation having in place provisions satisfactory to the Board with regard to the safeguarding of confidential information. Part 3 – STATE LOTTERY"
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part 3",
+      "section": "26",
+      "title": "Purpose of State Lottery",
+      "content": "The State Lottery is conducted in terms of this Act for the benefit of one or more of the purposes specified in section 44."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part 3",
+      "section": "27",
+      "title": "Conduct of State Lottery",
+      "content": "The Board may conduct the State Lottery either on its own or through a licensee as contemplated in section 30."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part 3",
+      "section": "28",
+      "title": "Powers of Board in relation to State Lottery",
+      "content": "(1) The Board may in general take any decision and perform any act which it considers necessary for the proper conduct of the State Lottery . (2) Without prejudice to the generality of subsection (1), the Board may in particular determine - (a) the number, type, frequency and duration of lotteries to be held in the State Lottery ; (b) the method and conditions of participation in the State Lottery ; (c) the manner of advertising the State Lottery ; (d) the number, form and selling price of tickets in the State Lottery ; (e) the method of accounting for tickets sold and unsold; (f) the places at which and the period and hours during which tickets may be sold; (g) the persons to be engaged for selling tickets and the remuneration payable to them; (h) subject to section 29, the number, nature and value of prize awards in the State Lottery ; (i) the manner of prize drawings; (j) the manner in which prizes are claimed; and (k) the manner in which unclaimed prizes are dealt with."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part 3",
+      "section": "29",
+      "title": "Payment of proceeds from State Lottery to Trust Fund",
+      "content": "(1) The Board must deposit all money derived from the sale of tickets for a State Lottery conducted by the Board , on its own, pursuant to section 27 into the Trust Fund banking account. (2) After the conduct of the State Lottery by the Board pursuant to section 27, the Board with the concurrence of the Minister must, subject to section 44, determine the percentages of the gross proceeds of the State Lottery to be applied for the provision of prizes and for the defrayal of administrative and operating expenses, but not exceeding - (a) the prescribed percentage for the provision of prizes; and (b) the prescribed percentage for the defrayal of administrative and operating expenses. (3) The Board must, after making provision for payment of prizes and expenses as contemplated in subsection (2), allocate the nett amount remaining in the Trust Fund to the purposes specified in section 44. Part 4 – LICENCE TO CONDUCT STATE LOTTERY"
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part 4",
+      "section": "30",
+      "title": "Licence to conduct State Lottery",
+      "content": "(1) If the Board decides to conduct the State Lottery or sports pool through a licensee it must inform the Minister of its decision. (2) The Minister may, on the recommendation of the Board , issue not more than one licence at a time authorising a person to conduct the State Lottery or sports pool , which for purposes of section 72 constitutes a lottery in accordance with this Act."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part 4",
+      "section": "31",
+      "title": "Procedure to obtain licence",
+      "content": "(1) Before the Minister grants a licence under section 33, the Board must by notice - (a) in the Gazette; and (b) in at least two newspapers widely circulated in Namibia, or through any other means or media as may be prescribed, invite interested parties to apply to the Board , in writing, for a copy of a request for proposal or any other document concerning the application for licence and any related agreement and the Board may require payment for such documents. (2) A notice in terms of subsection (1) must specify - (a) the last day, not being less than 30 days after the date of publication of the notice in the Gazette, by which applications must reach the Board ; and (b) the information to be furnished by applicants in their applications. (3) For the purpose of considering applications, the Board may require an applicant - (a) to furnish any additional information which the Board specifies; or (b) to attend a meeting of the Board to discuss the application of the applicant or any terms and conditions of the proposed licence . (4) On - (a) requesting a copy of any document in terms of subsection (1); (b) applying for the licence in terms of subsection (1); or (c) the granting of a licence under section 33(2), the person requesting a copy of a document must pay to the Board the prescribed fee."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part 4",
+      "section": "32",
+      "title": "Consideration of application by Board",
+      "content": "(1) The Board must consider every application submitted to it in terms of section 31(1) at a meeting of the Board . (2) The applicant may appear before the Board and be heard, either personally or through his or her representative. (3) In considering an application under this section, the Board must take into account representations made by the applicant as well as the matters set out in section 33. (4) After considering the application, the Board must make its recommendations to the Minister ."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part 4",
+      "section": "33",
+      "title": "Consideration and grant of application by Minister",
+      "content": "(1) In considering whether to grant the licence , the Minister must take into account - (a) the recommendations of the Board made under section 32; (b) whether any person who is likely to manage the business or any part of the business of the State Lottery or sports pool under the licence , is a fit and proper person to do so; (c) whether any person for whose benefit that business is likely to be conducted, is a fit and proper person to benefit from it; and (d) whether any person who is likely to manage the business or any part of the business of the State Lottery under the licence or a sports pool , will do so - (i) with all due propriety and strictly in accordance with this Act, all other applicable law and the licence for the State Lottery or sports pool together with any agreement pertaining to the licence ; (ii) in such manner that the interests of every participant in the State Lottery or sports pools are adequately protected; and (iii) subject to subparagraphs (i) and (ii), so that the net proceeds of the State Lottery and sports pools are as large as possible. (2) The Minister may grant an application for a licence to conduct the State Lottery or sports pool if he or she is satisfied that - (a) the applicant for the licence is not disqualified in terms of section 34; (b) the applicant for the licence has sufficient appropriate knowledge or experience to conduct the State Lottery or sports pool , or has unconstrained and continuous access, and is able to conduct the State Lottery or sports pool strictly in accordance with this Act, the licence for the State Lottery or sports pool and any agreement pertaining to the licence ; [Some words appear to have been omitted here, as the paragraph does not make clear what “access” is being referenced. The paragraph may have been intended to refer to access “to such knowledge or expertise”, although this is not entirely clear.] (c) the applicant has the necessary financial and other resources to conduct the State Lottery or sports pool ; (d) the applicant, shows a clear and continuous commitment to the social responsibility programme contemplated in section 4(1)(i) and to the advancement, upliftment and economic empowerment of persons or groups or categories of persons previously disadvantaged by unfair discrimination for the duration of the licence ; and [The comma after the phrase “the applicant” is superfluous.] (e) no political party in Namibia or political office-bearer has any direct financial interest in the applicant or a shareholder of the applicant. (3) A licence granted under this section must include the conditions contemplated in section 36. (4) The licence contemplated in subsection (2) may allow the licensee to appoint another person to conduct certain lotteries of the State Lottery on behalf of the licensee only with the written approval of the Minister . (5) In considering whether to grant the licence contemplated in subsection (2), the Minister and the Board may not favour an applicant solely because the applicant or a shareholder or partner of that applicant is an institution of the State. (6) After a licence has been granted in terms of this section, the Minister must, as soon as is reasonably possible after the grant, publish a notice in the Gazette and in any other media the Minister considers appropriate informing the public about - (a) the grant of the licence ; (b) the name and any other identification particulars of the licensee ; and (c) the period of validity of the licence ."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part 4",
+      "section": "34",
+      "title": "Disqualifications",
+      "content": "A person is not qualified to be granted a licence in terms of section 33 or to remain a licensee if such person or, in the case of a body corporate, partnership or other association of persons, any director, partner or member - (a) is a minor ; (b) has, at any time within 10 years preceding the date of grant of the licence , been convicted of an offence in respect of which he or she has been sentenced to imprisonment for a period exceeding 12 months without the option of a fine; (c) has at any time been convicted of an offence in terms of this Act of which dishonesty was an element; or (d) is an unrehabilitated insolvent."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part 4",
+      "section": "35",
+      "title": "Conditions of licence",
+      "content": "(1) A licence granted in terms of section 33 must specify the conditions attached to it and is granted for a minimum period of five years and a maximum period of 10 years. (2) The Minister , after consultation with the Board , may in a case where the licence has been granted for less than 10 years, and at least 12 months before the expiry of that licence , extend the licence for such further period as would, together with the initial period for which the licence was granted, not exceed 10 years. (3) The licensee has no rights or legitimate expectations in respect of an extension of the period of validity of the licence other than the rights provided by this section. (4) The conditions contemplated in subsection (1) may include such conditions as the Minister may determine, after consultation with the Board , and may in particular include conditions requiring the licensee - (a) to obtain the consent of the Board before doing anything specified in the licence ; (b) to refer specified matters to the Minister or to the Board for approval; (c) to ensure that such requirements as the Minister or the Board may determine or approve in terms of the licence are complied with, including the imposition of penalties in the event of the licensee not complying with any provision of this Act or the licence ; (d) to provide the Minister and the Board at times specified by the Minister or the Board with such information as the Minister or the Board may require; (e) to make such arrangements as may be specified in the licence for the payment of such amount of money out of the proceeds of the State Lottery as may be so specified to the Trust Fund or to the Board at such times as may be so specified; (f) to do such things in terms of the licence , including the transfer of property or any rights, excluding intellectual property rights or proprietary software , as the Board may require, upon the expiration of the licence ; (g) to obtain the approval of the Minister for any lottery and the rules before that lottery is conducted under the licence for the State Lottery ; (h) to allow the Board or anyone designated by it to enter any premises or facility belonging to or under the control of the licensee or a member of the management of the licensee , or premises to which the licensee has a right of access, at any reasonable time, if such entry is necessary for the protection of the integrity of the State Lottery , and to - (i) examine or inspect any thing, machine, document or data captured in any form, excluding proprietary software , found on or in the premises or facility, and make copies of or make extracts from that thing, machine, document or data; (ii) seize, for the purpose of further examination or securing information, any thing, machine, document or data, excluding proprietary software , on or in such premises or facility which has a bearing on the conduct of the State Lottery ; (iii) seal or otherwise secure any such premises, facility, thing or machine on or in which any document or data which has a bearing on the conduct of the State Lottery is stored or captured; and (iv) take such steps as may be reasonably necessary to protect the integrity and conduct of the State Lottery ; and (i) to secure a valid and enforceable undertaking in writing from - (i) the person controlling the licensee not to change that control of the licensee for the duration of the licence without the consent of the Minister ; (ii) the person controlling the licensee not to transfer, cede or in any other way encumber the licence to another person; and (iii) the licensee not to permit, require or compel any of its employees or agents knowingly to sell a ticket , or to award or to pay any prize to a director of the licensee or a member of the Board ."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part 4",
+      "section": "36",
+      "title": "Licensee to make payments to Trust Fund",
+      "content": "In respect of each lottery conducted for the State Lottery under a licence , the licensee must, not later than seven days from the last date on which tickets were sold for the lottery or such extended time as the Board may determine - (a) prepare and submit to the Board a statement showing - (i) the gross proceeds of all tickets sold in the lottery ; (ii) the amount allocated for the provision of prizes; (iii) the commission of the licensee ; (iv) the allowable expenses incurred in accordance with the licence for the conduct of the lottery ; and (v) the balance which remains after the expenditures referred to in subparagraphs (ii), (iii) and (iv) are set off against the gross proceeds referred to in subparagraph (i); and (b) pay the balance referred to in paragraph (a)(v) to the Trust Fund ."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part 4",
+      "section": "37",
+      "title": "Variation of conditions",
+      "content": "(1) The Minister , on the recommendation of the Board , may vary any condition in the licence granted under section 33 - (a) to the extent provided for in section 35(1), (2) and (3); or (b) other than a condition contemplated in paragraph (a), only if the licensee consents to that variation, or if the licensee does not consent to that variation, only if - (i) that variation is provided for in this Act or to the extent provided for in the licence ; and (ii) the licensee has been given a reasonable opportunity to make representations to the Minister in respect of the intended variation. (2) If the Minister , after consideration of the representations of the licensee , decides to vary a condition in the licence in accordance with that licence but without the consent of the licensee , the Minister must cause a notice to be served on the licensee in which the licensee is informed of the variation and the date on which that variation takes effect, which date may not be less than 21 days after the date of service of such notice, unless the licensee agrees to a shorter period in writing. (3) The provisions to vary a condition in the licence under subsection (1) may allow the Minister to add a condition to the licence or to remove a condition from the licence ."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part 4",
+      "section": "38",
+      "title": "Grounds for cancellation of licence",
+      "content": "The Minister may cancel the licence granted under section 33 on his or her own initiative or on the recommendation of the Board if - (a) the licensee is no longer a fit and proper person to conduct the State Lottery , whether because of the commission of an act of insolvency, liquidation or for any other valid reason; (b) the licensee fails in a material respect to comply with any provision of this Act or any condition of the licence including failure by the licensee without good cause to - (i) settle any prize drawn in the State Lottery ; (ii) pay over any amount due to the Trust Fund within seven days from the last day on which tickets were sold in the State Lottery concerned, or within such extended time as the Board may determine; or (iii) submit to the Board audited records, accounts and financial statements as prescribed within the specified time; (c) any information given by the licensee , any person who in any way controls the licensee or an agent or representative of the licensee to the Board - (i) in or in connection with the application for the licence ; (ii) in accordance with a condition in the licence ; or (iii) in making representations in terms of section 39(1), in respect of financial matters regarding the State Lottery or in respect of any aspect of the management of the State Lottery , is materially false; (d) any person who is - (i) managing the business or any part of the business of the licensee ; or (ii) a supplier of goods or services to the licensee , is not a fit and proper person to do so, whether because of the commission of an act of insolvency, insolvency, liquidation, incarceration in a prison or other institution or for any other relevant reason, unless the licensee immediately takes steps to effectively dissociate himself, herself or itself from that person; (e) any person - (i) for whose benefit the licence has been acquired; (ii) who is a holding company of the licensee ; or (iii) who in any other way controls the licensee , is not a fit and proper person to benefit from it, whether because of insolvency, liquidation, incarceration in a prison or other institution or for any other relevant reason; (f) the licensee has failed to take adequate steps to prevent the commission of fraud by his, her or its employees, agents, representatives, suppliers or by participants in the State Lottery after having been alerted to or becoming aware of conditions conducive to the commission of fraud, or to instances of fraud or dishonesty; (g) the licensee , any of its employees, agents, representatives or suppliers prevent the Board or any person designated by it from exercising its rights contemplated in section 35(4)(h); [The word “or” appears to have been omitted after the word “licensee”. A comma should appear after the word “suppliers” to properly offset the phrase “or any of its employees, agents, representatives or suppliers”.] (h) the licensee , any of its employees or agents repeatedly and knowingly sell tickets or award or pay prizes to any person in contravention of section 35(4)(i)(iii); or [The word “or” appears to have been omitted after the word “licensee”. A comma should appear after the word “agents” to properly offset the phrase “or any of its employees or agents”.] (i) application has been made to the High Court for the sequestration or liquidation of the licensee or a person who in any way controls the licensee ."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part 4",
+      "section": "39",
+      "title": "Procedure for cancellation of licence",
+      "content": "(1) If the Minister , from information available to him or her or on the recommendation of the Board , is satisfied that grounds exist for the cancellation of the licence granted in terms of section 33, he or she must - (a) in writing notify the licensee of the existence of such grounds; and (b) call upon the licensee to furnish reasons, within 14 days of service of that notice at the registered physical address of the licensee , as to why the licence should not be cancelled, failing which the licence ceases to be valid upon the expiration of that period of 14 days. (2) The Minister may order a suspension of the licence in the notice contemplated in subsection (1) as from the date of service of that notice for a period of not more than 30 days after the licensee has furnished the reasons."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part 4",
+      "section": "40",
+      "title": "Cancellation of licence",
+      "content": "(1) If reasons are furnished by the licensee as contemplated in section 39(1), the Minister may - (a) after considering such reasons, decide not to cancel the licence ; or (b) call upon the licensee to appear before the Board on a specified date - (i) to make oral representations in support of any written representations made by the licensee ; or (ii) to answer any questions which the Minister or the Board may have with regard to such written representations, whereafter the Minister must consider the matter and decide whether or not to cancel the licence . (2) If the Minister decides to cancel the licence , he or she must, by written notice served at the registered head office of the licensee , notify the licensee of - (a) the cancellation of the licence ; (b) the grounds for the cancellation; and (c) the date on which the cancellation takes effect. Part 5 – STATE LOTTERY TRUST FUND AND DISTRIBUTION OF PROCEEDS FROM STATE LOTTERY"
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part 5",
+      "section": "41",
+      "title": "State Lottery Trust Fund",
+      "content": "(1) There is established a fund to be known as the State Lottery Trust Fund to be administered by the Board . (2) The Trust Fund vests in and is administered by the Board . (3) The Trust Fund is held in trust by the Board for the purposes mentioned in this Part."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part 5",
+      "section": "42",
+      "title": "Funds of Trust Fund",
+      "content": "(1) The funds of the Trust Fund consist of - (a) proceeds received from the sale of tickets in the State Lottery or, if a lottery is conducted through a licensee money paid to the Trust Fund in terms of section 36; [There should be a comma after the word “licensee”.] (b) interest and dividends derived from the investment of money under subsection (6); (c) money advanced to the Trust Fund in terms of subsection (4); and (d) money accruing to the Trust Fund from any other source. (2) The Board must open a banking account in the name of the Trust Fund with a banking institution registered in terms of any law regulating the registration of banking institutions - (a) into which all money received or accruing for the benefit of the Trust Fund are deposited; and (b) from which all amounts payable from the Trust Fund are withdrawn. (3) The Board may retain in the Trust Fund such amounts as are approved by the Minister , with the concurrence of the Minister responsible for finance, as being reasonably required for future administrative and operating expenses of the Board . (4) The Minister may, from money appropriated by the Parliament, make advances for the benefit of the Trust Fund of such amounts as are reasonably required for the administrative and operating expenses of the Board . (5) Any amount advanced under subsection (4) is repaid from the Trust Fund to the State Revenue Fund - (a) before 31 March of each year; or (b) within such extended period as the Minister , with the concurrence of the Minister responsible for finance, may approve. (6) Money standing to the credit of the Trust Fund and not immediately required for the payment of prizes or any other amounts payable from the Trust Fund may be invested in such manner as the Minister , with the concurrence of the Minister responsible for finance, may in writing approve. (7) Any unexpended balance of the money of the Trust Fund at the end of any financial year must be carried forward as a credit to the Trust Fund for the next succeeding financial year. (8) The Board must ensure that any money received for or accruing to the Trust Fund is paid into the banking account referred to in subsection (2) as soon as is practicable after the receipt."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part 5",
+      "section": "43",
+      "title": "Accounting, audit and reports",
+      "content": "(1) The Board must cause proper accounts to be kept of all transactions of the Trust Fund and cause to be prepared in respect of every financial year of the Board , financial statements reflecting - (a) the appropriate particulars, all money received by and payments made from the Trust Fund ; and (b) the assets and liabilities of the Trust Fund as at the end of that financial year. (2) The accounts and financial statements referred to in subsection (1) are audited annually by the Auditor-General. (3) The Board must within the time frame set out in section 22(6) attach - (a) a copy of the audited accounts and financial statements of the Trust Fund ; and (b) a report on the activities of the Board in relation to the Trust Fund during that financial year, to the annual report of the Board referred to in that section, and those statements and the report become an integral part of the annual report by the Board to the Minister . (3) If, for the purposes of subsection (2), the Auditor-General engages the services of a person registered as an accountant and auditor in terms of the Public Accountants’ and Auditors’ Act, 1951 (Act No. 51 of 1951 ) to carry out the investigation, examination and audit of the accounts and financial statements of the Trust Fund, any costs so incurred are defrayed from the Trust Fund as part of the administrative expenses of the Board."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part 5",
+      "section": "44",
+      "title": "Allocation of money from Trust Fund",
+      "content": "(1) Money that is paid to the Trust Fund is appropriated for expenditure by the Board in accordance with subsections (2) and (3). (2) A portion of the money referred to in subsection (1), that the Minister after consultation with the Board considers appropriate, is allocated for making payments under section 48 and is held in the Trust Fund for that purpose. (3) The balance in the Trust Fund after the deduction of the allocated amount referred to in subsection (2) may be allocated in the following categories - (a) not less than the prescribed percentage must be allocated for charitable expenditure ; (b) not less than the prescribed percentage must be allocated for expenditure on or connected with the arts, culture, sport, national heritage and conservation; (c) not less than the prescribed percentage must be allocated for expenditure on or connected to youth empowerment, psycho-social disorders, science and innovation; and (d) not more than the prescribed percentage must be allocated for expenditure in respect of any other matter approved by the Minister for that purpose in particular national emergencies such as droughts and floods. [There should be a comma after the word “purpose”.]"
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part 5",
+      "section": "45",
+      "title": "Applications for grants",
+      "content": "(1) The Board may, by notice in the Gazette and in at least two daily local newspapers circulating nationally, request any interested person or body who falls within the categories referred to in section 44(3) to submit, within 30 days, an application for a grant in the presribed manner and form to the distribution committee for consideration and recommendation to the Board as contemplated in section 46. [The word “prescribed” is misspelt in the Government Gazette, as reproduced above.] (2) An application for a grant by a juristic person acting as an agent, representative or conduit of any potential beneficiary may not be considered, unless good cause is shown as to why such potential beneficiary is unable to make an application on its own."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part 5",
+      "section": "46",
+      "title": "Recommendation for distribution of funds by committee",
+      "content": "(1) Subject to section 14, the Board must establish a distribution committee to consider applications made in terms of section 45 and make recommendations to the Board . (2) The distributing committee is responsible for - (a) considering and evaluating applications for grants; (b) recommendations to the Board for approval of funding; and (c) preparing reports on grants already awarded and on the performance of its functions to the Board on a quarterly basis or as and when requested by the Board . (3) Subject to section 49, the distributing committee - [The word “must” which appears at the beginning of paragraph (a)should rather appear at the end of the introductory phrase above.] (a) must receive and consider applications for grants; and (b) make recommendations to the Board for approval of grants."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part 5",
+      "section": "47",
+      "title": "Approval of grants by Board",
+      "content": "(1) On receipt of the recommendations referred to in section 46(3)(b), the Board must consider the recommendations and may - (a) grant an application and allocate such grant to the beneficiary in accordance with this Act and subject to - (i) conditions, if any; and (ii) any directions issued by the Minister after consultation with the Board ; or (b) refuse an application and within seven days provide the applicant with written reasons for the refusal. (2) Despite section 45, the Board may, with the concurrence of the Minister , consider and approve a grant for any other matter, in particular national emergencies such as droughts and floods as contemplated in section 44(3)(d). (3) If an applicant is aggrieved by the decision of the Board under subsection (1), the applicant may appeal to the Minister , in the prescribed manner, against such decision. (4) The Minister may - (a) dismiss the appeal and confirm the decision of the Board ; (b) allow the appeal and set aside the decision of the Board ; or (c) remit the matter back to the Board for reconsideration taking into account matters raised by the Minister ."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part 5",
+      "section": "48",
+      "title": "Payment of grants",
+      "content": "If the Board grants an application as contemplated in section 47(1)(a)(ii), the Board must, subject to section 50 and to any directions given by the Minister in terms of section 47(1)(b), pay, in the prescribed manner, the grant to the successful applicant."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part 5",
+      "section": "49",
+      "title": "Disqualification for grants",
+      "content": "(1) A person does not qualify for a grant under this Act, if such person - (a) belongs to a particular prescribed class or category; and (b) demonstrates a certain prescribed behavior or quality that disqualifies a person from a grant. (2) The distribution committee may not recommend an application for a grant by a person who - (a) is under judicial management; (b) has committed a deed of insolvency; (c) is a previous recipient of a grant and has in respect of that grant committed a material breach of the grant agreement; (d) operates in an association recognised in law with another person who is disqualified from obtaining a grant in terms of this section; or (e) is managed by the directors, members, management or agents who are substantially the same as those associated with a person is disqualified from obtaining a grant in terms of this Act."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part 5",
+      "section": "50",
+      "title": "Grant agreements",
+      "content": "The person to whom a grant is to be paid from the Trust Fund as approved by the Board must, prior to the payment of the grant as contemplated in section 48, enter into a grant agreement providing, among other things, for the grant to be repaid immediately on breach of any condition of the agreement by the person."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part 5",
+      "section": "51",
+      "title": "Reports by persons to whom grant is paid",
+      "content": "(1) A person to whom a grant has been paid in terms of this Act must at such times and during such periods as may be prescribed compile reports on its activities in relation to any money allocated to it for purposes of this Act. (2) A report referred to in subsection (1) must contain such information or details as may be prescribed."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part 5",
+      "section": "52",
+      "title": "Disclosure of information",
+      "content": "(1) A person may not in any way - (a) disclose any information in connection with any application for a grant or a grant itself; (b) disclose the contents of a report contemplated in section 51; or (c) publish any information obtained in contravention of paragraph (a) or (b) unless - (i) ordered to do so by a court of law; (ii) making a confidential disclosure or publication in good faith as required in terms of any law; or (iii) the juristic person that made the application and the Board consent in writing prior to the disclosure or publication. (2) Despite subsections (1), information or a report may be disclosed or published if the disclosure or publication is necessary to enable the person making the disclosure or publication to perform any function assigned to or to exercise any power conferred on that person by or under this Act. [The plural word “subsections” should be the singular word “subsection”.] (3) A person who contravenes subsection (1) commits an offence and is liable to a fine not exceeding N$20 000 or to imprisonment for a period not exceeding two years, or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part 5",
+      "section": "53",
+      "title": "Allocation to expenses of Board",
+      "content": "(1) The Minister , at such times as he or she considers appropriate, must allocate to the Board money held in the Trust Fund in terms of section 44(2) for the payment of the expenses of the Board . (2) The Minister must allocate such amounts of money as the Minister considers sufficient for meeting the operational expenditure of the Board . (3) In determining what amounts are sufficient for meeting the expenditure referred to in subsection (2), the Minister must take into account money paid or to be paid to the Board in terms of section 31(4). Part 6 – EXEMPT ENTERTAINMENT LOTTERIES AND PRIVATE LOTTERIES"
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part 6",
+      "section": "54",
+      "title": "Exempt entertainment lotteries",
+      "content": "(1) For the purposes of subsection (2) “exempt entertainment” means a bazaar, sale, dinner, dance, sporting event or other entertainment of a similar character. (2) A lottery conducted as an incident of an exempt entertainment is lawful if - (a) all the proceeds of the entertainment, including the proceeds of the lottery , after deducting - (i) the expenses of the entertainment, excluding expenses incurred in connection with the lottery ; (ii) the expenses incurred in printing tickets in the lottery and advertising of that lottery ; and (iii) such amount, if any, not exceeding the prescribed amount for any expenses incurred in purchasing prizes for the lottery , are utilised for the benefit of any deserving section of the public; (b) none of the prizes in the lottery are money prizes; (c) the total value of tickets sold or to be sold is not more than the prescribed amount; (d) the opportunity of participating in lotteries contemplated in this section, or such opportunity together with any other opportunity of participating in lotteries or gambling, is not the only substantial inducement to persons to attend the entertainment; and (e) it is conducted for members of a benevolent society established and conducted for purposes not connected with lotteries, gambling or betting."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part 6",
+      "section": "55",
+      "title": "Private lotteries",
+      "content": "(1) A private lottery is lawful if - (a) all the proceeds, after deducting expenses incurred for printing and stationery pertaining to tickets of that lottery and notices advertising that lottery , are devoted to the provision of prizes for purchasers of tickets or chances, or, in the case of a lottery conducted for the members of a benevolent society , such proceeds are devoted to the - (i) provision of prizes; (ii) purposes for which the benevolent society was established; or (iii) provision of prizes as well as to the purposes for which the society was established; (b) no written notice or advertisement of the lottery is exhibited, published or distributed other than - (i) a notice exhibited on the premises of the benevolent society for whose members the lottery is conducted or on the premises on which the persons for whom the lottery is conducted, ordinarily work or reside; and (ii) such announcement or advertisement of the lottery as is contained in the text printed on the tickets, if any; (c) no person is employed for reward in any form whatsoever in connection with the conduct of the lottery ; (d) no ticket in the lottery is sent through the post; (e) the total value of the tickets or chances sold or to be sold or the total value of the prizes in that lottery is not more than the prescribed amount determined by the Minister with the consent of the Board ; (f) the sale of tickets in the lottery is confined - (i) to the persons for whom the lottery is conducted; and (ii) in the case of a lottery conducted for the members of a social or sporting club, also to any other person who is on the premises of such club at the time of sale; (g) it is conducted for members of a benevolent society established and conducted for purposes not connected with lotteries, gambling or betting; and (h) a person purchasing a ticket for a private lottery does not, solely by purchasing that ticket , become a member of the club or society which conducts that lottery or on whose behalf that lottery is conducted. (2) A private lottery is conducted - (a) for and by members of a social or sporting club which is not connected with any form of gambling; (b) for and by persons all of whom work on the same premises; (c) for and by persons all of whom reside on the same premises; or (d) by persons each of whom - (i) is one of the persons for whom the lottery is conducted; and (ii) in the case of a lottery conducted for the members of a social or sporting club, has been authorised in writing by the governing body of the social or sporting club to conduct the lottery . (3) For the purposes of this section each local or affiliated branch or section or branch of a benevolent society is regarded as a distinct benevolent society . (4) The Board may determine the maximum number and frequency of private lotteries that may be promoted in any period of 12 months on behalf of the same benevolent society , social or sporting club, or on the same premises where persons work or reside. Part 7 – BENEVOLENT LOTTERIES"
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part 7",
+      "section": "56",
+      "title": "Benevolent lotteries",
+      "content": "A benevolent lottery is lawful if - (a) it is conducted only in Namibia; (b) the benevolent society for whose benefit the lottery is run or to be run is authorised to collect contributions from the public in terms of the National Welfare Act , 1965 (Act No. 79 of 1965 ); (c) it is conducted in accordance with a scheme approved by the benevolent society and the Board ; (d) the benevolent society is registered with the Board in terms of section 60; (e) the total value of the tickets or chances sold or to be sold and the total or individual value of the prizes in the lottery does not exceed the prescribed amounts; [The verb “does” should be “do” to be grammatically correct, given the compound subject:“the total value… and the total or individual value… do…”.] (f) the total proceeds of the benevolent lottery , after deducting sums lawfully appropriated on account of expenses, including the expenses in respect of an audit contemplated in section 63, or for the provision of prizes, not exceeding the prescribed amount or percentage, are applied solely to - (i) authorised charitable purposes in respect of which that benevolent society is authorised to collect contributions in terms of the National Welfare Act ; (ii) participation in or support of sport or cultural activities in respect of which the society is authorised to collect contributions in terms of the National Welfare Act ; or (iii) other purposes which the Board approves and which are not purposes of private gain nor purposes of any commercial undertaking; [The word “nor” should be “or” to be grammatically correct. Alternatively, the word “not” should be “neither”.] (g) it is conducted strictly in accordance with the rules referred to in section 64; (h) it is conducted for members of a benevolent society established and conducted for purposes not connected with lotteries, gambling or betting; (i) tickets are not advertised, marketed, promoted or sold other than in the prescribed area; and (j) the lottery is not advertised, marketed or promoted jointly with another benevolent lottery and the funds for prizes are not combined with those of another benevolent lottery ."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part 7",
+      "section": "57",
+      "title": "Authorisation to conduct benevolent lottery",
+      "content": "(1) A benevolent society that wishes to conduct a benevolent lottery contemplated in section 60 must apply to the Board in the prescribed form for authorisation to conduct the benevolent lottery to raise money for the purpose stated in the application. (2) The Minister , on recommendation of the Board , must consider every application made in terms of subsection (1) and may, after consideration of the application and such information as may be submitted in support, grant or refuse authorisation for the proposed lottery . (3) Authorisation to conduct a benevolent lottery may not be granted under subsection (2) unless the proposed lottery meets the requirements of section 56."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part 7",
+      "section": "58",
+      "title": "Conditions for conduct of benevolent lottery",
+      "content": "(1) A benevolent lottery for which authorisation has been granted under section 60 is conducted subject to the following conditions - (a) the person who manages the benevolent lottery is - (i) a member of the benevolent society on whose behalf the benevolent lottery is conducted, acting in such capacity; (ii) an employee of the benevolent society acting in the course of his or her employment; (iii) a corporate body that is wholly owned by the benevolent society ; (iv) certified as a lottery manager under section 65; or (v) an employee of a person referred to in subparagraph (iv) acting in the course of his or her employment; (b) the promoter of the lottery is a member of the benevolent society to which authorisation has been granted under section 57 and is duly authorised in writing by the governing body of the benevolent society to act as promoter ; (c) the tickets are only sold by persons authorised in writing by the promoter of the lottery ; (d) the nett proceeds derived from the lottery , after deduction from the gross proceeds of such expenses to conduct the lottery as may be prescribed and for the provision of prizes, are applied for the purpose stated in the application; (e) every ticket and every notice or advertisement published, distributed or exhibited in respect of the lottery , must specify - (i) the name of the benevolent society conducting the lottery ; (ii) the price of the tickets; (iii) the date on which the sale of tickets for the lottery ceases; (iv) the date on which the draw of prizes in the lottery takes place; and (v) the place where the draw of prizes takes place; (f) prizes awarded in the lottery are settled as soon as practicable after the winners have been determined; (g) the proceeds of the sale of lottery tickets in the benevolent lottery are deposited in a bank account and, except to the extent as may be prescribed, such proceeds may not be used or applied for any purpose until all prizes awarded in the benevolent lottery have been settled; and (h) such other conditions as may be prescribed. (2) Except with the prior written approval of the Minister , granted on the recommendation of the Board , after application by the benevolent society , a benevolent society may not - (a) change the price of tickets referred to in subsection (1)(e)(ii); (b) postpone the date of cessation of the sale of tickets referred to in subsection (1)(e)(iii); (c) postpone the date for the draw of prizes referred to in subsection (1)(e)(iv); or (d) change the place for the draw of prizes referred to in subsection (1)(e)(v), and if the Minister grants the approval, details of such change or postponement are notified in the prescribed manner. (3) If a postponement of the dates referred to in subsections (2)(b) and (c) - (a) has been approved under that subsection to allow more time for the selling of tickets in order to procure sufficient funds for the provision of all the prizes offered in the lottery ; and (b) such postponement also does not result in the procuring of sufficient funds, the benevolent society may apply to the Minister for permission to proceed with the winding up the lottery in the prescribed manner. [The phrase “the winding up the lottery” should be either “winding up the lottery” or “the winding up of the lottery”.] (4) An application in terms of subsection (2) or (3) is made to the Minister through the Board in the prescribed manner. (5) The Board must consider the application at a meeting and recommend to the Minister . [It appears that some words may have been omitted here. The context indicates that the provision refers to making a recommendation to the Minister on whether or not to grant an application made under subsection (2) or (3).] (6) The Board may invite any person to attend a meeting of the Board referred to in subsection (5) to provide such information or produce such documents as the Board may reasonably require for the purpose of making a recommendation to the Minister under that subsection. (7) As soon as possible after the meeting of the Board referred to in subsection (5), the Board must submit to the Minister - (a) the application together with all the supporting documents and information; (b) the minutes of the meeting of the Board at which the application was considered; and (c) the recommendation of the Board . (8) The Minister must decide on the application and may - (a) reject the application; or (b) grant permission for the winding up of the lottery by - (i) the refunding of the selling price of the tickets to the ticket holders; or (ii) the payment of the prizes proportionally reduced in accordance with the amount available from the sale of tickets after the deduction of such expenditure as the Minister may determine."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part 7",
+      "section": "59",
+      "title": "Frequency of benevolent lotteries",
+      "content": "(1) The Minister - (a) with the concurrence of the Board and after consultation with the person to whom the licence to conduct the State Lottery has been issued, may prescribe the maximum number of lotteries that may be authorised under section 57 in any period of 12 months by or on behalf of any one benevolent society ; and (b) may prescribe the minimum number of days that must elapse between the dates of any two benevolent lotteries authorised under section 57 on behalf of the same benevolent society . (2) Anything prescribed under subsection (1) may make different provision for different cases or circumstances."
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part 7",
+      "section": "60",
+      "title": "Registration of benevolent societies",
+      "content": "(1) An application to the Board for the registration of a benevolent society is made in the form and manner as prescribed and must - (a) specify the address of the office or head office of the benevolent society ; (b) specify the purposes for which the benevolent society was established; (c) include a copy of the registration of the benevolent society in terms of the National Welfare Act ; and (d) include a copy of any scheme approved by the benevolent society in terms of section 56(c). (2) Subject to this Part, the Board must register the benevolent society in a register kept for that purpose by the Board . (3) A benevolent society may not be registered under this section and no scheme may be approved by the Board unless - (a) application on behalf of the benevolent society has been made to the Board as contemplated in subsection (1) and the applicant has furnished such further information as may be prescribed; (b) the Board is satisfied that - (i) any person who is to conduct a lottery on behalf of the benevolent society is a fit and proper person; (ii) the benevolent society has adequate resources available to provide facilities that are necessary for conducting the benevolent lottery ; (iii) the benevolent society complies with the requirements of section 56; (iv) no information given by the benevolent society to the Board relating to the application for registration of the society was materially false; (v) the address of the office or head office of the benevolent society is not the same as the address of the office or head office of another benevolent society that is established for the same or a connected purpose and is registered under this section; (vi) every lottery conducted on behalf of the benevolent society within the last five years has been properly conducted to the satisfaction of the Board ; (vii) the benevolent society has not failed to comply with a requirement imposed under section 56, 62 or 63; (viii) if the benevolent lottery is to be conducted by a lottery manager , that lottery manager has provided security as prescribed; (ix) no act or omission by a person who is or is to be connected with a benevolent lottery conducted or proposed to be conducted on behalf of the benevolent society caused - (aa) the registration of another society to be refused or cancelled as a result of information contemplated in subparagraph (iv) or section 56, 62 or 63; or (bb) a lottery , in the conduct of which such person was involved, to be improperly conducted; and (x) the scheme attached to the application for registration, or any other scheme subsequently approved by the society under section 56(c), is lawful and is likely to be run in accordance with sound financial principles and methods."
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Part 7",
+      "section": "61",
+      "title": "Cancellation of registration",
+      "content": "The Board - (a) must cancel the registration of a benevolent society if the society requests the Board to do so; and (b) may cancel the registration of a benevolent society if the society has failed to comply with any requirement contained in section 60(3), 62 or 63, except that - (i) the registration may not be cancelled without giving the benevolent society an opportunity to be heard; and (ii) the benevolent society must be notified in writing of the cancellation and the grounds for such cancellation."
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Part 7",
+      "section": "62",
+      "title": "Obligations of registered benevolent societies",
+      "content": "(1) A benevolent society registered under section 60 must pay to the Board - (a) such fee or levy as the Board may determine; and (b) the fee or levy determined by the Board for each benevolent society lottery conducted on behalf of the benevolent society . (2) A benevolent society registered under section 60 must - (a) notify the Board in writing of any change in the address of the office of the benevolent society office or head office not later than 21 days prior to the day on which such change takes effect; (b) subject to subsection (3), notify the Board in writing of any amendment of the scheme contemplated in section 56(c); (c) within three months after the completion of a benevolent lottery , submit to the Board a return in respect of that lottery in such form and manner and with such information as the Minister may require; and (d) preserve all documents including all information kept by the benevolent society otherwise than in writing, relating to a lottery conducted on behalf of the society for not less than five years after the date of the lottery . (3) A notification in terms of subsection (2)(b) is given to the Board not less than 30 days before any tickets or chances are sold, distributed or offered for sale, in respect of a lottery conducted in accordance with the scheme. (4) A return submitted to the Board in terms of subsection (2)(c) is preserved by the Board for not less than 18 months and is open to the public for inspection. (5) The Board may require a benevolent society registered under section 60 or a society that has applied for such registration - (a) to furnish the Board with such information relating to any lottery conducted or to be conducted on behalf of the benevolent society as the Board may require; (b) to allow any person authorised by the Board to inspect and take copies of any documents of the benevolent society , including any information kept by the benevolent society otherwise than in writing, relating to such a lottery ; (c) where such information is kept by means of a computer, to give the Board such assistance as it may require to enable it - (i) to inspect and take copies of the information in a visible and legible form; and (ii) to inspect the operation of any computer and any associated apparatus or material that is or has been in use in connection with the keeping of such information; and (d) to allow the Board to inspect any aspect of the management of such a benevolent society ."
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Part 7",
+      "section": "63",
+      "title": "Audit of benevolent lotteries",
+      "content": "(1) A benevolent society must submit to the Board financial statements in respect of all benevolent lotteries conducted on its behalf prepared by an independent auditor registered in terms of the Public Accountants’ and Auditors’ Act, 1951 (Act No. 51 of 1951 ), together with a report by the auditor on such statements. (2) The financial statements referred to in subsection (1) must - (a) be submitted to the Board within three months of the end of the year in which the lotteries to which such statements relate, were held; and (b) comply with generally accepted accounting principles and any directions that may be given by the Board as to the information to be contained in such statements, the manner in which such information is to be presented or the methods and principles according to which such statements are to be prepared. (3) The report of the auditor referred to in subsection (1), must state whether in the opinion of the auditor - (a) the financial statements have been properly prepared in accordance with the principles and any directions contemplated in subsection (2)(b); (b) proper accounting records have been kept by the benevolent society ; and (c) the accounts of the benevolent society are in agreement with the financial statements, except that if the auditor is unable to obtain all the information and explanations that, to the best of his or her knowledge and belief, are necessary for the purposes of the audit, his or her report must state accordingly. (4) For the purposes of this section - (a) a benevolent lottery is deemed to have been conducted in the year in which the winners of prizes are announced to the public; and (b) ‘year’ means a period of 12 months starting on 1 January."
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "Part 7",
+      "section": "64",
+      "title": "Rules of benevolent lotteries",
+      "content": "(1) A benevolent lottery is conducted in accordance with the rules set out in subsection (2) and such other rules as may be prescribed by the Minister . (2) The rules under which a benevolent lottery is conducted are as follows - (a) the person conducting the benevolent lottery must be a member of the benevolent society on whose behalf that benevolent lottery is conducted or a lottery manager certified in terms of section 66 and is authorised in writing by the governing body of the benevolent society to act as the person conducting that benevolent lottery ; (b) every ticket distributed or sold, must specify the name and address of the person conducting the benevolent lottery and the date of the lottery ; (c) ticket in a benevolent lottery may not be sold at a price exceeding the prescribed amount; [The term “ticket” should be “a ticket” or “tickets”.] (d) the price of every ticket must be the same and the price of any ticket distributed or sold must be stated on the ticket ; (e) a person may not be admitted to participate in a benevolent lottery in respect of a ticket except after payment to the benevolent society or lottery manager of the whole price of the ticket , and money received for or on account of a ticket or chance may not be returned in any circumstances; (f) payment other than the price of a ticket is required of a person as a condition of his or her admission to participate in a benevolent lottery ; [It appears that the crucial word “no” has been omitted at the beginning of this provision. Compare paragraph (f) of section 53(2) of the South African Lotteries Act 57 of 1997 , which contains similar rules and may have served as a model for subsection 64(2) of this Act.] (g) the total value of the prizes in a benevolent lottery may not exceed the prescribed amount in value, which may not exceed N$1 000 000 per year per benevolent society ; (h) the total value of the tickets sold in any one benevolent lottery may not exceed the prescribed amount; (i) the total value of the tickets sold in all benevolent lotteries conducted in any year on behalf of the same benevolent society may not exceed the prescribed amount; (j) the amount appropriated for the provision of prizes may not exceed 50 per cent of the proceeds of the benevolent lottery ; (k) a chance or opportunity to take part in a benevolent lottery may not be sold other than by way of a ticket ; (l) every ticket must on its reverse side contain the information prescribed under subsection (1); (m) the amount appropriated on account of expenses, excluding prizes, may not exceed whichever is the lesser of - (i) the expenses actually and necessarily incurred; or (ii) whichever of the amounts specified in paragraph (n) applies; (n) the amounts referred to in paragraph (m)(ii) are - (i) where the proceeds of the benevolent lottery do not exceed the prescribed amount, such percentage as may be prescribed under subsection (1); or (ii) where the proceeds of the benevolent lottery exceed the prescribed amount, such percentage as may be prescribed under subsection (1). (3) For the purposes of subsection (2)(m) - (a) the amount of any expenses that are met - (i) by the benevolent society on whose behalf the benevolent lottery is conducted; or (ii) by any beneficiary of the benevolent lottery , are considered to have been appropriated on account of expenses from the proceeds of the benevolent lottery ; and (b) the amount of the proceeds of a benevolent lottery appropriated for the provision of prizes and the amount of those proceeds appropriated on account of expenses, excluding prizes, may not in aggregate exceed the prescribed percentage of the proceeds of the benevolent lottery . (4) For the purposes of subsection (3)(a), ‘beneficiary of the benevolent lottery ’ means a person or body, other than the benevolent society on whose behalf the benevolent lottery is conducted, to whom or for whose benefit any of the proceeds of the benevolent lottery , other than amounts appropriated in respect of expenses or prizes, are lawfully paid or applied. Part 8 – LOTTERY MANAGERS"
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "Part 8",
+      "section": "65",
+      "title": "Lottery managers",
+      "content": "The Board , a licensee , a benevolent society or any other person authorised to conduct a lottery in terms of this Act may engage the services of a lottery manager who holds a certificate as lottery manager issued under section 66 to conduct the lottery on its or his or her behalf."
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "Part 8",
+      "section": "66",
+      "title": "Certification of lottery managers",
+      "content": "(1) A person who wishes to be certified as lottery manager must apply to the Board in a prescribed form and manner and the application must contain such information which, among others, include - (a) sufficient information to fully identify the applicant; (b) information in respect of its shareholders or the persons in any other way controlling it, if the applicant is a juristic person, or a curriculum vitae if the applicant is a natural person; and (c) the physical address of the applicant. (2) A fee determined by the Board is paid when the application is made. (3) The Board , subject to this section, may grant a certificate to an applicant certifying him or her or it as lottery manager . (4) The Board may refuse a certificate to an applicant under this section, if in the opinion of the Board - (a) a person who would be likely to manage or in any other way control the business or any part of the business of managing lotteries under the certificate is not a fit and proper person to do so; (b) a person for whose benefit the business would be likely to be carried on, is not a fit and proper person to benefit from it; (c) any information given by the applicant to the Board in or in connection with the application is false in a material respect; (d) the applicant does not have the appropriate knowledge, experience or resources available to manage the lottery ; (e) in the past the applicant acted in any way which caused harm or could have caused harm to - (i) any lottery which he or she was conducting; (ii) the benevolent society on whose behalf he or she was conducting a lottery ; or (iii) the integrity of lotteries in general; or (f) the applicant fails to meet any requirement as prescribed. (5) If the Board refuses to grant a certificate, the Board must notify the applicant in writing of the refusal and the grounds for such refusal. (6) If the Board grants a certificate, the holder of the certificate must in writing inform the Board of any change to the information supplied to the Board in terms of subsection (1) at least seven days before that change comes into effect. (7) A person who is aggrieved by the decision of the Board made under any provision of this Part may in the prescribed form and manner and within the prescribed period appeal to the Minister against the decision. (8) After receipt of an appeal lodged under subsection (7), the Minister must consider the appeal having regard to the circumstances of the case, and make a decision which is just and appropriate, and in making such decision the Minister may - (a) confirm the appeal; (b) vary the decision of the Board ; (c) remit the matter to the Board for reconsideration; or (d) dismiss the appeal."
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "Part 8",
+      "section": "67",
+      "title": "Conditions of certificate",
+      "content": "Subject to section 68, a certificate referred to in section 66 must, contain conditions aimed at - [The comma after the word “must” is superfluous.] (a) protecting the interests of any benevolent society , institution or person on behalf of which the holder of the certificate might conduct a lottery , including the provision of security; (b) protecting the interests of participants in any lottery to be conducted by the holder of the certificate; and (c) ensuring proper management of a lottery by the holder of the certificate."
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "Part 8",
+      "section": "68",
+      "title": "Variation of conditions of certificate",
+      "content": "(1) The Board may, after giving the certificate holder an opportunity to be heard, vary any condition in a certificate. (2) If the Board varies a condition under this section, the Board must give notice in writing of the variation to the certificate holder at the physical address furnished by the certificate holder in terms of section 66(1)(c). (3) The variation of a condition takes effect on a date stipulated in the notice contemplated in subsection (2)."
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "Part 8",
+      "section": "69",
+      "title": "Period of validity of certificate",
+      "content": "(1) A certificate is valid for a maximum period of three years, unless cancelled by the Board during that period. (2) A certificate may be renewed for a further period of three years on application to the Board for such renewal. (3) An application for renewal must comply with section 66 and the Board may grant the application if it is satisfied that the applicant has complied with and meets the requirements of that section."
+    },
+    {
+      "provision_ref": "s70",
+      "chapter": "Part 8",
+      "section": "70",
+      "title": "Cancellation of certificate",
+      "content": "(1) The Board may cancel a certificate contemplated in section 66 if the holder - (a) is no longer a fit and proper person to manage or in any other way conduct any lottery , whether because of the commission of an act of insolvency, insolvency, liquidation, judicial management, incarceration in a prison or other institution or for any other valid reason; (b) allows any person or body to derive a benefit from a lottery contrary to the provisions of this Act; (c) gave information which was false in a material respect to the Board in connection with the application for the certificate; (d) contravenes or fails to comply with a condition in the certificate or a provision of this Act; or (e) is convicted of perjury or of any offence involving corruption or dishonesty. (2) If the Board is satisfied that grounds exist for the cancellation of a certificate contemplated in section 66, it must - (a) in writing notify the certificate holder of the existence of those grounds; and (b) call upon him or her to furnish reasons, within seven days, as to why the certificate should not be cancelled, failing which the certificate is deemed cancelled and ceases to be valid. (3) If the reasons contemplated in subsection (2) are not received by the Board within seven days, the Board must inform all benevolent societies, institutions or persons on whose behalf the certificate holder has conducted lotteries - (a) of the fact that the certificate granted to that certificate holder has ceased to be valid, and the date on which it so ceased to be valid; and (b) the grounds for cancellation enumerated in the notice to the certificate holder as contemplated in subsection (2). (4) If reasons are furnished by the certificate holder as contemplated in subsection (2), the Board may not cancel the certificate without having given due consideration to such reasons. (5) If the Board cancels a certificate under this section, the Board must give written notice of the cancellation and of the grounds for the cancellation to - (a) the certificate holder; and (b) all benevolent societies, institutions or persons on whose behalf the certificate holder is known to have conducted lotteries. (6) The cancellation of the certificate takes effect 21 days of receipt of the notice in terms of subsection (5) by the certificate holder."
+    },
+    {
+      "provision_ref": "s71",
+      "chapter": "Part 8",
+      "section": "71",
+      "title": "Control of lottery managers and audit",
+      "content": "Sections 62(2)(c) and (d), (3) to (5) and 63, subject to the necessary changes, apply to lottery managers and in such application a reference in those sections to a benevolent society is construed as a reference to a lottery manager . Part 9 – PROMOTIONAL COMPETITIONS"
+    },
+    {
+      "provision_ref": "s72",
+      "chapter": "Part 9",
+      "section": "72",
+      "title": "Promotional competitions",
+      "content": "(1) In this section - (a) “ participant ” means a person who enters, competes in or is otherwise eligible to win a promotional competition ; and (b) “ prize ”, includes a reward, gift, free good or service, price reduction or concession, enhancement of quantity or quality of goods or services, or other discounted or free thing. (2) A promotional competition is lawful if - (a) it is conducted in Namibia; (b) the consideration payable in respect of the purchase of goods or the use of services in respect of which that promotional competition is conducted is - (i) the price usually or ordinarily paid for such or similar goods or services without the opportunity of taking part in a promotional competition ; (ii) not increased by the opportunity to participate in that promotional competition ; or (iii) the only consideration payable for those goods or services and includes consideration for the right to compete; (c) the opportunity of participating in the promotional competition is not the only or the only substantial inducement to a person to purchase or use the goods or services to which the promotional competition relates; (d) the promotional competition is conducted in accordance with the regulations prescribed by the Minister in terms of subsection (3); (e) the promotional competition or any conduct under it is not substantially comparable to - (i) a business practice which is prohibited in terms of the Trade Practices Act, 1976 (Act No. 76 of 1976 ); or (ii) a restrictive practice which is prohibited in terms of the Competition Act, 2003 (Act No. 2 of 2003 ); (f) the Minister has not in terms of subsection (5) declared the promotional competition unlawful; (g) the goods or services manufactured, sold, supplied, distributed or delivered in connection with the right to participate in a promotional competition are usually or ordinarily manufactured, sold, supplied, distributed or delivered by the person for whose benefit the promotional competition is held; (h) where the promotional competition is held in association or jointly with or in support of another promotional competition or in respect of or for the benefit of more than one person, the maximum values or limits prescribed by the Minister in respect of the total value or number of prizes, the frequency, duration or number of promotional competitions or the geographical area in which promotional competitions may be held are not exceeded; and (i) the promotional competition is not substantially similar to any competition game or sports pool conducted by or on behalf of the State Lottery . (3) The Minister , after consultation with the Board , with due regard to the effect of promotional competitions on the State Lottery , lotteries incidental to an exempt entertainment and benevolent lotteries, must make regulations relating to - (a) promotional competitions in general; (b) a particular category of promotional competitions; (c) a particular category of persons conducting or in any way associated with a promotional competition ; or (d) the category of persons who may participate in a promotional competition or a category of promotional competitions. [Subsection (3) is reproduced here as it appears in the Government Gazette. However, with regard to paragraphs (b) and (c), it is not clear how the Minister can be required to make regulations relating to unspecified “particular categories” of competitions or persons. It may be that the word “must” was intended to be “may”. However, it should be noted that similar wording appears in section 54(2)(d) of the South African Lotteries Act 57 of 1997 .] (4) The regulations made under subsection (3) may include provisions in respect of - (a) the minimum age of a person who may participate in any particular competition or category of competitions; (b) the - (i) maximum value of prizes in a calendar year which may not exceed the prescribed amount; (ii) maximum number of prizes in a calendar year; (iii) nature of prizes; or (iv) the minimum value of prizes for the purposes of excluding the competition from being a promotional competition , which may be utilised in respect of a promotional competition or a specified number of such competitions by a person who or category of persons which conducts, promotes, organises or in any other way is associated with a promotional competition or such competitions; (c) subject to paragraph (b), the maximum value of prizes in a calendar year, which may not exceed N$1 000 000, the maximum number of prizes in a calendar year and the nature of prizes in respect of any specific promotional competition or category of promotional competitions; (d) notification to the Board of every promotional competition and the conditions and requirements, including the information required in respect of that notification and the payment of a fee to the Board in respect of the processing of that notification; (e) the frequency, duration and maximum number of promotional competitions to be run in a calendar year by a person who or category of persons who conducts, promotes, organises or in any other way is associated with a promotional competition ; [To be grammatically correct, the word “who” should be “which” in the phrase “category of persons who conducts…”.] (f) the geographical area in which a promotional competition or category of promotional competitions may be conducted, if such area is not the whole territory of Namibia; and (g) the conditions or circumstances under which the Board or any person designated by it may without consent of the person who conducts the promotional competition inspect any aspect, including any process or procedure, relating to a promotional competition , including the accounting procedures and the process of identifying the winner or winners of that promotional competition . (5) The Minister , on the recommendation of the Board , may declare a promotional competition to be unlawful by notice in the Gazette and any other media as the Minister may determine. (6) A person conducting a promotional competition which in terms of subsection (5) has been declared unlawful must - (a) immediately cease to conduct such competition; and (b) immediately instruct all his or her or its agents and any other person connected with that competition to immediately terminate any action connected with the conduct of that competition. (7) A person who fails to comply with subsection (6) or an instruction issued under that subsection commits an offence and is liable to a fine not exceeding N$40 000 or to imprisonment for a period not exceeding two years, or to both such fine and such imprisonment. Part 10 – OFFENCES IN RELATION TO LOTTERIES"
+    },
+    {
+      "provision_ref": "s73",
+      "chapter": "Part 10",
+      "section": "73",
+      "title": "Prohibition on unlawful lotteries and competitions",
+      "content": "(1) Unless authorised by or under this Act or any other law, a person may not conduct through any newspaper, broadcasting service or any other electronic device, or in connection with any trade or business or the sale of any article to the public - (a) any competition or lottery other than one authorised by or under this Act in which prizes are offered for forecasts of the result of either - (i) a future event; or (ii) a past event, the result of which has not yet been ascertained or is not yet generally known; (b) any competition other than a promotional competition contemplated in section 72 in which success does not depend on a substantial degree of skill; or (c) any promotional competition which is the subject of a declaration contemplated in section 72(5). (2) A person who contravenes or fails to comply with subsection (1) commits an offence and is liable to a fine not exceeding N$100 000 or to imprisonment for a period not exceeding two years, or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s74",
+      "chapter": "Part 10",
+      "section": "74",
+      "title": "General offences",
+      "content": "(1) A person who - (a) participates in or conducts, facilitates, promotes or derives any benefit from a lottery , promotional competition or sports pool ; (b) conducts or organises, facilitates, promotes or derives any benefit from a lottery , promotional competition or sports pool ; or (c) conducts, organises, promotes, devises or manages any scheme, plan, competition, arrangement, system, game or device which directly or indirectly provides for betting, wagering, gambling or any other game of risk on the outcome of any lottery , unless such lottery , promotional competition or sports pool is or has been authorised by or under this Act or any other law, commits an offence and is liable to a fine not exceeding N$4 000 000 or to imprisonment for a period not exceeding 20 years, or to both such fine and such imprisonment. (2) A person who - (a) forges or in any other fraudulent way changes any ticket or any other document or thing pertaining to any lottery or promotional competition ; (b) knowingly sells or in any other way disposes of any forged ticket or any other document or thing pertaining to any lottery or promotional competition ; (c) with intent to defraud, alters any number or figure on any ticket or any other document or thing pertaining to any lottery or promotional competition ; (d) obtains any direct or indirect financial gain, which is not solely a share in the prize payout, by forming, conducting or in any other way promoting a syndicate for the purchase of a ticket ; or (e) influences or attempts to influence the winning of a prize through the use of coercion, fraud or deception, or through the tampering with lottery equipment, systems, software , data, tickets or material, commits an offence and is liable to a fine not exceeding N$500 000 or to imprisonment for a period not exceeding five years, or to both such fine and such imprisonment. (3) A person who sells any ticket for participation in the State Lottery , sports pool or a benevolent lottery - (a) to any person whom the seller knows is a minor ; (b) to any person at a price below the price fixed for tickets in the lottery in accordance with this Act; (c) to any person on credit or with financial assistance in any form issued by the seller; (d) at a price higher than that which is printed on the ticket ; (e) on condition that the seller of the ticket shares in the prize in the event of a ticket sold by him or her being the ticket in respect of which a prize is paid; or (f) on any condition not provided for in the rules of the lottery concerned, commits an offence and is liable to a fine not exceeding N$400 000 or to imprisonment for a period not exceeding four years, or to both such fine and such imprisonment. (4) A person who conducts or attempts to conduct a lottery for personal gain or for the benefit of any other individual commits an offence and is liable to a fine not exceeding N$2 000 000 or imprisonment for a period not exceeding 10 years, or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s75",
+      "chapter": "Part 10",
+      "section": "75",
+      "title": "Offences relating to State Lottery and sports pools",
+      "content": "(1) A person who - (a) advertises or offers the opportunity to participate in a lottery , promotional competition , competition or game of another description and who gives, by whatever means, a false indication that it is a lottery , competition or game forming part of, or is otherwise connected with, the State Lottery or sports pool licensed in terms of this Act; (b) with the intent to defraud, falsely makes, alters, forges, utters, passes or counterfeits a State Lottery ticket or sports pool ticket ; or (c) influences or attempts to influence the winning of a prize through the use of coercion, fraud or deception, or through tampering with lottery or sports pool equipment, systems, software , data, tickets or materials, commits an offence and is liable to a fine not exceeding N$200 000 or imprisonment for a period not exceeding 10 years, or to both such fine and such imprisonment. (2) A licensee , lottery manager or promoter or any other person who is in any way responsible for or involved in the conduct of any lottery authorised in terms of this Act and who contravenes any condition imposed by or under this Act commits an offence and is liable to a fine not exceeding N$4 000 000 or to imprisonment for a period not exceeding 20 years, or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s76",
+      "chapter": "Part 10",
+      "section": "76",
+      "title": "Offences relating to minors",
+      "content": "(1) Subject to subsection (2), it is an offence to invite, cause or permit a minor to participate in a lottery . (2) The Minister may prescribe that subsection (1) does not apply in relation to a lottery or type of lottery as so prescribed. (3) In subsection (1) a reference to inviting a minor to participate includes, a reference to intentionally - [The comma after the word “includes” is superfluous.] (a) sending to the minor any document which advertises the lottery ; or (b) bringing to the attention of a minor information about lotteries with a view to encouraging the minor to participate. (4) If a document advertising a lottery is sent to a minor and that document gives the name or contact details of a person - (a) to whom payment may be made; or (b) from whom information about the lottery may be obtained, that person is treated as having committed the offence under subsection (1), unless that person proves that the document was sent without his or her consent or authority. (5) If information about a lottery is brought to the attention of a minor and that information includes the name or contact details of a person - (a) to whom payment may be made; or (b) from whom information about the lottery may be obtained, the person who brought the information to the attention of the minor is treated as having committed the offence under subsection (1) unless he or she proves that the information was brought to the attention of the minor - (i) without the consent or authority if such person; or (ii) as an incident of the information being brought to the attention of adult person and without a view to encouraging the minor to participate in a lottery . [The article “an” should appear before the phrase “adult person”.] (6) For purposes of subsections (4) and (5) “contact details” means - (a) a physical address or other location; (b) a telephone number; (c) an internet site; or (d) an email address."
+    },
+    {
+      "provision_ref": "s77",
+      "chapter": "Part 10",
+      "section": "77",
+      "title": "Forfeiture",
+      "content": "A court convicting a person for an offence referred to in this Act may declare any money, document or thing used in or in connection with the commission of the offence to be forfeited to the State. Part 11 – GENERAL PROVISIONS"
+    },
+    {
+      "provision_ref": "s78",
+      "chapter": "Part 11",
+      "section": "78",
+      "title": "Suspension of lottery licence and applications and issuing of electronic software lottery licence",
+      "content": "(1) Despite anything to the contrary contained in this Act or any other law, and in addition to the powers conferred on the Minister by or under this Act, the Minister may - (a) if he or she considers it appropriate, with the concurrence of the Board , temporarily suspend any applications for, or the grant of any lottery licence as contemplated in terms of this Act, by notice in the Gazette; or (b) apart from the specific lottery licences as contemplated in Parts 4, 6 and 7, and during the first three months as from the date of commencement of this Act, or at such other times as the Minister by notice in the Gazette decides, issue one licence for the conduct of an electronic software lottery as the Minister considers appropriate, but - (i) the licence may not exceed a period of 10 years; (ii) the licensee must guarantee a prize pool at a minimum of N$50 000 000 per lottery draw ; and (iii) the lottery must have a minimum of 12 draws in any calendar year, and the Minister is satisfied that the granting of the license will substantially yield economic benefit to the Trust Fund . (2) The Minister may impose further conditions on the licence contemplated in subsection (1)(b). (3) A license issued under subsection (1) is renewable on such terms and conditions as the Minister determines."
+    },
+    {
+      "provision_ref": "s79",
+      "chapter": "Part 11",
+      "section": "79",
+      "title": "Limitation of liability",
+      "content": "The Minister , Board , a member of the Board , the Chief Executive Officer , an employee of the Board or any person performing functions in terms of this Act is not personally liable for any act or omission done in good faith by the Minister , Board , member of the Board , Chief Executive Officer , employee or any person in the exercise or performance or purported exercise or performance of any power or function under or in terms of this Act, unless such act or omission is due to - (a) the gross negligence; or (b) the unlawful conduct, of the Minister , Board , member of the Board , Chief Executive Officer , employee or such person."
+    },
+    {
+      "provision_ref": "s80",
+      "chapter": "Part 11",
+      "section": "80",
+      "title": "Exclusion of liability in certain cases",
+      "content": "The settlement, in good faith, of any prize in the State Lottery , to whomever made, discharges the Government, the Minister , the Board and, where applicable, a licensee or any other person by whom the settlement was made, from liability in respect of such settlement."
+    },
+    {
+      "provision_ref": "s81",
+      "chapter": "Part 11",
+      "section": "81",
+      "title": "Delegation",
+      "content": "The Minister may delegate to the Permanent Secretary or any other staff member of the Ministry any power conferred upon the Minister by this Act, except the powers conferred by sections 5, 6, 15, 16 and 66 or any power conferred by this Act to make rules or regulations."
+    },
+    {
+      "provision_ref": "s82",
+      "chapter": "Part 11",
+      "section": "82",
+      "title": "Lottery debts enforceable",
+      "content": "A lottery debt lawfully incurred by a person in the course of any lottery or sports pool authorised in terms of this Act is, despite any law to the contrary, enforceable in a court of law."
+    },
+    {
+      "provision_ref": "s83",
+      "chapter": "Part 11",
+      "section": "83",
+      "title": "Complaints",
+      "content": "(1) A person who believes on reasonable grounds that there has been a contravention of this Act in respect of the conduct of any lottery or promotional competition may, in writing, complain to the Board specifying the particulars of the complaint. (2) The Board must, within 10 working days of receiving a complaint referred to in terms of subsection (1), investigate or cause the complaint to be investigated, and if it appears that a contravention has occurred, it must try to resolve the complaint. (3) If a contravention referred to in subsection (1) is on the part of - (a) the licensee or other person authorised to hold a lottery or competition, such licensee or person must resolve the cause of the complaint or give an assurance that satisfies the complainant that there will be no repetition of the cause of the complaint; or (b) any employee or other person, the licensee or other person referred to in paragraph (a) must seek to obtain from that employee or other person an assurance that satisfies the licensee or person concerned that there will be no repetition of the cause of the complaint. (4) A complainant is entitled to be present at any meeting called by the Board for the purpose of resolving the complaint and avoiding future causes of complaint."
+    },
+    {
+      "provision_ref": "s84",
+      "chapter": "Part 11",
+      "section": "84",
+      "title": "Liquidation",
+      "content": "The Board may not be placed into liquidation, except by or under the authority of an Act of Parliament."
+    },
+    {
+      "provision_ref": "s85",
+      "chapter": "Part 11",
+      "section": "85",
+      "title": "Regulations",
+      "content": "(1) The Minister may make regulations relating to - (a) the manner in which an invitation for applications for a licence is advertised; (b) the manner in which an application for a licence is made and submitted; (c) the procedures to be followed by the Board for the consideration of applications for a licence ; (d) the terms and conditions applicable to a licence ; (e) the information and documents to be submitted to the Board by a licensee in relation to the conduct of the State Lottery and payments to be made to the Trust Fund in terms of section 36(b); (f) the records, accounts and financial statements which are kept by a licensee and the auditing thereof; (g) the powers of the Board or any designated person to enter any premises or facilities and to carry out investigations necessary for ensuring compliance with this Act or a licence and for the protection of the integrity of the State Lottery ; (h) the manner in which an application is made for authorisation to conduct a benevolent lottery ; (i) the manner in which allocations from the Trust Fund may be made; and (j) any other matter which is required or permitted by this Act to be prescribed or which the Minister considers necessary or expedient to prescribe to achieve the objects of this Act but which is not inconsistent with the powers of the Minister under this Act. (2) The Minister may, with the concurrence of the Board , make regulations relating to - (a) the conduct of the State Lottery or sports pools, including - (i) the minimum age of persons to whom or by whom tickets or chances may be sold; (ii) the persons or categories of persons who are disqualified from participation; (iii) the places where or circumstances or manner in which tickets or chances may be sold or persons may be invited to buy such tickets or chances; (iv) the circumstances under which lotteries and sports pools may be advertised and the information that is to appear in an advertisement for a lottery or sports pool ; (v) the places where or circumstances or manner in which signs relating to a lottery or sports pool may be displayed; (vi) the rules referred to in section 35(4)(g); (vii) application and licensing fees referred to in section 31(4); (viii) the percentages of the sums to be allocated in terms of section 44; and (ix) in general any other matter which may be necessary or expedient to prescribe in order to achieve or promote the objects of this Act but which is not inconsistent with the powers of the Minister under this Act; and (b) the conduct of lotteries incidental to exempt entertainments, private lotteries and benevolent lotteries, including - (i) the nature and requirements of any scheme contemplated in section 56(c); (ii) the persons or categories of persons to whom and by whom tickets or chances in a lottery may or may not be sold; (iii) the circumstances in which tickets or chances may be sold and persons may be invited to purchase tickets or chances; (iv) subject to section 76, the minimum age at which any person may buy a ticket or chance; (v) any information which must or may not appear on a ticket ; (vi) the manner in which a lottery may be advertised; (vii) the use of postal services in connection with lotteries; (viii) the matters in respect of which expenses in a lottery may be incurred; and (ix) in general, any other matter which may be necessary or expedient to prescribe in order to achieve or promote the objects of this Act but which is not inconsistent with the powers of the Minister under this Act. (3) A regulation made under this section may provide for offences and penalties which may not exceed a fine of $20 000 or imprisonment for a period not exceeding four years, or both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s86",
+      "chapter": "Part 11",
+      "section": "86",
+      "title": "Repeal of laws",
+      "content": "The Lotteries Act, 2002 (Act No. 15 of 2002 ) is repealed."
+    },
+    {
+      "provision_ref": "s87",
+      "chapter": "Part 11",
+      "section": "87",
+      "title": "Short title and commencement",
+      "content": "(1) This Act is called the Lotteries Act, 2017, and it comes into operation on a date determined by the Minister by notice in the Gazette. (2) The Minister , under subsection (1), may determine different dates for different sections. History of this document 01 December 2021 Commenced by Commencement of Lotteries Act, 2017 29 December 2017 this version Published in Government Gazette 6500 23 December 2017 Assented to Related documents Repeals Lotteries Act, 2002 Is commenced by Commencement of Lotteries Act, 2017 [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "benevolent lottery",
+      "definition": "a lottery contemplated in section 56",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Board",
+      "definition": "the Lotteries Board established by section 3",
+      "source_provision": "s1"
+    },
+    {
+      "term": "charitable expenditure",
+      "definition": "expenditure by any organisation or institution established for charitable, benevolent or philanthropic purposes, including friendly societies, welfare organisations and conduit organisations or trusts established in respect of any such organisation or institution",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Chief Executive Officer",
+      "definition": "the Chief Executive Officer of the Board appointed in terms of section 16",
+      "source_provision": "s1"
+    },
+    {
+      "term": "draw",
+      "definition": "a random determination of a combination of numbers to select the winning participants",
+      "source_provision": "s1"
+    },
+    {
+      "term": "electronic software lottery",
+      "definition": "a lottery through which participants electronically purchase tickets to stand a chance to win prizes which are predetermined in their sum total or otherwise determinable, and guaranteed by the licensee",
+      "source_provision": "s1"
+    },
+    {
+      "term": "inspector",
+      "definition": "a lottery inspector appointed in terms of section 19(1)",
+      "source_provision": "s1"
+    },
+    {
+      "term": "licence",
+      "definition": "a licence to conduct the State Lottery , or sports pool as contemplated in section 30(2), or a licence as contemplated in section 78(1)(b)",
+      "source_provision": "s1"
+    },
+    {
+      "term": "licensee",
+      "definition": "a holder of the licence for the State Lottery issued in terms of section 33 or a licensee as contemplated in section 78",
+      "source_provision": "s1"
+    },
+    {
+      "term": "lottery manager",
+      "definition": "a person who has been certified as such in terms of section 66(3) and is authorised to conduct a lottery on behalf of another person",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister responsible for lotteries",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Ministry",
+      "definition": "the Ministry administering lotteries",
+      "source_provision": "s1"
+    },
+    {
+      "term": "minor",
+      "definition": "a person who has not attained the age of 21",
+      "source_provision": "s1"
+    },
+    {
+      "term": "State Lottery",
+      "definition": "the State Lottery referred to in section 26 and includes a sports pool and all lotteries conducted for, and being part of, the State Lottery",
+      "source_provision": "s1"
+    },
+    {
+      "term": "National Welfare Act",
+      "definition": "the National Welfare Act, 1965 (Act No. 79 of 1965 )",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Permanent Secretary",
+      "definition": "the Permanent Secretary of the Ministry",
+      "source_provision": "s1"
+    },
+    {
+      "term": "political office bearer",
+      "definition": "- (a) a member of Parliament",
+      "source_provision": "s1"
+    },
+    {
+      "term": "prescribe",
+      "definition": "prescribe by regulation",
+      "source_provision": "s1"
+    },
+    {
+      "term": "private lottery",
+      "definition": "a lottery in Namibia which is conducted in accordance with section 55",
+      "source_provision": "s1"
+    },
+    {
+      "term": "promoter",
+      "definition": "a person who directly or indirectly promotes, sponsors, organises or conducts a benevolent lottery , promotional competition or sports pool , or for whose benefit such a lottery , competition or sports pool is promoted, sponsored, organised or conducted",
+      "source_provision": "s1"
+    },
+    {
+      "term": "promotional competition",
+      "definition": "any competition, game, scheme, arrangement, system, plan or device for distributing prizes by lot or chance, if - (a) it is conducted in the ordinary course of business for the purpose of promoting a producer, distributor, supplier, or association of any such persons, or the sale of any goods or services",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Public Enterprises Governance Act",
+      "definition": "the Public Enterprises Governance Act, 2006 (Act No. 2 of 2006 )",
+      "source_provision": "s1"
+    },
+    {
+      "term": "software",
+      "definition": "a set of instructions fixed or stored in any manner and which, when used directly or indirectly in a computer, directs its operation to bring about a result",
+      "source_provision": "s1"
+    },
+    {
+      "term": "sporting event",
+      "definition": "any football, rugby, cricket, golf or tennis match, any boxing, wrestling, shooting or swimming contest, any foot, cycle, motor, boat or horse race, and any other lawful sporting contest, competition, tournament or game usually attended by the public",
+      "source_provision": "s1"
+    },
+    {
+      "term": "sports pool",
+      "definition": "any scheme, excluding a scheme or competition in respect of horse racing which is authorised by the Board , or which is conducted in the same format and manner and under the same circumstances as a scheme or competition in respect of horse racing that existed prior to the commencement of this Act, under which - (a) any person is invited or undertakes to forecast the result of any series or combination of sporting events in competition with other participants",
+      "source_provision": "s1"
+    },
+    {
+      "term": "staff member",
+      "definition": "a staff member as defined in section 1 of the Public Service Act, 1995 (Act No. 13 of 1995 )",
+      "source_provision": "s1"
+    },
+    {
+      "term": "subscription",
+      "definition": "the payment, or delivery of any money, goods, article, matter or thing, including any ticket , coupon or entry form, for the right to compete in a lottery",
+      "source_provision": "s1"
+    },
+    {
+      "term": "this Act,",
+      "definition": "regulations made under this Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Trust Fund",
+      "definition": "the State Lottery Trust Fund established by section 41.",
+      "source_provision": "s1"
+    }
+  ]
+}

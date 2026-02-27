@@ -1,0 +1,595 @@
+{
+  "id": "na-act-gn-2016-210",
+  "type": "statute",
+  "title": "Biosafety Regulations, 2016",
+  "title_en": "Biosafety Regulations, 2016",
+  "short_name": "Biosafety Regulations, 2016",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/gn/2016/210/eng@2017-11-15",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part 1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "(1) In these regulations, unless the context otherwise indicates, a word or expression to which a meaning is assigned in the Act has the same meaning, and- “ accident ” means any incident involving a significant and unintended release of a GMO, in the course of its contained use, which is likely to have a significant immediate or delayed adverse effect on the environment or the conservation and sustainable use of biological diversity, taking also into account risks to human and animal health, and “accidental release” and “unintentional release” have corresponding meanings; “ applicant ” means the applicant for a permit or certificate under these regulations; “ application ” means an application for a permit or certificate as contemplated in these regulations; “ business operator ” means a person who places on the market genetically modified food or feed directly to the public irrespective of whether such person holds a permit or not; “ carrier ” means any form of transport which can be used to move a GMO or GMO product; “ certificate ” means a certificate of registration of a facility contemplated in section 27 of the Act ; “ certificate holder ” means the holder of a certificate issued under the Act or these regulations; “ commercially confidential information ” means any information declared to be commercially confidential information under section 43 of the Act . “ containment level ” means the containment levels developed by the Council as anticipated in regulation 22; “ Environmental Impact Assessment Regulations ” means the Environmental Impact Assessment Regulations, 2012, issued under the Environmental Management Act and published in Government Gazette No 4878 of 6 February 2012, Government Notice 30 of 6 February 2012; [The italics are reproduced as in the Government Gazette .] “ Environmental Management Act ” means the Environmental Management Act, 2007 (Act No. 7 of 2007 ); “ environmental release ” means an intentional introduction into the environment of a GMO in accordance with these regulations and “release into the environment” or “released into the environment” has a corresponding meaning; “ feed ” means any substance or product, including but not limited to additives, whether processed, partially processed or unprocessed, intended to be used for oral feeding to animals; field trial” means any experimental field trial of a GMO - (a) performed under terms, conditions and circumstances which mitigate the impacts, establishment and spread of the GMO on the surrounding environment; and (b) which is conducted under conditions known to prevent - (i) pollen- or seed-mediated dissemination of the GMO into and within the environment; (ii) the persistence in the environment of the GMO or its progeny; and (iii) the introduction of the GMO into the human food or livestock pathways; [The opening quotation marks are missing in the Government Gazette .] “ food ” means any substance or product, whether processed, partially processed or unprocessed intended to be, or reasonably expected to be, ingested by humans and includes drink, chewing gum and any substance, including but not limited to water, intentionally incorporated into the food during its manufacture, preparation or treatment; “ genetic modification ” has the meaning assigned to “genetically modified” in the Act ; “ genetically modified feed ” means feed containing, consisting of or produced from a GMO ; “ genetically modified food ” means food containing, consisting of or produced from a GMO ; “ guideline ” means a guideline issued by the Council under the Act ; “ handling ” means loading, unloading, packaging or unpackaging a GMO or a GMO product in a means of containment for the purposes of, in the course of or following transportation and includes storing such GMO or GMO product in the course of transportation and “handle” or “handled” has a corresponding meaning; “ import ” means to bring or cause to bring into Namibia from a place outside Namibia by land, sea or air; “ introduce into the environment ” includes an environmental release and any other intentional or unintentional introduction into the environment and “environmental introduction” has a corresponding meaning; “ micro-organism ” means any microbiological entity, cellular or non-cellular, capable of replication or of transferring genetic material, including but not limited to viruses and viroid in cell culture; “ owner ”, in relation to a facility, means the relevant permit holder or, in the event of there not being a permit holder , the owner of the establishment to which the contained use activities taking place in the facility relate; “ placing on the market ” means the holding of food or feed for the purpose of sale, including offering for sale, or any other form of transfer, whether free of charge or not, and the sale, distribution and other forms of transfer from one person to another and “place on the market” or “placed on the market” has a corresponding meaning; “ premises ” include any aircraft, vessel, vehicle or other structure used to conduct a GMO activity; “ permit holder ” means the holder of a permit issued under the Act and these regulations; “ produced from a GMO ” means a substance or product derived from or by means of or using, in whole or in part, a GMO but where the substance or product itself does not contain, or consist of, a GMO; “ raw agricultural commodity ” means any product or commodity which is raw and not processed, excluding water, salt and additives, and which is intended for human or animal consumption; “ risk assessment report ” means a risk assessment report as contemplated in section 23 of the Act ; “ risk management plan ” means a risk management plan as contemplated in section 23 of the Act ; “ storage ” includes holding or keeping of a GMO or GMO product without undertaking any other activity with regard to the GMO or GMO product and “store” has a corresponding meaning; “ the Act ” means the Biosafety Act, 2006 (Act No. 7 of 2006 ); “ transport ” means the movement of a GMO or GMO product into, within and in transit through Namibia; “ transport document ” means a record that relates to a GMO or GMO product being handled, transported or stored and that describes or contains information relating to the GMO or GMO product and includes an electronic record of the information; “ transporter ” means a person who sends or receives and transports a GMO or GMO product by means of a carrier into, within or in transit through Namibia. (2) For purposes of the Act and these regulations, the assessment report under the Environmental Impact Assessment Regulations forms part of the risk assessment, the risk assessment report and the risk management plan ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part 1",
+      "section": "2",
+      "title": "Exemptions relating to genetically modified food and feed",
+      "content": "(1) A placing on the market permit for genetically modified food or feed is not required in the event where the genetically modified food or feed involved is not intended for consumption by humans or animals. (2) Where a permit has been issued under these regulations for a GMO to be used in the production, manufacturing or processing of food or feed the food or feed containing, consisting of or produced from such GMO is exempted from requiring a permit under these regulations."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part 1",
+      "section": "3",
+      "title": "Granting of exemptions by Council",
+      "content": "(1) The Council is authorised, as anticipated in section 21(b) of the Act , to grant exemptions from the Act or these regulations, or from any part thereof- (a) to any person or class of persons; or (b) in relation to any GMO or GMO product or any class of GMO or GMO product, to which the Act and these regulations apply. (2) The Council may grant the exemptions contemplated in subregulation (1) under the following circumstances- (a) where such exemption, in the opinion of the Council, will not have an unreasonable negative impact on, or pose a risk to, the health and safety of humans or animals or for the environment; (b) with due consideration given by the Council to the interest of consumers and public generally and the consumer’s and public’s specific interest in being able to make informed decisions and choices and form views as regards GMOs and GMO products; (c) prior notification of such exemption and the full details thereof were given by the Council in at least two newspapers distributed widely in Namibia; and (d) written notification of such intended exemption was given to the Minister prior to the notification thereof in the newspapers. (3) The Council may impose such conditions as the Council thinks fit with regard to any exemption granted under section 21 of the Act and this regulation. (4) Once an exemption is granted, the Council must- (a) publish the exemption and the full details thereof in the Gazette as well as on the Biosafety Clearing House website in accordance to the Protocol; and (b) record the full particulars thereof in the register as contemplated in section 39 of the Act ."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part 1",
+      "section": "4",
+      "title": "Referencing to data or results from other applications",
+      "content": "An applicant may, in making an application , refer to data or results from an application previously given by another applicant provided that the data or results are not commercially confidential information or, in the event of such data or results being commercially confidential information , such other applicant has consented in writing to such reference and a copy of such consent is included in the application ."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part 1",
+      "section": "5",
+      "title": "Guidelines as permit or certificate conditions",
+      "content": "The Minister may upon recommendation of the Council, by means of conditions in a permit or permit or certificate , determine that the compliance with any technical or procedural guideline issued by the Council under the Act , by a permit or certificate holder , is compulsory. Part 2 – PLACING ON THE MARKET OF GENETICALLY MODIFIED FOOD AND FEED"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part 2",
+      "section": "6",
+      "title": "Application for placing on market permit",
+      "content": "(1) An application for a permit to- (a) place on the market genetically modified food or feed ; (b) import , handle, develop, process, produce, package, label, transport , market or store genetically modified food or feed for purposes of placing such genetically modified food or feed on the market, must be submitted to the Registrar in the form determined by the Council, hereafter referred to as “a placing on the market permit”. (2) The Council may determine different application forms for the different activities set out in subregulation (1) and for different GMOs or GMO products involved in such activities. (3) An application for a placing on the market permit must contain the information as specified by the Council on the relevant form contemplated in subregulation (1). (4) An application for a placing on the market permit must be accompanied by the relevant application fee as set out in Annexure 4 which fee is non-refundable. (5) An application for a placing on the market permit must be accompanied- (a) by the emergency response plan set out in regulation 50; (b) if so required by the Council, by a risk assessment and the risk management plan and risk assessment report that comply with Annexure 3. (6) Where a genetically modified food or feed to which this Part applies is likely to be used for both food and feed purposes, a permit may not be granted for only food or only feed use and in such event the permit must be granted for both food and feed use and the applicant must fulfill the requirements relating to both genetically modified food and feed ."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part 2",
+      "section": "7",
+      "title": "Advertisement of permit application for placing on market",
+      "content": "(1) An applicant must advertise an application for a placing on the market permit as contemplated in section 22(4) of the Act and the advertisement must be under a clearly marked heading stating “Advertisement of Application for Permit to Place on the Market Genetically Modified Food or Feed”. (2) The advertisement must contain the following particulars- (a) information on the identity of the applicant as follows- (i) in the case of a natural person, the full name, identity document number and nationality of the person; (ii) in the case of a body corporate, the country of registration and the registration number of the body corporate; (iii) in the case of a body or authority created by law, the name of such body or authority and the name of the law which created such body or authority; (iv) the postal and business address, telephone and facsimile numbers and email address of the applicant and, in the event of the applicant having a website, the web address; (b) the description of the genetically modified food or feed proposed to be placed on the market; (c) the type of placing on the market activity or activities to which the application relates as contemplated in regulation 6(1); (d) confirmation that an application was submitted to the Registrar and the date on which the application was submitted; (e) a list of all information submitted together with the application to the Registrar and the physical address and business hours of the Registrar where such application and such information (in so far as the information is not commercially confidential) can be inspected by any interested person; (f) an invitation for written submissions in relation to the application to be lodged with the Registrar as well as the closing date of such submissions which closing date must be at least 30 consecutive days after the date of the last publication of the advertisement in the newspapers; and (g) such other information as the Council may determine to be included in the advertisement."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part 2",
+      "section": "8",
+      "title": "Issue of placing on market permit",
+      "content": "(1) A placing on the market permit is issued in such form as the Council may determine and the Council may determine different permit forms for different types of placing on the market activities or different GMOs or GMO products involved, and upon payment of the issue fee set out in Annexure 4. (2) The placing on the market permit must specify- (a) the name of the permit holder and identity document number or body corporate registration number; (b) the genetically modified food or feed involved as well as a description of the relevant GMO or GMO product; (c) the relevant placing on the market activity or activities as anticipated in regulation 7(1) namely: placing on the market , importing, handling , developing, processing, producing, packaging, labelling, transporting, marketing or storing for purposes of placing such genetically modified food or feed on the market; (d) the conditions imposed by the minister, if any [There should be a semicolon after the phrase “if any”; there are no additional words in paragraph (d).] (e) the period of validity of the permit; (f) such additional information as the Council may determine."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part 2",
+      "section": "9",
+      "title": "Duration of placing on market permit and renewal",
+      "content": "(1) Unless specifically granted for a shorter or longer period by the Minister and indicated as such on the placing on the market permit, a placing on the market permit is valid for a period of one year and may be renewed upon application . (2) The holder of a placing on the market permit must, upon the renewal thereof, pay the annual renewal fee set out in Annexure 4. (3) Where a placing on the market permit holder desires to renew the placing on the market permit, such permit holder must apply for such renewal within the time frame determined by the Council for a renewal application . (4) The application for the renewal of a placing on the market permit must be made to the Registrar in such form as the Council determines and must be accompanied by- (a) a certified copy of the placing on the market permit which is being renewed; (b) a report on the results of the monitoring, if monitoring is required under these regulations or the placing on the market permit; (c) any new information which has become available since the placing on the market permit was issued with regard to the evaluation of the safety of the relevant GMO or GMO product in relation to the activity or activities authorised under the placing on the market permit relating to the genetically modified food or feed and the risks of such food or feed to humans, animals or the environment; (d) where deemed appropriate, a proposal for amending or complementing the conditions of the placing on the market permit, including but not limited to the conditions concerning future monitoring; and (e) such additional information as the Council may require."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part 2",
+      "section": "10",
+      "title": "Additional information relating to placing on market not regarded as commercially confidential information",
+      "content": "The following information relating to placing on market applications and permits is not regarded as confidential for purposes of section 43(5)(f) of the Act - (a) the physical, chemical and biological characteristics of the genetically modified food or feed ; (b) the effects of the genetically modified food or feed on the health and safety of humans and animals and on the environment; (c) if applicable, the effects of the genetically modified food or feed on the characteristics of animal products and their nutritional properties; (d) the methods for detection, including sampling and identification of the transformation event and, where applicable, for the detection and identification of the transformation event in the genetically modified food or feed ; and (e) the emergency plan and safety measures in the event of an accidental or unintentional release."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part 2",
+      "section": "11",
+      "title": "Requirements relating to transport document for placing on market of genetically modified food or feed",
+      "content": "(1) The holder of a placing on the market permit and, if not the permit holder , any other person transporting genetically modified food or feed for purposes of placing such food or feed on the market, must ensure that every consignment of genetically modified food or feed being transported by such person into, within or in transit through Namibia is accompanied by a transport document which contains the information set out in the placing on the market permit conditions, these regulations and Annexure 1 and for this purpose the Council may determine the format of such transport document in which case the transport document must be substantially in the same format. (2) The information contained on every transport document must be easy to identify, legible, in indelible print and in English. (3) The holder of a placing on the market permit and, if not the permit holder , any other person transporting genetically modified food or feed for purposes of placing such food or feed on the market, must ensure that the transport document accompanying a consignment is appropriately protected from outside elements and is securely attached, at all times, to or near the means of containment containing the genetically modified food or feed , at a readily identifiable and accessible location, when the genetically modified food or feed is in transport . (4) When genetically modified food or feed in transport is left in a supervised area- (a) the person in charge of the supervised area is considered to have taken possession of the genetically modified food or feed ; and (b) the transporter must leave a copy of the transport documents with the person in charge of the supervised area, who, in turn, must keep the document and give it to the next person who takes possession of the genetically modified food or feed . (5) The holder of a placing on the market permit and, if not the permit holder , any other person transporting genetically modified food or feed for purposes of placing such food or feed on the market, must keep a copy, which may constitute an electronic copy, of a transport document for a period of at least five years subsequent to the date on which the transport document was generated. (6) A person who contravenes or fails to comply with subregulation (1), (3) or (5) commits offence and is liable to a fine not exceeding N$8 000 or to imprisonment for a period not exceeding two years, or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part 2",
+      "section": "12",
+      "title": "Labelling requirements for purposes of transportation of genetically modified food or feed",
+      "content": "(1) A placing on the market permit holder , or any other person transporting genetically modified food or feed for purposes of placing such food or feed on the market, must ensure that the consignment as well as the outermost container in which genetically modified food or feed is being transported in is labelled with the words “contains genetically modified organisms or genetically modified organism products” or “product or commodity created with a GMO”. (2) A person who contravenes or fails to comply with subregulation (1) commits an offence and is liable to a fine not exceeding N$8 000 or to imprisonment for a period not exceeding two years, or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part 2",
+      "section": "13",
+      "title": "Electronic tracking of genetically modified food and feed in transit through Namibia",
+      "content": "Where genetically modified food or feed is in transit through Namibia, the Council may cause the consignment to be fitted with an electronic tracking device to enable the Council to verify that the genetically modified food or feed is transported from the port of entry to the port of exit without any release."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part 2",
+      "section": "14",
+      "title": "Inspection and verification of genetically modified food and feed upon entry into Namibia",
+      "content": "(1) A placing on the market permit holder , or any other person importing genetically modified food or feed for purposes of placing such food or feed on the market, must report the arrival of any consignment of genetically modified food or feed , destined for placing on the market in Namibia, in such form and manner as the Council may determine, and apply for inspection and verification thereof as set out in this regulation. (2) An application for inspection must be made in writing, in such form and manner as the Council may determine, and delivered to the Registrar and must be accompanied by the relevant fee set out in Annexure 4. (3) Unless exempted, no person may import into Namibia genetically modified food or feed without such genetically modified food or feed having been inspected and verified as contemplated in this regulation. (4) Unless otherwise determined by the Council, the Council must inspect or caused to be inspected genetically modified food or feed imported into Namibia at the point of entry and verify that the consignment complies with the requirements set out in these regulations and the Act . (5) If the Council deems it appropriate, Council may carry out or caused to be carried out the inspection at the final destination of the genetically modified food or feed . (6) A person who contravenes or fails to comply with subregulation (1) or (3) commits an offence and is liable to a fine not exceeding N$8 000 or to imprisonment for a period not exceeding two years, or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part 2",
+      "section": "15",
+      "title": "Unintentional or accidental release of genetically modified food or feed",
+      "content": "It is a condition of a placing on the market permit that, in the event of an unintentional or accidental release of a genetically modified food or feed , the person in possession of the genetically modified food or feed at the time of the unintentional or accidental release, in the event of such person not being the placing on the market permit holder , must make an immediate report of such release to the placing on the market permit holder ."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part 2",
+      "section": "16",
+      "title": "Labelling requirements relating to genetically modified food or feed",
+      "content": "(1) Every holder of a placing on the market permit must ensure that the genetically modified food or feed is labelled as follows- (a) in the case of a separately or individually packaged raw agricultural commodity , that the permit holder labels the commodity, when offered for sale, in such packaging, with the visible and legible words stating “genetically modified” or “contains genetically modified ingredients”; (b) in the case of a raw agricultural commodity which is not separately or individually packaged, that the permit holder posts a label appearing on the retail store shelf or container on or in which the commodity is displayed for sale with the visible and legible words stating “genetically modified” or “produced through genetic modification ”; or (c) in the case of any processed genetically modified food or feed , where such processed food or feed is offered for sale packaged, that the package is labeled with the words “partially produced through genetic modification ”, “may have been produced through genetic modification ” or “produced through genetic modification ”. (2) A person may not label, advertise or in any other manner give out or pretend that a genetically modified food or feed is natural, naturally made or naturally grown or by means of any other words or pretence to a similar effect that would be misleading to consumers. (3) Any subsequent business operator who places on the market genetically modified food or feed must keep the labelling required under subregulation (1) intact or, in the event of such genetically modified food or feed being re-packaged by such business operator , must copy such labelling information on subsequent packaging applied by the relevant business operator . (4) This regulation and the requirements of this Part are not to be construed so as to require- (a) the listing or identification of any ingredient genetically modified; or (b) the placement of the words “genetically modified” immediately preceding any common name or primary product descriptor of a food or feed . (5) A person who contravenes or fails to comply with subregulation (1), (2) or (3) commits an offence and is liable to a fine not exceeding N$8 000 or to imprisonment for a period not exceeding two years, or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part 2",
+      "section": "17",
+      "title": "Exemptions to genetically modified food or feed labelling requirements",
+      "content": "The following food and feed are not subject to the labelling requirements set out in this Part- (a) food and feed consisting entirely of, or derived entirely from, a living organism which has not itself been produced through genetic modification regardless of whether the living organism was fed or injected with any food , drug, or other substance produced through genetic modification ; (b) any processed food and feed where the manufacturing process includes one or more processing aids or enzymes produced with through genetic modification ; (c) any processed food or feed including one or more substances produced through genetic modification , subject thereto that the genetically modified food or feed in the aggregate does not account for more than 0.9 percent of the processed food or feed or such other percentage or quantity as the Council may from time to time determine; (d) food , not packaged for retail sale, which is served, sold or otherwise provided in any restaurant or other food establishment, which is primarily engaged in the sale of food prepared and intended for immediate human consumption."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part 2",
+      "section": "18",
+      "title": "Measures to avoid the unintended presence of GMOs in genetically modified food or feed",
+      "content": "(1) Every person dealing with genetically modified food or feed must take such measures as are appropriate under circumstances to avoid the unintended presence or contamination of GMOs in other commodities or products. (2) The Council may gather and coordinate information and observe the developments regarding coexistence of GMOs and GMO products with non-GMO products and commodities and may, on the basis of the information and observations, develop guidelines on the coexistence of GMOs and GMO products with non-GMO products and commodities. (3) A person who contravenes or fails to comply with subregulation (1) commits an offence and is liable to a fine not exceeding N$8 000 or to imprisonment for a period not exceeding two years, or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part 2",
+      "section": "19",
+      "title": "Measures to be taken with regard to non-compliant genetically modified food or feed",
+      "content": "(1) A person who knows or has reason to believe that genetically modified food or feed imported, produced, processed, developed, manufactured, distributed, packaged, handled, labeled, transported, marketed, stored, placed on the market or used is not in compliance with the requirements of these regulations must- (a) forthwith inform the Registrar thereof; (b) in the event of such person being the holder of a placing on the market permit or business operator , forthwith commence steps to withdraw the non-compliant genetically modified food or feed in question from the market in the event where such food or feed has left the immediate control of such permit holder or business operator and, in writing, inform the Registrar of the action taken; (c) in the event of such person being the holder of a placing on the market permit or business operator , effectively and accurately inform consumers of the reason for such withdrawal and, if necessary, recall from the consumers such non-compliant genetically modified food and feed already supplied to them when other measures are not sufficient to achieve a high level of health protection. (2) A holder of a placing on the market permit or business operator responsible for retail or distribution activities which do not affect the packaging, labelling, safety or integrity of the genetically modified food or feed must, within the limits of such permit holder ’s or business operator ’s activities, initiate procedures to withdraw from the market the non-compliant genetically modified food or feed and must pass on the relevant information necessary to trace the non-compliant genetically modified food or feed and cooperate in the action taken by producers, processors, manufacturers and the Registrar. (3) Any person, with regard to genetically modified food or feed handled by or under control of such person- (a) must forthwith, in writing, inform the Registrar if such person knows or has reason to believe that genetically modified food or feed placed on the market may pose potential risks to, or have harmful consequences on, the health and safety of humans or animals or the environment; (b) must, in writing, inform the Registrar of all actions taken to manage, mitigate or prevent such risks or harmful consequences; (c) may not prevent or discourage any other person from cooperating with the Registrar or Council in order to manage, mitigate or prevent such potential risks and harmful consequences; (d) must, when requested thereto by the Registrar or Council, cooperate with the Registrar or Council in efforts undertaken to manage, mitigate or prevent potential risks and harmful consequences posed by genetically modified food or feed on the health and safety of humans or animals or the environment. (4) A person who contravenes or fails to comply with subregulation (1), (2) or (3) commits an offence and is liable to a fine not exceeding N$4 000 or to imprisonment for a period not exceeding one year, or to both such fine and such imprisonment. Part 3 – CONTAINED USE"
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part 3",
+      "section": "20",
+      "title": "Activities to be carried out in facility",
+      "content": "(1) The following activities, in relation to the contained use of a GMO, subject to the relevant containment level involved as anticipated in subregulation (2), are carried out in a registered facility- (a) development or production of a GMO; (b) processing of a GMO; (c) culturing of a GMO; (d) storage of a GMO; (e) destruction of a GMO; (f) disposal of a GMO; (g) research involving the physical presence of a GMO or any material or substance with a view to its genetic modification ; (h) the contained use or handling in any other way of a GMO which, by the nature thereof, takes place in a facility; and (i) if so required in terms of a permit condition. (2) The Council may, in accordance with the containment levels developed by the Council, exempt, subject to such conditions as the Council may deem appropriate, a class of activity specified in subregulation (1), from having to take place in a facility in the event where the containment level involved is of such a nature so as not to validate such activity taking place in a facility required to be registered under these regulations. (3) A person who contravenes or fails to comply with subregulation (1) commits an offence and is liable to a fine not exceeding N$8 000 or to imprisonment for a period not exceeding two years, or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part 3",
+      "section": "21",
+      "title": "Application for, and registration of, facility",
+      "content": "(1) An application for a certificate to register a facility is made by the owner thereof and submitted to the Registrar in the form determined by the Council. (2) An application for a certificate must be accompanied by the application fee set out in Annexure 4 which fee is non-refundable. (3) The application for a certificate must be accompanied by the information set out in Annexure 2. (4) An application for a certificate and the certificate may include more than one facility."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part 3",
+      "section": "22",
+      "title": "Requirements for facilities relating to containment level",
+      "content": "(1) Upon receipt of an application for a certificate , the Council must carry out or caused to be carried out an assessment to, among others, determine the appropriate containment level pertaining to containment for the activity to be carried out in the relevant facility. (2) In determining the containment level , the Council must take due consideration of- (a) accepted international practices and developments regarding identification of containment levels; (b) the design of the facility; (c) the equipment located or installed in the facility; (d) the procedures generally used within the facility; (e) the level of risk involved; and (f) any other matter the Council deems relevant. (3) No person may carry out an activity in a facility of a higher containment level than that for which a facility is registered or with regard to which exemption is granted. (4) Every owner of a facility, whether registered or not, must, with regard to activities undertaken in such facility, apply the general principles of good laboratory practice in accordance with guidelines issued with regard thereto by the Council. (5) A person who contravenes or fails to comply with subregulation (3) or (4) commits an offence and is liable to a fine not exceeding N$8 000 or to imprisonment for a period not exceeding two years, or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part 3",
+      "section": "23",
+      "title": "Issue of certificate",
+      "content": "(1) Where the Council is satisfied that a facility meets the requirements for registration, the Council may grant the application and the Registrar must issue a certificate for such facility. (2) The certificate is issued by the Registrar in such form as the Council determines and upon payment of the issue fee set out in Annexure 4. (3) The following conditions apply to a certificate - (a) if any information on the certificate changes, the holder of the certificate must apply for the variation of the certificate in the manner determined by the Council; and (b) such additional conditions as the Council may impose."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part 3",
+      "section": "24",
+      "title": "Renewal of certificate",
+      "content": "(1) Unless issued for a longer period by the Council and indicated as such on the certificate , a certificate is valid for 12 months. (2) The holder of a certificate must, upon the renewal of the certificate pay the annual renewal fee set out in Annexure 4."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part 3",
+      "section": "25",
+      "title": "Risk assessment of facility",
+      "content": "(1) Every owner of a facility, whether registered or not, must periodically, and as set out in the guidelines if such guidelines are issued by the Council, review the risk assessment and the containment measures applied by such owner , and the risk assessment must be reviewed forthwith if there is reason to believe that- (a) the containment measures applied are no longer adequate or the containment level assigned to the contained use is no longer correct; or (b) in light of new scientific or technical knowledge, the risk assessment is no longer appropriate. (2) Where the owner of a facility, whether registered or not, has reason to believe that containment measures applied to a contained use activity are no longer adequate, or that a containment level assigned to a contained use activity is no longer correct, or that a risk assessment carried out is no longer appropriate, such owner must- (a) immediately inform the Registrar in writing of the proposed review to be carried out in accordance with subregulation (3); and (b) immediately on the conclusion of the review, provide the Registrar with a risk assessment report and risk management plan on the outcome. (3) If, following a risk assessment review and consideration of the risk assessment report and risk management plan , the Council is not satisfied that the containment measures applied are adequate or that the containment level assigned is correct, the Council must- (a) undertake or cause to be undertaken an assessment review of the contained use activity; (b) require the owner of the facility to apply- (i) in the event of a registered facility, for a variation of the certificate ; or (ii) in the event of an exempted facility, for a certificate for such facility; and (c) vary the certificate in accordance with section 34(2) of the Act ."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part 3",
+      "section": "26",
+      "title": "Application for permit for contained use",
+      "content": "(1) An application for a permit involving the contained use of a GMO is submitted to the Registrar in the form determined by the Council. (2) The application must specify which of the following contained use activities are involved: use, development, production, processing, culture, storage , destruction, disposal, research, handling , packaging, labelling, identification, transport , storage , import and export of GMOs intended for contained use. (3) The Council may determine different forms for applications relating to different GMO contained use activities. (4) An application for a contained use permit must be accompanied by the relevant application fee as set out in Annexure 4 which fee is non-refundable. (5) An application for a contained use permit must- (a) be accompanied by the emergency response plan set out in regulation 50; (b) if so required by the Council, be accompanied by a risk assessment and the risk management plan and risk assessment report as that complies with Annexure 3; and (c) contain the information as specified by the Council on the relevant form contemplated in subregulation (1)."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part 3",
+      "section": "27",
+      "title": "Advertisement of permit application for contained use",
+      "content": "(1) An applicant must advertise an application for contained use as completed in section 22 (4) of the Act and the advertisement must be under a clearly marked heading stating “Advertisement of Application for Permit for Contained Use of a GMO”. (2) The advertisement must contain the following particulars- (a) Information on the identity of the applicant as follows- (i) in the case of a natural person, the full name, identity document number and nationality of the person; (ii) in the case of a body corporate, the country of registration and the registration number of the body corporate; (iii) in the case of a body or authority created by law, the name of such body or authority and the name of the law which created such body or authority; (iv) the postal and business address, telephone and facsimile numbers and email address of the applicant and, in the event of the applicant having a website, the web address; (b) the type of contained use activity or activities to which the application relates as contemplated in regulation 26(2); (c) a brief description of the GMO involved; (d) a brief description of the genetic modification techniques or technology involved in the proposed activity or activities and the purpose thereof, if applicable; (e) confirmation that an application was submitted to the Registrar and the date on which the application was submitted; (f) the place or, if application was made for the registration of a facility in which the contained use activity or activities are to be conducted, information as regards such place or facility as follows- (i) the location and type of place or facility; (ii) the applicable containment level ; (iii) the owner of the place or facility, in the event where the applicant for the contained use permit is not the owner of such place or facility; (g) a list of all information submitted together with the application to the Registrar and the physical address and business hours of the Registrar where such application and such information (in so far as the information is not commercially confidential) can be inspected by any interested person; (h) an invitation for written submissions in relation to the application to be lodged with the Registrar as well as the closing date of such submissions which closing date must be at least 30 consecutive days after the date of the last publication of the advertisement in the newspapers; and (i) such other information as the Council may determine to be included in the advertisement."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part 3",
+      "section": "28",
+      "title": "Issue of contained use permit",
+      "content": "(1) A contained use permit is issued by the Registrar in such form as the Council may determine and the Council may determine different permit forms for different types of contained use activities or different GMOs involved and upon payment of the issue fee set out in Annexure 4. (2) The contained use permit must specify - (a) the name of the permit holder and the identity document number or body corporate registration number; (b) the GMO involved; (c) the relevant contained use activity or activities as anticipated in regulation 26(2) namely: use, development, production, processing, culture, storage , destruction, disposal, research, handling , packaging, labelling, identification, transport , storage , import and export of GMOs intended for contained use; (d) the conditions imposed by Minister if any; (e) the period of validity of the permit; and (f) such additional information as the Council may determine."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part 3",
+      "section": "29",
+      "title": "Duration of contained use permit and renewal",
+      "content": "(1) Unless specifically granted for a shorter or longer period by the Minister and indicated as such on the contained use permit, a contained use permit is valid for the period of one year and may be renewed on application . (2) The holder of a contained use permit must, upon the renewal thereof, pay the annual renewal fee set out in Annexure 4. (3) Where a contained use permit holder desires to renew the contained use permit, such permit holder must apply for such renewal within the time frame determined by the Council for a renewal application . (4) The application for the renewal of a contained use permit must be made to the Registrar in such form as the Council determines and must be accompanied by- (a) a certified copy of the contained use permit which is being renewed; (b) a report on the results of the monitoring, if monitoring is required under the contained use permit; (c) any new information which has become available since the contained use permit was issued with regard to the evaluation of the safety of the relevant GMO in relation to the activity or activities authorised under the contained use permit relating to the risks posed to humans, animals or the environment; (d) where considered appropriate, a proposal for amending or complementing the conditions of the contained use permit, including but not limited to the conditions concerning future monitoring; and (e) such additional information as the Council may require."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part 3",
+      "section": "30",
+      "title": "Ensuring safety regarding contained use",
+      "content": "(1) A person carrying out an activity involving a contained use must ensure that all appropriate measures are taken to avoid harmful consequences to human or animal health or safety or to the environment. (2) A person who contravenes or fails to comply with subregulation (1) commits an offence and is liable to a fine not exceeding N$8 000 or to imprisonment for a period not exceeding two years, or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part 3",
+      "section": "31",
+      "title": "Requirements relating to transport documents for contained use",
+      "content": "(1) The holder of a contained use permit and, if not the permit holder , any other person transporting a GMO for purposes of contained use, must ensure that every consignment of GMOs being transported into, within or in transit through Namibia is accompanied by a transport document which contains the information set out in the contained use permit conditions, these regulations and Annexure 1 and for this purpose the Council may determine the format of such transport document in which case the transport document must be substantially in the same format. (2) The information contained on every transport document must be easy to identify, legible, in indelible print and in English. (3) The holder of a contained use permit and, if not the permit holder , any other person transporting a GMO for purposes of contained use, must ensure a transport document accompanying a consignment is appropriately protected from outside elements and is securely attached, at all times, to or near the means of containment containing the GMO, at a readily identifiable and accessible location when the GMO is in transport . (4) When a GMO in transport is left in a supervised area- (a) the person in charge of the supervised area is considered to have taken possession of the GMO or GMO product; and (b) the transporter must leave a copy of the transport documents with the person in charge of the supervised area, who, in turn, must keep the document and give it to the next person who takes possession of the GMO. (5) The holder of a contained use permit and, if not the permit holder , any other person transporting a GMO for purposes of contained use, must keep a copy, which may be an electronic copy, of a transport document for a period of at least five years subsequent to the date on which the transport document was generated. (6) A person who contravenes or fails to comply with subregulation (1), (3) or (5) commits an offence and is liable to a fine not exceeding N$8 000 or to imprisonment for a period not exceeding two years, or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part 3",
+      "section": "32",
+      "title": "Additional information relating to contained use not regarded as commercially confidential information",
+      "content": "The following information relating to contained use applications and permits is not regarded as confidential for purposes of section 43 of the Act : (a) the physical, chemical and biological characteristics of the GMO; (b) the effects of the GMO on the health and safety of humans and animals and on the environment; (c) the physical location of a facility or other place where contained use activities are conducted; (d) the risk assessment report and risk management plan ; and (e) the emergency plan and safety measures in the event of an accidental or unintentional release."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part 3",
+      "section": "33",
+      "title": "Disposal and destruction of GMOs involved in contained use",
+      "content": "(1) Every contained use permit holder must maintain an identification and separation system for the disposal or destruction of GMOs. (2) A contained use permit holder must ensure that any genetically modified material which is considered as waste is decontaminated, autoclaved or incinerated within the facility. (3) A person who contravenes or fails to comply with subregulation (1) or (2) commits an offence and is liable to a fine not exceeding N$8 000 or to imprisonment for a period not exceeding two years, or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part 3",
+      "section": "34",
+      "title": "Storage requirements for contained use",
+      "content": "(1) Every person carrying out a contained use activity must ensure- (a) that a GMO is stored, handled and dealt with in such manner as to preserve its identity, security and integrity, and to prevent it from being consumed by human beings or animals; (b) that access to the storage area or room at the facility where contained use activities are conducted is restricted to authorised personnel only; and (c) that every such storage area or room used for purposes of contained use is appropriately marked as an area where GMOs are stored. (2) A person who contravenes or fails to comply with subregulation (1) commits an offence and is liable to a fine not exceeding N$8 000 or to imprisonment for a period not exceeding two years, or to both such fine and such imprisonment. Part 4 – FIELD TRIALS AND ENVIRONMENTAL RELEASE"
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part 4",
+      "section": "35",
+      "title": "Application for field trial permit",
+      "content": "(1) An application for a field trial permit is submitted to the Registrar in the form determined by the Council and the Council may determine different application forms for different types of field trials or different GMOs involved. (2) An application for a field trial permit is accompanied by the relevant application fee set out in Annexure 4 which fee is non-refundable. (3) An application for a field trial permit is accompanied by - (a) the risk management plan and risk assessment report prepared in accordance with and containing the information set out in Annexure 3; (b) a detailed description of the geographic landscape of the field trial site and adjacent areas including - (i) the distance from urban, environmentally sensitive and other protected areas; (ii) proximity to populations of the same species as the GMO or GMOs involved and closely related species; (iii) indicating the presence of susceptible hosts; (iv) indicating the presence of non-target organisms, beneficial arthropods and endangered or threatened species taking into account the seasonal presence of these organisms particularly at times of migration and mating; (v) indicating the presence of populations of the organisms or closely related species which may be centres of genetic diversity; (vi) indicating the presence of potentially affected non-target organisms, beneficial organisms and endangered or threatened species in the field trial site buffer zone; (vii) a description of the buffer zone; and (viii) the protocols for surveillance for the presence of GMOs in the buffer zone; (c) information and test data relevant to identifying the phytosanitary risk including, wild populations of the recipient organism and closely related species; (d) a map of the site where the field trial is to be conducted indicating, among others, buffer zones and relevant adjacent areas including global positioning system coordinates; (e) a description of the confinement measures which will be applied to maximise reproductive isolation of GMOs from organisms of the same species which are not part of the field trial release and to prevent the establishment and spread of the GMO involved and interaction with the surrounding environment, including measures for - (i) physical confinement mechanisms including a description of physical security, access controls, personal protective equipment to be used and other security measures; (ii) biological confinement including a description of the biological confinement measures used and data demonstrating the effectiveness of these measures; (iii) temporal isolation including a description of the timing of the confined field trial release and how it is temporally isolated from sexually compatible species, host plant use or other intra- and inter-specific interactions which are of concern; (iv) geographic isolation including releasing the organism outside its natural habitat; and (v) site monitoring for timely removal and disposal of sexually compatible species; (f) the emergency response plan as set out in regulation 50; (g) the assessment report and environmental clearance certificate as anticipated under the Environmental Management Act ; and (h) such additional information as the Council may require."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part 4",
+      "section": "36",
+      "title": "Advertisement of permit application for field trial permit",
+      "content": "(1) An applicant for a field trial permit must advertise the application as required by section 22(4) of the Act and the advertisement must be under a clearly marked heading stating “Advertisement of Application for Permit for Field Trial relating to Genetically Modified Organism”. (2) The advertisement must contain - (a) information on the identity of the applicant as follows - (i) in the case of a natural person, the full name, identity document number and nationality of the person; (ii) in the case of a body corporate, the country of registration and the registration number of the body corporate; (iii) in the case of a body or authority created by law, the name of such body or authority and the name of the law which created such body or authority; (iv) the postal and business address, telephone and facsimile numbers and email address of the applicant and, in the event of the applicant having a website, the web address; (b) the description of the GMO to which the field trial relates; (c) confirmation that an application was submitted to the Registrar and the date on which the application was submitted; (d) the purpose of the proposed field trial; (e) a map showing the proposed location or locations where the applicant intends conduct the field trial subject thereto that the applicant may, instead of a map, include in such advertisement an accurate description in words of the area and, if necessary to clearly demarcate the area, the coordinates thereof in order to enable an interested person to clearly establish where such area is; (f) the period of time in which the proposed field trial is to be carried out, the anticipated commencement date or dates of the field trial and, if applicable, the duration thereof; (g) a list of all information submitted together with the application to the Registrar and the physical address and business hours of the Registrar where such application and such information, in so far as the information is not commercially confidential, can be inspected by any interested person; (h) an invitation for written submissions in relation to the application to be lodged with the Registrar as well as the closing date of such submissions which closing date must be at least 30 consecutive days after the date of the last publication of the advertisement in the newspapers; and (i) such other information as the Council may determine to be included in the advertisement."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part 4",
+      "section": "37",
+      "title": "Issue of field trial permit",
+      "content": "(1) A field trial permit is issued in such form as the Council may determine and the Council may determine different field trial permit forms for different types of field trials or different GMOs involved, and upon payment of the issue fee as set out in Annexure 4. (2) The field trial permit must specify - (a) the name of the permit holder and the identity document or body corporate registration number, as the case may be; (b) if applicable, the type of field trial authorized under the permit; (c) the relevant GMO involved; (d) the location or locations of the field trial; (e) the conditions imposed; (f) the period of validity of the field trial permit; and (g) such additional information as the Council may determine."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part 4",
+      "section": "38",
+      "title": "Duration of field trial permit and renewal",
+      "content": "(1) Unless specifically granted for a shorter or longer period by the Minister and indicated as such on the field trial permit, a field trial permit is valid for a period of 12 months and may be renewed upon application . (2) The holder of a field trial permit must, upon the renewal of the permit, pay the annual renewal fee set out in Annexure 4. (3) Where a field trial permit holder desires to renew the permit, such permit holder must apply for such renewal within the time frame determined by the Council for a renewal application . (4) The application for the renewal of a field trial permit is made to the Registrar in such form as the Council determines and is accompanied by - (a) a certified copy of the permit which is being renewed; (b) a report on the results of the monitoring, if monitoring is required under these regulations or the field trial permit; (c) any new information which has become available since the field trial permit was issued with regard to the risks posed to human and animal health and safety and the environment; (d) where deemed appropriate, a proposal for amending or complementing the conditions of the permit, including but not limited to the conditions concerning future monitoring; and (e) such additional information as the Council may require."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part 4",
+      "section": "39",
+      "title": "Risk assessment relating to field trials",
+      "content": "(1) In order to evaluate risks posed to the health and safety of humans and animals and the environment, whether direct or indirect or whether immediate or delayed, and related matters, by a field trial, an applicant for a field trial permit must, prior to submitting the application , undertake a risk assessment and draw up a risk assessment report and risk management plan in accordance with this regulation and Annexure 3. (2) In undertaking such risk assessment, the prospective applicant for a field trial permit must give particular attention to the risks to the health and safety of humans and animals and the environment posed by a field trial involving a GMO which contains one or more genes expressing resistance to antibiotics used in human or veterinary medicine. (3) For each field trial the risk assessment must address the - (a) site selection criteria which take into account, amongst others, the potential for interaction with wild populations of the organism and endangered species, adverse weather conditions, flood susceptibility, wind damage to confinement structures, breaches in security and other potentially adverse situations during the field trial; (b) technically justified methods to prevent contact and dissemination of viable GMOs at the field trial site by foraging animals, birds, vermin and the like; (c) technically justified methods for cleaning of equipment at the field trial site prior to removal thereof to another location to prevent dissemination of GMOs into the environment; (d) detection methods available and to be applied to distinguish the GMO from unmodified organisms; (e) identification, packaging and segregation measures which prevent or minimise the mixing, spillage and dissemination of GMOs during transit to and within and outside the area of the field trial except for the purposes of controlled rearing within the field trial site; (f) containment for storage of GMOs including all their life stages and reproductive cells; (g) monitoring tools such as molecular analysis, phenotypic identification and trapping to detect and identify escaped GMOs in the event of unintentional or accidental release; (h) demonstrating that a programme is in place which provides ongoing training in the implementation of the Act and these regulations; [Paragraph (h) is reproduced as it appears in the Government Gazette . There appears to be some error, as its wording does not fit with the introductory phrase of subregulation (3).] (i) contingency plans and risk management measures to be executed in the event of an unintentional or accidental release of a GMO during transport or from the field trial site; (j) devitalization protocols for GMOs and rearing media when they are no longer in use or authorised and means of devitalization may include, but are not limited to, dry heat, steam heat, freezing or chemical treatment; and (k) disposal protocols for GMOs and rearing media following devitalization."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part 4",
+      "section": "40",
+      "title": "Disposal of material from field trial",
+      "content": "(1) Every field trial permit holder must ensure that - (a) no harvested material or by-product from a field trial is used as food or feed ; (b) seed or other plant material from a field trial including border rows, which is not authorised by the Council to be retained for future research, is disposed of in an effective and appropriate manner including, disposal by dry heat, steam heat, incineration, deep burial, chemical treatment, crushing or burying on the trial site; and [The comma after the word “including” should appear after the word “manner” instead.] (c) no progeny from any field trial is retained for future planting or other use without a valid permit or other authorisation under the Act . (2) The Council may give such directives as the Council deems appropriate as regards the disposal of seed and other plant material contemplated in subregulation (1)(b) in order to ensure that such disposal is done in an effective and appropriate manner. (3) A person who contravenes or fails to comply with subregulation (1) commits an offence and is liable to a fine not exceeding N$8 000 or to imprisonment for a period not exceeding two years, or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part 4",
+      "section": "41",
+      "title": "Post-harvesting land use restriction and monitoring",
+      "content": "(1) The Council must determine a regime for post-harvesting land use restriction and monitoring for a GMO used in a field trial which regime may be general or specific for each field trial permit holder . (2) A post-harvesting regime determined by the Council must at least address - (a) the period during which such regime applies; (b) the monitoring of the area under restriction during the post-harvest period to ensure that any prohibited plants, including volunteers or sexually compatible species, are destroyed prior to flowering; (c) the prohibition of the planting or other propagation of plants of the same or a sexually compatible species, including volunteers to be planted or so propagated in the restricted area during the post-harvest period; and (d) the compatibilty of the land use of the restricted area with the requirements for the monitoring and removal of prohibited plants, including volunteers or sexually compatible species, and prohibiting the planting or other propagation of plants, including volunteers or sexually compatible species, which could interfere with monitoring."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part 4",
+      "section": "42",
+      "title": "Additional information relating to field trial and environmental release not regarded as commercially confidential information",
+      "content": "Information relating to the following matters is not to be regarded as confidential for purposes of section 43(5)(f) of the Act - (a) the location of the intended or actual field trial or environmental release ; (b) the intended use of each GMO involved which, according to the directives of the Council with regard thereto, can be either generally or specifically described; (c) the risk assessment report and risk management plan ; and (d) the emergency plan and safety measures in the event of an unintentional or accidental release."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part 4",
+      "section": "43",
+      "title": "General requirements applying to environmental release",
+      "content": "(1) Any person undertaking an environmental release , irrespective whether such person holds a permit or not for such environmental release , must take all appropriate measures to protect, manage the risks posed to, and avoid or mitigate adverse impact on, human and animal health and safety or the environment arising from the environmental release . (2) A person who contravenes or fails to comply with subregulation (1) commits an offence and is liable to a fine not exceeding N$8 000 or to imprisonment for a period not exceeding two years, or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part 4",
+      "section": "44",
+      "title": "Application for environmental release permit",
+      "content": "(1) An application for a permit for an environmental release must be submitted to the Registrar in the form determined by the Council and the Council may determine different application forms for different types or environmental releases of different GMOs involved. (2) An application for a permit for an environmental release is accompanied by the relevant application fee set out in Annexure 4 which fee is non-refundable. (3) An application for a permit for an environmental release is accompanied by - (a) the risk assessment report and risk management plan prepared in accordance with and containing the information set out in Annexure 3; (b) the assessment report and environmental clearance certificate as anticipated under the Environmental Management Act ; (c) a monitoring plan contained in the risk management plan in accordance with Annexure 3 which must include a proposal for a time period for the monitoring plan, which may vary from the anticipated duration period of the permit; (d) the emergency response plan as set out in regulation 50; and (e) such additional information as the Council may require."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part 4",
+      "section": "45",
+      "title": "Risk assessment report and risk management plan for environmental release",
+      "content": "(1) In order to evaluate risks posed to the health and safety of human beings and animals and the environment, whether direct or indirect or whether immediate or delayed, and related matters, by an environmental release , an applicant for an environmental release permit must, prior to submitting the application , undertake a risk assessment and draw up a risk assessment report and risk management plan in accordance with Annexure 3. (2) In undertaking such risk assessment, the applicant must give particular attention to the risks to the health and safety of humans and animals and the environment posed by the environmental release of a GMO."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part 4",
+      "section": "46",
+      "title": "Advertisement of permit application for environmental release permit",
+      "content": "(1) An applicant for an environmental release permit must advertise the application as contemplated in section 22(4) of the Act and the advertisement must be under a clearly marked heading stating “Advertisement of Application for Permit for Environmental Release of Genetically Modified Organism”. (2) The advertisement must contain - (a) information on the identity of the applicant as follows - (i) in the case of a natural person, the full name, identity document number and nationality of the person; (ii) in the case of a body corporate, the country of registration and the registration number of the body corporate; (iii) in the case of a body or authority created by law, the name of such body or authority and the name of the law which created such body or authority; (iv) the postal and business address, telephone and facsimile numbers and email address of the applicant and, in the event of the applicant having a website, the web address; (b) the description of the GMO proposed to be released into the environment; (c) the confirmation that an application was submitted to the Registrar and the date on which the application was submitted; (d) the purpose of the proposed release into the environment; (e) a map showing the proposed location or locations where the applicant intends to release the GMO or GMOs into the environment subject thereto that the applicant may, instead of a map, include in such advertisement an accurate description in words of the area and, if necessary to clearly demarcate the area, the coordinates thereof in order to enable an interested person to clearly establish where such area is; (f) the period of time in which the proposed release into the environment is to be carried out, the anticipated commencement date or dates of the environmental release and, if applicable, the duration thereof; (g) a list of all information submitted together with the application to the Registrar and the physical address and business hours of the Registrar where such application and such information, in so far as the information is not commercially confidential, can be inspected by any interested person; (h) an invitation for written submissions in relation to the application to be lodged with the Registrar as well as the closing date of such submissions which closing date must be at least 30 consecutive days after the date of the last publication of the advertisement in the newspapers; and (i) such other information as the Council may determine to be included in the advertisement."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part 4",
+      "section": "47",
+      "title": "Issue of environmental release permit",
+      "content": "(1) A permit for an environmental release is issued in such form as the Council may determine and the Council may determine different permit forms for different types of environmental releases or different GMOs involved, and upon payment of the issue fee as set out in Annexure 4. (2) The permit for an environmental release must specify - (a) the name of the permit holder and identity document number or body corporate registration number, as the case may be; (b) the relevant GMO to be released into the environment; (c) the location or locations of the environmental release and period or periods of release if applicable; (d) the conditions imposed imposed by the minister if any; [The word “imposed” is repeated in the Government Gazette as reproduced above.] (e) the period of validity of the permit; and (f) such additional information as the Council may determine."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part 4",
+      "section": "48",
+      "title": "Duration of environmental release permit and renewal",
+      "content": "(1) Unless specifically granted for a shorter or longer period by the Minister and indicated as such on the environmental release permit, an environmental release permit granted under these regulations is valid for a period of 12 months and may be renewed upon application . (2) The holder of a permit for an environmental release must, upon the renewal of the permit, pay the annual renewal fee set out in Annexure 4. (3) Where a permit holder desires to renew the environmental release permit, the permit holder must apply for such renewal within the time frame determined by the Council for a renewal application . (4) The application for the renewal of a permit for an environmental release is made to the Registrar in such form as the Council determines and is accompanied by - (a) a certified copy of the permit which is being renewed; (b) a report on the results of the monitoring, if monitoring required under these regulations or the environmental release permit; (c) any new information which has become available since the permit was issued with regard to the risks posed to human and animal health and safety and the environment; (d) where deemed appropriate, a proposal for amending or complementing the conditions of the permit, including but not limited to the conditions concerning future monitoring; and (e) such additional information as the Council may require. Part 5 – MISCELLANEOUS"
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part 5",
+      "section": "49",
+      "title": "Inspection of permit applications",
+      "content": "(1) Except in so far as information relating to an application for a permit is declared to be commercially confidential, an application for a permit and all information submitted by the applicant together with such an application are open for inspection by any interested person. (2) Interested persons may inspect a permit application and the information relating thereto, during office hours, in person at the offices of the Registrar and may request the Registrar to be provided with copies of the application and such information or parts thereof. (3) The Registrar may charge such persons for such copies in order to cover the reasonable costs involved in making the copies."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part 5",
+      "section": "50",
+      "title": "Emergency response plan",
+      "content": "(1) Unless exempted in writing by the Council, it is a condition of a permit that the permit holder must have an emergency response plan and the emergency response plan- (a) must be submitted to the Council when application is made for a permit; (b) must be approved by the Council; (c) forms part of the transport documents (if applicable); (d) must be reviewed, and updated if necessary, at regular intervals which intervals must be set out in the emergency response plan. (2) Unless exempted, an emergency response plan must be submitted together with an application for a permit in such form and manner as the Council may determine and must contain at least- (a) the name and postal and physical address of the applicant ; (b) the telephone number, including the area code and, if applicable, the electronic mailing address and facsimile number of the applicant ; (c) the type and size and means of containment use with regard to the GMO or GMO product to which the emergency response plan relates; (d) the geographical area covered by the emergency response plan; (e) the contact number, including the area code, to call to have the emergency response plan activated immediately; (f) a description of the emergency response capabilities available to the person in possession of the GMO or GMO product including the contact number of persons qualified to telephonically give technical advice about the GMO or GMO product involved; (g) the contact number of the person or persons qualified and available to give advice and assistance at the site of an emergency; (h) a list of the equipment which can be transported to and used at the site of an emergency; (i) a general description of the response actions capable of being taken at the site of an emergency; (j) a description of the transportation arrangements to bring specialised emergency response personnel and equipment to the site of an emergency; (k) a description of the communication systems which can be made available at the site of an emergency; (l) a potential accident assessment, including- (i) a general analysis of how an unintentional or accidental release could occur; (ii) a general description of the potential consequences of an unintentional or accidental release; and (iii) a description of the action expected to be taken in the event of an unintentional or accidental release; (m) a copy of any formal agreement with a third party for the provision of assistance; and (n) such additional information as the Council may require."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part 5",
+      "section": "51",
+      "title": "Conditions relating to accidents or accidental or unintentional release of GMO or GMO product",
+      "content": "(1) As a condition of a permit, a permit holder must, before the commencement of a placing on the market , contained use, field trial or environmental release activity, draw up and put in place such measures or plans which may mitigate any adverse effects that may arise from an accident or accidental or unintentional release caused by the activity, subject thereto that such measures or plan may form part of the emergency response plan. (2) In the event of an accident or accidental or unintentional release, the relevant permit holder must forthwith inform the Registrar of the accident or accidental or unintentional release as anticipated in section 41 of the Act by means a report as set out in subregulation (3). (3) The report on the accident or accidental or unintentional release must include as much of the following information as is known or ought reasonably have been known at the time of the accident or accidental or unintentional release of the relevant GMO or GMO product- [The phrase “ought reasonably have been known” should be “ought reasonably to have been known”.] (a) full and detailed information on the circumstances of the accident ; (b) a description of the GMO involved, including common, scientific and commercial names of the GMO and, in the event of a GMO product, similar information as regards the GMO which such GMO product contains, consists of or was produced from; (c) the quantity of the GMO or GMO product involved which- (i) if applicable, was in the means of containment before the accident or accidental or unintentional release; (ii) is known or suspected to have been involved in the accident or accidental or unintentional release; (d) any information necessary to assess the effects of the accident or accidental or unintentional release on the health and safety of humans or animals or on the environment; (e) full and detailed information as regards the measures taken by the permit holder ; (f) if applicable, a description of the condition and means of the containment involved including details as to whether the conditions of transport were normal when the means of containment failed or when the accident or accidental or unintentional release occurred; (g) the location of the accident or accidental or unintentional release; and (h) details as regards emergency services and other persons informed of the accident or accidental or unintentional release. (4) The permit holder must, if necessary, ensure that the relevant emergency services and persons likely to be affected thereby are informed of the accident or accidental or unintentional release and activate other relevant provisions of the permit holder ’s emergency response plan. (5) Where the Registrar is notified of an accident , the Registrar must- (a) collect, where possible, the information necessary for a full analysis of the accident or accidental or unintentional release and, where appropriate, make recommendations to avoid a similar accident or accidental or unintentional release in the future and to limit the effects of any such future accident or accidental or unintentional release; and (b) ensure that all appropriate measures necessary are taken by the permit holder . (6) As anticipated in section 41(3) of the Act , in the event of an accident or accidental or unintentional release, the Council may require the permit holder to defray or contribute towards any or all reasonable costs incurred, whether by the Council, the Government or any other institution or body, arising from such accident . (7) A person who contravenes or fails to comply with subregulation (2) or (4) commits an offence and is liable to a fine not exceeding N$8 000 or to imprisonment for a period not exceeding two years, or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part 5",
+      "section": "52",
+      "title": "Emergency measures regarding GMOs or GMO products",
+      "content": "(1) Where the Council is of the opinion that a GMO or GMO product may constitute a serious risk to health or safety of humans or animals or the environment, and that such risk cannot be managed satisfactorily by means of measures taken by the relevant permit holder , business operator or other responsible person, the Council, may take one or more of the following measures- (a) suspension of the relevant activity or use of the relevant GMO or GMO product; (b) determining special conditions as regards any dealing or activity relating to the relevant GMO or GMO product; (c) any other measure deemed appropriate by the Council. (2) The Council must monitor the emergency situation and measures taken and may confirm, amend, revoke or extend the measures contemplated in subregulation (1) subject thereto that the Council must- (a) give reasons for its decision under this regulation; (b) if considered to be in the public interest, give notice of the emergency situation and measures to be taken to the public in the manner if considered appropriate by the Council."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part 5",
+      "section": "53",
+      "title": "Duty of permit holder to inform the Council of certain information",
+      "content": "(1) It is a condition of a permit that, if after such a permit is granted, there is an unintended change to the placing on the market , contained use, environmental release or field trial, as the case may be, or risk assessment, risk management plan or risk assessment report , or new information relevant to the placing on the market , contained use, environmental release or field trial or risk assessment, risk management plan or risk assessment report , becomes available, which could have consequences for the risks to human and animal health and safety or the environment, the relevant permit holder must- (a) immediately take such measures as are reasonably necessary to protect human and animal health and safety and the environment; (b) inform the Council, via the Registrar, as anticipated in section 31(1)(b) of the Act , as soon as the unintended change is known or the new information becomes available; and (c) inform the Council, via the Registrar, as soon as possible of such further measures the permit holder took, or proposes to take, in relation to the unintended change or new information. (2) A person who contravenes or fails to comply with subregulation (1) commits an offence and is liable to a fine not exceeding N$8 000 or to imprisonment for a period not exceeding two years, or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part 5",
+      "section": "54",
+      "title": "Condition relating to measures to manage risk posed by permit activities to health and safety of humans or animals or to environment",
+      "content": "(1) The Council may review an activity authorised under a permit at any time with the permit holder if- (a) the Council is of the opinion that a circumstance or information exists validating such review; or (b) in the light of information which was not known to the Council previously, there is reason to believe that the risks posed by such activity to the safety and health of humans or animals or to the environment are altered to a significant degree. (2) As soon as is reasonably possible, after it has completed a review under this regulation, the Council may recommend to the Minister, subject to sections 33 (2) to (4), 35 and section 35(8) of the Act, to- (a) vary any permit or otherwise require the permit holder to modify the activities authorised under the permit; or (b) require the permit holder to suspend or terminate the relevant activity or activities."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part 5",
+      "section": "55",
+      "title": "General requirements relating to GMO and GMO product transportation containment and packing",
+      "content": "(1) A person may not handle, transport or store a GMO or GMO product in a means of containment unless the means of containment is designed, constructed, filled, closed, secured and maintained so that under normal conditions of transport , including handling , there will be no unintentional or accidental release into the environment of the GMO or GMO product that could cause harm to health and safety of humans or animals or to the environment. (2) A person handling , transporting or storing a GMO or GMO product for purposes of placing it on the market, contained use, field trials or environmental release must ensure that the GMO or GMO product is- (a) packed in such manner as to prevent the unintentional or accidental release of the GMO or GMO product into the environment; (b) labelled in the manner provided under the Act and these regulations; and (c) accompanied by documents which must bear such marks as will identify, if applicable, the sender, the receiver and the approved unique identification number or code. (3) A permit holder and person packing a GMO, if not the permit holder , for transportation must ensure that- (a) there is always an inner and an outer container, both of which must be impervious to spores and pollen; (b) the outer container is sealed and fracture proof in order to prevent any unintentional leakage of the contents. (4) If, with regard to a GMO, two or more inner containers are carried in the same outer container, the relevant permit holder or person packing the GMO must ensure that each inner container is separately packaged in shock-absorbent and fluid-absorbent material. (5) A permit holder and person packing a GMO, if not the permit holder , must ensure that, with regard to a GMO, the outer container is watertight, sealed and fracture proof and the like in order to prevent any unintentional leakage of the contents. (6) When putting a genetically modified animal in containment, the permit holder and person putting the genetically modified animal in containment, if not the permit holder , must ensure that such animal- (a) is always herded or led or otherwise controlled when not within physical containment but going between two authorised physical containment facilities, or between a transport vehicle and an authorised physical containment facility; (b) is supervised and adequately controlled to prevent its escape; and (c) the containment consists of either a cage or a container that ensures that the animal is not able to escape or come into contact with other animals outside the cage or container. (7) A person who contravenes or fails to comply with this regulation commits an offence and is liable to a fine not exceeding N$8 000 or to imprisonment for a period not exceeding two years, or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part 5",
+      "section": "56",
+      "title": "General labelling requirements relating to GMOs and GMO products",
+      "content": "(1) A person may not display a mark or any other display on a container containing a GMO or GMO product (including a container at a facility) if the mark or display is misleading as to the presence of a GMO or GMO product. (2) A person may not load or pack a GMO or GMO product for purposes of placing on the market , contained use, field trials or environmental release into container or an outermost larger or additional means of containment for transport unless the container and, if applicable, the outermost larger or additional means of containment displays on it the words “contains genetically modified organisms” or “contains genetically modified organism products”. (3) A person contemplated in subregulation (2) must ensure that- (a) the outermost container carrying the GMO or GMO product has visibly affixed to it, at all times, a label marking or displays the name including trading name if different from the registered name, postal and physical address and contact details of the permit holder responsible for the GMO or GMO product, so that the permit holder can be contacted should the container be lost, damaged or misdirected or where further information can be obtained about the GMO or GMO product; and (b) it has a unique identification bar code. (4) The size of a label to be placed on a container carrying a GMO or GMO product must be as specified by the Council. (5) A person contemplated in subregulation (2) must ensure that a genetically modified animal, while being transported- (a) is tagged or branded so as to identify the animal; and (b) the container displays a label in the English language with the words “contains a genetically modified organism”. (6) A person who contravenes or fails to comply with subregulation (1), (2), (3) or (5) commits an offence and is liable to a fine not exceeding N$8 000 or to imprisonment for a period not exceeding two years, or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part 5",
+      "section": "57",
+      "title": "Council’s power to request further information",
+      "content": "(1) Where the Minister requests the Council for additional information under section 25(2) of the Act , the Council may, if considered necessary, in turn, in writing, request the applicant of a permit to provide such further information within the time frame and in the format specified by the Council. (2) Where the Council requests further information from such an applicant , the Council must in its written request provide reasons therefor."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part 5",
+      "section": "58",
+      "title": "Notification relating to variation, suspension and cancellation",
+      "content": "If a permit or certificate is varied, suspended or cancelled in accordance with section 33 or 34 of the Act , respectively, the Council - (a) except with regard to an environmental release and field trial permit, may give notice of such variation, suspension or cancellation to any person, additional to the permit holder or certificate holder , or to the public in general in such manner as the Council considers appropriate; (b) with regard to an environmental release and field trial permit, must, as soon as is reasonably possible, give notice of such variation, suspension or cancellation to the general public in the manner considered most appropriate by the Council."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part 5",
+      "section": "59",
+      "title": "Duties of Council regarding suspension, cancellation or variation of permit",
+      "content": "(1) Where a permit to which these regulations relate is suspended, the Council may only reinstate the permit once the circumstance which resulted in the suspension of the permit has been satisfactorily addressed by the permit holder and only after such reinstatement may the permit holder continue with the activities authorised under the permit. (2) The Council may, if considered in the interest of the public, after receiving notice that the Minister has suspended, cancelled or varied a permit, publish a notice in at least two newspapers widely circulated in Namibia, to inform the public of such suspension, cancellation or variation"
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part 5",
+      "section": "60",
+      "title": "Register",
+      "content": "(1) The Council must, in the register referred to in section 39 of the Act , with regard to each application for a permit or a certificate under these regulations, record- (a) the name and the physical and postal address of the applicant ; (b) in the event of an application for a certificate , the name of the proposed facility, the type of facility and the physical location thereof including the activities to be undertaken at the facility; (c) a description of each GMO or GMO product involved; (d) the type of activity authorised under the permit or certificate ; (e) the date of receipt of the application ; (f) if the applicant was required to advertise the application , the date of publication of an advertisement by an applicant as well as a copy of the advertisement; (g) in the event of an application for a field trial permit or an environmental release , the physical location, including, where necessary, global positioning system coordinates, of the field trial or environmental release proposed in the application as well as the anticipated dates and duration of anticipated field trial or environmental release ; (h) the outcome of the decision of the Minister or the Council on the application ; (i) the submissions received, if any, and the name of the persons who lodged such submissions. (2) The Council must, in the register referred to in section 39 of the Act , with regard to a permit or certificate issued under these regulations, record- (a) the full application including all attached documents and other information as submitted by the applicant ; (b) if such report and plan are required under these regulations, the risk assessment report and risk management plan ; (c) any risk assessment or assessment report undertaken by the Council with regard to an application under these regulations and the conclusions reached with regard thereto; (d) if applicable, the emergency response plan; (e) if applicable, the monitoring plan; (f) in so far as provided to the Council, the results of the monitoring anticipated in paragraph (e); and (g) the emergency plan and safety measures anticipated in section 40 of the Act , if any. (3) Subregulations (1) and (2) do not apply to commercially confidential information . ANNEXURE 1 INFORMATION TO BE CONTAINED IN TRANSPORT DOCUMENTS 1. Every transport document to which these regulations apply must contain the following information- (a) Information that the GMO is intended for genetically modified food or feed or contained use and the type of activity or activities relevant to the placing on the market or contained use; (b) a description of the relevant GMO, including common, scientific and (if in use as such) commercial names of the GMO as well as the total quantity of GMO being transported; (c) instructions for safe handling, storage, transport and use; (d) risk category according to the risk category system determined by the Council, if any; (e) unique identification bar code; (f) the contact details where further information, including technical information, can be obtained in English by any person, including the contact details of the exporter and importer if applicable; (g) the approved emergency response plan; (h) the name and address of the place of business of the transporter; (i) the date of the transport document; (j) a copy of the relevant permit, if applicable; (k) the name and contact details of the person who is to receive the GMO; (l) the physical address to where the GMO is to be delivered; and (m) if the quantity of the GMO, or the number of containers in which the GMO is transported, changes during transport, the transporter must show such change on the transport document. 2. Item 1(a), (b), (f), (g), (h), (i), (j), (k) and (l) apply with the necessary changes to GMO products. ANNEXURE 2 INFORMATION REQUIRED, UNDER REGULATION 21(3), TO ACCOMPANY APPLICATION FOR CERTIFICATE TO REGISTER FACILITY Part 1 – INFORMATION REQUIRED WITH REGARD TO ALL CERTIFICATE APPLICATIONS SECTION A: DETAILS RELATING TO FACILITY AND CONTAINED USE ACTIVITIES 1. Full details of facility where the activity is to be conducted including postal and physical address and description of location facility 2. Personal details of person(s) responsible for the work relating to the activity including name of person(s) and qualifications 3. Description of the facility including the layout thereof and construction material 4. Details on waste management including the waste to be generated, their treatment, final form and destination 5. Accident prevention procedures and plans and emergency response plans 6. Safety of personnel procedures and plans 7. Risk assessment report and risk management plan 8. List of responsible personnel/persons including names, qualifications and responsibilities 9. The type of contained use activity or activities involved The above information must be provided with regard to each facility to which the application relates. SECTION B: DECLARATION Declaration by responsible person submitting application that information provided is factually correct and truthful. SECTION C: APPLICANT AND GMO INFORMATION 1. Name of applicant and postal, physical and email address 2. Relevant facility (if applicable) 3. The purpose of the genetic modification (brief description of proposed activities) and the containment levels involved 4. List of the GMO(s) involved or intended to be involved The above information must be provided with regard to each facility to which the application relates. PAR 2 – INFORMATION REQUIRED WITH REGARD TO APPLICATION FOR A CERTIFICATE FOR FIRST TIME USE OF FACILITY [The word “PART” is misspelt in the Government Gazette , as reproduced above.] SECTION A 1. The names of the persons responsible for supervision and safety and detailed information on their training and qualifications 2. The recipient, donor and/or parental micro-organism(s) used and, where applicable, the hostvector system(s) used 3. The source(s) and the intended function(s) of the genetic material(s) involved in the modification(s) 4. Identity and characteristics of the GMO 5. The purpose of the contained use including the expected results 6. Approximate culture volumes to be used 7. Description of the containment measures to be applied, including detailed containment information about waste management and the waste to be generated, their treatment, final form and destination 8. The information necessary for the Council to evaluate any emergency response plans, if required The above information must be provided with regard to each facility to which the application relates. SECTION B 1. The names of the persons responsible for supervision and safety and information on their training and qualifications 2. The recipient or parental micro-organism to be used 3. The host-vector system to be used (where applicable) 4. The source and intended function of the genetic material involved in the modification 5. Identity and characteristics of the GMO 6. The culture volumes to be used 7. Description of the containment measures to be applied, including information about waste management including the type and form of waste to be generated, their treatment, final form and destination 8. The purpose of the contained use including the expected results 9. Description of the parts of the premises 10. Information about accident prevention and emergency response plans, if any 11. Any specific hazards arising from the location of the premises 12. The preventive measures applied such as safety equipment, alarm systems and 13. Containment methods 14. Procedures and plans for verifying the continuing effectiveness of the containment measures 15. A description of information provided to workers 16. he information necessary for the competent authority to evaluate any emergency [The initial word “The” is misspelt in the Government Gazette , as reproduced above.] 17. Response plans if required 18. A copy of the risk assessment, risk management plan and risk assessment report The above information must be provided with regard to each facility to which the application relates. ANNEXURE 3 PRINCIPLES FOR RISK ASSESSMENT, RISK ASSESSMENT REPORT AND RISK MANAGEMENT PLAN Part 1 – OBJECTIVES AND PRINCIPLES 1. This Annexure 4 describes, in general terms, the objective to be achieved, the elements to be considered and the general principles and methodology to be followed in undertaking a risk assessment and preparing a risk management plan and risk assessment report required by these regulations. [Item 1 refers to “This Annexure 4”, but it is the first item of “Annexure 3”.] 2. It is an objective of a risk assessment under these regulations to, on a case-by-case basis, to identify and evaluate potential adverse effects of a GMO, either direct or indirect, immediate or delayed, on the health or safety of humans or animals or the environment. The risk assessment must be conducted with a view to identify the need for, and the extent of, a risk management plan and, if so, the most appropriate methods to be used. [The word “to” is repeated in the Government Gazette in the phrase “…to, on a case-by-case basis, to…”.] 3. A general principle for risk assessment is that an analysis of the cumulative long-term effects relevant to an introduction into the environment (including placing on the market) is to be carried out. 4. In accordance with the precautionary principle, the following general principles should be followed when performing the risk assessment: (a) Identified characteristics of the GMO and its use which have the potential to cause adverse effects should be compared to those presented by the non-modified organism from which it is derived and its use under corresponding situations; [The word “identified” at the beginning of paragraph (a) should not be capitalised.] (b) the risk assessment must be carried out in a scientifically sound and transparent manner based on available scientific and technical data; (c) the risk assessment must be carried out on a case-by-case basis, meaning that the required information may vary depending on the type of GMO concerned, its intended use and the potential receiving environment, taking into account, amongst others, GMOs already in the environment; (d) if new information on the GMO and its effects on the health or safety of humans or animals or the environment becomes available, the risk assessment may need to be re-addressed in order to determine whether - (i) the risk has changed; and (ii) there is a need for amending the risk management accordingly. Part 2 – INTERPRETATION 1. With a view to contributing to a common understanding of the terms “ direct ”, “indirect”, “immediate” and “delayed” when implementing this Annexure, without prejudice to further guidance in this respect and in particular as regards the extent to which indirect effects can and should be taken into account, these terms are described as follows: (a) “ direct effects ” refer to primary effects on the health or safety of humans or animals or the environment which are a result of the GMO itself and which do not occur through a causal chain of events; (b) “ indirect effects ” refer to effects on the health or safety of humans or animals or the environment occurring through a causal chain of events through mechanisms such as interactions with other organisms, transfer of genetic material or changes in use or management. Observations of indirect effects are likely to be delayed; (c) “ immediate effects ” refer to effects on the health or safety of humans or animals or the environment which are observed during the period of the introduction into the environment of the GMO. Immediate effects may be direct or indirect; (d) “ delayed effects ” refer to effects on the health or safety of humans or animals or the environment which may not be observed during the period of the introduction into the environment of the GMO but become apparent as a direct or indirect effect either at a later stage or aft"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "accident",
+      "definition": "any incident involving a significant and unintended release of a GMO, in the course of its contained use, which is likely to have a significant immediate or delayed adverse effect on the environment or the conservation and sustainable use of biological diversity, taking also into account risks to human and animal health, and “accidental release” and “unintentional release” have corresponding meanings",
+      "source_provision": "s1"
+    },
+    {
+      "term": "applicant",
+      "definition": "the applicant for a permit or certificate under these regulations",
+      "source_provision": "s1"
+    },
+    {
+      "term": "application",
+      "definition": "an application for a permit or certificate as contemplated in these regulations",
+      "source_provision": "s1"
+    },
+    {
+      "term": "business operator",
+      "definition": "a person who places on the market genetically modified food or feed directly to the public irrespective of whether such person holds a permit or not",
+      "source_provision": "s1"
+    },
+    {
+      "term": "carrier",
+      "definition": "any form of transport which can be used to move a GMO or GMO product",
+      "source_provision": "s1"
+    },
+    {
+      "term": "certificate",
+      "definition": "a certificate of registration of a facility contemplated in section 27 of the Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "certificate holder",
+      "definition": "the holder of a certificate issued under the Act or these regulations",
+      "source_provision": "s1"
+    },
+    {
+      "term": "commercially confidential information",
+      "definition": "any information declared to be commercially confidential information under section 43 of the Act . “ containment level ” means the containment levels developed by the Council as anticipated in regulation 22",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Environmental Impact Assessment Regulations",
+      "definition": "the Environmental Impact Assessment Regulations, 2012, issued under the Environmental Management Act and published in Government Gazette No 4878 of 6 February 2012, Government Notice 30 of 6 February 2012",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Environmental Management Act",
+      "definition": "the Environmental Management Act, 2007 (Act No. 7 of 2007 )",
+      "source_provision": "s1"
+    },
+    {
+      "term": "environmental release",
+      "definition": "an intentional introduction into the environment of a GMO in accordance with these regulations and “release into the environment” or “released into the environment” has a corresponding meaning",
+      "source_provision": "s1"
+    },
+    {
+      "term": "feed",
+      "definition": "any substance or product, including but not limited to additives, whether processed, partially processed or unprocessed, intended to be used for oral feeding to animals",
+      "source_provision": "s1"
+    },
+    {
+      "term": "food",
+      "definition": "any substance or product, whether processed, partially processed or unprocessed intended to be, or reasonably expected to be, ingested by humans and includes drink, chewing gum and any substance, including but not limited to water, intentionally incorporated into the food during its manufacture, preparation or treatment",
+      "source_provision": "s1"
+    },
+    {
+      "term": "genetic modification",
+      "definition": "assigned to “genetically modified” in the Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "genetically modified feed",
+      "definition": "feed containing, consisting of or produced from a GMO",
+      "source_provision": "s1"
+    },
+    {
+      "term": "genetically modified food",
+      "definition": "food containing, consisting of or produced from a GMO",
+      "source_provision": "s1"
+    },
+    {
+      "term": "guideline",
+      "definition": "a guideline issued by the Council under the Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "handling",
+      "definition": "loading, unloading, packaging or unpackaging a GMO or a GMO product in a means of containment for the purposes of, in the course of or following transportation and includes storing such GMO or GMO product in the course of transportation and “handle” or “handled” has a corresponding meaning",
+      "source_provision": "s1"
+    },
+    {
+      "term": "import",
+      "definition": "to bring or cause to bring into Namibia from a place outside Namibia by land, sea or air",
+      "source_provision": "s1"
+    },
+    {
+      "term": "introduce into the environment",
+      "definition": "an environmental release and any other intentional or unintentional introduction into the environment and “environmental introduction” has a corresponding meaning",
+      "source_provision": "s1"
+    },
+    {
+      "term": "micro-organism",
+      "definition": "any microbiological entity, cellular or non-cellular, capable of replication or of transferring genetic material, including but not limited to viruses and viroid in cell culture",
+      "source_provision": "s1"
+    },
+    {
+      "term": "placing on the market",
+      "definition": "the holding of food or feed for the purpose of sale, including offering for sale, or any other form of transfer, whether free of charge or not, and the sale, distribution and other forms of transfer from one person to another and “place on the market” or “placed on the market” has a corresponding meaning",
+      "source_provision": "s1"
+    },
+    {
+      "term": "permit holder",
+      "definition": "the holder of a permit issued under the Act and these regulations",
+      "source_provision": "s1"
+    },
+    {
+      "term": "produced from a GMO",
+      "definition": "a substance or product derived from or by means of or using, in whole or in part, a GMO but where the substance or product itself does not contain, or consist of, a GMO",
+      "source_provision": "s1"
+    },
+    {
+      "term": "raw agricultural commodity",
+      "definition": "any product or commodity which is raw and not processed, excluding water, salt and additives, and which is intended for human or animal consumption",
+      "source_provision": "s1"
+    },
+    {
+      "term": "risk assessment report",
+      "definition": "a risk assessment report as contemplated in section 23 of the Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "risk management plan",
+      "definition": "a risk management plan as contemplated in section 23 of the Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "storage",
+      "definition": "holding or keeping of a GMO or GMO product without undertaking any other activity with regard to the GMO or GMO product and “store” has a corresponding meaning",
+      "source_provision": "s1"
+    },
+    {
+      "term": "the Act",
+      "definition": "the Biosafety Act, 2006 (Act No. 7 of 2006 )",
+      "source_provision": "s1"
+    },
+    {
+      "term": "transport",
+      "definition": "the movement of a GMO or GMO product into, within and in transit through Namibia",
+      "source_provision": "s1"
+    },
+    {
+      "term": "transport document",
+      "definition": "a record that relates to a GMO or GMO product being handled, transported or stored and that describes or contains information relating to the GMO or GMO product and includes an electronic record of the information",
+      "source_provision": "s1"
+    },
+    {
+      "term": "transporter",
+      "definition": "a person who sends or receives and transports a GMO or GMO product by means of a carrier into, within or in transit through Namibia. (2) For purposes of the Act and these regulations, the assessment report under the Environmental Impact Assessment Regulations forms part of the risk assessment, the risk assessment report and the risk management plan .",
+      "source_provision": "s1"
+    }
+  ]
+}

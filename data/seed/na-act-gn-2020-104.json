@@ -1,0 +1,57 @@
+{
+  "id": "na-act-gn-2020-104",
+  "type": "statute",
+  "title": "Directive relating to Regional Councils and Local Authority Councils",
+  "title_en": "Directive relating to Regional Councils and Local Authority Councils",
+  "short_name": "Directive relating to Regio...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/gn/2020/104/eng@2020-04-21",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "In this directive a word or expression to which a meaning has been assigned in the State of Emergency - Covid-19 Regulations has that meaning, and unless the context otherwise indicates- \" local authority area \" means a local authority area as defined in section 1 of the Local Authorities Act, 1992 (Act No. 23 of 1992 ); \" local authority council \" means a local authority council as defined in section 1 of the Local Authorities Act, 1992 (Act No. 23 of 1992 ); \" potable water \" means water that is treated and safe to drink or to use for food preparation; \" region \" means a region as defined in section 1 of the Regional Council Act, 1992 ( Act No. 22 of 1992 ); \" regional council \" means a regional council as defined in section 1 of the Regional Council Act, 1992 (Act No. 22 of 1992 ); and \" the Regulations \" means the State of Emergency-COVID-19 Regulations published under Proclamation No. 9 of 28 March 2020."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Provision of potable water",
+      "content": "(1) Local authority councils must ensure that residents within its respective local authority areas- (a) with arrears and suspended water services have their water supply reconnected; and (b) with no access to water supply are provided with access to potable water . (2) Regional councils must ensure that the residents within the area of jurisdiction of the respective regional councils- (a) with arrears and suspended water services have their water supply reconnected; and (b) with no access to water supply are provided with access to potable water . (3) All costs incurred in supplying water, as directed in paragraph (1) and (2) and as a result ofthe lockdown, must accurately be recorded. (4) The costs referred to in paragraph (3) must be ring-fenced and kept separate from the normal operational water bills. History of this document 21 April 2020 this version Assented to Published in Government Gazette 7183 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "local authority area",
+      "definition": "a local authority area as defined in section 1 of the Local Authorities Act, 1992 (Act No. 23 of 1992 )",
+      "source_provision": "s1"
+    },
+    {
+      "term": "local authority council",
+      "definition": "a local authority council as defined in section 1 of the Local Authorities Act, 1992 (Act No. 23 of 1992 )",
+      "source_provision": "s1"
+    },
+    {
+      "term": "potable water",
+      "definition": "water that is treated and safe to drink or to use for food preparation",
+      "source_provision": "s1"
+    },
+    {
+      "term": "region",
+      "definition": "a region as defined in section 1 of the Regional Council Act, 1992 ( Act No. 22 of 1992 )",
+      "source_provision": "s1"
+    },
+    {
+      "term": "regional council",
+      "definition": "a regional council as defined in section 1 of the Regional Council Act, 1992 (Act No. 22 of 1992 )",
+      "source_provision": "s1"
+    },
+    {
+      "term": "the Regulations",
+      "definition": "the State of Emergency-COVID-19 Regulations published under Proclamation No. 9 of 28 March 2020.",
+      "source_provision": "s1"
+    }
+  ]
+}

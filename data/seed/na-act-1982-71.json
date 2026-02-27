@@ -1,0 +1,44 @@
+{
+  "id": "na-act-1982-71",
+  "type": "statute",
+  "title": "Demonstrations in or near Court Buildings Prohibition Act, 1982",
+  "title_en": "Demonstrations in or near Court Buildings Prohibition Act, 1982",
+  "short_name": "Demonstrations in or near C...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/1982/71/eng@1985-06-15",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "In this Act, unless the context otherwise indicates - ” demonstration ” means any demonstration by one or more persons for or against any person, cause, action or failure to take action, and which is connected with or coincides with any court proceedings or the proceedings at any inquest under the Inquests Act, 1959 (Act No. 58 of 1959 ); and “demonstrate” has a corresponding meaning; [The Inquests Act 58 of 1959 has been replaced by the Inquests Act 6 of 1993 .] “ gathering ” means any assembly, concourse or procession of any number of persons, relating to or arising out of any demonstration ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Prohibition of demonstrations and gatherings in or within a fixed distance from certain buildings",
+      "content": "(1) Subject to the provisions of subsection (2), all demonstrations and gatherings in any building in which a court-room is situated or at any place in the open air within a radius of five hundred metres from such building are hereby prohibited on every day of the week except Saturdays, Sundays and public holidays. (2) The provisions of subsection (1) shall not apply to any demonstration or gathering for which the magistrate of the district in which the demonstration or gathering takes place has granted permission in writing. (3) The provisions of section 7 of the Riotous Assemblies Act, 1956, shall, mutatis mutandis apply in connection with the dispersal and the manner of dispersal of any demonstration or gathering prohibited by this section. [Subsection (3) is amended by AG 29 of 1985. Section 7 of the Riotous Assemblies Act 17 of 1956 was repealed by the Public Gatherings Proclamation, AG 23 of 1989 (OG 5756).]"
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Offences and penalties",
+      "content": "Any person who - (a) convenes or organizes any demonstration or gathering prohibited by section 2 (1), or encourages, promotes or by means of force or threats causes the demonstration or gathering or attendance thereat or participation therein, or presides thereat or addresses it; (b) prints, publishes, distributes or in any manner whatsoever circulates a notice convening or organizing the proposed demonstration or gathering , or advertises or in any other manner makes known the proposed demonstration or gathering ; (c) attends or takes part in any demonstration or gathering so prohibited; or (d) demonstrates in contravention of the provisions of section 2 (1), shall be guilty of an offence and liable on conviction to a fine not exceeding one thousand rand or to imprisonment for a period not exceeding one year or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Short title and commencement",
+      "content": "This Act shall be called the Demonstrations in or near Court Buildings Prohibition Act, 1982. [Some of the words in section 4 (“and shall come into operation on a date fixed by the State President by proclamation in the Gazette ”) were not made applicable to South West Africa, in terms of section 1 of AG 29 of 1985. These words have therefore been deleted here.] History of this document 15 June 1985 this version Amended by Security Matters Proclamation, 1985 02 June 1982 Published in Government Gazette 8221 22 May 1982 Assented to Related documents Is amended by Security Matters Proclamation, 1985 Is commenced by Security Matters Proclamation, 1985 [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "gathering",
+      "definition": "any assembly, concourse or procession of any number of persons, relating to or arising out of any demonstration .",
+      "source_provision": "s1"
+    }
+  ]
+}

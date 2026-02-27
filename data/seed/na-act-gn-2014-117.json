@@ -1,0 +1,282 @@
+{
+  "id": "na-act-gn-2014-117",
+  "type": "statute",
+  "title": "Regulations relating to Use of Voting Machines at Elections: Electoral Act, 1992",
+  "title_en": "Regulations relating to Use of Voting Machines at Elections: Electoral Act, 1992",
+  "short_name": "Regulations relating to Use...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/gn/2014/117/eng@2017-11-15",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part 1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "In these regulations a word or an expression to which a meaning has been given in the Act has that meaning, and unless the context otherwise indicates- “ ballot button ” means a ballot button on the ballot section of the control unit which enables a voter to cast his or her vote after a ballot is released; “ ballot paper ” means a ballot paper referred to section 81(2) of the Act which is inserted and displayed on the ballot paper screen ; “ ballot unit ” means a unit of the voting machine which consists of- (a) an interconnecting cable; (b) ballot paper screen ; (c) fifteen candidate buttons and one register button ; (d) fifteen candidate lamps and one register lamp ; (e) slide switch window; and (f) a ready lamp; “ ballot paper screen ” means a screen on the ballot unit where a ballot paper is inserted and displayed on the ballot unit ; “ ballot section ” means a section of the control unit which consists of a ballot button and a total button ; “ candidate button ” means a green button on the ballot unit of the voting machine which a voter presses to select a candidate or party of his or her choice; “ candidate lamp ” means a lamp located between the ballot paper screen and candidate button and which lamp glows red when a voter presses the candidate button to select a candidate or party of his or her choice; “ candidate set button ” means a black button on the candidate set section of the control unit which sets the number of candidates or parties contesting in an election; “ candidate set section ” means a section on the control unit of the voting machine which consists of the power pack compartment and candidate set button ; “ Commission office ” means a place designated by the Commission as a Commission office for the purposes of these regulations; “ clear button ” means a clear button located on the result section of the control unit which clears the voting machine to show that there are no votes recorded in the voting machine ; “ close button ” means a close button on the result section of the control unit which closes the poll when pressed; “ control unit ” means a control unit of the voting machine that is operated by a polling officer which enables a voter to cast his or her vote and consists of a- (a) display section ; (b) candidate set section ; (c) result section ; and (d) ballot section ; “ display panel ” means a display panel on the display section of the control unit that displays- (a) the serial number of the control unit of the voting machine ; (b) the number of candidates or parties contesting in an election; (c) the status of the battery of the voting machine ; (d) the number of elections; (e) the results and date of the poll; (f) the starting time and date of the poll; (g) the ending time and date of the poll; and (h) any other information that may be displayed on the display panel; “ display section ” means the display section on the control unit of the voting machine which consists of a display panel , “on lamp” and “busy lamp”; “ manufacturer ” means Bharat Electronics Limited, an Indian company incorporated in terms of the laws of India; “ power pack compartment ” means the power pack compartment situated on the candidate set section where the battery is situated. [The definition of “power pack compartment” is inserted by GN 209/2014 . It should end with a semicolon rather than a full stop.] “ register button ” means a red register button on the ballot unit of the voting machine which a voter presses to cast his or her vote after selecting his or her candidate or party by pressing the candidate button corresponding to the candidate or party of his or her choice; “ register lamp ” means lamp on the left side of the register button that glows red when a voter presses the register button to cast his or her vote; “ result section ” means a section on the control unit of the voting machine which consists of a close button , result button , print button and clear button ; “ result button ” means the result button on the result section of the control unit which if pressed shows the total number of votes of a candidate or party in respect of the polling station in which a voting machine has been used; “ tabulator ” means a portable instrument designed by the manufacturer for the counting of the results of votes recorded on the control units of voting machines; “ the Act ” means the Electoral Act, 1992 (Act No. 24 of 1992 ); [The Electoral Act 24 of 1992 has been replaced by the Electoral Act 5 of 2014 .] “ total button ” means the total button on the ballot section of the control unit , which when pressed, shows- (a) the battery status; (b) current time and date; (c) the number of candidates or parties; and (d) the total number of votes recorded; “ voting machine ” means a portable voting machine designed by the manufacturer for registering, recording and counting of votes during an election. Part 2 – PREPARATION OF VOTING MACHINES BEFORE ELECTION"
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part 2",
+      "section": "2",
+      "title": "Voting machines",
+      "content": "A voting machine consists of a- (a) control unit ; and (b) ballot unit ."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part 2",
+      "section": "3",
+      "title": "Notification of political parties",
+      "content": "(1) The Commission must, at least three days before the commencement of an election, in writing, inform all the political parties who intend to contest in the upcoming election to be present during the processes referred to in regulations 4, 5 and 6. (2) The Commission must inform the political parties of the date, place and time when the processes referred to in regulations 4, 5 and 6 are to take place."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part 2",
+      "section": "4",
+      "title": "Checking of voting machines and tabulators at Commission office",
+      "content": "(1) The Commission must ensure that any voting machine and any tabulator to be used at an election is checked by a person designated by the manufacturer of the voting machine or tabulator or by a person appointed or designated by the Commission having expert knowledge on the operation of the voting machine or tabulator . (2) The purpose of the checking referred to in subregulation (1) is to ensure that any voting machine and any tabulator to be used at an election is in working order and that there is no faulty in any of the voting machines or any tabulators. (3) The process of the checking of the voting machines and tabulators is done prior to any election at the Commission office in the presence of election agents and any other person authorised by the Commission. (4) The manufacturer of the voting machine or the tabulator or a person appointed or designated under subregulation (1) must, during the process of the checking of the voting machine and tabulator , adjust the time of the voting machine and the tabulator to the time zone applicable at the time the election is held."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part 2",
+      "section": "5",
+      "title": "Preparation of ballot unit by returning officer at Commission office",
+      "content": "(1) A returning officer responsible for a constituency or local authority area must prepare the ballot unit of the voting machine at the Commission offices in the presence of the election agents and other persons authorised by the Commission. (2) The returning officer, in preparing the ballot unit referred to in subregulation (1), must- (a) open the carrying case of the ballot unit of the voting machine and remove the ballot unit , push the latch backwards and lift the cover; (b) ensure that a ballot unit is displayed in such a manner that the ballot unit is visible to all election agents present before he or she commences with the process of preparing the ballot unit of the voting machine ; (c) record the serial number of the ballot unit on Form 1 of the Annexure and allow election agents to verify the serial number of the ballot unit recorded on Form 1; (d) open the ballot paper screen by pushing the latch backwards and lifting the cover; (e) stamp the ballot paper to be inserted and displayed on the ballot paper screen with an official mark of the Commission; (f) insert the ballot paper in the ballot paper screen and ensure that the name of candidate or party corresponds with the candidate button ; (g) close the ballot paper screen and seal the ballot paper screen with the seal clip provided by the Commission; (h) sign the seal tag and record the clip seal number on Form 1 of the Annexure and allow the election agents who are present to sign the seal tag and verify the clip seal number recorded on Form 1; (i) unmask the “candidate buttons” corresponding with the number of candidates or parties on the ballot paper screen ; (j) unmask the “register” button; (k) set the slide switch located on the top right side of the ballot in accordance with subregulation (3); (l) close and seal the ballot unit cover; and (m) sign the seal tag of the ballot unit cover and record on Form 1 of the Annexure the seal number and allow the election agents who are present to sign the seal tag and verify the seal number recorded on Form 1. (3) The returning officer may connect more than one ballot unit to a single control unit if the candidates or parties partaking in an election are more than fifteen by setting the slide switch to the position marked “1” if a single ballot unit is used or to the position marked “2” if two ballot units are used and so on."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part 2",
+      "section": "6",
+      "title": "Preparation of control unit by returning officer at Commission office",
+      "content": "(1) A returning officer, after having completed the preparation of a ballot unit under regulation 5, must prepare the control unit of the voting machine at the Commission offices in the presence of the election agents and other persons authorised by the Commission. (2) The returning officer, in preparing the control unit referred to in subregulation (1) must- (a) connect the ballot unit to the control unit using the interconnecting cable; (b) switch on the control unit of the voting machine ; (c) record on Form 1 of the Annexure the serial number of the control unit ; (d) open the outer cover of the candidate set section on the control unit ; (e) open the inner cover of the candidate set section on the control unit ; and (f) press the candidate set button to configure the voting machine . (3) After a returning officer has completed the processes referred to in subregulation (2), the control unit of the voting machine requests the setting of the number of elections and the type of election to be held, and the returning officer must set the number of elections followed by the type of election by pressing- (a) the first candidate button on the ballot unit if it is a candidate election; or (b) the second candidate button on the ballot unit if it is a party election. (4) After having completed the processes referred to in subregulation (3) and the control unit of the voting machine has requested for the setting of the number of candidates or parties, the returning officer must set the number of candidates or parties by pressing the last unmasked button on the ballot unit . (5) After the returning officer has completed the settings referred to in subregulation (4), the display panel confirms the selection and displays “configuration completed”. (6) After performing the processes referred to in subregulations (2) to (5), the returning officer must- (a) close the inner cover of the candidate set section on the control unit and seal it; (b) record on Form 1 of the Annexure, the seal number of the clip seal and allow the election agents who are present to verify the seal number of the clip seal on Form 1; (c) close the outer cover of the candidate set section on the control unit and seal it; (d) sign the seal tag and record on Form 1 of the Annexure, the serial number and allow election agents who are present to sign the seal tag and verify the serial number recorded on Form 1; (e) place the control unit and ballot unit in their respective carrying cases; and (f) affix a seal to the carrying cases referred to in paragraph (e), sign the seal tag and record the seal number on Form 1 of the Annexure and allow the election agents who are present to affix their own seals and record the seal numbers of the seals affixed by election agents and the election agents must verify the seal numbers recorded on Form 1. (7) The returning officer must cause Form 1 where the seal numbers and serial numbers are recorded by him or her, in respect of a voting machine , to accompany the respective voting machine to the polling station where the voting machine is to be used and the Commission must keep copies of Form 1."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part 2",
+      "section": "7",
+      "title": "Preparation of voting machine by presiding officer at polling station",
+      "content": "(1) A presiding officer responsible for a polling station must in the presence of the election agents and other persons present at the polling station- (a) verify the seals on the carrying cases of the voting machine , using Form 1 referred to in regulation 6(7); (b) remove the ballot unit and the control unit from their carrying cases; (c) verify the seals and the serial numbers on the control unit and the ballot unit of the voting machine by using Form 1 referred to in regulation 6(7); (d) connect the ballot unit to the control unit and switch on the control unit ; (e) open the outer and inner cover of the “ result section ” of the control unit and press “ total button ” to indicate that there are no votes recorded on the voting machine and in the case where votes have been recorded on the voting machine , the presiding officer must press the “ clear button ” to clear any recorded votes; and (f) for the benefit of the election agents and other persons present at the polling station, conduct the processes referred to in regulations 8 and 9, irrespective of whether the election agents are present or not. (2) A returning officer must, in the case of voting in terms of section 80(2) of the Act , carry out the processes referred to in paragraphs (a) to (f)."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part 2",
+      "section": "8",
+      "title": "Clearing of voting machine at polling station",
+      "content": "(1) Before the commencement of the poll, a presiding officer in charge of the polling station must satisfy- (a) himself or herself; and (b) election agents and other persons present at the polling station, that the voting machine is in perfect working order and that the voting machine is cleared of any votes by carrying out the processes referred to in this regulation and regulation 9. (2) The presiding officer must- (a) open the outer cover of the result section of the control unit by pressing slightly inwards the latch provided on the left side of the control unit ; (b) after performing the process referred to in paragraph (a), open the inner cover of the result section of the control unit by inserting his or her thumb and a finger through the two apertures above the “ result button ” and “print button”; (c) then press the latches inside simultaneously slightly inwards and pull the door up; and (d) press the “ clear button ” on the compartment of the inner cover to show to election agents and other persons present at the polling station that all previous vote count in the control unit memory has been set to zero. (3) When the “ clear button ” is pressed under subregulation (2)(d), the “ display panel ” on the display section displays the following information in sequence, with every display followed by a beep sound- (a) number of candidates (cd) = number of candidates set; (b) total votes cast (to) = 0; (c) total votes per candidate = 0; and (d) End. (4) A voting machine is not cleared of any result if after pressing the “ clear button ” under subregulation 2(d) the “ display panel ” does not display the zero results. (5) In order to clear the voting machine , the presiding officer must- (a) ensure that the ballot unit and the control unit are connected to each other with the interconnecting cable; (b) press the “ close button ”; and (c) press the “ result button ”. (6) After performing the processes under subregulation (5), the display panel displays the information referred to in subregulation (3) and the display of zero votes on the display panel serves as proof to election agents and other persons present at the polling station that there are no votes are recorded in the voting machine ."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part 2",
+      "section": "9",
+      "title": "Pre-poll test of voting machine at polling station",
+      "content": "(1) After demonstrating that there are no votes recorded in the voting machine under regulation 8, the presiding officer must, before the commencement of any poll, conduct a prepoll test to ensure that all candidate buttons are functioning properly. (2) The presiding officer must conduct a pre-poll test referred to in subregulation (1)- (a) by pressing the “ ballot button ” on the ballot section of the control unit , and on pressing the “ ballot button ” the “busy light” on the display section of the control unit glows red and simultaneously, the “ready light” on the ballot unit starts glowing green; (b) by allowing each election agent present at the polling station to select his or her candidate or party which the election agent is representing by pressing the “ candidate button ” corresponding to the name of his or her candidate or party and pressing the “ register button ” to cast his or her vote; and (c) by repeating the processes referred to in paragraph (a) and (b) in respect of all election agents present at the polling station representing their political parties. (3) After the- (a) “ candidate button ” referred to in subregulation (2)(b) is pressed under that subregulation the candidate lamp next to the candidate button glows red to indicate that a candidate or party has been selected; and (b) “ register button ” referred to in (2)(b), is pressed under that subregulation the “ready light” on the ballot unit goes off and a beep sound is heard and the “busy light” on the display section on the control unit goes off indicating that a vote has been recorded and the voting machine is ready to be used by the next voter. (4) If an election agent for a certain political party participating in an election is not present at the polling station during the pre-poll test, the presiding officer must, on behalf of that election agent, perform the processes referred to in subregulation (2)(a) and (b) for the purposes of subregulation (1). (5) After each election agent present at the polling station has performed the processes referred to in subregulation (2), the presiding officer must press the “ close button ” to close the prepoll test and the display panel shows “poll closed”. (6) The presiding officer must, after closing the poll under subregulation (5), press the “ result button ” to show the result of the pre-poll test. (7) After the results of the pre-poll are shown under subregulation (6), the presiding officer must press the “ clear button ” to clear the votes recorded during the pre-poll test which process concludes the pre-poll test. (8) After the pre-poll test has been concluded under subregulation (7), the presiding officer must close and seal the inner and outer cover of the result section with a clip seal, record the clip seal numbers on Part A of Form 2 of the Annexure and allow election agents to verify the clip seal number recorded on Part A of Form 2. Part 3 – MANNER OF REGISTERING AND RECORDING OF VOTES"
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part 3",
+      "section": "10",
+      "title": "Voting procedure at polling stations",
+      "content": "(1) A polling officer must, after the verification process of voters as contemplated in section 82 of the Act has been completed, record on Form 3 of the Annexure the voter registration number and other information required to be recorded on Form 3. (2) After the processes referred to in subregulation (1) are completed, the polling officer responsible for the issuing of a ballot must- (a) press the “ ballot button ” on the ballot section on the control unit to issue the ballot and to activate the ballot unit situated in the voting booth; and (b) ensure that the “busy light” on the control unit glows red before instructing a voter to enter the voting booth. (3) When a voter enters a voting booth, he or she must select from the list of names of candidates or parties displayed on the ballot paper screen of the ballot unit by pressing the candidate button corresponding to the name of the candidate or party of his or her choice. (4) If a voter under subregulation (3) has mistakenly selected a candidate or party which is not of his or her choice, the voter must de-select the candidate or party by pressing the same candidate button pressed under that subregulation and re-select the candidate or party of his or her choice by pressing the candidate button next to the name of the candidate or party of his or her choice. (5) When a voter selects his or her candidate or party by pressing the candidate button corresponding to the name of the candidate or party of his or her choice, the candidate lamp next to the name of the candidate or party glows red. (6) If the voter is satisfied that the candidate or party that he or she has selected, under subregulation (3) or (4), is the one that he or she intend to cast a vote for, the voter must press the register button to cast his or her vote. (7) A “beep” sound is heard after the vote has been cast under subregulation (6), and if the voter leaves the voting booth before the “beep” sound is heard, the presiding officer must advise the voter to go back to the voting booth and cast his or her vote by pressing the “ register button ”. (8) If a voter decides not to cast his or her vote- (a) after the particulars of the voter has been recorded on Form 3 under subregulation (1); (b) after a ballot has been issued under subregulation (2)(a); (c) after being advised under subregulation (7) or after being assisted as contemplated in section 84 of the Act ; or (d) for any other reason, the presiding officer must, for the purposes of reconciling the total number of votes recorded on the voting machine and the total number of voters recorded on Form 3, instruct the polling officer referred to in subregulation (1) to endorse on Form 3 that the voter has not cast his or her vote. (9) After Form 3 has been endorsed under subregulation (8), the presiding officer must de-activate the ballot issued under subregulation (2)(a) in respect of a voter referred to in that subregulation by- (a) switching off the control unit of the voting machine ; and (b) switching on the control unit of the voting machine . (10) The presiding officer must after switching on the control unit of the voting machine under subregulation (9)(b), press the “ total button ” to obtain a total number of votes cast on the voting machine . (11) The total number of votes recorded on the voting machine under subregulation (10) must correspond with the total number of voters recorded on Form 3 as reconciled with the endorsement of voters that have not voted under subregulation (8) and the presiding officer must allow the election agents to verify the total number of votes recorded on the voting machine , as displayed on the display panel of the display section , against the total number of voters recorded on Form 3 before proceeding with the voting process for the next voter. (12) The presiding officer must inform the election agents the reason why the voting machine has to be switched off and on under subregulation (9) and why an endorsement has to be made on Form 3. (13) Election agents and accredited observers may observe how a polling officer operates the control unit of the voting machine to enable voters to cast their votes. (14) Where an election is held over a period of more than one day, the presiding officer must at the end of each day- (a) press the “ total button ” and record on Part B of Form 2 of the Annexure the total number of votes cast on each day; (b) seal the carrying cases of the ballot unit and control unit ; (c) allow election agents to place their seals to the carrying cases of the ballot unit and control unit ; (d) record on Part G of Form 2 the seal numbers affixed by him or her or by election agents to the carrying cases; and (e) allow election agents to verify the recording made by him or her. (15) After the voters have cast their votes in accordance with the provision of the Act , the poll is closed, and the counting of votes is made, in accordance with the provisions of Part 4."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part 3",
+      "section": "11",
+      "title": "Procedure at mobile polling stations",
+      "content": "(1) The presiding officer must on Part B of Form 2 of the Annexure, record the total number of votes cast in respect of a mobile polling station by pressing the “ total button ” on the ballot section of the control unit and allow the election agents to verify the recording on Form 2 before proceeding to the next mobile polling station. (2) The presiding officer must before proceeding to the next mobile polling station switch off the control unit , disconnect the ballot unit from the control unit and pack the control unit and ballot unit in their respective carrying cases. (3) The presiding officer must seal the carrying cases referred to in subregulation (2) and allow election agents to affix their own seals to the carrying cases and record the seal number affixed by him or her and by election agents to the carrying cases on Part C of Form 2 and allow election agents to verify and record the seal numbers recorded by him or her. (4) At the next mobile polling station, the presiding officer must allow the election agents to verify the seals affixed under subregulation (3) and after verifying the seals, the presiding officer must- (a) break the seals; (b) connect the control unit to the ballot unit ; and (c) switch on the control unit and press the “ total button ”, to allow the election agents to verify the total number of votes displayed on the display panel which must correspond with the total number of votes recorded on the relevant part of Part B of Form 2 under subregulation (1). (5) The presiding officer must at all subsequent mobile polling stations comply with the procedure referred to in subregulation (1) to (4), except for the last mobile polling station where the procedures referred to in regulation 13 and 14 must be followed. (6) The presiding officer must comply with all the processes referred to in regulation 7, 8 and 9 at the first mobile polling station but not at the subsequent mobile polling stations. (7) A voting machine to be used at mobile polling stations in an election may only be used at mobile polling stations falling within the boundaries of a local authority area of the local authority council or within the boundaries of a constituency in respect of which an election is taking place. (8) A voting machine to be used at mobile polling stations must be transported with the assistance of a police officer on duty from one mobile polling station to another mobile polling station. (9) At the last mobile polling station after the voters have cast their votes in accordance with the provision of the Act , the poll is closed and the counting of votes is made in accordance with the provisions of Part 4."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part 3",
+      "section": "12",
+      "title": "Faulty or capacity of control unit of voting machine",
+      "content": "(1) A control unit of the voting machine can store up to 2000 votes in its memory. (2) If the control unit is full of votes or if there is any faulty with the control unit , the presiding officer must use another control unit which is checked in terms of regulation 4 and which must be- (a) prepared in terms of regulation 6 or 7; (b) cleared in terms of regulation 8; and (c) pre-poll tested in terms of regulation 9. (3) A presiding officer must on Form 4 of the Annexure record the particulars of the control unit which is to replace the control unit which is full or faulty. (4) The presiding officer must place the control unit , which is full or which is faulty, in its carrying case, seal it and- (a) allow the election agents to place their seals to the carrying case; (b) record on Part D of Form 2 the seal numbers affixed by him or her and by election agents; and (c) allow election agent to verify the records made on Part D of Form 2. (5) When the presiding officer records the total number of votes cast at a mobile or fixed polling station, he or she must take into account the number of votes recorded on the control unit referred to in subregulation (4). (6) The presiding officer may only allow the next voter to proceed with the voting process after the process referred to in subregulation (2) is completed."
+    },
+    {
+      "provision_ref": "s12A",
+      "chapter": "Part 3",
+      "section": "12A",
+      "title": "Replacement of battery",
+      "content": "(1) If the battery in the power pack compartment run out of power during the polling process, the presiding officer must, in the presence of the election agents, replace the battery with a new battery. (2) To enable the presiding officer to replace the battery under subregulation (1), the presiding officer must break the seal placed on the outer cover of the candidate set section in terms of regulation 6(6)(c). (3) After replacing the battery under subregulation (2), the presiding officer must close the outer cover of the candidate set section and seal it. (4) After having sealed the outer cover of the candidate set section , the presiding officer must sign the seal tag, record on Form 8 of the Annexure the seal number and allow election agents to sign the seal tag and verify the seal number recorded on Form 8. [regulation 12A inserted by GN 209/2014 ] Part 4 – CLOSING OF POLL PROCEDURE"
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part 4",
+      "section": "13",
+      "title": "Closing of poll at polling stations",
+      "content": "(1) The procedure for closing a poll is as contemplated in section 85 of the Act . (2) At the end of voting, the presiding officer must open the black cap covering the “ close button ” and press the “ close button ” to close the poll. Part 5 – COUNTING OF VOTES AT POLLING STATIONS"
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part 5",
+      "section": "14",
+      "title": "Procedure for counting votes at polling stations",
+      "content": "(1) After closing the poll under regulation 13(2), the presiding officer must- (a) disconnect the ballot unit from the control unit ; (b) allow election agents to verify the seals on the outer cover of the result section ; (c) break the seal on the outer cover of the result section and open the outer cover; (d) pierce through the paper seal over the result button and press the “ result button ”; (e) record the results on Form 5 in the sequence the results appear on the display panel of the display section of the control unit and allow election agents to verify the recording made on Form 5; (f) switch off the control unit , connect it to a printer and switch on the control unit to print the results; (g) close the outer cover of the result section and seal the cover of the result section with a seal tag, sign the seal tag, record the seal number on Part E of Form 2 and allow election agents to sign the seal tag and verify the seal number recorded on Form 2; (h) place the control unit and ballot unit in their respective carrying cases, seal the carrying cases and record the seal number on Part F of Form 2 and allow election agents to affix their seals to the carrying cases, record them and allow election agent to verify the recording. (2) The presiding officer must cause the voting machines and returns, including Form 5 and printout of the results under subregulation (1)(f), to be delivered to the returning officer in terms of section 85 of the Act . Part 6 – COLLATION PROCEDURE AT CONSTITUENCY CENTRE"
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part 6",
+      "section": "15",
+      "title": "Receipt of sealed voting machines",
+      "content": "A returning officer must take charge of all voting machines and other returns referred to in regulation 14(2) and verify the correctness of all the returns and examine whether the seals of the voting machines are in order in the presence of the election agents."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part 6",
+      "section": "16",
+      "title": "Results of elections",
+      "content": "(1) A returning officer must- (a) connect the control units of the voting machine received from the presiding officers under regulation 14(2) to the tabulator ; (b) collate and prepare a report of the results of the election held; (c) record the report of the results prepared under paragraph (b) on Form 6 and allow election agents to verify the results recorded on Form 6; (d) cause Form 6 to be transmitted to the Director; (e) in the case of- (i) the presidential election, announce the results of the election in the manner contemplated in section 88 of the Act ; (ii) an election for members of the National Assembly election, announce the results of the election in the manner contemplated in section 89 of the Act ; (iii) in the case of a regional council elections, announce the results of the election in the manner contemplated in section 90 of the Act ; or (iv) in case of local authority council elections, announce the results of the election in the manner contemplated in section 91 of the Act ; (f) place all control units and tabulators in their respective carrying cases, allow election agents to affix their seals to the carrying cases; (g) ensure that the voting machines and tabulators are escorted and kept in the safe custody of an officer in charge of a designated police station until they are dispatched to the Commission office in a police escort. (2) The total number of votes for a candidate or party collated by a tabulator must correspond with the total number of votes obtained by the candidate or party at the polling stations as may be determined with the assistance of Form 5."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part 6",
+      "section": "17",
+      "title": "Verification of records by election agents",
+      "content": "(1) Where the election agents are required under these regulations to verify any recording made by a presiding officer or a returning officer under these regulations, such verification must be made on Form 7. (2) The Commission must provide the election agents with copies of Form 7 which, after being completed and signed by the election agents for the purposes of verifying any records made by a presiding officer or returning officer, must be attached to the relevant Form. Part 7 – SAFE-CUSTODY, TRANSPORTATION AND SAFEKEEPING OF VOTING MACHINES AND TABULATORS"
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part 7",
+      "section": "18",
+      "title": "Safe-keeping of voting machines and tabulators before commencement of polls",
+      "content": "(1) The Commission must, before the commencement of the polling process, ensure the security and safekeeping of all tabulators, voting machines and their accessories. (2) The storeroom in which the voting machines and tabulators are stored may not have multiple entrances and the storeroom must be fitted with at least two different locks of which the keys are kept by two different people designated by the Commission and a person may not alone open a door to the storeroom where the voting machines and tabulators are stored for safe-keeping. (3) The Commission may allocate a certain number of voting machines and tabulators to be used for the purpose of voter education."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part 7",
+      "section": "19",
+      "title": "Safe-keeping of voting machines and tabulators before, during and after polls in regions",
+      "content": "(1) Any voting machine and any tabulator to be used for voting in the regions must, before and after the poll, be escorted by the police and kept in the safe custody of the officer in charge of a designated police station. (2) Details of safe-keeping of voting machines and tabulators are worked out by the Commission and the Inspector-General of the Namibian Police Force with the concurrence of the election agents. (3) The Inspector-General of the Namibian Police Force and the Commission must, with the concurrence of the election agents, designate police stations where voting machines and tabulators are to be stored after they are dispatched from the Commission offices. Part 8"
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part 8",
+      "section": "20",
+      "title": "Voting machine or tabulator user manual",
+      "content": "(1) A returning officer, presiding officer, election agents or any other person involved in the operation of a voting machine or a tabulator may, during an election, use voting machine or tabulator user manual, as may be issued by the Commission, from time to time, to guide him or her in the operation of the voting machine or tabulator . (2) If there is any inconsistency between the provisions of these regulations and the voting machine or tabulator user manual, the provisions of these regulations prevail. Annexure Forms [Editorial note: The forms have not been reproduced.] History of this document 15 November 2017 this version Consolidation 01 August 2014 Published in Government Gazette 5524 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "ballot button",
+      "definition": "a ballot button on the ballot section of the control unit which enables a voter to cast his or her vote after a ballot is released",
+      "source_provision": "s1"
+    },
+    {
+      "term": "ballot paper",
+      "definition": "a ballot paper referred to section 81(2) of the Act which is inserted and displayed on the ballot paper screen",
+      "source_provision": "s1"
+    },
+    {
+      "term": "ballot unit",
+      "definition": "a unit of the voting machine which consists of- (a) an interconnecting cable",
+      "source_provision": "s1"
+    },
+    {
+      "term": "ballot paper screen",
+      "definition": "a screen on the ballot unit where a ballot paper is inserted and displayed on the ballot unit",
+      "source_provision": "s1"
+    },
+    {
+      "term": "ballot section",
+      "definition": "a section of the control unit which consists of a ballot button and a total button",
+      "source_provision": "s1"
+    },
+    {
+      "term": "candidate button",
+      "definition": "a green button on the ballot unit of the voting machine which a voter presses to select a candidate or party of his or her choice",
+      "source_provision": "s1"
+    },
+    {
+      "term": "candidate lamp",
+      "definition": "a lamp located between the ballot paper screen and candidate button and which lamp glows red when a voter presses the candidate button to select a candidate or party of his or her choice",
+      "source_provision": "s1"
+    },
+    {
+      "term": "candidate set button",
+      "definition": "a black button on the candidate set section of the control unit which sets the number of candidates or parties contesting in an election",
+      "source_provision": "s1"
+    },
+    {
+      "term": "candidate set section",
+      "definition": "a section on the control unit of the voting machine which consists of the power pack compartment and candidate set button",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Commission office",
+      "definition": "a place designated by the Commission as a Commission office for the purposes of these regulations",
+      "source_provision": "s1"
+    },
+    {
+      "term": "clear button",
+      "definition": "a clear button located on the result section of the control unit which clears the voting machine to show that there are no votes recorded in the voting machine",
+      "source_provision": "s1"
+    },
+    {
+      "term": "close button",
+      "definition": "a close button on the result section of the control unit which closes the poll when pressed",
+      "source_provision": "s1"
+    },
+    {
+      "term": "control unit",
+      "definition": "a control unit of the voting machine that is operated by a polling officer which enables a voter to cast his or her vote and consists of a- (a) display section",
+      "source_provision": "s1"
+    },
+    {
+      "term": "display panel",
+      "definition": "a display panel on the display section of the control unit that displays- (a) the serial number of the control unit of the voting machine",
+      "source_provision": "s1"
+    },
+    {
+      "term": "display section",
+      "definition": "the display section on the control unit of the voting machine which consists of a display panel , “on lamp” and “busy lamp”",
+      "source_provision": "s1"
+    },
+    {
+      "term": "manufacturer",
+      "definition": "Bharat Electronics Limited, an Indian company incorporated in terms of the laws of India",
+      "source_provision": "s1"
+    },
+    {
+      "term": "power pack compartment",
+      "definition": "the power pack compartment situated on the candidate set section where the battery is situated. [The definition of “power pack compartment” is inserted by GN 209/2014 . It should end with a semicolon rather than a full stop.] “ register button ” means a red register button on the ballot unit of the voting machine which a voter presses to cast his or her vote after selecting his or her candidate or party by pressing the candidate button corresponding to the candidate or party of his or her choice",
+      "source_provision": "s1"
+    },
+    {
+      "term": "register lamp",
+      "definition": "lamp on the left side of the register button that glows red when a voter presses the register button to cast his or her vote",
+      "source_provision": "s1"
+    },
+    {
+      "term": "result section",
+      "definition": "a section on the control unit of the voting machine which consists of a close button , result button , print button and clear button",
+      "source_provision": "s1"
+    },
+    {
+      "term": "result button",
+      "definition": "the result button on the result section of the control unit which if pressed shows the total number of votes of a candidate or party in respect of the polling station in which a voting machine has been used",
+      "source_provision": "s1"
+    },
+    {
+      "term": "tabulator",
+      "definition": "a portable instrument designed by the manufacturer for the counting of the results of votes recorded on the control units of voting machines",
+      "source_provision": "s1"
+    },
+    {
+      "term": "the Act",
+      "definition": "the Electoral Act, 1992 (Act No. 24 of 1992 )",
+      "source_provision": "s1"
+    },
+    {
+      "term": "total button",
+      "definition": "the total button on the ballot section of the control unit , which when pressed, shows- (a) the battery status",
+      "source_provision": "s1"
+    },
+    {
+      "term": "voting machine",
+      "definition": "a portable voting machine designed by the manufacturer for registering, recording and counting of votes during an election. Part 2 – PREPARATION OF VOTING MACHINES BEFORE ELECTION",
+      "source_provision": "s1"
+    }
+  ]
+}

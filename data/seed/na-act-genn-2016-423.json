@@ -1,0 +1,68 @@
+{
+  "id": "na-act-genn-2016-423",
+  "type": "statute",
+  "title": "Frequency Channeling Plan for the Spectrum Bands 694-790 MHz and 790-862 MHz, 2016",
+  "title_en": "Frequency Channeling Plan for the Spectrum Bands 694-790 MHz and 790-862 MHz, 2016",
+  "short_name": "Frequency Channeling Plan f...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/genn/2016/423/eng@2017-11-15",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "In these regulations, a word or expression to which a meaning is assigned in the Act or the Regulations has the same meaning, and unless the context otherwise indicates “ Act ” means the Communications Act, 2009 (Act No. 8 of 2009 ) “ IMT ” means International Mobile Telecommunications “ ITU ” means International Telecommunications Union [This provision has virtually no punctuation. There should be, at a bare minimum, a colon or a dash after the word “minimum”, and a full stop at the end of the definition of “ITU”.]"
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Purpose",
+      "content": "These regulations set out the Frequency Channeling plan for the provision of IMT services in the spectrum bands 694-790 MHz and 790-890 MHz."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Frequency channeling arrangement for the 694-790 MHz spectrum band",
+      "content": "The maximum inter-regional harmonisation is achieved by basing the frequency channeling arrangement on the lower duplexer of the APT 700 MHz band plan, as developed in the Asia Pacific Telecommunity and adopted in many parts of the world. This frequency arrangement was approved by the ITU Radio Assembly as contained in ITU -R M.1036-5 and is shown in Figure 1. Figure 1"
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "",
+      "content": "As graphically depicted above, the 2x 45 MHz FFD frequency channeling arrangement is implemented by using sub-blocks with a dual duplexer solution and conventional duplex arranged. Guard bands of 5MHz and 3MHz are provided at the lower and upper edge of the band to facilitated better co-existence with adjacent radio communications services."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Proposed frequency arrangement for the 790-862 MHz spectrum band",
+      "content": "The frequency channeling arrangements for the spectrum band 790-862 MHz as approved by the ITU Radio Assembly and contained in ITU -R M.1036-5 is depicted below in figure 2 and figure 3. Figure 2 Figure 3"
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "",
+      "content": "IMT systems are operating in FDD mode and use a reversed duplex direction. Mobile terminal transmit is used within the upper band whilst base station transmit is used in the lower band."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "",
+      "content": "The frequency channeling plan as depicted in figure 3 for the spectrum band 790-862 MHz will be applicable to Namibia."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Summary of the paired frequency arrangements in the band 694-862 MHz",
+      "content": "The paired frequency channelling arrangements for IMT in the band 694-862 MHz is indicated in the table below. Frequency arrangements Paired Arrangements Un-paired arrangements (MHz) Mobile Station Transmitter (MHz) Centre gap (MHz) Base Station Transmitter (MHz) Duplex Separation (MHz) A1 824-849 20 869-894 45 None A2 880-915 10 925-960 45 None A3 832-862 11 791-821 41 None A5 703-748 10 758-803 55 None History of this document 15 November 2017 this version Consolidation 28 October 2016 Published in Government Gazette 6160 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Act",
+      "definition": "the Communications Act, 2009 (Act No. 8 of 2009 ) “ IMT ” means International Mobile Telecommunications “ ITU ” means International Telecommunications Union [This provision has virtually no punctuation. There should be, at a bare minimum, a colon or a dash after the word “minimum”, and a full stop at the end of the definition of “ITU”.]",
+      "source_provision": "s1"
+    }
+  ]
+}

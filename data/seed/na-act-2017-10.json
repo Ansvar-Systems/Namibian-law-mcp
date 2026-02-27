@@ -1,0 +1,730 @@
+{
+  "id": "na-act-2017-10",
+  "type": "statute",
+  "title": "Whistleblower Protection Act, 2017",
+  "title_en": "Whistleblower Protection Act, 2017",
+  "short_name": "Whistleblower Protection Ac...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/2017/10/eng@2017-10-25",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part 1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "In this Act , unless the context indicates otherwise - “ authorised person ” means any of the persons specified in section 3 to whom a disclosure can be made; “ chief executive ” means the person who, in Namibia, is the administrative head of an employer or a part of the employer’s organisation or who occupies any other similar position by whatever title or designation he or she is called; “ Commissioner ” means the Commissioner for Whistleblower Protection appointed in terms of section 8 (1); “ Committee ” means the Whistleblower Protection Advisory Committee established by section 20 ; “ complainant ” means a whistleblower or any person related to or associated with the whistleblower who makes a complaint under section 53 of having been, being or likely to be subjected to detrimental action in retaliation for having made a disclosure of improper conduct ; “ confidential information ” includes - (a) information about the identity, occupation, residential address, work address or whereabouts of - (i) a whistleblower or a person related to or associated with the whistleblower ; and (ii) a person against whom a whistleblower has made a disclosure of improper conduct ; (b) information disclosed by a whistleblower ; and (c) information that, if disclosed, may cause detriment to any person; “ Deputy Commissioner ” means a Deputy Commissioner appointed under section 8 (2); “ designated employer ” means an employer designated as such under section 26 ; “ detrimental action ” means any of the actions described in section 5 ; “ disciplinary action ” means any action taken as a result of the commission of an act or an omission which constitutes a breach of discipline in a public body or private body or at a place of employment as provided by law or in a code of conduct or ethics or circulars of an employment contract; “ disclosure ” means - (a) the revealing of information which is not known to the person receiving it; or (b) in a case where the information is already known to the person receiving it, bringing the information to his or her attention; “ employee ” and “employer” have the same meanings given to them by section 1 of the Labour Act, 2007 ; “ ethics and integrity officer ” means a person designated as such in terms of section 28 (2); “ improper conduct ” means any of the types of conduct described in section 2 ; “ investigation agency ” means any of the agencies listed in section 4 ; “ investigator ” means a person appointed as an investigation officer in terms of section 15 or as a special investigator in terms of section 16 ; “ Labour Act, 2007 ” means the Labour Act, 2007 (Act No. 11 of 2007 ); “ Labour Commissioner ” means the Labour Commissioner referred to in section 1 of the Labour Act, 2007 ; “ Minister ” means the Minister responsible for justice; “ Ministry ” means the Ministry responsible for the administration of matters relating to justice; “ Permanent Secretary ” means the Permanent Secretary of the Ministry ; “ prescribed ” means prescribed by regulation made under section 78 ; “ Prevention of Organised Crime Act, 2004 ” means the Prevention of Organised Crime Act, 2004 (Act No. 29 of 2004 ); “ public body ” includes - (a) any office, ministry or agency as defined in section 1 of the Public Services Act, 1995; (b) any local authority council as defined in section 1 of the Local Authorities Act, 1992 (Act No. 23 of 1992 ); (c) any regional council as defined in the Regional Councils Act, 1992 (Act No. 22 of 1992 ); (d) any other functionary or institution exercising a power or performing a function in terms of the Namibian Constitution or exercising a public power or performing a public function in terms of any law; “ Public Service Act, 1995 ” means the Public Service Act, 1995 (Act No. 13 of 1995 ); “ registered employers’ organisation ” means an employers’ organisation that is registered as such under Chapter 6 of the Labour Act, 2007 ; “ registered trade union ” means a trade union that is registered as such under Chapter 6 of the Labour Act, 2007 ; “ staff member of the Whistleblower Office ” means a Deputy Commissioner and any staff member of the Whistleblower Office appointed in terms of section 14 ; “ this Act ”, includes any regulation, code of conduct or guideline made or issued under this Act; [The comma after “this Act” is superfluous.] “ Tribunal ” means the Whistleblower Protection Review Tribunal established by section 57 ; “ whistleblower ” means any person who makes a disclosure of improper conduct in terms of this Act ; “ Whistleblower Office ” means the Whistleblower Protection Office established by section 6 ; and “ Witness Protection Act, 2017 ” means the Witness Protection Act, 2017 (Act No. 11 of 2017 )."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part 1",
+      "section": "2",
+      "title": "Improper conduct",
+      "content": "(1) For the purposes of this Act , improper conduct is conduct which if disclosed and proved shows or tends to show that - (a) a criminal offence has been committed, is about to be committed or is likely to be committed; (b) a person has - (i) violated any of the fundamental human rights and freedoms protected by Chapter 3 of the Namibian Constitution or is in the process of violating any of those fundamental human rights and freedoms or is likely to violate any of those fundamental human rights and freedoms; or (ii) not complied with a provision of any law or is in the process of contravening a provision of any law or is likely to contravene a provision of any law which provision imposes an obligation on that person; (c) a miscarriage of justice has occurred, is occurring or is likely to occur; (d) a disciplinary offence has been committed, is about to be committed or is likely to be committed; (e) in any institution, organisation or entity there has been, there is or there is likely to be waste, misappropriation or mismanagement of resources in such a manner that the public interest has been, is being or is likely to be affected; (f) the environment has been degraded, is being degraded or is likely to be degraded; (g) the health or safety of an individual or a community is endangered, has been endangered or is likely to be endangered; or (h) information showing or tending to show that any of the matters falling within paragraphs (a) to (g) has been, is being or is likely to be deliberately concealed. (2) For purposes of subsection (1)(d) “disciplinary offence” means an act or an omission which constitutes a breach of discipline in a public body or a private body or at a place of employment as provided for by law or in a code of conduct or ethics or circulars of an employment contract."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part 1",
+      "section": "3",
+      "title": "Authorised persons",
+      "content": "(1) For the purposes of this Act , the following persons or entities, are authorised persons to whom a disclosure of improper conduct may be made - (a) the Commissioner or a staff member of the Whistleblower Office who has been designated by the Commissioner to receive disclosures; (b) in the case of an employee , the employee ’s supervisor or other senior member of the employer who has been designated by that employer to receive disclosures; (c) in the case of a designated employer , the person who has been designated by that employer as the ethics and integrity officer of the employer; or (d) a person, institution or entity declared by the Minister by notice under subsection (2) to be an authorised person . (2) For the purposes of subsection (1)(d), the Minister may, on the recommendation of the Commissioner , by notice in the Gazette declare any person, office, institution or entity to be an authorised person . (3) The Minister , after consultation with the Committee , must issue one or more codes of conduct regulating the conduct of authorised persons in the performance of their functions or exercise of powers under this Act . (4) The Minister may issue different codes of conduct in respect of different categories of authorised persons. (5) The Minister must publish the code of conduct referred to in subsection (3) in the Gazette. (6) A code of conduct issued under subsection (3) may prescribe penalties for any contravention thereof or failure to comply therewith not exceeding a fine of N$10 000 or imprisonment for a period not exceeding 12 months, or both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part 1",
+      "section": "4",
+      "title": "Investigation agencies",
+      "content": "(1) The following entities are investigation agencies for purposes of this Act - (a) the Ombudsman referred to in Article 89 of the Namibian Constitution; (b) the Anti-Corruption Commission referred to in Article 94A of the Namibian Constitution; (c) the Namibian Police Force referred to in Article 118 of the Namibian Constitution; (d) the Namibian Central Intelligence Service referred to in Article 120A of the Namibian Constitution; (e) the Namibian Correctional Service referred to in Article 121 of the Namibian Constitution; (f) the department or directorate dealing with immigration matters in the ministry responsible for immigration matters; (g) the office of the Commissioner for Customs and Excise referred to in section 2(1) of the Customs and Excise Act, 1998 (Act No. 20 of 1998 ); and [[Section 26 and section 39(11) of the Namibia Revenue Agency Act 12 of 2017 both provide that a reference in any law to the Commissioner of Customs and Excise must now be construed as a reference to the Commissioner of the Revenue Agency. This presumably also applies to references to the Commissioner for Customs and Excise.] (h) any office, ministry, agency, local authority or regional council or other body set up by any law including a unit, section, division, department of such office, ministry, agency, local authority or regional council or other body, conferred with investigation and enforcement functions by any law or having investigation and enforcement powers and which the Minister has declared by a notice under subsection (2) to be an investigation agency. (2) For the purposes of subsection (1)(h), the Minister on the recommendation of the Commissioner, may by notice in the Gazette declare any office, ministry, agency, local authority or regional council or other body set up by any law to be an investigation agency."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part 1",
+      "section": "5",
+      "title": "Detrimental action",
+      "content": "(1) For the purposes of this Act , a person is considered to be subjected to detrimental action if that person - (a) being an employee , is subjected to intimidation, harassment or any action causing personal harm or injury or loss or damage to property or any interference with his or her lawful employment by the employer or a fellow employee or by any other person or an institution; or (b) not being an employee , is subjected to discrimination, intimidation, harassment or any action causing personal harm or injury or loss or damage to property or any interference with his or her business or livelihood by any person or an institution. (2) For the purposes of subsection (1)(a), interference with a person’s lawful employment includes - (a) dismissal; (b) suspension; (c) redundancy; (d) demotion; (e) refusal of transfer or promotion; (f) transfer against his or her will; (g) alteration of working conditions or retirement to his or her disadvantage; (h) discriminatory or adverse treatment in relation to that person’s employment, career, profession, trade; (i) taking of disciplinary action ; or (j) a threat to take any of the actions referred to in paragraphs (a) to (i). (3) For the purposes of this Act , detrimental action is prohibited or actionable if the action is taken against the whistleblower or a person related to or associated with the whistleblower . Part 2 – WHISTLEBLOWER PROTECTION OFFICE"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part 2",
+      "section": "6",
+      "title": "Establishment of Whistleblower Office",
+      "content": "(1) There is established in the public service, an independent and impartial office to be known as the Whistleblower Protection Office to perform the functions and duties as provided for in this Act or in any other law. (2) The Whistleblower Office consists of - (a) the Commissioner ; (b) one or more Deputy Commissioners; and (c) other staff members appointed in terms of section 14 or seconded in terms of the law governing secondments in the public service from staff members in the public service. (3) The Public Service Act, 1995 applies to the Commissioner , Deputy Commissioner and the other staff members of the Whistleblower Office , except to the extent as provided otherwise by this Act or as is inconsistent with this Act . (4) The Whistleblower Office is an office in the public service as contemplated in the Public Service Act, 1995 ."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part 2",
+      "section": "7",
+      "title": "Functions and powers of Whistleblower Office",
+      "content": "(1) The Whistleblower Office , under the overall supervision and direction of the Commissioner , must perform the functions and exercise the powers entrusted to it by or under this Act including the following - (a) investigation of disclosures of improper conduct made under this Act and consideration of the validity of such disclosures and the determination of appropriate action to be taken in relation to such disclosures; (b) consideration of reports and other matters referred to it in terms of this Act and to take appropriate action; (c) investigation of complaints of detrimental action , and where appropriate reference of complaints to the Tribunal for remedial action; (d) appearing before the Tribunal as a public interest party in proceedings relating to complaints of detrimental action before the Tribunal ; (e) initiating and laying criminal charges against any person who has committed or is alleged to have committed a criminal offence under this Act ; (f) issuing temporary prohibition notices and applying for confirmation of such notices before the Tribunal as contemplated in section 46 ; (g) establishing programmes to educate the public concerning the provisions of this Act and the necessity for disclosures of improper conduct ; (h) giving policy directions to employers, authorised persons, investigation agencies and other persons involved in the implementation of this Act on best practices to ensure effective implementation of this Act ; (i) generally overseeing the effective implementation of this Act ; (j) exercising any powers and performing any functions conferred or imposed on it by this Act , and any powers that are necessary or expedient for or incidental to the achievement of its objects; and (k) exercising any powers and performing any functions as may be prescribed . (2) When performing the investigative functions of the Whistleblower Office under this Act , the Commissioner , a staff member of the Whistleblower Office or an investigator authorised thereto in writing by the Commissioner has, subject to such necessary changes as may be required by context, the same powers, privileges and immunities as those conferred on the Ombudsman by section 4 of the Ombudsman Act, 1990 (Act No. 7 of 1990 ) and the provisions of that section do apply to an investigation under this Act as if it were an inquiry or investigation conducted by the Ombudsman under that Act. (3) All other matters in connection with the Whistleblower Office or arising from this Act may be prescribed ."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part 2",
+      "section": "8",
+      "title": "Appointment of Commissioner and Deputy Commissioners",
+      "content": "(1) The President, subject to this section, must appoint as Commissioner for Whistleblower Protection, a person whom the President considers suitable and who - (a) is of good character and of high integrity; and (b) possesses an appropriate qualification in law and has not less than 10 years relevant legal experience acquired in either the public or private sector. (2) The President, subject to this section, may appoint as Deputy Commissioner or Deputy Commissioners, one or more persons whom the President considers suitable and who - (a) is or are of good character and of high integrity; and (b) possesses or possess qualifications and experience as may be prescribed . (3) Whenever the need for the appointment of the Commissioner or a Deputy Commissioner arises, the Minister must - (a) in writing, invite the Magistrates Commission established by section 2 of the Magistrates Act, 2003 (Act No. 3 of 2003 ) to nominate one person for each vacant position to be filled and, depending on the number of vacancies to be filled, to submit the name or names of the person or persons so nominated to the Minister; and (b) submit to the National Assembly, the name or names of persons nominated in terms of paragraph (a). (4) On receipt of the name or names of persons submitted to it in terms of subsection (3)(b), the National Assembly may - (a) by resolution, approve the name or names of the persons so nominated that it considers suitable for appointment and submit the name or names to the President for appointment; or (b) reject the person or persons so nominated and request the Minister to submit the name or names of other persons to be considered for appointment. (5) A person is not eligible to be appointed as Commissioner or Deputy Commissioner if that person - (a) is a member of the National Assembly or National Council; (b) is a member of a regional council or a local authority council; (c) is not a Namibian citizen or lawfully admitted to Namibia for permanent residence; (d) is an unrehabilitated insolvent; or (e) has, during the period of 10 years preceding the date of appointment, been convicted of - (i) theft, fraud, forgery or uttering a forged document, perjury or any other offence involving dishonesty; or (ii) any other offence for which a sentence of imprisonment without the option of a fine has been imposed."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part 2",
+      "section": "9",
+      "title": "Term of office and conditions of service of Commissioner and Deputy Commissioners",
+      "content": "(1) The Commissioner and Deputy Commissioners are appointed on a full-time basis for a period of five years and may be reappointed upon expiry of their terms of office. (2) The conditions of service of the Commissioner and Deputy Commissioners are determined by the President with the concurrence of the Minister responsible for finance and the approval of the National Assembly. (3) The Commissioner or a Deputy Commissioner may not - (a) engage in the day to day management of any business or occupation; (b) take part in the management of the affairs of any political party; or (c) be a salaried employee of any person or organisation. (4) The provisions of the Public Service Act, 1995 in relation to requirements for appointment, tenure of office, conditions of service suspension and dismissal from office do not apply to the Commissioner and a Deputy Commissioner in so far as they are inconsistent with the provisions of this Act . (5) As soon as practicable after their appointment, and thereafter at such times as the Minister may require, the Commissioner and a Deputy Commissioner must each furnish to the Minister a statement setting forth particulars of their assets and liabilities, including the nature and extent of any interest which they may have in any business or occupation or in any company or close corporation."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part 2",
+      "section": "10",
+      "title": "Vacation of office by Commissioner and Deputy Commissioners",
+      "content": "The office of the Commissioner or a Deputy Commissioner becomes vacant if he or she - (a) resigns from office by written notice to the President; (b) becomes subject to a disqualification referred to in section 8 (5); or (c) is removed from office under section 11 ."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part 2",
+      "section": "11",
+      "title": "Removal from office of Commissioner and Deputy Commissioners",
+      "content": "(1) The Commissioner or a Deputy Commissioner may be removed from office if he or she - (a) has failed to comply with a condition of his or her appointment; (b) is unable to perform the functions of his or her office by reason of mental or physical infirmity; (c) fails to perform efficiently the duties of his or her office; or (d) has been guilty of misconduct. (2) If the question of the removal from office of the Commissioner or a Deputy Commissioner arises, the President must notify the Chief Justice who, after consultation with the Judicial Service Commission established by Article 85 of the Namibian Constitution, must within 30 days appoint a board to inquire into the matter and submit a report and recommendations to the President. (3) The board consists of - (a) a chairperson, being a person who - (i) has held office as judge of the Supreme Court or High Court of Namibia; or (ii) is qualified to be appointed as judge of the Supreme Court or the High Court of Namibia; and (b) two other members who are of good character and integrity. (4) If the question of removal from office of the Commissioner or a Deputy Commissioner is referred to the board, the President may, subject to such conditions that he or she may determine, suspend the Commissioner or a Deputy Commissioner , as the case may be, from exercising the functions of his or her office pending inquiry by the board, but the suspension lapses if the board recommends to the President that the Commissioner or Deputy Commissioner should not be removed from office. (5) The board must inquire into the matter in accordance with such rules as the board may make conforming to the rules of natural justice. (6) The board must within 30 days after conclusion of the inquiry submit its report and recommendations to the President. (7) If the President, on receipt of the board’s report and recommendations, finds that the Commissioner or Deputy Commissioner , as the case may be, should be removed from office, the President must communicate that finding and the reasons therefor by message to the National Assembly within 14 days after the finding if the National Assembly is then in session or, if the National Assembly is not then in session, within 14 days after its next session starts. (8) The President must remove the Commissioner or Deputy Commissioner from office upon adoption by the National Assembly of a resolution calling for that person’s removal from office."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part 2",
+      "section": "12",
+      "title": "Acting Commissioner",
+      "content": "(1) If the office of the Commissioner is vacant or the Commissioner is absent from duty or unable for any reason to perform the functions of his or her office, a Deputy Commissioner must act as Commissioner but the President may, after consulting the Minister , and subject to section 8 , appoint another suitable person to act temporarily as Commissioner . (2) If the offices of both the Commissioner and Deputy Commissioner are vacant or if both the Commissioner and Deputy Commissioner are absent or unable for any reason to perform the functions of their offices, the President, after consulting the Minister and subject to section 8 , must appoint another suitable person to act as Commissioner during such vacancy or temporary absence. (3) The President must as soon as possible after making an appointment under or in terms of subsection (1) or (2), inform the National Assembly about the appointment. (4) A person acting as Commissioner in terms of subsection (1) or (2) may not act for a period of more than 12 months. (5) A person appointed as acting Commissioner while the office of the Commissioner is vacant is entitled to the salary attached to that office for the period that he or she so acts."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part 2",
+      "section": "13",
+      "title": "Functions of Commissioner and Deputy Commissioners",
+      "content": "(1) The Commissioner is the head of the Whistleblower Office and, subject to the provisions of this Act , the Namibian Constitution and any other law - (a) is responsible for the direction, control and management of the Whistleblower Office ; and (b) must perform all the functions assigned to, and exercise all the powers conferred on, the Commissioner by or under this Act or any other law. (2) A Deputy Commissioner performs the functions conferred by this Act on the Deputy Commissioner or as may be assigned to him or her by the Commissioner . (3) All public bodies, and where appropriate other persons, must render such assistance as may be reasonably required in the exercise, performance or carrying out of the powers, functions and duties conferred upon, assigned to or imposed upon the Commissioner or any staff member of the Whistleblower Office by or under this Act . (4) The Commissioner must, at such times or intervals of time as may be agreed between the Commissioner and the Committee or at the request of the Committee , report to the Committee generally on any matter relating to, or arising from the performance of functions or exercise of powers of the Whistleblower Office under subsection (1), or under any other provision of this Act ."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part 2",
+      "section": "14",
+      "title": "Appointment of other staff members of Whistleblower Office",
+      "content": "The other staff members of the Whistleblower Office referred to in section 6 (2)(c) as may be required for the proper performance of the functions of the Whistleblower Office are appointed in terms of the Public Service Act, 1995 ."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part 2",
+      "section": "15",
+      "title": "Investigation officers",
+      "content": "(1) The Commissioner must, from among the staff members referred to in section 14 , appoint persons to be investigating officers for the purposes of this Act . (2) An investigating officer - (a) has such powers, functions and duties as may be provided for by this Act or as may be delegated or assigned to the investigating officer by the Commissioner ; and (b) must exercise such powers, perform such functions and discharge such duties in compliance with the directions or instructions as may be specified orally or in writing by the Commissioner , Deputy Commissioner or any other staff member of the Whistleblower Office superior to him or her in rank. (3) The Commissioner must issue an identification card to every staff member appointed as an investigating officer in terms of subsection (1). (4) The identification card referred to in subsection (3) - (a) must be signed by the Commissioner ; and (b) is prima facie evidence of the appointment of the person concerned. (5) An investigating officer must show his or her identification card to any person in relation to whom he or she may seek to exercise any power or perform any function or duty under this Act ."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part 2",
+      "section": "16",
+      "title": "Special investigators",
+      "content": "(1) The Commissioner , with the approval of the Minister , may appoint a person who has expert knowledge in a particular field to be a special investigator to investigate any matter forming the subject of, arising out of or relating to, a disclosure or detrimental action , or any aspect thereof, specified - (a) in the instrument appointing the special investigator ; or (b) in a written notice given to the special investigator by the Commissioner . (2) A special investigator is appointed on a temporary basis as agreed between the Commissioner and the person and must perform his or her functions - (a) subject to the control and direction of the Commissioner ; and (b) on the terms and conditions as the Commissioner and the special investigator may agree. (3) The Commissioner must issue an identification card to a person appointed as special investigator in terms of subsection (1). (4) The identification card referred to in subsection (3) - (a) must be signed by the Commissioner ; and (b) is prima facie evidence of the appointment of the person concerned. (5) A special investigator must show his or her identification card to any person in relation to whom he or she may seek to exercise any power or perform any function or duty under this Act ."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part 2",
+      "section": "17",
+      "title": "Administrative directives",
+      "content": "The Commissioner , with the approval of the Minister , may issue administrative directives, not inconsistent with this Act or the Public Service Act, 1995 , on the general control, training, duties and responsibilities of staff members of the Whistleblower Office , and for such other matters as may be necessary or expedient for the good administration of the Whistleblower Office or the prevention of the abuse of power or neglect of duty, and generally for ensuring the efficient and effective functioning of the Whistleblower Office ."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part 2",
+      "section": "18",
+      "title": "Investigation reports to employers",
+      "content": "If the Commissioner considers it necessary, he or she may report any matter that arises out of an investigation carried out under this Act to the Minister or the Minister responsible for the sector or the public body that was the subject of the investigation or, if the matter relates to a private sector employer, to its board or governing body and to its chief executive , including, but not limited to, when the Commissioner is of the opinion that - (a) action has not been taken within a reasonable time in respect of one or more of his or her recommendations made under section 39 (3)(a); and (b) a situation that has come to his or her attention in the course of carrying out his or her duties exists that constitutes an imminent risk of a substantial and specific danger to the life, health or safety of persons, or to the environment."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part 2",
+      "section": "19",
+      "title": "Annual report",
+      "content": "(1) The Commissioner must, within three months after 31 March of each year, submit to the Committee a report on the activities of the Whistleblower Office during the previous year. (2) Without derogating from the generality of subsection (1), the annual report must set out - (a) the number of general inquiries relating to this Act ; (b) the number of disclosures received and complaints made in relation to detrimental action , and the number of those that were acted on and those that were not acted on; (c) the number of investigations commenced under this Act ; (d) the number of recommendations that the Commissioner has made and their status; (e) in relation to complaints made in relation to detrimental action , the number of referrals to the Tribunal and decisions to dismiss them; (f) whether there are any systemic problems that give rise to improper conduct ; (g) any recommendations for improvement that the Commissioner considers appropriate; and (h) any other matter that the Commissioner considers necessary. (3) Despite subsection (1), the Commissioner may, at any time, prepare a special report referring to and commenting on any matter within the scope of his or her powers and duties under this Act if, in his or her opinion, the matter is of such urgency or importance that a report on it should not be deferred until the time provided for the submission of the annual report and submit the report to the Committee . (4) The Committee must, within 14 days of receipt of a report submitted to it under subsection (1) or (3) or within such extended period as the Minister may allow but which period must not exceed 30 days, consider the report, make such comments and recommendations as it considers fit and refer the report to the Minister . (5) The Minister must submit the report referred to in subsection (4) to the National Assembly within 30 days after receipt thereof or, if the National Assembly is not then in session, within 30 days after commencement of its next session. Part 3 – WHISTLEBLOWER PROTECTION ADVISORY COMMITTEE"
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part 3",
+      "section": "20",
+      "title": "Establishment of Committee",
+      "content": "(1) There is established a committee to be known as the Whistleblower Protection Advisory Committee . (2) The Committee consists of - (a) the Permanent Secretary who is the chairperson of the Committee ; (b) the Permanent Secretary of the Office of the Prime Minister ; (c) the Ombudsman referred to in Article 89 of the Namibian Constitution; (d) the Director-General of the Anti-Corruption Commission referred to in Article 94A of the Namibian Constitution; (e) the Inspector-General of Police referred to in Article 119 of the Namibian Constitution; (f) the Director of the Namibia Central Intelligence Service referred to in section 3(b) of the Namibia Central Intelligence Service Act, 1997 (Act No. 10 of 1997 ); (g) the Environmental Commissioner referred to in section 1 of the Environmental Management Act, 2007 (Act No. 7 of 2007 ); (h) one person appointed by the Minister , having due regard to fair gender representation, from a list of persons nominated by an organisation that represents registered employers’ organisations as contemplated in subsection (3); and (i) one person appointed by the Minister , having due regard to fair gender representation, from a list of persons nominated by an organisation that represents registered trade unions as contemplated in subsection (3). (3) Before making an appointment in terms of subsection (2)(h) or (i), the Minister must in writing or in any other prescribed manner invite an organisation that the Minister reasonably believes represents registered employers’ organisations and an organisation that the Minister reasonably believes represents registered trade unions to each nominate, within the time specified in the invitation, not less than two and not more than four persons to be appointed as members of the Committee pursuant to that subsection. (4) If the organisation representing employers’ organisations or the organisation representing trade unions fails to nominate persons within the period specified in subsection (3), the Minister may appoint any person that he or she considers suitable to be a member of the Committee . (5) The Commissioner is the secretary of the Committee and he or she must keep or cause to be kept minutes of the meetings of the Committee and other records as the Committee may require. (6) A member of the Committee referred to in subsection (2)(a) to (g) ceases to be a member if he or she no longer holds the office or position which entitled him or her to be a member of the Committee . (7) A member of the Committee referred to in subsection (2)(h) or (i) holds office for a period of five years but he or she is illegible for re-appointment at the expiry of his or her term of office. [The word “eligible” is misspelt in the Government Gazette, as reproduced above.] (8) A member of the Committee appointed in terms of subsection (2)(h) or (i) must vacate his or her office if the member - (a) is convicted of an offence and sentenced to imprisonment without the option of a fine; (b) resigns his or her office by giving the Minister one month’s notice in writing of his or her intention to resign; (c) has been absent for three consecutive meetings of the Committee without leave of the Committee ; or (d) is removed from office by the Minister under subsection (9). (9) The Minister may at any time, after affording the member an opportunity to make representations remove a member appointed in terms of subsection (2)(h) or (i) from office - [There should be a comma after the phrase “after affording the member an opportunity to make representations”.] (a) on the ground of misconduct; (b) on account of continued ill-health; (c) on account of incapacity to perform the duties of his or her office efficiently; or (d) for any other reason that the Minister considers good and sufficient. (10) A member of the Committee appointed in terms of subsection (2)(h) or (i) who is not in full time service of the State is entitled to be paid out of the funds allocated by Parliament for the purposes of the Whistleblower Office , such remuneration and allowances as may be determined by the Minister with the approval of the Minister responsible for finance but, any member of the Committee may be reimbursed for any reasonable costs or expenditure that are not recoverable by him or her from any other source. [The comma after the word “but” is misplaced and should appear before the word “but”.]"
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part 3",
+      "section": "21",
+      "title": "Object of Committee",
+      "content": "The main object of the Committee is to advise - (a) the Minister on high level policy matters relating to whistleblower protection in Namibia; and (b) the Whistleblower Office generally on the exercise of its powers and performance of its functions under this Act ."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part 3",
+      "section": "22",
+      "title": "Functions and powers of Committee",
+      "content": "(1) Without derogating from the generality of the object of the Committee mentioned in section 21 , the functions of the Committee are to - (a) make recommendations to the Minister regarding policy matters, including amendments to this Act and the making of regulations and issuing of guidelines under sections 78 and 79 , respectively; (b) advise the Minister on the formulation of whistleblower protection policies in accordance with the current law and international best practices; (c) give advice to the Whistleblower Office generally on the performance of its functions and exercise of powers its in terms of this Act ; and [The phrase “powers its” should be “its powers”.] (d) perform any other functions as may be conferred by this Act or any other law. (2) The Committee may establish one or more subcommittee or subcommittees consisting of members of the Committee to carry out any of its functions."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part 3",
+      "section": "23",
+      "title": "Meetings and procedure",
+      "content": "(1) The first meeting of the Committee must be held at such time and place as the Minister may determine, and thereafter, meetings of the Committee are held at such times and places as the Committee may determine, but the Committee must hold at least three meetings every year. (2) The members of the Committee must, at the first meeting of the Committee , elect from among themselves a vice-chairperson of the Committee . (3) The chairperson of the Committee - (a) may convene a special meeting of the Committee when he or she considers that it is necessary to hold such special meeting; or (b) must convene a special meeting of the Committee when the Minister or at least three members request the chairperson to do so. (4) The chairperson, or in his or her absence, the vice-chairperson or in the absence of both the chairperson and the vice-chairperson, such member as the members present have elected must preside at a meeting of the Committee . (5) Five members form a quorum at a meeting of the Committee . (6) A decision of a majority of the members present at a meeting of the Committee is the decision of the Committee and, in the event of an equality of votes, the person presiding has a casting vote in addition to his or her deliberative vote. (7) A decision of the Committee , or an act performed under the authority of such a decision, may not be rendered invalid by reason only of a vacancy on the Committee or the fact that a person who is not entitled to sit as a member of the Committee did so sit when the decision was taken, if such decision was taken by the requisite majority of the members of the Committee who were present at the time and entitled to vote. (8) The Committee may permit a staff member of the Whistleblower Office whose input may be necessary on any matter to be considered at any meeting to attend and to take part in such discussions of the Committee as in the opinion of the Committee relate to such matter, but that staff member is not entitled to vote. (9) The chairperson of the Committee must cause a record to be kept of the proceedings of its meetings, and must cause that record to be submitted to the Minister as soon as possible after a meeting of the Committee . (10) The Committee may make rules relating to procedure at its meetings and at meetings of subcommittees established under section 22 (2)."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part 3",
+      "section": "24",
+      "title": "Disclosure of interest",
+      "content": "(1) A member of the Committee or a person present at a meeting of the Committee who has a personal or financial interest in a matter for consideration by the Committee must disclose in writing the nature of that interest and is disqualified from participating in the deliberations of the Committee in respect of that matter unless the Committee decides otherwise. (2) A member of the Committee may not personally or through another person transact any business or trade with the Whistleblower Office . (3) A member or a person who contravenes or fails to comply with subsection (1) or (2) commits an offence and is liable on conviction to a fine not exceeding N$50 000 or to imprisonment to a period not exceeding five years, or to both the fine and imprisonment."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part 3",
+      "section": "25",
+      "title": "Other matters to be prescribed",
+      "content": "The Minister may prescribe other matters relating to the Committee that may be necessary to ensure that the objectives of this Act are achieved. Part 4 – DESIGNATED EMPLOYERS"
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part 4",
+      "section": "26",
+      "title": "Designation of employers",
+      "content": "(1) The Minister may, subject to subsection (2) and after consultation with the Committee , by notice in the Gazette designate employers or classes of employers to whom the provisions of this Act apply. (2) Before making a designation under subsection (1), the Minister must by notice in the Gazette and in such other manner that the Minister having regard to the circumstances considers appropriate, invite organisations or institutions that represent the interests of employers and of employees in Namibia to, in the prescribed manner, make representations to the Minister and to the Committee on the proposed designation. (3) A notice referred to in subsection (1) must - (a) identify the employers or classes of employers that the Minister intends to designate as employers to whom the provisions of this Act apply; and (b) contain such other information which the Minister considers necessary to ensure that both the affected employers and employees as well as the organisations or institutions representing them are able to make informed representations on the proposed designation. (4) In deciding whether to designate employers or classes of employers pursuant to subsection (1), the Minister must consider any representations made pursuant to subsection (2) and the views expressed by the Committee during consultations pursuant to subsection (1), and must, without any limitation, take into consideration the following factors: (a) the size of the employer’s organisation; (b) the number of employee ’s employed by the employer and the nature of work that the employees perform; [The word “employee’s” should be “employees”.] (c) the nature of the business activity or trade that the employer is engaging in or service that the employer is rendering; (d) the likelihood that acts of improper conduct may or may not occur in the course of or within the employer’s business activity or trade; and (e) any other factor that the Minister considers necessary to make a decision."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part 4",
+      "section": "27",
+      "title": "Chief executive of designated employer to establish code of conduct",
+      "content": "(1) The chief executive of every designated employer that is a public body must establish a code of conduct applicable to that public body . (2) The code of conduct established by a chief executive of a public body that is an office, a ministry or an agency as defined in the Public Services Act, 1995 must be consistent with any code of conduct established by the Prime Minister pursuant to that Act. (3) The chief executive of every designated employer that forms part of the private sector must establish a code of conduct applicable to that employer. (4) The codes of conduct established under subsection (1) or (3) apply to every employee employed by the relevant designated employer ."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part 4",
+      "section": "28",
+      "title": "Chief executive of designated employer to establish internal disclosure procedures",
+      "content": "(1) The chief executive of every designated employer must establish internal procedures to manage disclosures made under this Act by employees employed by that designated employer . (2) The chief executive of every designated employer must designate a senior officer to be known as the ethics and integrity officer who is responsible for receiving and dealing with, in accordance with the duties and powers of an ethics and integrity officer set out in a code of conduct established under section 27 , disclosures of improper conduct made by employees employed by that designated employer . (3) The chief executive of every designated employer must - (a) subject to any other law and to the principles of procedural fairness and natural justice, protect the identity of persons involved in the disclosure process, including that of persons making disclosures, witnesses and persons alleged to be responsible for the improper conduct ; (b) establish procedures to ensure the confidentiality of information collected in relation to disclosures of improper conduct ; and (c) if improper conduct is found as a result of a disclosure made under section 30 , comply with section 37 . (4) A person who contravenes or fails to comply with any provision of this section commits an offence and is liable on conviction to a fine not exceeding N$75 000 or to imprisonment for a period not exceeding 15 years, or to both the fine and imprisonment. Part 5 – DISCLOSURE OF IMPROPER CONDUCT"
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part 5",
+      "section": "29",
+      "title": "Persons who may make disclosures",
+      "content": "A disclosure of improper conduct may be made to an authorised person by - (a) an employee in the public or private sector, in respect of his or her employer; (b) an employee , in respect of another employee ; or (c) any person, in respect of another person or a public or private body or institution."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part 5",
+      "section": "30",
+      "title": "Disclosure of improper conduct",
+      "content": "(1) A disclosure of improper conduct may be made - (a) by an employee - (i) in the case of a designated employer , to the designated ethics and integrity officer of the designated employer ; or (ii) in the case of any other employer, to the employee ’s supervisor or a person designated by the employer to receive disclosures, in respect of his or her employer or another employee in cases where the conduct complained of pertains to that employee ’s employment or place of employment; (b) by an employee to any authorised person , other than the persons referred to in paragraph (a), in respect of his or her employer or another employee in cases where the conduct complained of pertains to the employee ’s employment or place of employment; or (c) by any person to an authorised person , other than the persons referred to in paragraph (a), in respect of any other conduct which falls outside the scope of the employment relationship. (2) A disclosure of improper conduct concerning the Commissioner , a staff member of the Whistleblower Office or the Whistleblower Office may be made to the Ombudsman of Namibia who has, in relation to that disclosure , the powers, duties and protections of the Commissioner under this Act . (3) A disclosure under subsection (1) or (2) may be made - (a) even though the person making the disclosure is not able to identify a particular person to whom the disclosure relates; (b) even though the improper conduct occurred before the commencement of this Act ; (c) in respect of information acquired by him or her while he or she was an officer or employee of a public body or an officer or employee of a private body; or (d) of any improper conduct of any person while that person was an officer or employee of a public body or an officer or employee of a private body. (4) Despite any other law to the contrary, a disclosure of improper conduct may be protected only if - (a) the disclosure is made in good faith in relation to the information disclosed; (b) the whistleblower has reasonable cause to believe that the information disclosed and any allegation of improper conduct contained in it are substantially true; and (c) the disclosure is made to an authorised person . (5) Despite any law to the contrary an employee may, subject to section 44 (2), make a disclosure of improper conduct relating to, or in connection with, his or her employment despite the existence of a provision in any law regulating his or her employment or a term in his or her contract of employment which prohibits or restricts the disclosure of information to any other person. (6) A person who - (a) intentionally makes a disclosure knowing or believing that the information contained in the disclosure is false or untrue commits an offence and is liable on conviction to a fine not exceeding N$30 000 or to imprisonment for a period not exceeding 10 years, or to both the fine and imprisonment; or (b) uses force, coercion, threats, intimidation or any other coercive means against another person with intent to prevent that person from, or influence that person to refrain from, making a disclosure which would otherwise be protected under this Act commits an offence and is liable on conviction to a fine not exceeding N$50 000 or to imprisonment for a period not exceeding 20 years, or to both the fine and imprisonment. (7) Where a person is convicted by the High Court or a magistrate’s court of an offence under subsection (6)(a), and it has been proved during the trial of that person that the act or omission constituting the offence caused injury, damage or loss, whether patrimonial or otherwise, to the person against whom the disclosure was made (hereafter “the victim”), the court must, despite any provision in any law, on the application of the victim or of the victim’s legal practitioner or the prosecutor acting on the instructions of the victim, award the victim compensation for that injury, damage or loss. (8) Despite subsection (7) - (a) a court may not make such an award or order unless the injury, damage or loss, including, where applicable, the quantum thereof, and the liability of the convicted person therefor, have been proved on a balance of probabilities; and (b) a magistrates’ court may not make such an award if the amount of compensation applied for exceeds its civil jurisdiction, unless the convicted person against whom the award is to be made and the victim consent in writing thereto. (9) The presiding judge or magistrate must inform the victim of an offence referred to in subsection (7) of his or her right to apply under this section for compensation. (10) For the purposes of determining the amount of the compensation or the liability of the convicted person therefor, the court may refer to the evidence and the proceedings at the trial or hear further evidence either on affidavit or orally. (11) Where the High Court or a magistrate’s court has made an award or an order under subsection (1) or (12), respectively, that award or order has the effect of a civil judgment of the court that made the award or order and may be registered with the clerk or registrar of that court in the prescribed manner. [The cross-reference to subsection (1) is obviously in error. The intention was probably to refer to subsection (7).] (12) Where the victim or convicted person is represented by a legal practitioner at the hearing of the application under subsection (1) for compensation, the court may, if costs additional to that involved in the criminal trial were occasioned by that application, make an appropriate order as to costs. [The cross-reference to subsection (1) is obviously in error. The intention was probably to refer to subsection (7).]"
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part 5",
+      "section": "31",
+      "title": "Manner of making disclosure",
+      "content": "(1) A disclosure of improper conduct may be made in writing, orally or through electronic means and in the prescribed manner. (2) The disclosure must contain as far as practicable - (a) the full name, address and occupation of the whistleblower ; (b) the nature of the improper conduct in respect of which the disclosure is made; (c) the person alleged to have committed, who is committing or is about to commit the improper conduct ; (d) the time and place where the alleged improper conduct is taking place, took place or is likely to take place; (e) the full name, address and description of a person who witnessed the commission of the improper conduct , if there is such a person; (f) whether the whistleblower has made a disclosure of the same or of some other improper conduct on a previous occasion and if so, about whom and to whom the disclosure was made; (g) if the person is an employee making a disclosure about that person’s employer or a fellow employee , whether the whistleblower remains in the same employment; and (h) any other matter that may be prescribed ."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part 5",
+      "section": "32",
+      "title": "Reduction of disclosure to writing",
+      "content": "(1) Where a whistleblower makes a disclosure orally, the authorised person to whom the disclosure is made must cause the disclosure to be reduced into writing, containing the same particulars as are specified in section 31 (2). (2) Where the whistleblower is illiterate, the writing required to be made under subsection (1) must be read over, interpreted and explained to the whistleblower in a language the whistleblower understands and the whistleblower must approve of it before making a mark to it and a certificate to this effect must be attached to the writing. (3) In the case of a person who is blind or with some other physical disability, but literate, a certificate as required in subsection (2) must be made with the necessary modifications."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part 5",
+      "section": "33",
+      "title": "Action by authorised person",
+      "content": "(1) When a disclosure of improper conduct is made to an authorised person , the authorised person must - (a) make a record of the time and place where the disclosure is made; (b) give to the whistleblower an acknowledgment in writing of receipt of the disclosure ; and (c) keep the writing in which the disclosure is made confidential and in safe custody pending investigation of the improper conduct . (2) Where the disclosure is made to an authorised person who is unable to comply with subsection (1), that authorised person may, instead of recording the disclosure as required under that subsection, assist the whistleblower to make the disclosure to another authorised person who is able to comply with that subsection."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part 5",
+      "section": "34",
+      "title": "Submission of copy of disclosure to Commissioner",
+      "content": "Where a disclosure is made to an authorised person , other than the Commissioner , that person must submit a copy of the written disclosure to the Commissioner within the prescribed period after receipt of the disclosure ."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part 5",
+      "section": "35",
+      "title": "Anonymous disclosures",
+      "content": "(1) If, for any reason, a whistleblower makes a disclosure without disclosing his or her identity, the authorised person receiving the report must assess the information received and determine whether the disclosed information is credible or not. (2) After assessing the credibility of the information disclosed under subsection (1) the authorised person must - (a) if the information is credible and - (i) the disclosure was made to the Commissioner or a staff member of the Whistleblower Office , carry out the necessary investigations in accordance with section 40 ; (ii) the disclosure was made to an authorised person of the employer in relation to an employee ’s employment, carry out the necessary investigations in accordance with section 37 ; or (iii) the disclosure was made to an authorised person not mentioned in paragraph (a) or (b), carry out investigations in accordance with section 38 ; (b) if the information is not credible or there is no merit in the disclosure , dismiss the matter. (3) A person who makes an anonymous disclosure as contemplated in subscection (1) is not entitled to whistleblower protection under this Act , unless that person subsequent to making that disclosure complies with the requirements of this Act relating to disclosures that may be protected as contemplated in section 44 . [The word “subsection” is misspelt in the Government Gazette, as reproduced above.]"
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part 5",
+      "section": "36",
+      "title": "Public disclosures",
+      "content": "(1) A person may make a disclosure that is protected under this Act to the public by any means that are suitable having regard to the circumstances if there is no sufficient time to make the disclosure under the provisions of this Part and the person believes on reasonable grounds that the subject matter of the disclosure is an act or omission that - (a) constitutes a serious offence under any law of Namibia; or (b) constitutes an imminent risk of a substantial and specific danger to the life, health and safety of persons, or to the environment. (2) Before making a disclosure public, a person who receives a disclosure that is intended to be made public under subsection (1) must, having regard to the circumstances of the case, in the prescribed manner and as far as is reasonably practicable take steps to verify the veracity of the information contained in the disclosure as well as the identity of the person making the disclosure (3) Nothing in subsection (1) may be construed as authorising the public disclosure of information if the disclosure is prohibited or restricted by any law of Namibia which prohibits or restricts the disclosure of such information in the interests of national security, national defence, the prevention and detection of crime, the administration of justice or the sovereignty and integrity of Namibia. Part 6 – INVESTIGATION OF DISCLOSURES OF IMPROPER CONDUCT"
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part 6",
+      "section": "37",
+      "title": "Disclosures relating to employment",
+      "content": "(1) An authorised person , other than the Commissioner or a staff member of the Whistleblower Office , who receives a disclosure from an employee in respect of the employee ’s employment must in the prescribed manner investigate the disclosure and, if that person - (a) is satisfied that the disclosure is justified he or she must compile a report on his or her findings and recommendations for corrective action to be taken and submit the report to the chief executive of the employer; (b) is satisfied that the disclosure is not justified he or she must compile a report on his or her findings and submit the report to the chief executive of the employer; (c) considers that he or she does not have the capability to investigate the disclosure or that further investigations are required, he or she must compile a report to that effect and submit the report to the chief executive of the employer. (2) On receipt of the report submitted under subsection (1) the chief executive must - (a) in relation to a report made under subsection (1)(a), take the recommended corrective action, notify the whistleblower in writing of the action taken and refer the report together with the chief executive ’s report on the action taken to the Commissioner ; (b) in relation to a report compiled under subsection (1)(b), dismiss the matter, notify the whistleblower in writing and refer the report and the chief executive ’s decision to the Commissioner ; and (c) in relation to a report compiled under subsection (1)(c), refer the matter to the Commissioner and notify the whistleblower in writing. (3) When making a reference in terms of subsection (2)(a), the chief executive must provide the Commissioner with information - (a) describing the improper conduct , including information that could identify the person found to have committed it if it is necessary to identify the person to adequately describe the improper conduct ; and (b) about the corrective action, if any, taken by the chief executive in relation to the improper conduct or the reasons why no corrective action was taken. (4) If the chief executive does not agree with the findings, recommendations or proposed course of action of the authorised person made under subsection (1), the chief executive must - (a) compile a statement outlining his or her reasons for disagreement and submit the statement together with the report of the authorised person to the Commissioner ; and (b) in writing, but without disclosing the contents of the statement or report, notify the whistleblower of the action the chief executive has taken."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part 6",
+      "section": "38",
+      "title": "Disclosures made to other authorised persons",
+      "content": "(1) If a disclosure is made to an authorised person other than - (a) a person referred to in section 30 (1)(a); or (b) the Commissioner or a staff member of the Whistleblower Office , the authorised person must, in the manner prescribed and within the prescribed period after receipt of the disclosure , investigate the disclosed matter, but if the person to whom the disclosure is made does not have the capacity to undertake the investigation, that person must refer the disclosure as recorded to the Commissioner or to an investigation agency or another body as directed by the Commissioner for investigation. (2) If after investigating a disclosure under subsection (1) the authorised person is satisfied that the disclosure - (a) is justified he or she must compile a report on his or her findings and recommendations for corrective action to be taken and submit the report to the Commissioner ; (b) is not justified he or she must compile a report on his or her findings and submit the report to the Commissioner ; or (c) requires further investigations to be undertaken he or she must compile a report on his or her findings and recommendations for further action to be taken and submit the report to the Commissioner ."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part 6",
+      "section": "39",
+      "title": "Action by Commissioner after reference",
+      "content": "(1) On receipt of - (a) a report referred to him or her under section 37 (2)(a) or (b); (b) a statement and report referred to him or her under section 37 (4)(a); or (c) a report referred to him or her under section 38 (2)(a) or (b), the Commissioner must consider the matter and determine whether the person who made the disclosure is a whistleblower who is entitled to protection under this Act or not and in the prescribed manner notify the decision to the relevant chief executive , authorised person and whistleblower accordingly. (2) If the Commissioner determines under subsection (1) that a person referred to in that subsection is - (a) is a whistleblower who is entitled to protection under this Act , that person is entitled to protection as from that date that he or she made the disclosure up to the date when the protection is terminated under section 52 ; or (b) not entitled to protection under this Act , that person is entitled to protection as from that date that he or she made the disclosure up to the date when that person receives notification that the Commissioner has determined that the person is not entitled to protection under this Act . (3) If, after receiving a report or a statement and report referred to in subsection (1), the Commissioner considers that further action needs to be taken in relation to the matter, the Commissioner may refer the matter - (a) together with his or her recommendations back to the relevant chief executive or authorised person to act on the recommendation; or (b) to an investigator or an investigative agency for further investigation as contemplated in section 40 (3). (4) A person who is aggrieved by the decision of the Commissioner under subsection (1) may in the prescribed manner and within the prescribed period apply for the decision to be reviewed by the Tribunal ."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part 6",
+      "section": "40",
+      "title": "Investigation of disclosures by Commissioner",
+      "content": "(1) If a disclosure is made to the Commissioner or a staff member of the Whistleblower Office or is referred to the Commissioner under section 37 (2)(c) or section 38 (1) or (2)(c), the Commissioner may - (a) assign an investigator to investigate and report on the matter or refer the matter for investigation and a report by the relevant investigation agency as contemplated in subsection (3); (b) if necessary for him or her to make an informed decision, request for further information from the relevant chief executive , authorised person or the whistleblower ; or (c) if he or she considers that there is no merit in the allegations contained in the disclosure , dismiss the matter and in writing inform the relevant chief executive , authorised person and the whistleblower accordingly. (2) Despite subsection (1), the Commissioner may on receipt of a copy of a written disclosure under section 34 , assign an investigator to investigate and report on the matter or refer the matter for investigation and a report by the relevant investigation agency . (3) On receipt of a disclosure referred to him or her or it under subsection (1)(a) or (2), the investigator or investigation agency must, in the prescribed manner, conduct an investigation into the disclosure of improper conduct . (4) An investigation undertaken in respect of improper conduct must be carried out as expeditiously as possible and must in any event be completed within the prescribed period after receipt of the disclosure or directives to undertake the investigation. (5) Despite anything to the contrary in this Act , the Commissioner may not investigate or cause to be investigated a disclosure made to him or her or to a staff member of the Whistleblower Office or a disclosure referred to the Commissioner under this Act where the subject matter of the disclosure is currently being investigated by another person, body or entity authorised by law to carry out that investigation. (6) A person who is aggrieved by the decision of the Commissioner under subsection (1)(c) may in the prescribed manner and within the prescribed period apply for the decision to be reviewed by the Tribunal . (7) A person who undertakes an investigation in respect of an improper conduct and in the course of that investigation conceals or suppresses evidence, commits an offence and is liable on conviction to a fine not exceeding N$25 000 or to imprisonment for a period not exceeding five years, or to both the fine and imprisonment."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part 6",
+      "section": "41",
+      "title": "Application for court assistance",
+      "content": "Where in the course of an investigation under section 37 , 38 or 40 it appears to the authorised person , investigator or investigation agency - (a) that evidence or documents relevant to the investigation are likely to be destroyed, concealed, tampered with; or [The word “or” should appear before the phrase “tampered with”.] (b) that a person willing to provide information relevant to the investigation is being subjected to pressure, inducement or intimidation to withhold the information, the authorised person , investigator or investigation agency may, in the prescribed manner, apply to any competent court or to the Tribunal for an order to preserve the evidence or documents or to restrain the pressuring, inducement or intimidation of the person willing to provide the information."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part 6",
+      "section": "42",
+      "title": "Report to Commissioner",
+      "content": "(1) An investigator or investigation agency must as soon as is reasonably possible after an investigation contemplated in section 40 (3) is completed, submit a report on the investigation to the Commissioner for directives. (2) Where the completion of the investigation is delayed beyond the period contemplated in section 40 (4), the investigator or investigation agency must submit a report to the Commissioner stating - (a) the reasons for the delay; (b) measures that are proposed to expedite the investigation; and (c) any further assistance required to complete the investigation. (3) A report of an investigation which is submitted to the Commissioner must contain the recommendations of the investigator or investigation agency and such other information and particulars as may be prescribed ."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part 6",
+      "section": "43",
+      "title": "Action by Commissioner",
+      "content": "(1) The Commissioner may on receipt of a report under section 42 (1), take any of the following steps - (a) accept the recommendations contained in the report and take any appropriate action; (b) ask for further investigations by the same person or institution that conducted the investigations or by some other person or institution; or (c) reject the report and the recommendations for stated reasons. (2) The Commissioner must in writing notify the relevant chief executive , authorised person , investigator or investigation agency and the whistleblower of the decision made under subsection (1). (3) If the Commissioner decides that a person in respect of whom an investigation has been carried out is - (a) a whistleblower who is entitled to protection under this Act , that person is entitled to protection as from the date that he or she made the disclosure up to the date that the protection is terminated under section 52 ; or (b) not entitled to protection under this Act , that person is entitled to protection as from that date that he or she made the disclosure up to the date when that person receives notification that the Commissioner has determined that the person is not entitled to protection under this Act . (4) A person who is aggrieved by the decision of the Commissioner under this section may in the prescribed manner and within the prescribed period apply for the decision to be reviewed by the Tribunal . Part 7 – WHISTLEBLOWER PROTECTION"
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part 7",
+      "section": "44",
+      "title": "Disclosures that are protected",
+      "content": "(1) A disclosure - (a) made by a person referred to in section 29 ; (b) made to an authorised person or to the public pursuant to section 36 ; (c) that complies with section 30 ; and (d) made in the manner described in sections 31 and 32 , is entitled to whistleblower protection under the provisions of this Act . (2) Despite subsection (1), a disclosure is not protected if at the time that it is made it is - (a) prohibited by any law; or (b) known or proved that it is or it was made under any of the circumstances referred to in section 52 (1)."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part 7",
+      "section": "45",
+      "title": "Whistleblower protection",
+      "content": "(1) A whistleblower is, from the date of receipt of the disclosure of improper conduct by an authorised person up to and until the dates referred to in section 39 (2) or 43 (3), as the case maybe, entitled to whistleblower protection under this Act as follows: [The word “maybe” should be the two words “may be”.] (a) protection of confidential information ; (b) subject to section 47 , immunity from civil or criminal action; (c) protection against detrimental action ; and (d) where applicable, protection under the Witness Protection Act, 2017 , and for the purpose of paragraphs (c) and (d), the protection must be extended to any person related to or associated with the whistleblower . (2) Whistleblower protection conferred under this Act is not - (a) limited or affected in the event that the disclosure of improper conduct does not lead to any disciplinary action or prosecution of the person against whom the disclosure of improper conduct has been made; and (b) affected in the event that disciplinary action is taken or a prosecution is instituted against the person in respect of whom the disclosure of improper conduct has been made. (3) This Act does not limit the protection conferred by any other law to any person in relation to information given in respect of the commission of an offence."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part 7",
+      "section": "46",
+      "title": "Protection of confidential information",
+      "content": "(1) A person who - (a) makes or receives a disclosure of improper conduct ; (b) obtains confidential information in the course of an investigation into such disclosure ; (c) in whatever way or by whatever means obtains confidential information , may not, during the periods referred to in section 45 (1), disclose the confidential information or any part thereof to any other person or to the public, except in accordance with the provisions of this Act or any other law. (2) Subsection (1) does not apply to a person who discloses confidential information - (a) for the purpose of giving effect to the provisions of this Act ; (b) when required to do so by any competent court; or (c) when required to do so in terms of any law. (3) Where a whistleblower is a witness in a matter that relates to information given by that whistleblower , the court, tribunal or other authority before which the matter is being heard may, on application made to it by the whistleblower or by a person acting on behalf of the whistleblower , order that the whistleblower give his or her evidence in camera. (4) If any book, paper or document which is part of evidence liable to inspection in any civil, criminal or other proceedings in any court, tribunal or other authority contains any entry in which any whistleblower is named or described or which might lead to his or her discovery, the court, tribunal or other authority before which the proceedings are being held must cause all such passages to be concealed from view or to be obliterated so far as is necessary to protect the identity of the whistleblower . (5) A person who contravenes or fails to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding N$50 000 or to imprisonment for a period not exceeding 10 years, or to both the fine and imprisonment. (6) Where it is brought to the attention of the Commissioner that any person intends to disclose or publish confidential information which is protected under this Act to any other person who is not an authorised person or to the public, the Commissioner must in the prescribed manner - (a) issue a written notice prohibiting that person from disclosing or publishing the information; and (b) serve the notice on that person. (7) A notice referred to in subsection (6) acts as a temporary order prohibiting the person in respect of whom it was issued from disclosing or publishing the confidential information specified in the notice. (8) A temporary order referred to in subsection (1) is valid until - (a) the expiry of 14 days from the date on which the notice was served on the recipient; (b) the date on which the confidential information ceases to be protected under this Act ; (c) the date on which the order is cancelled by the Commissioner ; (d) the date on which the order is set aside by the Tribunal on application made to it under subsection (9); or (e) the date on which a final order is made by the Tribunal or the temporary order is set aside or varied by the Tribunal on application made to it by the Commissioner under subsection (10). (9) A person against whom a notice referred to in subsection (6) was issued may at any time before the notice ceases to be of effect in terms of subsection (8), in the manner prescribed , apply to the Tribunal to have the temporary prohibition order imposed by the notice set aside or varied, and on receipt of the application, the Tribunal may set aside or vary the order or dismiss the application. (10) The Commissioner may, within 14 days after the notice referred to in subsection (6) was served on the recipient, in the manner prescribed , apply to the Tribunal to have the temporary prohibition order confirmed, and the Tribunal may confirm the order by may making it a final prohibition order, set aside or vary the temporary order or dismiss the application. [The word “may” in the phrase “by may making” is superfluous.] (11) In an application made under subsection (9) or (10), the Tribunal may make any other order as it considers appropriate in the matter but it may not make an order for costs. (12) A person who contravenes or fails to comply with a temporary order referred to in subsection (7) or a final order made under subsection (10) commits an offence and is liable on conviction to a fine not exceeding N$50 000 or to imprisonment for a period not exceeding 10 years, or to both the fine and imprisonment."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part 7",
+      "section": "47",
+      "title": "Immunity from civil or criminal proceedings",
+      "content": "A whistleblower is not liable to civil or criminal proceedings or to disciplinary action for making a disclosure that is protected under this Act , unless it is proved that the whistleblower knew that the information contained in the disclosure was false and that the disclosure was made in bad faith."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part 7",
+      "section": "48",
+      "title": "Protection from detrimental action",
+      "content": "(1) A person may not take detrimental action against a whistleblower or any person related to or associated with the whistleblower in retaliation for a disclosure of improper conduct . (2) A person is considered as having taken detrimental action against a whistleblower or any person related to or associated with the whistleblower if - (a) the person takes or threatens to take the detrimental action because - (i) the whistleblower has made a disclosure of improper conduct ; or (ii) the person believes that the whistleblower has made or intends to make a disclosure of improper conduct ; or (b) the person incites or permits another person to take or threaten to take the detrimental action for any reason under paragraph (a). (3) A whistleblower is not be considered as having been subjected to detrimental action if - (a) it is established by evidence on a balance of probabilities that the disclosure protected by this Act was not a contributory factor to the alleged detrimental action ; (b) it is established by evidence that the disclosure protected by this Act did not contribute to the alleged detrimental action ; or (c) the person against whom the complaint is directed has the right in law to take the action complained of and the action taken is shown to be unrelated to the disclosure made. (4) Despite anything to the contrary in any law, in any proceedings under this Act concerning an allegation or a complaint of detrimental action the burden of proving that the detrimental action taken against a whistleblower or any person related to or associated with the whistleblower is not in retaliation for a disclosure of improper conduct lies on the person who has or is alleged to have taken the detrimental action . (5) A person who contravenes or fails to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding N$75 000 or to imprisonment for a period not exceeding 15 years, or to both the fine and imprisonment."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part 7",
+      "section": "49",
+      "title": "Protection under Witness Protection Act, 2017",
+      "content": "(1) If a whistleblower wishes to make a report contemplated in paragraph (a) of subsection (1) of section 33 of the Witness Protection Act, 2017 , the whistleblower may, if he or she so wishes, make that report to an authorised person and the authorised person must comply with subsection (5) of that section. (2) If a whistleblower is unable to make a report as contemplated in subsection (3) of section 33 of the Witness Protection Act, 2017 , the authorised person may make the report on behalf of the whistleblower as contemplated in that subsection."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part 7",
+      "section": "50",
+      "title": "Void contractual terms",
+      "content": "(1) A provision in a contract of employment or other agreement between an employer and an employee is void if it - (a) seeks to prevent the employee from making a disclosure of improper conduct ; (b) has the effect of discouraging an employee from making a disclosure of improper conduct ; (c) precludes the employee from making a complaint in respect of detrimental action taken against the employee ; or (d) prevents an employee from bringing an action before the Tribunal , any court or other body or institution to claim relief or remedy in respect of the detrimental action . (2) Subsection (1) also applies to a contract of employment or agreement in existence on the commencement of this Act ."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part 7",
+      "section": "51",
+      "title": "Legal assistance",
+      "content": "If during the course of - (a) an investigation in terms of this Act ; (b) any legal proceedings instituted against a whistleblower concerning a matter arising from a disclosure made by a whistleblower which disclosure is protected under this Act ; or (c) proceedings before the Tribunal that involve a whistleblower , the Commissioner on his or her own or at the request of an authorised person , investigator or investigation agency , is of the opinion that the whistleblower is in need of legal assistance, the Commissioner must issue a certificate to the whistleblower recommending that the Director of Legal Aid appointed in terms of section 3 of the Legal Aid Act, 1990 (Act No. 29 of 1990 ) considers granting legal aid to that whistleblower pursuant to section 10(2) or 11 of that Act."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part 7",
+      "section": "52",
+      "title": "Termination of protection",
+      "content": "(1) The Commissioner may revoke whistleblower protection conferred under this Act if he or she is of the opinion, based on an investigation or in the course of an investigation that - (a) the whistleblower himself or herself has, after making a disclosure of improper conduct , participated or continued to participate in the improper conduct disclosed; (b) the whistleblower , in his or her disclosure of improper conduct , intentionally made a material statement which he or she knew or believed to be false or did not believe to be true; (c) the disclosure of improper conduct is frivolous or vexatious; (d) the disclosure of improper conduct is made solely or substantially with the motive of avoiding dismissal or other disciplinary action ; or (e) the whistleblower , in the course of making the disclosure or providing further information, commits an offence under this Act . (2) If whistleblower protection is terminated under subsection (1), the Commissioner must give a written notice to that effect to the whistleblower . (3) A person who is aggrieved by the decision of the Commissioner made under subsection (1) may in the prescribed manner and within the prescribed period apply for the decision to be reviewed by the Tribunal . (4) The Tribunal may make an order for the continuation of the whistleblower protection and may also make such consequential orders necessary to give effect to the order for relief. (5) Where a person has made an application for review under subsection (3), whistleblower protection that has been granted to that person continues until such time that the Tribunal makes a decision to terminate that protection. Part 8 – COMPLAINTS OF DETRIMENTAL ACTION"
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part 8",
+      "section": "53",
+      "title": "Complaints of detrimental action",
+      "content": "(1) A whistleblower or any person related to or associated with the whistleblower who honestly and reasonably believes that he or she has been or is likely to be subjected to detrimental action by any person in retaliation for making a disclosure of improper conduct may in the prescribed manner make a complaint to the Commissioner or to any staff member of the Whistleblower Office . (2) A complaint referred to in subsection (1) must be filed within the prescribed period from the date that the complainant knew, or in the Commissioner ’s opinion ought to have known that the detrimental action was taken, but a complaint may be filed after that period if the Commissioner having regard to the circumstance of the case considers that it is appropriate. [There should either be a comma after the phrase “or in the Commissioner’sopinion ought to have known”, or else no comma before it.]"
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part 8",
+      "section": "54",
+      "title": "Commissioner ’s decision whether to investigate",
+      "content": "(1) The Commissioner must decide whether to deal with the complaint or not within the prescribed period after the date on which the complaint is received. (2) If the Commissioner decides - (a) to deal with the complaint he or she must send a written notice of his or her decision to the complainant and to the person or entity that has the authority to take disciplinary action against each person who participated in the taking of the measure alleged by the complainant to constitute detrimental action ; or (b) not to deal with a complaint, he or she must send a written notice of his or her decision to the complainant and set out the reasons for the decision. (3) The Commissioner may refuse to deal with a complaint if he or she is of the opinion that - (a) the subject matter of the complaint has been adequately dealt with or could more appropriately be dealt with, according to a procedure provided for under any law, other than this Act , or a collective agreement as defined in section 1 of the Labour Act, 2007 ; (b) the complaint is beyond the jurisdiction of the Commissioner ; or (c) the complaint was not made in good faith. (4) The Commissioner may not deal with a complaint if a person or body acting under another law or a collective agreement as defined in section 1 of the Labour Act, 2007 is dealing with the subject matter of the complaint. (5) A person who is aggrieved by the decision of the Commissioner made under subsection (2) may in the prescribed manner and within the prescribed period apply for the decision to be reviewed by the Tribunal ."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part 8",
+      "section": "55",
+      "title": "Investigation of detrimental action",
+      "content": "(1) If the Commissioner decides to deal with a complaint he or she must assign an investigator to investigate the complaint. (2) An investigator must conduct an investigation into the complaint as informally and expeditiously as possible and in the prescribed manner. (3) Before commencing an investigation under this section an investigator must - (a) notify the chief executive concerned or any other person against whom a complaint of detrimental action has been made and inform that chief executive or that other person of the substance of the complaint to which the investigation relates; and (b) notify any other person he or she considers appropriate, including every person whose conduct is called into question by the complaint, and inform that person of the substance of the complaint. (4) If the investigator so requests, employers and other persons who have information that is relevant to an investigation must provide the investigator with any facilities, assistance, information and access to their respective premises that the investigator may require for the purposes of the investigation. (5) If the investigator concludes that he or she is unable to complete an investigation because of insufficient cooperation on the part of an employer or other person, the investigator must make a report to the Commissioner to that effect. (6) A person who contravenes or fails to comply with subsection (4) or with a request made by an investigator under that subsection commits an offence and is liable on conviction to a fine not exceeding N$50 000 or to imprisonment for a period not exceeding 10 years, or to both the fine and imprisonment."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part 8",
+      "section": "56",
+      "title": "Commissioner ’s decision after investigation",
+      "content": "(1) As soon as possible after the completion of an investigation, the investigator must submit a report of his or her findings to the Commissioner . (2) If, after receipt of the report, the Commissioner is of the opinion that a reference of the matter to the Tribunal in relation to the complaint is - (a) warranted, the Commissioner must refer the matter to the Tribunal for a determination of whether or not detrimental action was taken against the complainant ; or (b) is not warranted in the circumstances, the Commissioner must dismiss the complaint. (3) In considering whether referring the matter to the Tribunal is warranted, the Commissioner must take into account whether - (a) there are reasonable grounds for believing that detrimental action was taken against the complainant ; (b) the investigation into the complaint could not be completed because of lack of cooperation on the part of one or more chief executives or employees or any other person; (c) the complaint should be dismissed on any ground mentioned in section 54 (3); and (d) having regard to all the circumstances relating to the complaint, it is in the public interest to refer the matter to the Tribunal . (4) The Commissioner must in writing notify each of the following of his or her action under subsection (1) - (a) the complainant ; (b) if the complainant is an employee , the complainant ’s employer; (c) if the complainant is a former employee , the person or entity who was the complainant ’s employer at the time the alleged detrimental action was taken; (d) if the complaint is against any other person that is not an employer, that other person; (e) the person or persons identified in the investigator ’s report as being the person or persons who may have taken the alleged detrimental action ; and (f) the person or entity with the authority to take disciplinary action against any person referred to in paragraph (e). (5) A person who is aggrieved by the decision of the Commissioner made under subsection (2)(b) may in the prescribed manner and within the prescribed period apply for the decision to be reviewed by the Tribunal . Part 9 – WHISTLEBLOWER PROTECTION REVIEW TRIBUNAL"
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part 9",
+      "section": "57",
+      "title": "Establishment of Tribunal",
+      "content": "(1) There is established a tribunal to be known as the Whistleblower Protection Review Tribunal . (2) The Tribunal consists of a person who holds the position of deputy chief magistrate, divisional magistrate or regional magistrate, or a person who has held the office of judge in the High or Supreme Court or the position of chief magistrate, deputy chief magistrate, divisional magistrate or regional magistrate in the magistracy, who is the chairperson of the Tribunal , and two other persons appointed by the President in accordance with subsection (4). (3) The President, on the recommendation of the Minister must - (a) from among members of the magistracy, appoint one deputy chief magistrate, divisional magistrate or regional magistrate; or (b) appoint a person who has held the office of judge of the High or Supreme Court or the position of chief magistrate, deputy chief magistrate, divisional magistrate or regional magistrate, to be the chairperson of the Tribunal . (4) The President, on the recommendation of the Minister and subject to subsection (5), must appoint as members of the Tribunal two other persons who have the necessary qualifications, skills or experience relevant to the functions of the Tribunal . (5) Before an appointment is made in terms of subsection (4), the Minister must, in the prescribed manner, invite registered employers organisations and registered trade unions to, in the prescribed manner, respectively nominate potential members of the Tribunal and submit the nominations to the Minister for consideration. (6) Members of the Tribunal are appointed on a part-time basis and the Tribunal sits only when the chairperson considers that it is necessary that the Tribunal sits to hear and determine an application or complaint of detrimental action brought before it or referred to it in terms of this Act . (7) The Minister , must as soon as is reasonably possible after an appointment has been made in terms of subsection (3) or (4), publish in the Gazette the names of members of the Tribunal appointed in terms of those subsections, but failure to so publish the names does not invalidate the appointments. (8) Members of the Tribunal hold office for a period of five years starting from the date of appointment but are eligible for re-appointment at the end of their terms of office. (9) A member of the Tribunal appointed in terms of subsection (3)(b) or (4) may not perform any function as such a member unless he or she has taken an oath or made an affirmation, which must be subscribed to by him or her, in the form as is prescribed . (10) A member of the Tribunal appointed in terms of subsection (3)(b) or (4) must vacate his or her office if the member - (a) is convicted of an offence and sentenced to imprisonment without the option of a fine; (b) resigns his or her office by giving the President one month’s notice in writing of his or her intention to resign; (c) has been absent for three consecutive sittings of the Tribunal without leave of the chairperson of the Tribunal ; or (d) is removed from office by the President under subsection (11). (11) The President may at any time, after affording the member an opportunity to make representations through the Minister and, on the recommendation of the Minister , terminate the appointment of a member - [The comma after the word “and” is misplaced and should appear before the word “and”.] (a) on the ground of misconduct; (b) on account of continued ill-health; (c) on account of incapacity to perform the duties of his or her office efficiently; or (d) for any other reason that the President considers good and sufficient. (12) Members of the Tribunal , other than a chairperson appointed in terms of subsection (3)(a), who are not in full time service of the State are entitled to be paid, out of the funds allocated by Parliament for the purposes of the Whistleblower Office , such remuneration and allowances as may be determined by the Minister with the approval of the Minister responsible for finance but, any member of the Tribunal may be reimbursed any reasonable costs or expenditure that are not recoverable by him or her from any other source. [The comma after the word “but” is misplaced and should appear before the word “but”.]"
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part 9",
+      "section": "58",
+      "title": "Secretarial work of Tribunal",
+      "content": "(1) The Permanent Secretary must, subject to the Public Service Act, 1995 designate a staff member in the Ministry to be the secretary of the Tribunal who is in charge of the administrative functions of the Tribunal . [There should be a comma after the phrase “Public Service Act, 1995”.] (2) The Permanent Secretary may in like manner designate such other staff members in the Ministry as may be necessary to assist the secretary in the performance of his or her functions."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part 9",
+      "section": "59",
+      "title": "Seat of Tribunal and jurisdiction",
+      "content": "(1) The seat of the Tribunal is Windhoek, but the functions of the Tribunal may be performed at any other place in Namibia as the chairperson of the Tribunal in consultation with the Permanent Secretary may determine. (2) The Tribunal has jurisdiction to - (a) determine any application for review lodged with it in terms of any provision of this Act ; (b) consider and make a determination on any complaint of detrimental action referred to it in terms of this Act ; (c) grant such remedy or remedies that is or are provided for in this Act ; (d) make any order or orders as may be necessary to ensure the effective implementation of the provisions of this Act ; and (e) generally to inquire into and adjudicate upon any matter which is required or permitted to be referred to it under any provision of this Act or any other law. (3) Any decision, order or determination of the Tribunal may be executed or enforced as if it were a decision, order or a determination made by a magistrates’ court in a civil matter. (4) The Tribunal must exercise its jurisdiction under this Act as if it were a magistrates’ court established in terms of the Magistrates’ Courts Act, 1944 (Act No. 32 of 1944 ) and the Tribunal has the same powers, privileges and immunities available to a magistrate’s court in a civil matter."
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part 9",
+      "section": "60",
+      "title": "Costs",
+      "content": "The Tribunal may not make an order as to costs in any proceedings before it."
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Part 9",
+      "section": "61",
+      "title": "Contempt of Tribunal",
+      "content": "A person who - (a) insults, disparages or belittles any member of the Tribunal in that capacity, or prejudices, influences or anticipates the proceedings or findings of the Tribunal ; (b) intentionally interrupts the proceedings of the Tribunal or misconducts himself or herself in any manner during such proceedings; (c) does anything in relation to the Tribunal which if done in relation to a court of law would have constituted contempt of court, commits an offence and is liable on conviction to a fine not exceeding N$10 000 or to imprisonment for a period not exceeding 12 months, or both the fine and imprisonment."
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Part 9",
+      "section": "62",
+      "title": "Rules of Tribunal",
+      "content": "(1) The chairperson of the Tribunal , after consultation with the Committee and the Commissioner , may make rules of procedure governing the practice and procedure before the Tribunal , including, but not limited to, rules governing - (a) the giving of notices to parties; (b) the addition of parties and interested persons to the proceedings; (c) the summoning of witnesses; (d) the production and service of documents; (e) discovery proceedings; (f) pre-hearing conferences; and (g) the conduct of proceedings before the Tribunal . (2) A rule made under subsection (1) may prescribe a penalty, not exceeding a fine of N$10 000 or imprisonment for a period not exceeding 12 months, or both the fine and imprisonment, for any contravention or failure to comply with the provisions thereof. (3) Rules made under subsection (1) or any amendment thereof have no force of law until the chairperson of the Tribunal publishes them in the Gazette."
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Part 9",
+      "section": "63",
+      "title": "Expenses of Tribunal",
+      "content": "(1) The expenditure incidental to the performance of functions of the Tribunal including witness fees must be defrayed from the money allocated by Parliament for the purposes of the Whistleblower Office . (2) Any person summoned to attend a hearing is entitled, at the discretion of the chairperson of the Tribunal , to receive the same fees and allowances as those paid to persons summoned to attend before the High Court."
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "Part 9",
+      "section": "64",
+      "title": "Appeals from Tribunal",
+      "content": "(1) A person who is aggrieved by the decision, order or determination of the Tribunal may appeal against that decision, order or determination to the High Court. (2) An appeal lodged under subsection (1) must be lodged in the prescribed manner and must be prosecuted as if it were an appeal from a judgment or an order given in civil proceedings by a magistrates’ court and, for the purposes of prosecuting any such an appeal the provisions relating to appeals from decisions of a magistrates’ court to the High Court do, subject to such modifications as may be required by the context, apply [There should be a full stop after the word “apply”; there is no additional text.] Part 10 – PROCEEDINGS BEFORE TRIBUNAL AND REMEDIES"
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "Part 10",
+      "section": "65",
+      "title": "Proceedings of Tribunal",
+      "content": "(1) Proceedings before the Tribunal are to be conducted as informally and expeditiously and in accordance with the rules of the Tribunal and the requirements of natural justice. [The word “as” before “informally and expeditiously” is superfluous.] (2) A hearing before the Tribunal may be held in camera at the request of any party if the party establishes to the satisfaction of the Tribunal that the circumstances of the case so require."
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "Part 10",
+      "section": "66",
+      "title": "Review proceedings",
+      "content": "(1) Any person who is aggrieved by any decision of or steps taken in relation to the protection of whistleblowers by the Whistleblower Office or any person acting for or on behalf of the Whistleblower Office under any provision of this Act , may within the prescribed period and in the prescribed manner, apply to the Tribunal to review the decision or steps taken. (2) An application for review under this Act may be based on any valid ground including any of the grounds on which an application for the review of decisions of lower courts, tribunals and other administrative bodies may be brought before the High Court. (3) Where an application for review is made under this Act the Tribunal must hear the parties and thereafter it may - (a) allow the application and set aside the decision of the Commissioner or staff member of the Whistleblower Office ; (b) refer the matter back to the Whistleblower Office for reconsideration; (c) dismiss the application and provide the parties with written reasons for the decision; or (d) make any other order or determination which is appropriate in the circumstances."
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "Part 10",
+      "section": "67",
+      "title": "Parties in matters referred by Commissioner",
+      "content": "(1) In proceedings before the Tribunal after reference of a complaint pursuant to section 56 (2)(a), the parties to the proceedings are - (a) the complainant ; (b) if the complainant is an employee , the complainant ’s employer; (c) if the complainant is a former employee , the person or entity who was the complainant ’s employer at the time the alleged detrimental action was taken; and (d) the person or persons identified in the reference as being the person or persons who may have taken the alleged detrimental action . (2) If the Tribunal is of the opinion that a person who has not been identified as being a person who may have taken the alleged detrimental action may be directly affected by a determination of the Tribunal , the Tribunal may add that person as a party. (3) Every party must be given a full and ample opportunity to participate at any proceedings before the Tribunal including, but not limited to, by appearing at any hearing, by presenting evidence and by making representations and to be assisted or represented by a legal practitioner, or by any person, for that purpose. (4) The Commissioner must, in proceedings before the Tribunal relating to a complaint of detrimental action , adopt the position that, in his or her opinion, is in the public interest having regard to the nature of the complaint."
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "Part 10",
+      "section": "68",
+      "title": "Remedies for detrimental action",
+      "content": "(1) When referring a complaint to the Tribunal pursuant to section 56 (2)(a), the Commissioner must request the Tribunal to determine whether the complainant has been subjected to or is likely to be subjected to detrimental action in retaliation for disclosing improper conduct , and if the Tribunal so determines the Commissioner may, on behalf of the complainant - (a) claim damages for breach of contract; (b) claim damages or compensation in respect of any loss or injury suffered; (c) obtain an interdict; or (d) claim for any other relief or remedy to which the complainant may be entitled. (2) The right of a whistleblower or any person related to or associated with the whistleblower to bring proceedings for damages or compensation under this Act does not affect any other right or remedy that may be available to him or her under any other law."
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "Part 10",
+      "section": "69",
+      "title": "Powers of Tribunal to grant remedies",
+      "content": "(1) The Tribunal must conduct an inquiry into the complaint and all the parties and other persons considered necessary by the Tribunal to the matter must be heard. (2) If, after the enquiry, the Tribunal is satisfied that a person has taken or intends to take detrimental action in retaliation for a disclosure of improper conduct , the Tribunal may grant a remedy to the complainant , including without limitation, any of the following remedies - (a) in the case of an employee complainant , an order for - (i) reinstatement; (ii) reversal of transfer; (iii) transfer of the complainant to another branch or establishment of the employer; (iv) back pay for lost remuneration together with interest; or (v) any other relief that is necessary to eliminate the effects of the detrimental action ; (b) an order for payment of damages, compensation, costs, interest or any other form of pecuniary relief to the complainant ; (c) payment to the complainant of an amount equal to any expenses and any other financial losses incurred by the complainant as a result of the detrimental action ; (d) an interdict restraining the person who has taken or intends to take detrimental action from continuing, repeating, threatening to continue or repeat, taking, causing or inflicting the detrimental action against the complainant in any manner; or (e) any other relief as the Tribunal considers fit. (3) The Tribunal may - (a) on application by the Commissioner , an investigator or a complainant , at any time after a complaint has been made under section 53 ; or (b) during the course of an enquiry under subsection (1), make any interim order that the Tribunal considers appropriate in the circumstances."
+    },
+    {
+      "provision_ref": "s70",
+      "chapter": "Part 10",
+      "section": "70",
+      "title": "Disciplinary action against person taking detrimental action",
+      "content": "(1) The Tribunal may, by order, require an employer or any person acting on the employer’s behalf, to take all necessary measures to take the disciplinary action , including termination of employment or revocation of appointment, specified by the Tribunal against any person named in the application who was determined by it to have taken the detrimental action . (2) In making an order under subsection (1), the Tribunal must take into account the factors ordinarily considered by employers when they discipline their employees, including, but not limited to - (a) the gravity of the detrimental action ; (b) the level of responsibility inherent in the position that the person occupies; (c) the person’s previous employment record; (d) whether the detrimental action was an isolated incident; (e) the person’s rehabilitative potential; (f) the deterrent effect of the disciplinary action ; (g) the extent to which the nature of the detrimental action discourages the disclosure of improper conduct under this Act ; and (h) the extent to which inadequate disciplinary action in relation to the detrimental action would have an adverse effect on confidence in private or public institutions. (3) The person against whom disciplinary action is taken as a result of an order made under subsection (1) may not initiate a grievance or other similar procedure under any law or a collective agreement in respect of the disciplinary action ."
+    },
+    {
+      "provision_ref": "s71",
+      "chapter": "Part 10",
+      "section": "71",
+      "title": "Personal liability",
+      "content": "Despite section 69 or 70 , a person against whom any action is taken for committing a detrimental action against a whistleblower or any person related to or associated with the whistleblower in retaliation for a disclosure of improper conduct may be sued and is liable for damages or to pay compensation under this Act in his or her personal capacity."
+    },
+    {
+      "provision_ref": "s72",
+      "chapter": "Part 10",
+      "section": "72",
+      "title": "Additional remedies for employee whistleblowers",
+      "content": "(1) Any employee whistleblower or a person related to or associated with the whistleblower who has been subjected to or is likely to be subjected to detrimental action in retaliation for disclosing improper conduct , may instead of making a complaint under this Act , refer the matter to the Labour Commissioner as a dispute pursuant to Part C of Chapter 8 of the Labour Act, 2007 . (2) For the purposes of the Labour Act, 2007 , including the consideration of any matter emanating from this Act - (a) any dismissal forming part of detrimental action in retaliation for disclosure of improper conduct , if proved, must be considered to be an unfair dismissal as contemplated in section 33 of that Act and which may be referred to the Labour Commissioner as a dispute pursuant to section 38 of that Act; and (b) any other detrimental action taken in retaliation for disclosure of improper conduct , if proved, must be considered to be an unfair labour practice as contemplated in Chapter 5 of that Act and which may be referred to the Labour Commissioner as a dispute pursuant to section 51 of that Act. [The word “which” is superfluous in both paragraph (a) and paragraph (b).] (3) If, in a dispute referred to the Labour Commissioner under subsection (1), it is proved that detrimental action was taken in retaliation for a disclosure of improper conduct , the employee is, in addition to any remedy which is available under the Labour Act, 2007 entitled to any remedy which may be granted to an employee complainant under this Act ."
+    },
+    {
+      "provision_ref": "s73",
+      "chapter": "Part 10",
+      "section": "73",
+      "title": "Relocation from place of employment",
+      "content": "(1) A whistleblower or any person related to or associated with the whistleblower who fears or has suffered detrimental action may apply in writing to his or her employer or a person acting on behalf of the employer for relocation of the employee ’s place of employment. (2) If an employer or a person acting on behalf of the employer considers - (a) that there is a danger or likelihood that detrimental action may be taken against the whistleblower or any person related to or associated with the whistleblower , if he or she continues to hold his or her current position; or (b) that the whistleblower or any person related to or associated with the whistleblower has in fact suffered detrimental action , and that the only practical means of removing or substantially removing the danger or the effect of the detrimental action is by way of relocation of the whistleblower ’s or any person related to or associated with the whistleblower ’s place of employment the employer or a person acting on behalf of the employer must, as far as practicable, make arrangements for the relocation of the employment. (3) The terms and conditions of employment of a person relocated in terms of subsection (2) may not, without his or her written consent, be less favourable than the terms and conditions applicable to him or her immediately before his or her relocation. (4) If an employer or the other person refuses or fails to make arrangements for the relocation of a whistleblower or any person related to or associated with the whistleblower as contemplated in subsection (2), the whistleblower or a person related to or associated with the whistleblower may refer the matter to the Labour Commissioner in accordance with section 72 (1). Part 11 – GENERAL"
+    },
+    {
+      "provision_ref": "s74",
+      "chapter": "Part 11",
+      "section": "74",
+      "title": "Reward for making disclosure",
+      "content": "The Commissioner may request the Criminal Assets Recovery Committee established by section 77 of the Prevention of Organised Crime Act, 2004 , to recommend to the Cabinet that a whistleblower who makes a disclosure of improper conduct that leads to the arrest and prosecution of an accused person be rewarded with a prescribed amount of money from the Criminal Assets Recovery Fund established by section 74 of that Act."
+    },
+    {
+      "provision_ref": "s75",
+      "chapter": "Part 11",
+      "section": "75",
+      "title": "Reward on recovery of money",
+      "content": "The Commissioner may request the Criminal Assets Recovery Committee established by section 77 of the Prevention of Organised Crime Act, 2004 , to recommend to the Cabinet that a whistleblower whose disclosure results in the recovery of an amount of money or other property be rewarded from the Criminal Assets Recovery Fund established by section 74 of that Act with - (a) the prescribed percentage of the amount of money or value of property recovered; or (b) any amount of money that the Commissioner , after consultation with the Minister , determines."
+    },
+    {
+      "provision_ref": "s76",
+      "chapter": "Part 11",
+      "section": "76",
+      "title": "Amendment of section 76 of Prevention of Organised Crime Act, 2004",
+      "content": "Section 76 of the Prevention of Organised Crime Act, 2004 is amended in subsection (1) by the insertion after paragraph (b) of the following paragraph: “(bB) the payment of a reward as contemplated in section 74 or 75 of the Whistleblower Protection Act, 2017 (Act No. 10 of 2017 ); and”."
+    },
+    {
+      "provision_ref": "s77",
+      "chapter": "Part 11",
+      "section": "77",
+      "title": "Amendment of section 84 of Labour Act, 2007",
+      "content": "Section 84 of the Labour Act, 2007 is amended in subsection (1) by the insertion after paragraph (c) of the following paragraph: “(cC) a dispute referred to the Labour Commissioner in terms of section 72(1) or 73(4) of the Whistleblower Protection Act, 2017 (Act No. 10 of 2017 ); or”."
+    },
+    {
+      "provision_ref": "s78",
+      "chapter": "Part 11",
+      "section": "78",
+      "title": "Regulations",
+      "content": "(1) The Minister , after consulting the Committee may make regulations relating to - (a) the functioning of the Whistleblower Office and any other matters pertaining to the Whistleblower Office ; (b) the manner of making disclosures to authorised persons and any additional information which may be required; (c) the manner in which authorised persons must perform their functions, including a code of conduct regulating their conduct; (d) the criteria for appointment of ethics and integrity officers by designated employers and their functions; (e) the content of codes of conduct established by designated employers and mechanisms for internal disclosure of improper conduct at places of employment; (f) the manner of conducting any investigation in terms of this Act ; (g) the manner of making an application which is or may be required to be made in terms of this Act , (h) the form and content of a notice referred to in section 46 (6), including the manner of serving such notice; (i) the criteria for the payment and the amounts of rewards payable under this Act ; (j) any administrative or procedural matter necessary to give effect to the provisions of this Act ; and (k) any other matter which is required or permitted to be prescribed under this Act , or considered necessary or expedient by the Minister in order to achieve the objects of this Act . (2) When making a regulation involving the imposition of a fee or charge on any person, the Minister may only make such regulation with the concurrence of the Minister responsible for finance. (3) Regulations made under subsection (1) may prescribe penalties for any contravention thereof or failure to comply therewith not exceeding a fine of N$10 000 or imprisonment for a period not exeeding 12 months, or both the fine and imprisonment. [The word “exceeding” is misspelt in the Government Gazette, as reproduced above.]"
+    },
+    {
+      "provision_ref": "s79",
+      "chapter": "Part 11",
+      "section": "79",
+      "title": "Guidelines and information",
+      "content": "(1) The Commissioner , after consultation with the Committee , may issue practical guidelines, not inconsistent with this Act , which explain the provisions of this Act and all procedures which are available in terms of any law to employees and other persons who wish to disclose improper conduct or otherwise obtain a remedy for disclosing improper conduct . (2) The Commissioner must publish the guidelines referred to in subsection (1)in the Gazette. (3) All employers, including the State, must take reasonable steps to ensure that every employee gets a copy of the guidelines referred to in subsection (1) or must take reasonable steps to bring the relevant notice to the attention of every employee . (4) The Commissioner , authorised persons and investigation agencies must take reasonable steps to ensure that the guidelines referred to in subsection (1) are made available to members of the public in order to ensure that members of the public are well informed and educated about the importance of disclosing improper conduct ."
+    },
+    {
+      "provision_ref": "s80",
+      "chapter": "Part 11",
+      "section": "80",
+      "title": "Short title and commencement",
+      "content": "(1) This Act is called the Whistleblower Protection Act, 2017, and it comes into operation on a date determined by the Minister by notice in the Gazette. (2) Different dates may be determined for different provisions of this Act . (3) Any reference in this Act to the commencement of this Act is construed as a reference to the date determined under subsection (1) or (2). History of this document 25 October 2017 this version Published in Government Gazette 6450 06 October 2017 Assented to Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "authorised person",
+      "definition": "any of the persons specified in section 3 to whom a disclosure can be made",
+      "source_provision": "s1"
+    },
+    {
+      "term": "chief executive",
+      "definition": "the person who, in Namibia, is the administrative head of an employer or a part of the employer’s organisation or who occupies any other similar position by whatever title or designation he or she is called",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Commissioner",
+      "definition": "the Commissioner for Whistleblower Protection appointed in terms of section 8 (1)",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Committee",
+      "definition": "the Whistleblower Protection Advisory Committee established by section 20",
+      "source_provision": "s1"
+    },
+    {
+      "term": "complainant",
+      "definition": "a whistleblower or any person related to or associated with the whistleblower who makes a complaint under section 53 of having been, being or likely to be subjected to detrimental action in retaliation for having made a disclosure of improper conduct",
+      "source_provision": "s1"
+    },
+    {
+      "term": "confidential information",
+      "definition": "- (a) information about the identity, occupation, residential address, work address or whereabouts of - (i) a whistleblower or a person related to or associated with the whistleblower",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Deputy Commissioner",
+      "definition": "a Deputy Commissioner appointed under section 8 (2)",
+      "source_provision": "s1"
+    },
+    {
+      "term": "designated employer",
+      "definition": "an employer designated as such under section 26",
+      "source_provision": "s1"
+    },
+    {
+      "term": "detrimental action",
+      "definition": "any of the actions described in section 5",
+      "source_provision": "s1"
+    },
+    {
+      "term": "disciplinary action",
+      "definition": "any action taken as a result of the commission of an act or an omission which constitutes a breach of discipline in a public body or private body or at a place of employment as provided by law or in a code of conduct or ethics or circulars of an employment contract",
+      "source_provision": "s1"
+    },
+    {
+      "term": "disclosure",
+      "definition": "- (a) the revealing of information which is not known to the person receiving it",
+      "source_provision": "s1"
+    },
+    {
+      "term": "ethics and integrity officer",
+      "definition": "a person designated as such in terms of section 28 (2)",
+      "source_provision": "s1"
+    },
+    {
+      "term": "improper conduct",
+      "definition": "any of the types of conduct described in section 2",
+      "source_provision": "s1"
+    },
+    {
+      "term": "investigation agency",
+      "definition": "any of the agencies listed in section 4",
+      "source_provision": "s1"
+    },
+    {
+      "term": "investigator",
+      "definition": "a person appointed as an investigation officer in terms of section 15 or as a special investigator in terms of section 16",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Labour Act, 2007",
+      "definition": "the Labour Act, 2007 (Act No. 11 of 2007 )",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Labour Commissioner",
+      "definition": "the Labour Commissioner referred to in section 1 of the Labour Act, 2007",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister responsible for justice",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Ministry",
+      "definition": "the Ministry responsible for the administration of matters relating to justice",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Permanent Secretary",
+      "definition": "the Permanent Secretary of the Ministry",
+      "source_provision": "s1"
+    },
+    {
+      "term": "prescribed",
+      "definition": "prescribed by regulation made under section 78",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Prevention of Organised Crime Act, 2004",
+      "definition": "the Prevention of Organised Crime Act, 2004 (Act No. 29 of 2004 )",
+      "source_provision": "s1"
+    },
+    {
+      "term": "public body",
+      "definition": "- (a) any office, ministry or agency as defined in section 1 of the Public Services Act, 1995",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Public Service Act, 1995",
+      "definition": "the Public Service Act, 1995 (Act No. 13 of 1995 )",
+      "source_provision": "s1"
+    },
+    {
+      "term": "registered employers’ organisation",
+      "definition": "an employers’ organisation that is registered as such under Chapter 6 of the Labour Act, 2007",
+      "source_provision": "s1"
+    },
+    {
+      "term": "registered trade union",
+      "definition": "a trade union that is registered as such under Chapter 6 of the Labour Act, 2007",
+      "source_provision": "s1"
+    },
+    {
+      "term": "staff member of the Whistleblower Office",
+      "definition": "a Deputy Commissioner and any staff member of the Whistleblower Office appointed in terms of section 14",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Tribunal",
+      "definition": "the Whistleblower Protection Review Tribunal established by section 57",
+      "source_provision": "s1"
+    },
+    {
+      "term": "whistleblower",
+      "definition": "any person who makes a disclosure of improper conduct in terms of this Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Whistleblower Office",
+      "definition": "the Whistleblower Protection Office established by section 6",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Witness Protection Act, 2017",
+      "definition": "the Witness Protection Act, 2017 (Act No. 11 of 2017 ).",
+      "source_provision": "s1"
+    }
+  ]
+}

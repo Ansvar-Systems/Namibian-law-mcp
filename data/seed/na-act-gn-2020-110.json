@@ -1,0 +1,65 @@
+{
+  "id": "na-act-gn-2020-110",
+  "type": "statute",
+  "title": "Labour Directives relating to COVID-19",
+  "title_en": "Labour Directives relating to COVID-19",
+  "short_name": "Labour Directives relating ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/gn/2020/110/eng@2020-04-29",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "In these directives, a word or expression to which a meaning has been assigned in the Regulations has that meaning, and unless the context otherwise indicates- \" employee \" means an employee as defined in section 1 of the Act ; \" employer \" means an employer as defined in section 1 of the Act ; \" Regulations \" means the State of Emergency - Covid-19 Regulations published under Proclamation No. 9 of 28 March 2020 ; and \" the Act \" means the Labour Act, 2007 (Act No. 11 of 2007 )."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Negotiation topics",
+      "content": "In addition to the requirements provided for under section 34 of the Act , the following topics form part of the subjects of the negotiations of a dismissal: (a) categories and manner of selection of employees to retain; (b) support for retraining of affected employees; (c) severance pay for employees; and (d) recall rights of retrenched employees."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Health and safety at work place",
+      "content": "(1) An employer must put in place safety measures at the workplace that will assist with the prevention of the further spreading of COVID-19. (2) An employee who- (a) considers his or her place of work to be dangerous due to COVID-19; (b) considers his or her place of work not to be a safe and healthy environment due to COVID-19; or (c) observes that safety measures have not been put in place to prevent the further spreading of COVID-19, may leave the place of work as provided for in section 42 of the Act and not be penalised for invoking the provisions of that section. (3) An employee who leaves the workplace for reasons contemplated in paragraph (2), is in terms of section 42(3) of the Act entitled to- (a) the same conditions of service; and (b) the same remuneration, during his or her period of absence."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Sickness and employee compensation benefits",
+      "content": "If an employee - (a) contracts COVID-19 or suffers from a COVID-19 related post-traumatic stress disorder during the course of his or her employment; and (b) is eligible to receive benefits from the Employees’ Compensation Fund, the employee may receive such benefits in terms of the Employees Compensation Act, 1941 ( Act No. 30 of 1941 ) for an industrial disease."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Offences and penalties",
+      "content": "A person who contravenes or fails to comply with paragraph (1) of directive 3 commits an offence and is on conviction liable to a fine not exceeding N$2 000 or to imprisonment for a period of 6 months or both fine and imprisonment. History of this document 29 April 2020 this version Published in Government Gazette 7195 Commenced 28 April 2020 Assented to Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "employee",
+      "definition": "an employee as defined in section 1 of the Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "employer",
+      "definition": "an employer as defined in section 1 of the Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Regulations",
+      "definition": "the State of Emergency - Covid-19 Regulations published under Proclamation No. 9 of 28 March 2020",
+      "source_provision": "s1"
+    },
+    {
+      "term": "the Act",
+      "definition": "the Labour Act, 2007 (Act No. 11 of 2007 ).",
+      "source_provision": "s1"
+    }
+  ]
+}

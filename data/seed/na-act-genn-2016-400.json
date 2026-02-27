@@ -1,0 +1,247 @@
+{
+  "id": "na-act-genn-2016-400",
+  "type": "statute",
+  "title": "Regulations Prescribing Sharing of Infrastructure, 2016",
+  "title_en": "Regulations Prescribing Sharing of Infrastructure, 2016",
+  "short_name": "Regulations Prescribing Sha...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/genn/2016/400/eng@2017-11-15",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "In these regulations, any word or expression to which a meaning is assigned in the Act , shall have the same meaning and- “ Act ” means the Communications Act, 2009 (Act No. 8 of 2009 ); “ active infrastructure-sharing ” means sharing of infrastructure contained in the active layer of the network ; “ active layer of the network ” means the active electronic network elements as defined in section 48(9) of the Act ; “ Authority ” means the Communications Regulatory Authority of Namibia as established in terms of Section 4 of the Communications Act , 2009 ( Act No. 8 of 2009 ); “ carrier ” means a carrier contemplated in section 47(3) of the Act ; “ carrier infrastructure ” means poles , ducts and conduits belonging to a carrier ; “ carrier infrastructure access agreement ” means an agreement contemplated by section 48(1)(a) of the Act entered into between a carrier infrastructure acquirer and a carrier infrastructure provider to enable such acquirer to have access to any carrier infrastructure of such provider; “ carrier infrastructure acquirer ” means a carrier who seeks access to the carrier infrastructure of a carrier infrastructure provider ; “ carrier infrastructure provider ” means a carrier who has a duty to provide carrier infrastructure in accordance with section 48(1) of the Act ; “ conduits ” means any protective tube, pipe, or tunnel through which wires, fibres, cables or similar items can pass; “ dominant carrier ” means a carrier which the Authority has determined in accordance with section 78 of the Act to hold a dominant position in the market for telecommunications services; “ ducts ” means a system of distribution and feeder ducts or a network of raceways embedded in concrete; “ equipment ” in relation to a network element includes any thing or apparatus used in connection with telecommunication services; “ facility ” in relation to a network element means any facility, any apparatus or other thing that is used or is capable of being used for telecommunications or for any operation connected with telecommunications and without limitation includes- (a) tangible facilities such as poles , ducts , conduits , apparatus, antennas, antenna feeders, access nodes, towers, masts tunnels, buildings, landing stations or other similar equipment ; and (b) intangible facilities such as sharing agreements, software applications, central databases, network content, wireless transmission services and other similar intangible assets designed to facilitate the termination and transport of telecommunication services; “ infrastructure-sharing agreement ” means an agreement contemplated by section 50(1) of the Act between a dominant carrier and a requesting carrier to enable the requesting carrier to- (a) lease infrastructure of the dominant carrier ; (b) to install telecommunications equipment on such infrastructure; or (c) otherwise utilise such infrastructure. “ infrastructure-sharing request ” means a written request from a requesting carrier to a dominant carrier to provide active or passive infrastructure sharing of facilities. “ interconnection point ” means the technically feasible point of interconnection between carriers’ respective networks where an originating carrier ’s traffic is deemed to be handed off to the terminating carrier ’s network for the purpose of determining reciprocal compensation; “ network element ” means a network element referred to in section 48(9) of the Act ; “ network element access agreement ” means an agreement contemplated by section 48(2) of the Act entered into between a requesting carrier and a dominant carrier to enable the requesting carrier to have access to any network element equipment or facility of the dominant carrier ; “ passive structure-sharing ” means sharing of infrastructure contained in the physical layer of the network; “ physical co-location ” means a type of co-location where a carrier in control of a building, tower or other structure in or on which that carrier ’s switches, antennas or other equipment are accommodated, allows another carrier to also operate those switches, antennas or equipment ; “ poles ” means structures designed to support antennas or aerials to enable telecommunications services and includes towers, masts or similar structures; “ reciprocal compensation agreement ” means an agreement between two carriers in accordance with section 48(1)(b) of the Act in which each carrier receives compensation from the other for the transport and termination on each carrier ’s infrastructure of telecommunications that originate on any portion of the telecommunications network of the other carrier , regardless of the network technology utilised by the carrier to transport or terminate the telecommunications ; “ requesting carrier ” means a carrier requesting from a dominant carrier access to its network elements on an unbundled basis at any technically feasible point; “ spare capacity ” means capacity exceeding the capacity necessary to meet normal demands that a utility could objectively justify in operational or economic terms; “ telecommunications ”, for purposes of a reciprocal compensation agreement , means the conveyance by electromagnetic means from one device to another of any encrypted or non-encrypted sign, signal, impulse, writing, image, sound, instruction, information, or intelligence of any nature, whether for the information of any person using the device or not; “ termination ” means the switching of telecommunications at the terminating carrier ’s efice switch, or equivalent facility , and delivery of such traffic to the called party; “ transport ” means the transmission, and any necessary tandem switching of telecommunications from the interconnection point between carriers to the terminating carrier ’s efice switch that directly serves the called party, or equivalent facility provided by a carrier ; “ utility ” means a utility referred to in section 50(11) of the Act ; “ virtual co-location ” means co-location where equipment is placed in the equipment line-up of a carrier and is maintained by that carrier ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Submission of documents to the Authority",
+      "content": "In these regulations, when persons are permitted or called upon to submit information to the Authority in writing, they may do so either physically or electronically - (a) by hand to the head offices of the Authority , namely Communication House, 56 Robert Mugabe Avenue, Windhoek; (b) by post to the head offices of the Authority , namely Private Bag 13309, Windhoek 9000; (c) by electronic mail to the following address: operations@cran.na (d) by facsimile to the following facsimile number: +264 61 222790; or (e) in any other manner or at alternative addresses set out by the Authority from time to time."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Application and purpose",
+      "content": "(1) These regulations apply to- (a) all carriers; (b) any dominant carriers; (c) all utilities. (2) The purpose of these regulations is to- (a) regulate the duties imposed on carriers, dominant carriers and utilities by sections 48 and 50 of the Act ; (b) set out the terms upon which carriers, dominant carriers and utilities must agree to fulfil those duties; and (c) ensure that any conditions and charges for agreements contemplated by these regulations are reasonable, non-discriminatory and fairly apportioned."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Duty to negotiate agreements in good faith",
+      "content": "(1) Upon receipt of a notice to negotiate any agreement contemplated by these regulations, a carrier , dominant carrier or utility must participate in good faith negotiations to enter into any such agreement. (2) The following actions or practices are deemed to contravene the duty in subregulation (1) to negotiate in good faith: (a) obstructing or delaying negotiations, or failing to make reasonable efforts to resolve outstanding disputes; or (b) refusing to provide information about the telecommunications services, telecommunications network, infrastructure or network elements of the carrier or dominant carrier or the tower, mast, pole, duct, conduit or pipe of a carrier that are necessary for any agreement contemplated by these regulations; or (c) misleading or coercing a carrier , dominant carrier or utility into reaching an agreement it would not otherwise have made; or (d) interfering in any way with a the ability of a carrier , dominant carrier or utility to communicate with the Authority , including requiring such carrier or utility not to disclose information requested by the Authority ; or (e) refusing to permit amendment of any agreement contemplated by these regulations to take into account changes in circumstances, including changes to the Act . (3) A carrier , dominant carrier or utility may not be required to enter into an agreement contemplated by these regulations on terms that would, on reasonable grounds either: (a) cause or be likely to cause material danger, damage or injury to any person or any property; or (b) cause material damage or otherwise materially interfere with the operation of its telecommunications network, infrastructure, network elements or the provision of its telecommunications services to its end users."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Just, reasonable and non-discriminatory rates, terms and conditions of agreements",
+      "content": "(1) Subject to these regulations, all carriers, dominant carriers and utilities must make infrastructure, technology, information, network elements, the transport and termination of telecommunications , services or functions, as the case may be, available to a qualifying carrier on just, reasonable and non-discriminatory rates, terms and conditions. (2) Without limiting the generality of subregulation (1), a carrier , dominant carrier or utility may not propose, enter into, or give effect to, any contract, arrangement or understanding containing a provision: (a) directly or indirectly fixing, controlling or maintaining the price, or other terms and conditions of supply, lease or acquisition of infrastructure, a network element , spare capacity , the transport and termination of telecommunications or any telecommunication service; or (b) preventing or restricting the supply, lease or acquisition of infrastructure, a network element , spare capacity , the transport and termination of telecommunications or any telecommunication service to or from another carrier or class of carriers; (3) Any agreement contemplated by these regulations, which is based on a bartering system, is prohibited. (4) No provision of an agreement contemplated by these regulations that has the purpose, effect, or is likely to have the effect of, being unjust or discriminatory in relation to any carrier or utility , or of excluding any carrier or utility is enforceable."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Carrier disputes",
+      "content": "(1) If a carrier , dominant carrier or utility refuses to enter into any agreement contemplated by these regulations with another carrier within the applicable time periods, that carrier may request the Authority to conduct a hearing to determine whether or not the carrier , dominant carrier or utility has reasonable grounds for its refusal. (2) If two or more carriers fail to reach agreement on any terms and conditions of any agreement contemplated by these regulations within a period of 30 days from the date of receipt of a written notice provided under regulations 8(1), 9(1) and 10(1) the dispute may be referred by one or more carriers to the Authority to conduct a hearing for determination of the dispute. (3) A request for a hearing referred to in subregulations (1) and (2) must be submitted in writing, setting out the reasons forming the basis for the request, including but not limited to specific areas of disagreement and agreement. (4) If a dispute is referred to the Authority in accordance with subregulations (1) and (2), the Authority may- (a) order the carriers to enter into an agreement contemplated by these regulations on such terms and conditions as the Authority determines; or (b) determine that such agreement should not be entered into."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Publication of information on infrastructure and network elements",
+      "content": "(1) All carriers must publish on their websites information in respect of carrier infrastructure to which they will afford access to other carriers. (2) All dominant carriers must publish on their websites information in respect of- (a) unbundled network elements to which those dominant carriers will afford access to other carriers; and (b) infrastructure available for lease to or use by other carriers. (3) All utilities must publish on their websites information in respect of spare capacity available for lease by carriers. (4) A carrier , dominant carrier or utility referred to in subregulations (1), (2) and (3), respectively must submit a copy of the published information contemplated in those subregulations to the Authority for publication on its website. (5) Information required in terms of subregulation (4) must be submitted to the Authority within 60 days from the date that the carrier , dominant carrier or utility as the case may be, started using the infrastructure. (6) The Authority must on its website maintain an updated register of the information provided to it in terms of subregulations (1), (2) and (3)."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Carrier infrastructure access agreement",
+      "content": "(1) Every carrier has the right to require, by notice in writing, any other carrier that operates a telecommunications network in Namibia to negotiate in good faith a carrier infrastructure access agreement . (2) Subject to these regulations, the carrier infrastructure acquirer and the carrier infrastructure provider must negotiate just, reasonable and non-discriminatory, rates, terms and conditions in terms of which such provider grants carrier infrastructure access to such acquirer. (3) Subject to these regulations, rates, terms, and conditions for a carrier infrastructure access agreement must be established through negotiated agreements. (4) Whenever a carrier infrastructure provider intends to modify or alter its carrier infrastructure , such provider must provide written notification of such action to a carrier infrastructure acquirer that has obtained an attachment to such carrier infrastructure so that such acquirer may have a reasonable opportunity to add to or modify its existing attachment. (5) Any carrier infrastructure acquirer that adds to or modifies its existing attachment after receiving the notification referred to in subregulation (4) must bear a proportionate share of the costs incurred by the carrier infrastructure provider in making such carrier infrastructure accessible. (6) A carrier that obtains an attachment to carrier infrastructure is not required to bear any of the costs of rearranging or replacing its attachment, if such rearrangement or replacement is required as a result of an additional attachment or the modification of an existing attachment sought by any other carrier (including the provider of such carrier infrastructure )."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Reciprocal compensation agreements",
+      "content": "(1) Every carrier has the right to require, by notice in writing, any other carrier that operates a telecommunications network in Namibia to negotiate in good faith a reciprocal compensation agreement . (2) All carriers exchanging telecommunications must measure minutes-of-use for compensation purposes if technically and economically feasible, unless they mutually agree to a different arrangement. (3) The rate for access to network elements is just and reasonable if such rate- (a) provides for the mutual and reciprocal recovery by each carrier of costs associated with the transport and termination on each carrier ’s network of telecommunications that originate on the network facilities of the other carrier ; and (b) determines such costs on the basis of a reasonable approximation of the additional costs of termination . (4) Subject to these regulations, rates, terms, and conditions for the transport and termination of telecommunications must be established through negotiated agreements."
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Network element access agreements",
+      "content": "(1) A requesting carrier has the right to require, by notice in writing, unbundled access to the network elements of a dominant carrier . (2) Upon receipt of a notice under subregulation (1), the dominant carrier must participate in good faith negotiations with the requesting carrier to enter into a network element access agreement . (3) A dominant carrier may not- (a) bundle access to network elements, in such a manner that the requesting carrier acquires a network element or service that it does not need as a condition of having such access to the dominant carrier ’s network elements; (b) adopt technical specifications for networks or systems to prevent access to its network elements of, or interoperability with, a network or system of the dominant carrier . (4) Without limiting the scope of a network element access agreement , such agreement- (a) must provide for a detailed schedule of itemized charges negotiated between the dominant carrier and the requesting carrier for each network element included in the agreement; (b) subject to section 48(4) of the Act , must provide that a dominant carrier has to provide unbundled access to its network elements in a manner that would allow a requesting carrier to combine such elements; (c) subject to section 48(5) of the Act , must provide for physical co-location of equipment necessary for access to unbundled network elements at the premises of the dominant carrier , if such network elements relate to the market segment in which the carrier is dominant; and (d) may provide for virtual or any other form of co-location if a dominant carrier is able to demonstrate to the Authority that physical co-location is not practical for technical reasons or because of space limitations. (5) The rate for access to network elements is just and reasonable if such rate- (a) is based on the cost (determined without reference to a rate-of-return or other rate-based proceeding) of providing the network element ; (b) is non-discriminatory; and (c) if it includes a profit, such profit is reasonable."
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "Infrastructure-sharing agreements",
+      "content": "(1) A requesting carrier has the right to require a dominant carrier , by means of an infrastructure-sharing request to- (a) lease any component of the dominant carrier ’s infrastructure; (b) install telecommunications equipment on such infrastructure; or (c) otherwise utilise such infrastructure. (2) The infrastructure-sharing request referred to in subregulation (1) must indicate whether the requesting carrier seeks - (a) active infrastructure-sharing ; or (b) passive infrastructure-sharing; or (c) a combination of passive and active infrastructure-sharing . (3) The dominant carrier must complete an assessment of its infrastructure and provide a written decision in respect of the infrastructure-sharing request referred to in subregulation (1) to the requesting carrier within 30 days from date of receipt of the request, stating- (a) whether the carrier has infrastructure available to be shared and confirmation that negotiations for an infrastructure-sharing agreement should commence; and (b) the technical requirements necessary to ensure successful connection to the dominant carrier ’s infrastructure; or (c) whether the dominant carrier refuses the infrastructure-sharing request subject thereto that the dominant carrier must give reasons for such refusal, in accordance with section 50(1) of the Act . (4) After providing a written decision referred to in subregulation (3) accepting an infrastructure-sharing request , the dominant carrier must participate in good faith negotiations with the requesting carrier to enter into an infrastructure-sharing agreement . (5) Subject to these regulations, the dominant carrier and the requesting carrier must negotiate reasonable and non-discriminatory conditions and charges that are fairly apportioned between such carriers. (6) The negotiation and signing of an infrastructure-sharing agreement must be completed no later than sixty (60) days from - (a) the date of receipt of the written decision in terms of subregulation (3) confirming the dominant carrier ’s acceptance of the infrastructure-sharing request by the requesting carrier ; or (b) the date the requesting carrier receives written confirmation of acceptance of the proposed technical requirements to connect to the dominant carrier ’s infrastructure, whichever is the earlier. (7) A dominant carrier that has entered into an infrastructure-sharing agreement in terms of these regulations must provide to all parties to such agreement timely information on the planned deployment of telecommunications services and equipment , including any software or upgrades of software integral to the use or operation of such telecommunications equipment . (8) All infrastructure-sharing agreements must be non-exclusive and non-discriminatory. (9) An infrastructure-sharing agreement must contain information on issues relevant to the dominant carrier and the requesting carrier . (10) Without limiting the generality of subregulation (9) an infrastructure-sharing agreement should include the following: (a) purpose of the infrastructure-sharing agreement ; (b) obligations of both parties; (c) duration of the agreement; (d) tariffs and billing conditions; (e) service description; (f) implementation and co-ordination; (g) access to facilities and co-operation; (h) information relating to maintenance and operation; (i) subletting and conditions; and (j) any other information pertinent to the contract between the parties. (11) For the purpose of this regulation, “ telecommunications equipment ” means equipment used by a carrier to provide telecommunications services, and includes software integral to such equipment , including upgrades."
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "Utility agreements",
+      "content": "(1) A requesting carrier has the right to require a utility by means of a written notice to lease any spare capacity available in any tower, mast, pole, duct, conduit or pipe to the requesting carrier in order to- (a) attach any telecommunications equipment to such infrastructure; or (b) lay any telecommunications wires or fibre in such infrastructure. (2) Upon receipt of a notice under subregulation (1), the utility must complete an assessment of whether it has any spare capacity available in any of its towers, masts, poles , ducts , conduits or pipes and provide a written decision to the requesting carrier within 30 days from date of receipt of the request referred to in subregulation (1), stating- (a) whether the utility has such spare capacity available to be leased and confirmation that negotiations for an infrastructure-sharing agreement should commence; and (b) the technical requirements necessary to ensure successful connection to the utility ’s towers, masts, poles , ducts , conduits or pipes; or (c) whether the utility refuses the request subject thereto that the utility must give reasons for such refusal, in accordance with section 50(7) of the Act . (3) Upon acceptance of the request referred to in subregulation (1), the utility must participate in good faith negotiations with the requesting carrier to enter into a utility agreement. (4) Subject to these regulations, the utility and the requesting carrier must negotiate reasonable and non-discriminatory conditions and charges that are fairly apportioned between the utility and carrier . (5) For purposes of subregulation (4), a rate is just and reasonable if it assures a utility the recovery of- (a) not less than the additional costs of providing attachments to its towers, masts, poles , ducts , conduits or pipes; and (b) not more than an amount determined by multiplying the percentage of the total spare capacity occupied by such attachment by the sum of the operating expenses and actual capital costs of the utility attributable to the entire tower, mast, pole, duct, conduit or pipe. (6) A utility that has entered into a utility agreement in terms of these regulations must provide timely information to all parties to such agreement on any planned deployment of services and equipment , including any software or upgrades of software integral to the use or operation of the utility ’s tower, mast, pole, duct, conduit or pipe."
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "Duty to lodge agreements with Authority",
+      "content": "(1) All signed agreement contemplated by these regulations must be submitted to the Authority within 30 days from the concluding of the agreement. (2) Unless the parties agree to a later date, all signed agreements referred to in subregulation (1) come into operation 30 days after such agreement is submitted to the Authority , unless the Authority objects to any aspect of the agreement."
+    },
+    {
+      "provision_ref": "s14",
+      "section": "14",
+      "title": "Combining agreements",
+      "content": "Nothing in these regulations may be construed as preventing carriers, dominant carriers or utilities from entering into agreements comprising a combination of any of the agreements contemplated by these regulations."
+    },
+    {
+      "provision_ref": "s15",
+      "section": "15",
+      "title": "Penalties",
+      "content": "(1) Any carrier , dominant carrier or utility that fails to submit information or adhere to any regulation, shall be guilty of contravening these regulations. (2) Without derogating from the generality of subregulation (1), where a carrier , dominant carrier or utility contravenes one or more of the regulations contained herein, the Authority may- (a) issue a written warning to that carrier , dominant carrier or utility and final date for submitting outstanding information where the licensee is guilty of not submitting information as required by these regulations; (b) impose a penalty of not more than N$500,000.00 for- (i) every failure by a licensee to comply with any requirement or obligation contained in these regulations; (ii) each submission or causing the submission of false or misleading information to the Authority ; or (iii) every failure to submit any documents or information as required pursuant to a written warning issued in terms of paragraph (a); or (c) take any other measure the Authority regards as reasonable in the circumstances. (3) Any amount of penalty payable in terms of paragraphs (b) or (c) of subregulation (2) constitutes a debt due to the Authority by the carrier , dominant carrier , utility or other person involved and may be recovered by the Authority by means of proceedings instituted in any competent court. (4) Notwithstanding subregulations (1) and (2), the Authority may waive the payment of or refund the whole or any part of a penalty payable. (5) Before imposing any penalty as contemplated by paragraphs (b), (c) or (d) of subregulation (2), the Authority must give an affected carrier , dominant carrier , utility or other person the opportunity to be heard, where after the Authority may- (a) decide not to impose any penalty; or (b) impose such penalty the Authority deems fit."
+    },
+    {
+      "provision_ref": "s16",
+      "section": "16",
+      "title": "Offences",
+      "content": "(1) A carrier , dominant carrier , utility or other person who- (a) fails to submit, during a time specified by the Authority , information requested by the Authority pursuant to these regulations; (b) submits or publishes false or misleading information about its infrastructure, network elements or any other matter; (c) obstructs or prevents an inspection or investigation carried out by the Authority pursuant to these regulations; (d) engages in any act or omission whose effect would be to defeat the purposes of these regulations, commits an offence, which the Authority will prosecute in accordance with the Act . [The subregulation number (1) must be in error; there are no other subregulations in regulation 16.]"
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "Transitional arrangements",
+      "content": "(1) Within 90 days from the date these regulations came into force, all carriers, dominant carriers and utilities must submit to the Authority full details of existing carrier infrastructure , network elements or spare capacity owned or leased by such carrier , dominant carrier or utility . (2) Subject to subregulation (5), agreements contemplated by these regulations that were concluded before the regulations came into force must remain in force until the date of termination as stipulated in such agreements subject thereto that- (a) charges negotiated in terms of those agreements remain unchanged; (b) any provision in the existing agreement for automatic renewal is of no force and effect; (c) such agreement complies with the Act ; and (d) after such agreements lapsed, new agreements must be negotiated complying with these regulations. (3) Agreements contemplated by these regulations that were concluded before these regulations came into force must be submitted to the Authority within 90 days from the date these regulations came into force. (4) The Authority must assess all agreements referred to in subregulation (3) and must determine within 120 days after they were submitted to the Authority whether any provision of such agreements contravenes the Act or is unjust or discriminatory in relation to any carrier or utility , or is designed to exclude any carrier or utility . (5) Notwithstanding subregulation (2) any provision in an agreement referred to in subregulation (3)- (a) that contravenes the Act , is void to the extent of such contravention; (b) that is unjust or discriminatory in relation to any carrier or utility , or is designed to exclude any carrier or utility is unenforceable. History of this document 15 November 2017 this version Consolidation 04 October 2016 Published in Government Gazette 6141 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Act",
+      "definition": "the Communications Act, 2009 (Act No. 8 of 2009 )",
+      "source_provision": "s1"
+    },
+    {
+      "term": "active infrastructure-sharing",
+      "definition": "sharing of infrastructure contained in the active layer of the network",
+      "source_provision": "s1"
+    },
+    {
+      "term": "active layer of the network",
+      "definition": "the active electronic network elements as defined in section 48(9) of the Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Authority",
+      "definition": "the Communications Regulatory Authority of Namibia as established in terms of Section 4 of the Communications Act , 2009 ( Act No. 8 of 2009 )",
+      "source_provision": "s1"
+    },
+    {
+      "term": "carrier",
+      "definition": "a carrier contemplated in section 47(3) of the Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "carrier infrastructure",
+      "definition": "poles , ducts and conduits belonging to a carrier",
+      "source_provision": "s1"
+    },
+    {
+      "term": "carrier infrastructure access agreement",
+      "definition": "an agreement contemplated by section 48(1)(a) of the Act entered into between a carrier infrastructure acquirer and a carrier infrastructure provider to enable such acquirer to have access to any carrier infrastructure of such provider",
+      "source_provision": "s1"
+    },
+    {
+      "term": "carrier infrastructure acquirer",
+      "definition": "a carrier who seeks access to the carrier infrastructure of a carrier infrastructure provider",
+      "source_provision": "s1"
+    },
+    {
+      "term": "carrier infrastructure provider",
+      "definition": "a carrier who has a duty to provide carrier infrastructure in accordance with section 48(1) of the Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "conduits",
+      "definition": "any protective tube, pipe, or tunnel through which wires, fibres, cables or similar items can pass",
+      "source_provision": "s1"
+    },
+    {
+      "term": "dominant carrier",
+      "definition": "a carrier which the Authority has determined in accordance with section 78 of the Act to hold a dominant position in the market for telecommunications services",
+      "source_provision": "s1"
+    },
+    {
+      "term": "ducts",
+      "definition": "a system of distribution and feeder ducts or a network of raceways embedded in concrete",
+      "source_provision": "s1"
+    },
+    {
+      "term": "infrastructure-sharing agreement",
+      "definition": "an agreement contemplated by section 50(1) of the Act between a dominant carrier and a requesting carrier to enable the requesting carrier to- (a) lease infrastructure of the dominant carrier",
+      "source_provision": "s1"
+    },
+    {
+      "term": "infrastructure-sharing request",
+      "definition": "a written request from a requesting carrier to a dominant carrier to provide active or passive infrastructure sharing of facilities. “ interconnection point ” means the technically feasible point of interconnection between carriers’ respective networks where an originating carrier ’s traffic is deemed to be handed off to the terminating carrier ’s network for the purpose of determining reciprocal compensation",
+      "source_provision": "s1"
+    },
+    {
+      "term": "network element",
+      "definition": "a network element referred to in section 48(9) of the Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "network element access agreement",
+      "definition": "an agreement contemplated by section 48(2) of the Act entered into between a requesting carrier and a dominant carrier to enable the requesting carrier to have access to any network element equipment or facility of the dominant carrier",
+      "source_provision": "s1"
+    },
+    {
+      "term": "passive structure-sharing",
+      "definition": "sharing of infrastructure contained in the physical layer of the network",
+      "source_provision": "s1"
+    },
+    {
+      "term": "physical co-location",
+      "definition": "a type of co-location where a carrier in control of a building, tower or other structure in or on which that carrier ’s switches, antennas or other equipment are accommodated, allows another carrier to also operate those switches, antennas or equipment",
+      "source_provision": "s1"
+    },
+    {
+      "term": "poles",
+      "definition": "structures designed to support antennas or aerials to enable telecommunications services and includes towers, masts or similar structures",
+      "source_provision": "s1"
+    },
+    {
+      "term": "reciprocal compensation agreement",
+      "definition": "an agreement between two carriers in accordance with section 48(1)(b) of the Act in which each carrier receives compensation from the other for the transport and termination on each carrier ’s infrastructure of telecommunications that originate on any portion of the telecommunications network of the other carrier , regardless of the network technology utilised by the carrier to transport or terminate the telecommunications",
+      "source_provision": "s1"
+    },
+    {
+      "term": "requesting carrier",
+      "definition": "a carrier requesting from a dominant carrier access to its network elements on an unbundled basis at any technically feasible point",
+      "source_provision": "s1"
+    },
+    {
+      "term": "spare capacity",
+      "definition": "capacity exceeding the capacity necessary to meet normal demands that a utility could objectively justify in operational or economic terms",
+      "source_provision": "s1"
+    },
+    {
+      "term": "termination",
+      "definition": "the switching of telecommunications at the terminating carrier ’s efice switch, or equivalent facility , and delivery of such traffic to the called party",
+      "source_provision": "s1"
+    },
+    {
+      "term": "transport",
+      "definition": "the transmission, and any necessary tandem switching of telecommunications from the interconnection point between carriers to the terminating carrier ’s efice switch that directly serves the called party, or equivalent facility provided by a carrier",
+      "source_provision": "s1"
+    },
+    {
+      "term": "utility",
+      "definition": "a utility referred to in section 50(11) of the Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "virtual co-location",
+      "definition": "co-location where equipment is placed in the equipment line-up of a carrier and is maintained by that carrier .",
+      "source_provision": "s1"
+    }
+  ]
+}

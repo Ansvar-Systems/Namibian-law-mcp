@@ -1,0 +1,72 @@
+{
+  "id": "na-act-gn-2005-65",
+  "type": "statute",
+  "title": "Vessel Monitoring Regulations, 2005",
+  "title_en": "Vessel Monitoring Regulations, 2005",
+  "short_name": "Vessel Monitoring Regulatio...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/gn/2005/65/eng@2017-11-15",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "In these regulations unless the context indicates otherwise, any expression to which a meaning has been assigned in the Marine Resources Act, 2000 (Act No. 27 of 2000 ), (hereinafter referred to as “the Act”) bears that meaning and unless the context indicates otherwise- “ ALC ” means an automatic location communicator contemplated in regulation 3; “ Fisheries Monitoring Centre ” means the fisheries monitoring centre established in terms of regulation 5 [The definition of “Fisheries Monitoring Centre” is inserted by GN 2/2014 . There should be a semicolon at the end.] “ tampering ” includes any modification, change or any other action that may cause the ALC to function otherwise than in accordance with any requirements determined in terms of these regulations; “ operates ” means to catch fish, to attempt to catch fish or to be at sea outside a port; [The definition of “vessel monitoring operations centre” is deleted by GN 2/2014 .]"
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Vessel must have ALC installed",
+      "content": "(1) Subject to subregulation (5) and regulation 7(2), any vessel licensed in terms of section 40(1) of the Act, whose master has been instructed in terms of subregulation (3) must have an ALC installed on that vessel which is registered in accordance with the provisions of these regulations. [In the Government Gazette , the regulation number “2” is mistakenly placed inside brackets. This obvious error has been corrected here.] (2) From the date on which the duty referred to in subregulation (1) arises, the master of the vessel concerned that- (a) does not have an ALC installed and registered in accordance with the provisions of these regulations; (b) subject to regulation 4, operates with an ALC that does not function in accordance with any requirements determined in terms of these regulations; (c) operates with an ALC that has been tampered with; (d) operates while the master does not comply with regulation 4, is guilty of an offence and liable to the penalty mentioned in section 52(4) of the Act. (3) The Minister may in writing instruct the master of any vessel licensed in terms of section 40(1) of the Act, to install an ALC on that vessel before the date referred to in subregulation (4). (4) The date on which the ALC must be installed is- (a) one month from the date on which the instruction is handed to the master concerned; (b) if the instruction is sent by post, from the date on which such instruction would have been received by the master in the ordinary course of post. (5) The Minister may on application grant an exemption in respect of any vessel from complying with these regulations subject to such conditions as he or she may think fit."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Requirements and approval for an ALC",
+      "content": "(1) An ALC is an electronic system that transmits such information relating to the position and activities of the vessel concerned as the Permanent Secretary may determine, so that such information can be received at the Fisheries Monitoring Centre . (2) An ALC must comply with such technical requirements as the Permanent Secretary may determine. (3) The requirements referred to in subregulation (2) may relate to- (a) the frequency on which the ALC must transmit; (b) the manner in which the data must be modulated on the frequency concerned; (c) the duty to transmit the data through a specific third party, which may use any system of further relaying the signal, including the use of a satellite as may be determined by the Permanent Secretary; (d) the format of the data that must be transmitted by the ALC ; (e) the encoding, encryption, transformation or addition of checksums that must be applied or added to the data in order to ensure the accuracy, validity and integrity of the transmitted data; (f) the sealing of the ALC or any other measures that must be taken in order to prevent tampering with the ALC , or to ensure that if the ALC has been tampered with, such tampering can be detected. (4) The Permanent Secretary may approve a specific make or model of ALC and may require that every ALC functions identically to that make and model. (5) A request to register the ALC to be used on a specific vessel must be addressed to the Permanent Secretary by completing a form that conforms as closely as possible to Annexure A. (6) If the ALC complies with the requirements determined by the Permanent Secretary, he or she must register it and must issue a certificate that conforms as closely as possible to Annexure B. (7) Despite subregulation (2) and (3), the ALC fitted on the vessel, to which these regulations apply, must enable the vessel to continuously collect and transmit, at any time, to the Fisheries Monitoring Centre the following data: (a) the vessel’s identification; (b) the most recent geographical position of the vessel which is the longitude and the latitude with a margin of error lower than 500 meters with a confidence interval of 99 percent; and (c) the date and time that the position of vessel, contemplated to in paragraph (b), is notified [subregulation (7) inserted by GN 2/2014 ]"
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Duty of master under certain circumstances",
+      "content": "(1) The master of a vessel, to which these regulations apply, must ensure that the vessel of which he or she is the master and which has a defective ALC device communicates to the Fisheries Monitoring Centre daily, by radio, facsimile, telex or other means, the following data: (a) the vessel’s identification; (b) the most recent geographical position of the vessel which is the longitude and the latitude with a margin of error lower than 500 meters with a confidence interval of 99 percent; (c) the date and time that the position of vessel contemplated in paragraph (b), is notified; and (d) the vessel’s speed and course. [subregulation (1) substituted by GN 2/2014 ] (1a) If an ALC device stops functioning or has a technical failure during harvesting operations lasting more than a month, the repair or the replacement of the ALC device must be made as soon as the vessel, to which these regulations apply, enters a port. [subregulation (1a) inserted by GN 2/2014 ] (1b) The vessel contemplated in subregulation (1a) may not begin harvesting operations until the repair or replacement referred to in that subregulation has been made, unless the vessel is exempted from this requirement under regulation 2(5). [subregulation (1b) inserted by GN 2/2014 ] (1c) A person who fails to comply with subregulation (1) or (1b) is guilty of an offence and liable on conviction to a penalty referred to in section 52(4) of the Act. [subregulation (1c) inserted by GN 2/2014 ] (2) If the ALC fails to function in accordance with the requirements determined in accordance with these regulations, for a period of seven days, or such longer period as the Permanent Secretary may allow, the master must ensure that all fishing gear on the vessel is stowed or rendered inoperative as contemplated in section 49 of the Act."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Fisheries Monitoring Centre",
+      "content": "(1) The Minister must establish a Fisheries Monitoring Centre that must contain such receivers and other equipment to receive and record the information transmitted from all the vessels by the ALC ’s that have been approved in terms of these regulations. [The plural word “ALCs” should not contain an apostrophe.] (2) The Fisheries Monitoring Centre must be housed in a room that is locked in a secure manner. (3) Subject to subregulation (5), only persons employed in the Ministry who have been authorised to enter the Fisheries Monitoring Centre by the Permanent Secretary may enter the centre. (4) A list with the names of all the persons authorised in terms of subregulation (3) to enter the centre must be put on the door of the room housing the centre. (5) The Permanent Secretary may authorise any specific person in writing to enter the centre on a specific occasion."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Confidentiality of information collected",
+      "content": "(1) The information received and recorded by the equipment in the Fisheries Monitoring Centre must be treated as confidential and may only be revealed - (a) to any person who is gathering information in order to decide whether criminal proceedings must be instituted against any person; (b) to any prosecutor or legal representative who requires such information for the purpose of prosecuting or defending criminal proceedings; (c) to any person if the revealing of the information to that person is necessary to comply with any obligation of Namibia under international law; (d) when the revealing of such information is necessary in order to conduct search or rescue operations in relation to any vessel; (e) if the master of the vessel concerned gives permission for the revealing of the information concerned. (2) A person who obtains information for a purpose referred to in subregulation (1), may only use that information for the purpose concerned and may not reveal it to any person unless such revealing is necessary for the purpose concerned. (3) Any person who reveals or uses information contrary to the provisions of this regulation is guilty of an offence and liable to the penalty mentioned in section 52(4) of the Act."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Laws regulating the possession and operation of radio apparatus",
+      "content": "(1) It is the duty of the master to ensure that any licence, certificate, or any other approval or authorization required in terms of any other law relating to the possession and control of equipment that transmits or receives radio waves or microwaves is obtained and that any fees relating thereto are paid. (2) If a licence, certificate, approval or authorization referred to in subregulation (1) is not granted for any reason other than the fact that the relevant fees have not been paid, the provisions of these regulations do not apply to the vessel concerned. Annexures A - B Forms [Editorial note: The forms have not been reproduced.] History of this document 15 November 2017 this version Consolidation 14 June 2005 Published in Government Gazette 3446 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "ALC",
+      "definition": "an automatic location communicator contemplated in regulation 3",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Fisheries Monitoring Centre",
+      "definition": "the fisheries monitoring centre established in terms of regulation 5 [The definition of “Fisheries Monitoring Centre” is inserted by GN 2/2014 . There should be a semicolon at the end.] “ tampering ” includes any modification, change or any other action that may cause the ALC to function otherwise than in accordance with any requirements determined in terms of these regulations",
+      "source_provision": "s1"
+    },
+    {
+      "term": "operates",
+      "definition": "to catch fish, to attempt to catch fish or to be at sea outside a port",
+      "source_provision": "s1"
+    }
+  ]
+}

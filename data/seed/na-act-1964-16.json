@@ -1,0 +1,72 @@
+{
+  "id": "na-act-1964-16",
+  "type": "statute",
+  "title": "Tear-gas Act, 1964",
+  "title_en": "Tear-gas Act, 1964",
+  "short_name": "Tear-gas Act, 1964",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/1964/16/eng@1964-03-06",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "In this Act, unless the context otherwise indicates ­ “ Minister ” means the Minister of Justice; “ Republic ” includes the territory of South-West Africa; “ tear-gas ” means any substance, whether a solid, liquid, vapour or gas, or any combination of such substances used or intended to be used as a lachrymator."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Prohibition of manufacture or importation of tear-gas or certain articles without a permit",
+      "content": "(1) No person shall manufacture in or import into the Republic any tear-gas or any article used or intended to be used for releasing tear-gas , except under the authority of and in accordance with the restrictions or conditions stated in a permit issued by the Minister or any person authorized by him. (2) The Minister or any person authorized by him may at any time cancel, amend or suspend any permit issued under sub-section (1), if he is satisfied that any restriction or condition attached to the permit has not been observed, or if the holder of the permit has been convicted of an offence under this Act, or if he deems it necessary or expedient in the public interest."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Prohibition of possession of tear-gas and certain articles",
+      "content": "(1) No person shall be in possession of tear-gas or any article used or intended to be used for releasing tear-gas - (a) unless he is the holder of a permit issued under section two or is in possession of the tear-gas or article while performing his duties in the service of any such holder; or (b) unless he falls within any class or category of persons in respect of which the Minister has by notice in the Gazette granted permission to be in possession thereof. (2) Any permission under paragraph (b) of sub-section (1) may be granted subject to such restrictions or conditions as may be specified in the notice and may at any time be withdrawn by the Minister by like notice."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Inspection of factory or place where tear-gas or certain articles are manufactured or stored",
+      "content": "Any magistrate or police officer or any other person authorized by the Minister may at any time enter any premises used as a factory or place for the manufacture or storing of tear-gas or any article used or intended to be used for releasing tear-gas and may perform thereon such acts as he may deem it necessary in order to determine whether the provisions of this Act have been complied with."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Offences",
+      "content": "Any person who - (a) manufactures in or imports into the Republic any tear-gas or any article used or intended to be used for releasing tear-gas otherwise than under the authority of or in accordance with the restrictions or conditions stated in a permit issued under section two; (b) is in possession of tear-gas or any article used or intended to be used for releasing tear-gas in contravention of the provisions of section three or, in the case of a person entitled to be in possession thereof by virtue of any permission granted under that section, fails to observe any restriction or condition attached to such permission; (c) hinders, obstructs or delays any other person in the exercise of his powers under this Act, is guilty of an offence and liable on conviction - (i) in the case of an offence referred to in paragraph (a) or (b), to a fine not exceeding eight hundred rand or in default of payment to imprisonment for a period not exceeding two years or to both such fine and such imprisonment or to such imprisonment without the option of a fine; (ii) in the case of any offence referred to in paragraph (c), to a fine not exceeding two hundred rand or in default of payment to imprisonment for a period not exceeding six months or to both such fine and such imprisonment or to such imprisonment without the option of a fine."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Application of Act to South-West Africa",
+      "content": "This Act shall apply also in the territory of South-West Africa (including the Eastern Caprivi Zipfel referred to in section three of the South-West Africa Affairs Amendment Act, 1951 (Act No. 55 of 1951 )), and in relation to all persons in that portion of the said territory known as the “Rehoboth Gebiet” and defined in the First Schedule to Proclamation No. 28 of 1923 of the said territory."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Short title and date of commencement",
+      "content": "This Act shall be called the Tear-gas Act, 1964, and shall come into operation on a date to be fixed by the State President by proclamation in the Gazette. History of this document 01 January 1965 Commenced by Commencement of the Tear-gas Act, 1964 06 March 1964 this version Published in South African Government Gazette 738 22 February 1964 Assented to Related documents Is commenced by Commencement of the Tear-gas Act, 1964 [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Minister",
+      "definition": "the Minister of Justice",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Republic",
+      "definition": "the territory of South-West Africa",
+      "source_provision": "s1"
+    },
+    {
+      "term": "tear-gas",
+      "definition": "any substance, whether a solid, liquid, vapour or gas, or any combination of such substances used or intended to be used as a lachrymator.",
+      "source_provision": "s1"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "na-act-1991-16",
+  "type": "statute",
+  "title": "Namibia Red Cross Act, 1991",
+  "title_en": "Namibia Red Cross Act, 1991",
+  "short_name": "Namibia Red Cross Act, 1991",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/1991/16/eng@1991-12-07",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "In this Act, unless the context otherwise indicates - “ Fundamental Principles of the Red Cross ” means the Fundamental Principles of the Red Cross proclaimed by the Twentieth International Conference of the Red Cross held in Vienna in 1965, and which are - (a) humanity; (b) impartiality; (c) neutrality; (d) indepencence; [The word “independence” is misspelt in the Government Gazette, as reproduced above.] (e) voluntary service; (f) unity; (g) universality; “ Geneva Conventions ” means the four Geneva Conventions of 12 August 1949, being - (a) the First Geneva Convention, for the amelioration of the condition of the wounded and sick in armed forces in the field; (b) the Second Geneva Convention, for the amelioration of the condition of wounded, sick and shipwrecked members of armed forces at sea; (c) the Third Geneva Convention, relative to the treatment of prisoners of war; and (d) the Fourth Geneva Convention, relative to the protection of civilian persons in time of war; “ Namibia Red Cross ” means the association existing under that name on the date of commencement of this Act, and incorporated in terms of section 21 of the Companies Act, 1973 (Act 61 of 1973 ) under reference number 21/79/115. [The Companies Act 61 of 1973 has been replaced by the Companies Act 28 of 2004 , but Act 61 of 1973 is the correct historical reference here.]"
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Recognition of Namibia Red Cross",
+      "content": "(1) The Namibia Red Cross is hereby recognised as a voluntary aid society, auxiliary to the public authorities, for the purposes of the Geneva Conventions , the Fundamental Principles of the Red Cross , and otherwise. (2) The independent and voluntary nature of the Namibia Red Cross shall at all times be respected in accordance with the resolution relating to National Red Cross Societies adopted by the General Assembly of the United Nations on 19 November 1946. (3) The Namibia Red Cross shall be the only Red Cross Society in Namibia. (4) The provisions of this section shall bind the State."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Use of name and emblem",
+      "content": "(1) No person other than the Namibia Red Cross shall without its consent use in connection with any trade or business or for any other purpose whatsoever - (a) the name of the Namibia Red Cross or any other name in which the expression “Red Cross”, “Geneva Cross” or “Red Crescent” appears or which corresponds in such a manner therewith that it could be misleading; (b) the emblem used by Red Cross Societies or Red Crescent Societies in accordance with the Geneva Conventions , consisting of a red cross or red crescent on a white ground. (2) Any person who contravenes the provisions of subsection (1), shall be guilty of an offence and liable on conviction to a fine not exceeding R1 000 or to imprisonment for a period not exceeding three months or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Short title",
+      "content": "This Act shall be called the Namibia Red Cross Act, 1991. History of this document 07 December 1991 this version Published in Government Gazette 313 Commenced 28 November 1991 Assented to Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Fundamental Principles of the Red Cross",
+      "definition": "the Fundamental Principles of the Red Cross proclaimed by the Twentieth International Conference of the Red Cross held in Vienna in 1965, and which are - (a) humanity",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Geneva Conventions",
+      "definition": "the four Geneva Conventions of 12 August 1949, being - (a) the First Geneva Convention, for the amelioration of the condition of the wounded and sick in armed forces in the field",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Namibia Red Cross",
+      "definition": "the association existing under that name on the date of commencement of this Act, and incorporated in terms of section 21 of the Companies Act, 1973 (Act 61 of 1973 ) under reference number 21/79/115. [The Companies Act 61 of 1973 has been replaced by the Companies Act 28 of 2004 , but Act 61 of 1973 is the correct historical reference here.]",
+      "source_provision": "s1"
+    }
+  ]
+}

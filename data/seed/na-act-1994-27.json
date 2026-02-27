@@ -1,0 +1,66 @@
+{
+  "id": "na-act-1994-27",
+  "type": "statute",
+  "title": "Reciprocal Service of Civil Process Act, 1994",
+  "title_en": "Reciprocal Service of Civil Process Act, 1994",
+  "short_name": "Reciprocal Service of Civil...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/1994/27/eng@1994-11-29",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "In this Act, unless the context otherwise indicates - “ designated country ” means a country declared as such under section 2(1); “ Minister ” means the Minister of Justice; “ process ” means any process in a civil matter and includes any document relating to such matter."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Designation of countries for purposes of this Act",
+      "content": "(1) The Minister may, for the purposes of sections 3 and 4, by notice in the Gazette declare as a designated country any country with which Namibia has in terms of the Namibian Constitution entered into an agreement providing for the reciprocal service of civil process . (2) The Minister may by notice in the Gazette withdraw any declaration made under subsection (1)."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Service of process received from designated country",
+      "content": "(1) Whenever any process , other than a process relating to the enforcement of a civil judgment, purporting to be issued by an officer of a competent court of law in a designated country , is received from such officer by any magistrate within whose area of jurisdiction such process is sought to be served, such magistrate shall, if he or she is satisfied that the process was lawfully issued, notwithstanding the provisions of any other law relating to the service of process received from a foreign country, endorse such process for service, whereupon it shall be served as if it was a process issued out of the court of that magistrate. (2) Any process not drawn up in the English language shall not be endorsed in terms of subsection (1) unless it is accompanied by a sworn translation thereof in English."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Service of process in designated country",
+      "content": "Notwithstanding the provisions of any other law relating to the service of any process outside Namibia, any process , other than a process relating to the enforcement of a civil judgment, may be issued by the registrar of the High or Supreme Court or by any clerk of the magistrate’s court, as the case may be, without leave of the court in question."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Authentication",
+      "content": "Notwithstanding the provisions of any other law, the authentication of any process for the purposes of the service or a return of service thereof shall not be required if such process is issued within a designated country and was certified to be an original process or a true copy or translation thereof, as the case may be."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Short title",
+      "content": "This Act shall be called the Reciprocal Service of Civil Process Act, 1994. History of this document 29 November 1994 this version Published in Government Gazette 977 Commenced 16 November 1994 Assented to Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "designated country",
+      "definition": "a country declared as such under section 2(1)",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister of Justice",
+      "source_provision": "s1"
+    },
+    {
+      "term": "process",
+      "definition": "any process in a civil matter and includes any document relating to such matter.",
+      "source_provision": "s1"
+    }
+  ]
+}

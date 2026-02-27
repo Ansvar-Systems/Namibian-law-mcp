@@ -1,0 +1,62 @@
+{
+  "id": "na-act-gn-2001-70",
+  "type": "statute",
+  "title": "Namibia Library and Information Service Regulations, 2001",
+  "title_en": "Namibia Library and Information Service Regulations, 2001",
+  "short_name": "Namibia Library and Informa...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/gn/2001/70/eng@2017-11-15",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Definition",
+      "content": "In these regulations any expression to which a meaning has been assigned in the Act bears that meaning and- “ the Act ” means the Namibia Library and Information Service Act, 2000 (Act No. 4 of 2000 )."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Information pertaining to documents to be deposited",
+      "content": "(1) Every producer must in respect of each document which is intended to be generally available, and which is in terms of section 8(2) of the Act required to be deposited, furnish information pertaining to- (a) the title of the document; (b) the international standard number of the document; (c) the publication details of the document, namely: (i) name and address of the publisher; (ii) any restrictions on availability; (iii) the purchase-price; (iv) the edition number or reprint number; (v) the language in which published; (d) the number of copies published; (e) the subject covered by the document; (f) the audience for which the document is intended; and (g) the particulars of the author of the document, except where that information is not applicable. (2) The information furnished in terms of subregulation (1)(d) may not, except with the prior written approval of the producer, be used for purposes other than that contemplated in section 11(2) of the Act . (3) For the purposes of subregulation (1) “author” means a person responsible for, or contributing to, the creation of a document."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Format and quality of documents to be deposited",
+      "content": "A document required to be deposited in terms of section 8(2) of the Act must be in the same format and of the same quality as the document published."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Time of deposit for certain categories of documents",
+      "content": "(1) A producer must in respect of a serial document which is intended to be generally available and which is in terms of section 8(2) of the Act required to be deposited deposit such document before the next issue of that document becomes generally available, but in any event not later than 7 days from the date on which the first mentioned document became so available. (2) For the purposes of subregulation (1) “serial document” means a document usually having a numerical or chronological designation and which is issued in successive parts that is intended to continue indefinitely, whatever the intervals at which it is issued."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Number of copies to be deposited in respect to reprints of documents",
+      "content": "A producer must in respect of a reprint of a document which is intended to be generally available and which is in terms of section 8(2) of the Act required to be deposited, deposit, if that producer is- (a) a government office, two copies thereof with the National Archives; (b) not a government office, one copy thereof with the National Library."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Exemption from legal deposit",
+      "content": "(1) The following categories of documents are exempted from legal deposit contemplated in section 8(2) of the Act : (a) artistic works (including any portfolios thereof), and photograph albums without any text other than the title of that work or album, a date and place, and the artist’s name; (b) advertisements, catalogues, price lists and leaflets which arc aimed solely at financial gain; (c) notes, vouchers or stamps bearing a monetary value; (d) cards of a commemorative nature; (e) almanacs, calendars and diaries that indicate days (including holidays) and months only, but without any photographs or illustrations. (2) For the purposes of this regulation “artistic work” means any painting, drawing, engraving or photograph."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Short title",
+      "content": "These regulations are called the Namibia Library and Information Service Regulations. History of this document 15 November 2017 this version Consolidation 20 April 2001 Published in Government Gazette 2519 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "the Act",
+      "definition": "the Namibia Library and Information Service Act, 2000 (Act No. 4 of 2000 ).",
+      "source_provision": "s1"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "na-act-1977-40",
+  "type": "statute",
+  "title": "Recognition and Enforcement of Foreign Arbitral Awards Act, 1977",
+  "title_en": "Recognition and Enforcement of Foreign Arbitral Awards Act, 1977",
+  "short_name": "Recognition and Enforcement...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/1977/40/eng@1977-04-13",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "In this Act, unless the context otherwise indicates - “ certified copy ” means a copy authenticated in the manner in which foreign documents may be authenticated to enable them to be produced in any court ; “ court ” means a court of a provincial or local division of the Supreme Court of South Africa; “ foreign arbitral award ” means an arbitral award - (a) made outside the Republic; or (b) the enforcement of which is not permissible in terms of the Arbitration Act, 1965 (Act No. 42 of 1965 ), but is not in conflict with the provisions of this Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Foreign arbitral award may be made order of court and enforced as such",
+      "content": "(1) Any foreign arbitral award may, subject to the provisions of sections 3 and 4, be made an order of court by any court . (2) Where any amount payable in terms of such award is expressed in a currency other than the currency of the Republic, the award shall be made an order of court as if it were an award for such amount in the currency of the Republic as, on the basis of the rate of exchange prevailing at the date of the award, is equivalent to the amount so payable. (3) Any such award which has under subsection (1) been made an order of court , may be enforced in the same manner as any judgment or order to the same effect."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Application for award to be made order of court",
+      "content": "Application for an order of court mentioned in section 2(1) shall be made to any court and shall - (a) be accompanied by - (i) the original foreign arbitral award concerned and the original arbitration agreement in terms of which that award was made, authenticated in the manner in which foreign documents may be authenticated to enable them to be produced in any court ; or (ii) a certified copy of that award and of that agreement; and (b) if that award or agreement is in any language other than one of the official languages of the Republic, be accompanied by a sworn translation thereof into one of such official languages, authenticated in the manner in which foreign documents may be authenticated to enable them to be produced in any court . [The official language of Namibia is now English only (Namibian Constitution, Art 3(1)).]"
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "When order of court may be refused",
+      "content": "(1) A court may refuse to grant an application for an order of court in terms of section 3 if - (a) the court finds that - (i) a reference to arbitration is not permissible in the Republic in respect of the subject-matter of the dispute concerned; or (ii) enforcement of the award concerned would be contrary to public policy in the Republic; or (b) the party against whom the enforcement of the award concerned is sought, proves to the satisfaction of the court that - (i) the parties to the arbitration agreement concerned had, under the law applicable to them, no capacity to contract, or that the said agreement is invalid under the law to which the parties have subjected it or of the country in which the award was made; or (ii) he did not receive the required notice of the appointment of the arbitrator or of the arbitration proceedings concerned or was otherwise not able to present his case; or (iii) the award deals with a dispute not contemplated by or falling within the provisions of the relevant reference to arbitration, or that it contains decisions on matters beyond the scope of the reference to arbitration: Provided that if the decisions on matters referred to arbitration can be separated from those on matters not so referred, that part of the award which contains decisions on matters referred to arbitration may be made an order of court under section 2(1); or (iv) the constitution of the arbitration tribunal concerned was or the arbitration proceedings concerned were not in accordance with the relevant arbitration agreement or with the law of the country in which the arbitration took place; or (v) the award has not yet become binding on the parties, or has been set aside or suspended by a competent authority of the country in which, or under the law of which, the award was made. (2) If, on an application in terms of section 3, the court is satisfied that an application for the setting aside or suspension of the award has been made to a competent authority of the country in which, or under the law of which, the award was made, the court may in its discretion postpone the hearing of the said application in terms of section 3, to such date as it may determine, and may thereupon, on the application of the party seeking to enforce the award, order the party against whom the enforcement is sought, to give suitable and specified security."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Short title",
+      "content": "This Act shall be called the Recognition and Enforcement of Foreign Arbitral Awards Act, 1977. History of this document 13 April 1977 this version Published in South African Government Gazette 5504 Commenced 25 March 1977 Assented to Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "certified copy",
+      "definition": "a copy authenticated in the manner in which foreign documents may be authenticated to enable them to be produced in any court",
+      "source_provision": "s1"
+    },
+    {
+      "term": "court",
+      "definition": "a court of a provincial or local division of the Supreme Court of South Africa",
+      "source_provision": "s1"
+    },
+    {
+      "term": "foreign arbitral award",
+      "definition": "an arbitral award - (a) made outside the Republic",
+      "source_provision": "s1"
+    }
+  ]
+}

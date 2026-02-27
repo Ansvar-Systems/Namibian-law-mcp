@@ -1,0 +1,32 @@
+{
+  "id": "na-act-gn-2014-233",
+  "type": "statute",
+  "title": "Regulations relating to exemption of certain agricultural land from section 17 of Act, 2014",
+  "title_en": "Regulations relating to exemption of certain agricultural land from section 17 of Act, 2014",
+  "short_name": "Regulations relating to exe...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/gn/2014/233/eng@2017-11-15",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "In these regulations a word or an expression to which a meaning has been given in the Act has that meaning, and unless the context otherwise indicates, “ the Act ” means the Agricultural (Commercial) Land Reform Act, 1995 (Act No. 6 of 1995 )."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Exemption of certain agricultural land from section 17 of Act",
+      "content": "Section 17(1) and (2) of the Act does not apply where agricultural land is alienated in accordance with the administration of a deceased estate to an heir or legatee of such estate, except where that heir or legatee is a company or close corporation. History of this document 15 November 2017 this version Consolidation 14 November 2014 Published in Government Gazette 5613 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "the Act",
+      "definition": "the Agricultural (Commercial) Land Reform Act, 1995 (Act No. 6 of 1995 ).",
+      "source_provision": "s1"
+    }
+  ]
+}

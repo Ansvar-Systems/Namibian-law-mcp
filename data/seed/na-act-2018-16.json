@@ -1,0 +1,594 @@
+{
+  "id": "na-act-2018-16",
+  "type": "statute",
+  "title": "Deposit Guarantee Act, 2018",
+  "title_en": "Deposit Guarantee Act, 2018",
+  "short_name": "Deposit Guarantee Act, 2018",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/2018/16/eng@2018-12-28",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part 1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "In this Act , unless the context indicates otherwise - “ appeal board ” means the appeal board appointed under section 49; “ Authority ” means the Namibia Deposit Guarantee Authority established by section 2; “ Bank ” means the Bank of Namibia referred to in section 2 of the Bank of Namibia Act ; “ Bank of Namibia Act ” means the Bank of Namibia Act, 1997 (Act No. 15 of 1997 ); “ banking institution ” means a banking institution as defined in section 1 of the Banking Institutions Act ; “ Banking Institutions Act ” means the Banking Institutions Act, 1998 (Act No. 2 of 1998 ); “ banking services sector ” means the economic sector that engages in the banking business as defined in section 1 of the Banking Institutions Act , and includes the business of a building society as described in section 1 of the Building Societies Act ; “ Board ” means the Board of directors of the Authority referred to in section 6; “ branch of a foreign bank ” means a branch of a foreign banking institution referred to in section 19A of the Banking Institutions Act ; “ Building Societies Act ” means the Building Societies Act, 1986 (Act No. 2 of 1986 ); “ building society ” means a building society as defined in section 1 of the Building Societies Act , and provisionally or finally registered pursuant to section 4 of that Act; “ coverage limit ” means the maximum amount prescribed in terms of section 40, and payable to a depositor in accordance with this Act in respect of guaranteed deposits placed with a member institution whose deposits are unavailable ; “ deposit ” means a deposit as defined in section 1 of the Banking Institutions Act , and “ depositor ” has a corresponding meaning; “ deposit guarantee policy ” means a formal document issued by the Authority pursuant to section 23(4); “ directive ” means a directive issued by the Authority under section 47; “ director ” means a director of the Board appointed in terms of section 6; “ determination ” means a determination made by the Authority under section 57, and “ determine ” has a corresponding meaning; “ financial year ” means the financial year of the Fund referred to in section 30; “ Fund ” means the Deposit Guarantee Fund established by section 25; “ guaranteed deposit ” means the amount due to a depositor for a deposit held in a member institution whose deposits have become unavailable , including accrued interest less any part that is in excess of the coverage limit ; “ Head of the Authority ” means the Head of the Authority appointed pursuant to section 19(1) or (2); “ Insolvency Act ” means the Insolvency Act, 1936 (Act No. 24 of 1936 ); “ insolvent ”, in relation to a banking institution , branch of a foreign bank or building society , means a banking institution , branch of a foreign bank or building society - (a) whose liabilities exceed its assets; or (b) which has committed an act of insolvency in terms of the Insolvency Act ; “ liquidation ” means either provisional or final liquidation; “ liquidator ” means a person appointed under the Insolvency Act with the duty to take charge of the assets and liabilities of an insolvent member institution ; “ member institution ” means a banking institution , a building society and a branch of a foreign bank that is a member of the Scheme ; “ Minister ” means the Minister responsible for Finance; “ prescribed ” means prescribed by regulations made under section 56 or rules made under section 48(18); “ unavailable ”, in relation to a deposit , means a situation where a depositor is unable to withdraw or access his or her deposit when it is due and payable from a member institution in any of the following circumstances: (a) a liquidation order has been made by a court against a member institution ; (b) in the case of a member institution that is a banking institution or a branch of a foreign bank , on cancellation of the authorisation to conduct banking business pursuant to section 15(1) or 17 of the Banking Institutions Act ; (c) in the case of a member institution that is a building society on cancellation of the registration of the society pursuant to section 10(1) or (3) of the Building Societies Act ; (d) in the case of a member institution that is a banking institution or a branch of a foreign bank , when the Bank so determines in the exercise of its powers under section 56 of the Banking Institutions Act ; and (e) any other circumstances as the Bank may determine , with the approval of the Minister ; “ Scheme ” means the Deposit Guarantee Scheme established in terms of section 22; and “ this Act ” includes regulations, rules, determinations, directives and any other instrument or measure made or issued under this Act. Part 2 – NAMIBIA DEPOSIT GUARANTEE AUTHORITY"
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part 2",
+      "section": "2",
+      "title": "Establishment of Authority",
+      "content": "(1) There is established a juristic body to be known as the Namibia Deposit Guarantee Authority whose main responsibility is to manage the Scheme in accordance with the provisions of this Act and of any other relevant law. (2) In performing its functions under this Act or any other relevant law, the Authority must, subject to the provisions of this Act , act independently and impartially and must perform its functions without fear, favour or prejudice and without improper or undue interference from any person or authority."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part 2",
+      "section": "3",
+      "title": "Objective and functions of Authority",
+      "content": "Subject to this Act , the main objective of the Authority is to establish, maintain and administer a deposit guarantee scheme for the protection of depositors against the risk of loss of their deposits, and to that end to - (a) guarantee to depositors the repayment of deposits, in terms of the provisions of this Act ; (b) maintain and manage the Scheme ; (c) administer the Fund ; (d) determine and collect premiums from member institutions in accordance with the provisions of this Act ; (e) assess and levy premiums and other fees payable in accordance with the provisions of the Act; (f) assess claims made against the Fund by depositors, and to determine the eligibility and entitlement of claimants in accordance with the provisions of this Act ; (g) pay compensation to depositors, in the event of the unavailability of deposits from a member institution , in accordance with the provisions of this Act ; (h) recover any amount paid out to a member institution ’s depositors from the estate of an insolvent member institution ; (i) keep the public informed of the - (i) role and responsibilities of theAuthority in the banking services sector ; and (ii) rights of depositors and the procedures to be followed by depositors in the event of deposits of a member institution becoming unavailable ; and (j) perform any other function or duty conferred on, entrusted to or imposed on, the Authority by this Act or by any other law or do any other thing or take any other action which is expedient or necessary to ensure that the objectives of this Act are attained."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part 2",
+      "section": "4",
+      "title": "Powers of Authority",
+      "content": "In order to attain its objective and to effectively perform its functions under this Act , and in addition to any other power conferred on it by this Act , the Authority may - (a) hire, purchase or acquire such movable or immovable property as the Authority may consider necessary for the performance of its functions, and may let, sell or dispose of any property purchased or acquired in terms of this Act ; (b) enter into any agreement or memorandum of understanding with any person or an institution for the performance of any specific act or function or the rendering of specific services; (c) accept any money or goods donated or bequeathed to it for the benefit of the Fund ; (d) insure itself against any loss, damage, risk or liability which it may suffer or incur; (e) with the approval of the Minister , borrow money for the benefit of the Fund , to a maximum amount and under terms and conditions determined by the Board in consultation with the Minister ; (f) appoint employees and receive seconded personnel to posts on its staff establishment as contemplated in section 19; (g) issue a code of conduct on acceptable ethical standards or conflict of interest guidelines applicable to the Board , individual directors, the Head of the Authority , employees of the Authority and seconded staff and review the code of conduct or guidelines at least once every two years, and file a copy of such code of conduct or guidelines with the Bank and the Minister ; (h) call for and obtain assistance from member institutions and other persons that are required to render such assistance to the Authority in accordance with the provisions of this Act ; (i) issue general or specific directives in accordance with section 47; (j) make determinations in accordance with section 57; (k) request for and obtain any information or documents from member institutions and other persons that are required to provide such information or documents to the Authority in accordance with the provisions of this Act ; and (l) do anything which is necessary or expedient to perform its functions, not inconsistent with the provisions of this Act ."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part 2",
+      "section": "5",
+      "title": "Minister may issue policy guidelines to Authority",
+      "content": "(1) The Minister may issue general policy guidelines to the Authority , not inconsistent with the provisions of thisAct, about the policies or priorities adopted or to be adopted by theAuthority in exercising powers and performing functions under this Act or any other law, and subject to which the Authority must exercise the powers vested in it by virtue of, and perform the functions entrusted to it by, this Act or any other law. (2) The policy guidelines referred to in subsection (1) may only be issued if the Minister is satisfied that it is necessary to do so to promote the objective of the Authority and to ensure the effective protection of depositors and must be prepared after consultation with the Authority . (3) The Minister must follow such process as he or she considers expedient to obtain the views of stakeholders in the banking services sector before issuing guidelines in terms of subsection (1). (4) The Minister may, where appropriate, publish any guidelines issued in terms of subsection (1) in the Gazette. Part 3 – GOVERNANCE OF AUTHORITY"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part 3",
+      "section": "6",
+      "title": "Board of directors",
+      "content": "(1) The Authority is managed by a Board of directors which is responsible for the general policy, control and administration of the business and affairs of the Authority and exercising all powers, performing all functions and doing all other acts that may be exercised, performed or done by the Authority under this Act . (2) The Board consists of - (a) the following persons appointed by the Bank with the approval of the Minister : (i) the Deputy Governor referred to in Article 128(2) of the Namibian Constitution and appointed in terms of section 4(2)(b) of the Bank of Namibia Act who is the chairperson of the Board ; (ii) a representative from the Ministry responsible for finance, nominated by the Minister ; (iii) two persons with relevant qualifications and experience in the field of law, banking, finance, accounting or in any other field relevant to the functions of the Board ; (iv) a person representing the interests of consumers; and (b) the Head of the Authority who is an ex officio member of the Board with no voting rights. (3) The Bank must, as soon as possible after an appointment has been made, publish in the Gazette the names of the persons appointed as directors, and their dates of appointment. (4) Despite subsection (3), a failure to publish the names of directors of the Board pursuant to that subsection does not invalidate any action or decision taken by the Board , if the directors were properly appointed."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part 3",
+      "section": "7",
+      "title": "Conduct of directors",
+      "content": "(1) A director must - (a) exercise the duty of utmost care to ensure reasonable protection of the assets and records of the Authority ; (b) act with fidelity, honesty, integrity and in the best interests of the Authority in managing its affairs; and (c) comply with any applicable code of conduct or conflict of interest guidelines referred to in section 4(g). (2) A director may not - (a) act in a way that is inconsistent with the responsibilities of the Board in terms of this Act ; or (b) use the position and privileges of, or confidential information obtained as, a director , for personal gain or to improperly benefit another person. (3) A person who contravenes or fails to comply with subsection (2) or with a code of conduct or conflict of interest guidelines referred to in subsection (1)(c) , commits an offence and is liable on conviction to a fine not exceeding N$50 000 or to imprisonment for a period not exceeding five years, or to both such fine and imprisonment. (4) A director who contravenes or fails to comply with subsection (1) or (2), in addition to the penalty provided for in subsection (3), commits an act of misconduct for which he or she is liable to disciplinary action being taken against him or her, including removal from office as contemplated in section 10(2)(b)."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part 3",
+      "section": "8",
+      "title": "Disqualifications of directors",
+      "content": "A person is not eligible to be appointed to the Board or continue to serve on the Board , if that person - (a) is not a Namibian citizen or is not lawfully admitted to Namibia for permanent residence; (b) is a member of Parliament or of a regional or local authority council; (c) is an office-bearer of any political party; (d) is a director or an officer or employee of a member institution or owns or controls a significant interest in the shares of a member institution ; (e) has been convicted of an offence, whether in Namibia or elsewhere, for which he or she was sentenced to imprisonment without the option of a fine; (f) has committed any breach of trust or is guilty of serious misconduct in the discharge of his or her duties under this Act , which renders him or her unfit to be appointed or to continue in office; (g) has been declared mentally ill by a competent court; (h) is an unrehabilitated insolvent ; or (i) has at any time by order of a competent authority, been suspended or disqualified from practising a profession on grounds of professional or personal misconduct."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part 3",
+      "section": "9",
+      "title": "Tenure of office and conditions of office",
+      "content": "A director is appointed - (a) on such terms and conditions as the Bank , with the approval of the Minister , may determine ; and (b) for a term of five years, but is, on the expiration of that term, eligible for re-appointment."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part 3",
+      "section": "10",
+      "title": "Vacation of office by director",
+      "content": "(1) A director appointed in terms of section 6(2)(a)(ii), (iii) or (iv) vacates office as director , if that director - (a) resigns by giving not less than one month’s written notice to the Bank and the Board ; (b) has without the leave of the Board , been absent from three consecutive meetings of the Board ; (c) has become subject to any disqualification referred to in section 8; or (d) is removed from office under subsection (2). (2) The Bank may, with the approval of the Minister , remove a director from office, if the - (a) Bank is satisfied that the director is by reason of his or her physical or mental condition or for any other reason incapable of acting as a director ; (b) director is found guilty of conduct which renders him or her unable or unfit to efficiently discharge the functions of the office as a director or has taken part in the discussion of, or has voted in connection with, any matter in which he or she has an interest; or (c) director is guilty of conduct prejudicial to the objectives of theAuthority. (3) The Bank may only so remove a director from office after giving notice to such director and after affording the director a reasonable opportunity to make representations."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part 3",
+      "section": "11",
+      "title": "Suspension of director",
+      "content": "The Bank may, with the approval of the Minister , suspend a director appointed in terms of section 6(2)(a),(ii), (iii) or (iv) from office without complying with section 10(3), if the Bank is satisfied that the director is guilty of dishonesty, gross misconduct or other unbecoming or inappropriate conduct such that it is necessary to act expeditiously in order to protect the integrity of the Authority or the Scheme , but the Bank must give notice to the director as soon as practicable thereafter and consider any representations made by the director on the matter."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part 3",
+      "section": "12",
+      "title": "Filling of vacancies",
+      "content": "(1) If the office of a director becomes vacant as a result of the happening of an event referred to in section 10(1), or for any other reason, the Bank may, within a period of 90 days from the date of the office becoming vacant and with due regard to sections 6 and 8, appoint a person to fill the vacancy. (2) If at any time during the term of office of the Board - (a) the offices of all the directors become vacant; or (b) the number of directors is reduced to less than the number of directors required for a quorum of the Board , the Bank may, despite anything to the contrary contained in this Act or any other law and if circumstances of a pressing or urgent nature so require, with the approval of the Minister appoint suitably qualified persons on a temporary basis to serve on the Board until new directors are appointed. (3) The appointment of a person as director pursuant to subsection (2) ceases to be of effect upon the earlier of - (a) the expiry of a period of six months from the date of the appointment, but such period may be extended, once only, by the Bank with the approval of the Minister for an additional period of not more than two months; or (b) the appointment of a person as a director pursuant to subsection (1)."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part 3",
+      "section": "13",
+      "title": "Meetings and proceedings of Board",
+      "content": "(1) The directors must, at the first meeting of the Board , elect from among their number a deputy chairperson of the Board . (2) The chairperson - (a) may at any time on his or her own initiative; or (b) must at the written request of the Minister or the Bank or at the written request of a majority of the directors of the Board , convene an extraordinary meeting of the Board . (3) The chairperson or in his or her absence, the deputy chairperson, must preside at a meeting of the Board . (4) If both the chairperson and the deputy chairperson are for any reason unable to preside over a meeting of the Board , the directors present must elect a director from among themselves to act as chairperson of the Board , for that meeting. (5) Three directors, one of whom must be the chairperson or a director appointed in terms of section 6(2)(a)(ii), constitute a quorum for a meeting of the Board . (6) The chairperson must cause reasonable notice of every meeting of the Board to be given to the directors. (7) The decision of a majority of the directors present and voting at a meeting of the Board constitutes a decision of the Board , and in the event of an equality of votes, the person presiding at such meeting has a casting vote in addition to that person’s deliberative vote. (8) The Board must cause minutes to be kept of the proceedings at its meetings and the meetings of its committees. (9) Despite subsection (7), a written resolution not passed at a meeting of the Board but signed by all the directors of the Board is as valid and effectual as if it had been passed at a meeting of the Board duly convened and constituted, and such resolution must be recorded in the minutes of the next meeting of the Board . (10) The Board may make rules, not inconsistent with this Act , to regulate the procedures to be followed at its meetings."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part 3",
+      "section": "14",
+      "title": "Committees of Board",
+      "content": "(1) The Board may, subject to such terms and conditions as it may determine , from time to time establish one or more committees consisting of directors to - (a) assist and advise the Board in the exercise of its powers and performance of its functions or duties under this Act ; and (b) perform any function that the Board may delegate to that committee. (2) A committee established under subsection (1) may, with the approval of the Board , co-opt a person with special expertise to advise it in the performance of its functions, but such co-opted person is not entitled to vote at any meeting. (3) The Board must designate one of the members of the committee as chairperson of the committee. (4) The Board may at any time dissolve or reconstitute a committee. (5) The Board is not divested or relieved of a power or function which has been delegated or assigned to a committee. (6) A decision by a committee in the exercise of a power delegated to the committee, is subject to approval by the Board , and the Board may at any time vary or set aside the decision. (7) The person presiding at a meeting of a committee must cause a record of the minutes of the proceedings of the meeting to be kept, and must cause that record to be submitted to the Board as soon as possible after the meeting. (8) The Board may make rules, not inconsistent with this Act , to regulate the functions and activities of committees and the procedures to be followed at meetings of a committee."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part 3",
+      "section": "15",
+      "title": "Disclosure of interest",
+      "content": "(1) Where a director or a member of a committee of the Board has a direct or indirect financial or personal interest, that is likely to impair the director ’s or member’s objectivity in the exercise or performance of his or her powers or functions as a director or member of a committee - (a) in a contract or proposed contract with the Authority ; or (b) in a matter being considered or proposed to be considered by the Board or a committee of the Board of which the person is a director or member, the director or member of a committee must, as soon as is practicable after the relevant facts have come to his or her attention, disclose the nature of the interest at a meeting of the Board or of the committee of the Board , as the case may be. (2) A disclosure made under subsection (1) must be recorded in the minutes of the meeting at which it is made. (3) When a director or member has made a disclosure under subsection (1), the other directors or members of a committee of the Board must - (a) in the absence of that director or member, discuss the nature of the interest on which the director or member has made the disclosure; and (b) determine whether the interest is likely to impair the member’s objectivity in the exercise or performance of his or her powers or functions as a director or a member of a committee of the Board . (4) If the directors or members of a committee of the Board determine that the interest of the director or member is likely to impair the director ’s or member’s objectivity in the exercise or performance of his or her powers or functions as a director or member of a committee of the Board , that director or member - (a) may not take any further part in any consideration, discussion or decision relating to, or in connection with, the - (i) contract, proposed contract or other matter; or (ii) future administration or oversight over the administration of the contract or other matter; (b) may not take part in any vote on the contract, proposed contract or other matter; (c) may not be counted for the purposes of a quorum; and (d) must absent himself or herself from the proceedings concerning the contract or matter in which he or she has an interest. (5) A person who makes a full and accurate disclosure under subsection (1) and who complies with subsection (4) is not in breach of any duty owed by that person to the Board or any committee of the Board by reason of the interest of the person in the contract, proposed contract or other matter about which the disclosure was made. (6) A person who contravenes or fails to comply with subsection (1) or (4) commits an offence and is liable on conviction to a fine not exceeding N$50 000 or to imprisonment for a period not exceeding five years, or to both such fine and imprisonment."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part 3",
+      "section": "16",
+      "title": "Validity of decisions of Board",
+      "content": "A decision of the Board or an act performed under the authority of the Board is not invalid only by reason of - (a) a vacancy on the Board ; or (b) the fact that a person not entitled to sit as a director was in attendance when the decision was taken or act was authorised, if the decision was taken or act was authorised by a majority of directors who were present and entitled to vote at such meeting, and who formed a quorum."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part 3",
+      "section": "17",
+      "title": "Remuneration of directors",
+      "content": "(1) A director referred to in section 6(2)(a)(iii) or (iv) and a person co-opted by a committee of the Board under section 14(2) who is not in the full-time employment of the State is entitled to be paid out of the Fund such remuneration and allowances as the Bank , with the approval of the Minister , may determine . (2) The remuneration and allowances determined under subsection (1) may differ according to the office held or the functions performed by the director concerned."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part 3",
+      "section": "18",
+      "title": "Delegation of powers and assignment of duties",
+      "content": "(1) The Board may, in writing, delegate any of the powers conferred on it by or under this Act or assign any of the functions entrusted to it by or under this Act , excluding the power to make rules, determinations or appointments, or to issue directives, to - (a) a director ; (b) the Head of the Authority ; or (c) a consultant, agent or any senior employee of the Authority . (2) A delegation or assignment under subsection (1) - (a) is subject to the limitations or conditions that the Board may impose; and (b) does not divest the Board of the responsibility concerning the exercise of the delegated power or the performance of the assigned function. (3) The Board may confirm, vary or revoke any decision taken by a person in consequence of a delegation or assignment in terms of subsection (1)."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part 3",
+      "section": "19",
+      "title": "Provision of resources by Bank",
+      "content": "(1) The Board may, with the approval of the Bank and in accordance with staff policies and procedures of the Bank as far as is reasonably possible, appoint a suitably qualified person with appropriate experience to be the Head of the Authority who is, subject to the control and directions of the Board , responsible for the efficient day to day management and administration of the Authority . (2) Despite subsection (1), the Board may appoint an employee of the Bank seconded to the Authority under the service level agreement referred to in subsection (5)(b) who is suitably qualified and has appropriate experience to be the Head of the Authority who is, subject to the control and directions of the Board , responsible for the efficient day to day management and administration of the Authority . (3) The Board may, on the recommendation of the Head of the Authority , and in accordance with staff policies and procedures of the Bank as far as is reasonably possible, appoint as employees of the Authority , such persons as it considers necessary in order to assist the Authority with all such work as may arise through the exercise and performance of its powers, duties and functions in terms of this Act . (4) Despite subsection (3), the Board may appoint an employee or employees of the Bank seconded to the Authority under the service level agreement referred to in subsection (5)(b) to assist the Authority with all such work as may arise during the exercise and performance of its powers, duties and functions in terms of this Act . (5) The Bank - (a) must provide the Authority with office accommodation, facilities, use of assets, resources and other services; or (b) may second employees of the Bank , to assist the Authority to function effectively on such terms and conditions as agreed upon by the Bank and the Board in terms of a service level agreement. (6) A service level agreement referred to in subsection (5) must be entered into between the Bank and the Authority with the approval of the Minister and such agreement must provide for matters relating to, but not limited to, recovery of costs, and contain such other terms as agreed upon by the Bank and the Authority . (7) An employee of the Bank , other than the Head of the Authority , seconded to the Authority under subsection (5)(b) must exercise any powers and perform any functions or duties under this Act subject to the control and directions of the Head of the Authority ."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part 3",
+      "section": "20",
+      "title": "Consultants and other service providers",
+      "content": "(1) The Authority may, on such terms and conditions as the Board may determine , engage any consultant, or other person, suitably qualified to provide services to the Authority on a contractual basis. (2) The terms and conditions of the engagement of a consultant or other persons referred to in subsection (1) are as determined by the Board ."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part 3",
+      "section": "21",
+      "title": "Funding of Authority",
+      "content": "(1) The Authority derives its funds from money made available to the Authority from the Fund pursuant to section 28(b). (2) Funds utilised by the Authority for its administrative and operational needs form an integral part of monies of the Fund and must be administered and accounted for in the manner provided for in Part 5. Part 4 – DEPOSIT GUARANTEE SCHEME"
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part 4",
+      "section": "22",
+      "title": "Establishment of Scheme",
+      "content": "The Authority must establish and maintain a scheme to be known as the Deposit Guarantee Scheme whose main objective is to protect depositors of member institutions by paying out compensation in the event of deposits held by a member institution becoming unavailable ."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part 4",
+      "section": "23",
+      "title": "Membership of Scheme",
+      "content": "(1) Every - (a) banking institution that is authorised under section 11 of the Banking Institutions Act to carry on banking business in Namibia; (b) branch of a foreign bank that is authorised under section 19A of the Banking Institutions Act to carry on banking business in Namibia; and (c) building society that is registered to conduct the business of a building society under section 4 of the Building Societies Act , must be a member of the Scheme and remains a member for as long as it is authorised to conduct banking business under section 11 or 19A of the Banking Institutions Act , or registered as a building society under section 4 of the Building Societies Act , as the case maybe. (2) In the case of a - (a) banking institution or a branch of a foreign bank that is authorised to conduct banking business on or before the commencement of this Act ; or (b) building society that is registered on or before the commencement of this Act , that banking institution , branch of a foreign bank or building society , as the case maybe, becomes a member of the Scheme on the commencement date of this Act . (3) In the case of a - (a) banking institution or a branch of a foreign bank that is authorised by the Bank to conduct banking business after the commencement of this Act ; or (b) building society that is registered after the commencement of this Act , that banking institution , branch of a foreign bank or building society , as the case maybe, becomes a member on the date of authorisation or registration. (4) The Authority must issue a deposit guarantee policy to a banking institution or a branch of a foreign bank that is authorised to conduct banking business or a building society that is registered to conduct the business of building society and has paid the first premium pursuant to section 35."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part 4",
+      "section": "24",
+      "title": "Termination of membership",
+      "content": "(1) A member institution automatically ceases to be a member of the Scheme - (a) in the case of a - (i) banking institution or a branch of a foreign bank , upon the cancellation of the authorisation to conduct banking business pursuant to section 15(1) or 17 the Banking Institutions Act ; or (ii) building society , upon the cancellation of the registration of that society pursuant to section 10(1) or (3) of the Building Societies Act ; (b) upon the issue of a winding-up order against the member institution ; (c) upon the appointment of a liquidator in pursuance of a resolution for the voluntary winding-up of the member institution ; or (d) upon merger with, or acquisition of the member institution by, another institution. (2) Where a member institution ceases to be a member of the Scheme , the member - (a) must surrender its certificate of membership to the Authority ; (b) may not assume, hold out or in any way give the impression that it is a member of the Scheme ; and (c) is not be relieved from its obligations or liabilities to the Scheme that have accrued before the cessation of its membership. (3) The Authority must publish a notice in the Gazette or in any other appropriate public media notifying members of the public about the termination of an institution’s membership of the Scheme . Part 5 – DEPOSIT GUARANTEE FUND"
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part 5",
+      "section": "25",
+      "title": "Establishment of Fund",
+      "content": "(1) There is established a fund to be known as the Deposit Guarantee Fund , which vests in the Authority . (2) The Authority is responsible for administration of the Fund and to that end it must open an account with the Bank into which all the money standing to the credit of the Fund must be deposited. (3) The Board may make rules relating to the management and administration of the Fund ."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part 5",
+      "section": "26",
+      "title": "Composition of Fund",
+      "content": "(1) The Fund consists of - (a) premiums and any interest paid by member institutions as contemplated in section 35; (b) any financial penalty payable by a member institution under section 36; (c) money accruing to the Fund by way of any donation or bequest in terms of section 4(c); (d) money borrowed by the Authority under section 4(e); (e) money realised from the liquidation of assets of insolvent member institutions as contemplated in section 44; (f) income and interest on money invested under section 29; and (g) money accruing to the Fund from any other lawful source."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part 5",
+      "section": "27",
+      "title": "Target level of Fund",
+      "content": "The Authority must, with the approval of the Minister and having regard to its liabilities and potential liabilities, determine the appropriate target level of the Fund , and may adjust the premiums paid by member institutions accordingly."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part 5",
+      "section": "28",
+      "title": "Utilisation of monies of Fund",
+      "content": "Money standing to the credit of the Fund must be utilised for - (a) funding the objective of the Scheme as set out in section 22 and the administrative requirements of the Scheme as provided for in this Act ; (b) funding the administrative and operational requirements of the Authority in the performance of its functions under this Act up to a maximum amount determined by the Board with the approval of the Minister ; (c) defraying the expenses of the appeal board ; and (d) defraying any expenses incurred in the administration of the Fund ."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part 5",
+      "section": "29",
+      "title": "Investment of monies of Fund",
+      "content": "The Authority may invest money standing to the credit of the Fund , which is not required for immediate use, in a manner approved by the Board ."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part 5",
+      "section": "30",
+      "title": "Financial year",
+      "content": "The financial year of the Fund begins on 1 January and ends on 31 December of that year."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part 5",
+      "section": "31",
+      "title": "Accounting and auditing of Fund",
+      "content": "(1) Subject to the provisions of subsection (2), the Authority must appoint an auditor or a firm of accountants and auditors registered under the Public Accountants’ and Auditors’ Act, 1951 (Act No. 51 of 1951 ), who must annually audit the books of accounts of the Authority. (2) Despite subsection (1), if in the opinion of the Minister there are reasonable grounds for doing so, the Minister may direct the Auditor-General to investigate into and report on the accounts of the Authority or any matter relating to the affairs of the Authority , and the Authority must provide the Auditor-General with all the information and facilities necessary for such investigation. (3) The report of the Auditor-General referred to in this section must be carried out in accordance with the directives of the Minister and the Auditor-General must submit the report to the Minister (4) The Authority must bear the costs or expenses incurred on account of an audit carried out under subsection (1) or (2)."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part 5",
+      "section": "32",
+      "title": "Annual report",
+      "content": "(1) The Authority must, within three months, after the end of each financial year - (a) submit to the Minister a copy of its annual report containing, the annual accounts certified by the auditors, the activities of the Authority and operations of the Fund during the previous financial year ; and (b) publish its annual report in such manner as the Minister may approve. (2) The Minister must table a copy of the report referred to in subsection(1) in the National Assembly at the same time as the Minister tables copies of reports referred to in section 52 of the Bank of Namibia Act ."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part 5",
+      "section": "33",
+      "title": "Exemption from taxation",
+      "content": "No tax or charge on income or transfer or stamp duty imposed by or under any law is payable by the Authority or the Fund . Part 6 – PREMIUMS"
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part 6",
+      "section": "34",
+      "title": "Determination and collection of premiums",
+      "content": "(1) The Board must, with the approval of the Minister , for each premium year ending on the last day of a financial year , determine the premiums per risk category payable by each member institution for the benefit of the Fund having regard to the - (a) appropriate size of the Fund to meet its liabilities and potential liabilities; and (b) total guaranteed deposits of member institutions. (2) A determination under subsection (1) must include the rates of interest, which may not exceed the rate prescribed under section 2 of the Prescribed Rate of Interest Act, 1975 (Act No. 55 of 1975 ), payable on failure by a member institution to pay the premium on the due date and the manner of calculating the interest. (3) The Authority must, in the manner determined by the Board , notify each member institution of the premium payable as determined in subsection (1) which premium must be paid within the determined period after such notification. (4) The Board must, as soon as possible after determining the premium payable by member institutions under subsection (1), publish a notice in the Gazette announcing the premium per risk category"
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part 6",
+      "section": "35",
+      "title": "Liability of member institutions to pay premiums",
+      "content": "(1) Every member institution is liable to pay the premium as determined by the Board under section 34(1). (2) The premium payable under subsection (1) must be paid in the manner determined by the Authority and within the period contemplated in section 34(3). (3) A member institution that fails or refuses to pay the premium in full within the period or on the date for payment contemplated in subsection (1) is liable to pay interest on the outstanding balance as determined under section 34(2)."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part 6",
+      "section": "36",
+      "title": "Consequences of failure to pay premiums",
+      "content": "(1) If a member institution fails or refuses to pay premiums as contemplated in section 35, the Authority may impose, for the benefit of the Fund , a financial penalty not exceeding N$100 000 for every day during which contravention or non-compliance with the section continues. (2) Before imposing a financial penalty, the Authority must in writing - (a) inform the member institution of the Authority ’s intention to impose a financial penalty; (b) specify the particulars of the alleged contravention or non-compliance; (c) provide reasons for the imposition of the intended financial penalty; (d) specify the amount of the financial penalty intended to be imposed; and (e) invite the member institution to make written representations within 14 days of receipt of the invitation and to show cause why the financial penalty should not be imposed. (3) If theAuthority after consideration of the representations made, decides to impose a financial penalty, the Authority must, by written notice, inform the member institution that it must, within 30 days of receipt of the notice, pay the financial penalty. (4) Any financial penalty imposed under this section must be paid to the Fund , within the period and in the manner determined by the Authority ."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part 6",
+      "section": "37",
+      "title": "Premiums and interest due are debt to Authority",
+      "content": "A premium payable under this Act and interest connected therewith which has not been paid is a debt due to the Fund , and the Authority may recover it from the member institution concerned by way of proceedings in a court of competent jurisdiction."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part 6",
+      "section": "38",
+      "title": "Payment of dividends while premiums are due",
+      "content": "(1) Despite anything to the contrary in section 32 of the Banking Institutions Act , or in any other law, a member institution may not pay out a dividend, or an amount in the nature of a dividend, to a shareholder or member while the membe institution is in default over the payment of any premium that has become due, or any interest connected therewith. (2) Any payment made by a member institution in contravention of subsection (1) is void. (3) A person who contravenes or fails to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding N$1 000 000 or to imprisonment for a period not exceeding 10 years, or to both such fine and imprisonment. Part 7 – DEPOSIT GUARANTEE COVERAGE"
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part 7",
+      "section": "39",
+      "title": "Eligible deposits",
+      "content": "(1) The Scheme guarantees each deposit with a member institution up to the maximum covered limit prescribed under section 40, but the following deposits are excluded from coverage under the Scheme : (a) deposits that are not payable in Namibia currency; (b) interbank deposits; (c) deposits of the Government of Namibia or institutions partially or wholly owned by the Government of Namibia; (d) deposits placed by a financial institution as defined by section 1 of the Namibia Financial Institutions Supervisory Authority Act, 2001 (Act No. 3 of 2001 ), which is subject to supervision by the Namibia Financial Institutions Supervisory Authority established by section 3 of that Act, which deposits are placed for the account of the financial institution or on behalf of its clients; (e) negotiable certificate of deposits or any other tradable debt funding instrument; (f) deposits arising from transactions in respect of which there has been a conviction for - (i) the offence of money laundering as defined in section 1 of the Prevention of Organised Crime Act, 2004 (Act No. 29 of 2004 ); or (ii) offences of funding of terrorism and funding of proliferation activities as described in sections 2 and 3, respectively, of the Prevention and Combating of Terrorist and Proliferation Activities Act, 2014 (Act No. 4 of 2014 ); and (g) any other deposit which the Authority may, with the approval of the Minister , specify by notice in the Gazette. (2) A member institution must mark deposits that are eligible for coverage under this Act in the manner determined by the Authority to enable deposits excluded under subsection (2) to be easily identified"
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part 7",
+      "section": "40",
+      "title": "Deposit guarantee coverage limits",
+      "content": "The Minister , on the recommendation of the Board , must prescribe the maximum coverage limits for deposits that are guaranteed under this Act . Part 8 – GUARANTEE PAYMENT PROVISIONS"
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part 8",
+      "section": "41",
+      "title": "Payment of guaranteed deposits",
+      "content": "(1) TheAuthority may only make payments of guaranteed deposits upon written notification by the Bank that deposits from a member institution have become unavailable . (2) On receipt of a notification under subsection (1), the Authority must in the manner determined by it - (a) give notification of the unavailability of deposits to the affected depositors of the member institution concerned, and to members of the public; (b) inform the depositors of the procedures to be followed in claiming from the Fund , including, without limitation, the manner of lodging claims, the agents or persons who have been appointed to process claims and places where claims can be lodged; and (c) publicise any other relevant information so as to ensure public awareness of what is taking place during the process of paying compensation to depositors. (3) Where the Authority has to make payments out of the Fund as contemplated in subsection (1), such payment must commence as soon as possible either by - (a) cash; (b) transfer of funds into the account of a guaranteed depositor at another member institution ; or (c) any other lawful payment method approved by the Board . (4) A depositor claiming from the Fund must provide proof of entitlement to payment as determined by the Authority before payment of a guaranteed deposit can be effected. (5) The Authority must issue to a depositor with a deposit amount in excess of the deposit coverage limit , a certificate indicating that the depositor had an amount which could not be covered by the Scheme because it exceeds the allowable coverage limit ."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part 8",
+      "section": "42",
+      "title": "Compensation payable on unavailability",
+      "content": "(1) A depositor is entitled to compensation from the Fund up to the maximum coverage limit , as determined by the Authority with the approval of the Minister , in respect of a guaranteed deposit that the - (a) depositor holds in his or her own right; or (b) person holds as a trustee, curator or liquidator , in case of the unavailability of deposits from a member institution . (2) Where a depositor holds more than one deposit in a member institution , all deposit accounts held by that depositor in that member institution must be added together and protected up to the maximum coverage limit . (3) Where a deposit is held in the names of two or more persons, that deposit must be regarded as a single deposit for the purpose of subsection (1), except that the conditions that applied at the time when the joint account was opened apply when compensation is paid from the Fund . (4) Depositors entitled to compensation under this Act may submit claims to the Authority within the determined period and in accordance with procedures set out in notices issued under section 41(2). (5) The Authority must pay out the guaranteed deposits to depositors who have lodged claims in accordance with subsection (4) within the determined period after receipt of the claims. (6) In order to ensure prompt payment of guaranteed deposits, the Authority , through its employees or agents is entitled to - (a) have access to depositors’ records at the member institution concerned, including the right to require all member institutions to maintain depositor information in the format determined by the Authority ; (b) independently or together with officials of the Bank , carry out on-site examinations of deposit records in order to verify the accuracy of the records; and (c) take any other action, including the appointment of agents to facilitate the process, as may be prescribed ."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part 8",
+      "section": "43",
+      "title": "Pledged deposits",
+      "content": "(1) The Authority may not pay out in full or in part to a depositor , a deposit that has been pledged by the depositor to any creditor, unless the creditor has given written consent to the Authority to make the payment. (2) For the purposes of subsection (1), “pledge” means an arrangement or agreement whereby a depositor offers a deposit held by the depositor in a member institution to a creditor as security for the repayment of a debt or other obligation owed or due to the creditor."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part 8",
+      "section": "44",
+      "title": "Subrogation of Authority",
+      "content": "(1) Upon the payment of compensation to a depositor in terms of this Part theAuthority is subrogated, up to the amount of the compensation, to any rights and remedies in respect of the guaranteed deposit concerned that may be vested in or become available to the depositor (2) Without derogating from subsection (1), the effect of a payment by the Authority to a depositor in terms of this Part is that - (a) the member institution concerned becomes liable to the Authority for an amount equal to the Authority ’s payment, in all respects as if the Authority rather than the depositor had deposited that amount with the institution before its deposits becoming unavailable ; and (b) the liability of the member institution concerned to the depositor is reduced by an amount equal to the Authority ’s payment. (3) The Authority may institute an action in respect of its rights and interest in the name of a depositor or under its own name. (4) No payment may be made to a depositor by an insolvent member institution or its liquidator unless full satisfaction has been given to the Authority for any amount which the Authority has paid to the depositor . (5) Any payment made in contravention of subsection (4) is void and any amount so paid and interest connected therewith is a debt due to the Fund , and the Authority may recover it from the member institution concerned by way of proceedings in a court of competent jurisdiction. Part 9 – ENFORCEMENT AND ANCILLARY MATTERS"
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part 9",
+      "section": "45",
+      "title": "Examination by Bank",
+      "content": "(1) Where the Authority has reason to believe that a member institution has provided the Authority with false or misleading information under this Act , the Authority may request the Bank to conduct an examination into the affairs of the member institution , and the Bank must, subject to any other law, comply with the request. (2) The Bank must conduct an examination under subsection (1) in accordance with the provisions of section 52 of the Banking Institutions Act ."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part 9",
+      "section": "46",
+      "title": "Collaboration with Bank",
+      "content": "(1) The Authority and the Bank must collaborate to assist the Authority to exercise its enforcement powers and perform its functions in terms of this Act , including the provision of assistance and information by promptly reporting any matter of which the Bank becomes aware that affects or may affect the exercise or performance of any of those powers or functions. (2) Without limiting the generality of subsection (1), the Bank must comply with any reasonable request from the Authority to share returns and other relevant information necessary for the effective operation of the Authority ."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part 9",
+      "section": "47",
+      "title": "Directives",
+      "content": "(1) The Authority may, by notice in the Gazette, issue a directive to all member institutions, or any category of member institutions, or other category of persons to whom this Act applies, regarding the application of this Act (2) The Authority may in writing, over and above any directive contemplated in subsection (1), issue a directive to any member institution , category of member institutions, or other person to whom this Act applies, to - (a) provide the Authority - (i) with the information, reports or statistical returns specified in the directive , at the time or at the intervals specified in the directive ; or (ii) with any document in its possession or custody or under its control, within the period specified in the directive ; (b) cease or refrain from engaging in any act, omission or conduct in contravention of this Act ; (c) perform acts necessary to remedy any non-compliance with this Act ; or (d) perform acts necessary to meet obligations imposed by this Act . (3) The Authority may examine a document submitted to it in terms of subsection (2)(a)(ii) or make a copy thereof or part hereof. (4) The costs incurred in complying with a directive must be borne by the member institution or person concerned. (5) A member institution or person that fails to comply with a directive issued under this section commits an offence and is liable to a fine not exceeding N$1 000 000 or, where the commission of the offence is attributable to a representative of the member institution , to that fine or imprisonment for a period not exceeding five years, or to both such fine and imprisonment."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part 9",
+      "section": "48",
+      "title": "Right of appeal",
+      "content": "(1) Any member institution or person aggrieved by the decision of the Authority relating to - (a) membership and participation in the Scheme as contemplated in Part 4; (b) payment or non-payment of premiums, and any consequences arising therefrom, as contemplated in Part 6; or (c) payment of compensation for guaranteed deposits as contemplated in Part 8 - , may appeal against that decision to the appeal board . (2) An appeal must be lodged within the prescribed period after the delivery of the decision of the Authority , in the manner prescribed , and on payment of the prescribed fees. (3) An appeal under subsection (1) takes place on the date, at the place and time determined by the appeal board . (4) An appeal is decided on the affidavits and supporting documents presented to the appeal board by the parties to the appeal. (5) Despite the provisions of subsection (4), the appeal board may - (a) summon any person who, in its opinion, may be able to give information for the purposes of deciding the appeal or who it believes has in his, her or its possession, custody or control of any document which has any bearing upon the decision under appeal, to appear before it on a date, time and place specified in the summons, to be questioned or to produce any relevant document and retain for examination any document so produced; (b) administer an oath to or accept an affirmation from any person called as a witness at an appeal; and (c) call any person present at the appeal proceedings as a witness and interrogate such person and require such person to produce any document in his or her possession, custody or control. (6) All members of the appeal board constitute a quorum of the appeal board . (7) Proceedings before the appeal board are to be conducted as informally and expeditiously and in accordance with the rules made under subsection (18) and the requirements of natural justice. (8) A hearing before the appeal board may be held in camera at the request of any party if the party establishes to the satisfaction of the appeal board that the circumstances of the case so require. (9) The appeal board must exercise its jurisdiction under this Act as if it were a magistrates’ court established in terms of the Magistrates’ Courts Act, 1944 (Act No. 32 of 1944 ) and the appeal board has the same powers, privileges and immunities available to a magistrate’s court in a civil matter. (10) An applicant or respondent to an appeal is entitled to be represented at an appeal by a legal practitioner or any person of his or her choice. (11) The appeal board may - (a) confirm, set aside or vary a decision of the Authority ; or (b) refer a matter back for consideration or reconsideration by theAuthority in accordance with the directions of the appeal board . (12) The decision of a majority of the members of the appeal board constitutes the decision of the appeal board . (13) The decision of the appeal board must be in writing, and a copy thereof must be made available to the parties to the appeal. (14) If the appeal board sets aside any decision of the Authority , the fees contemplated in subsection (2) paid by the appellant in respect of the appeal in question must be refunded to the appellant. (15) If the appeal board varies any such decision, it may direct that the whole or any part of such fees be refunded to the appellant. (16) Subject to subsection (18), a decision of the appeal board may, in the manner prescribed , be taken on appeal to the High Court as if it were a decision of a magistrate court in a civil matter. (17) The launching of appeal proceedings in terms of subsection (16) does not suspend the operation or execution of a decision, unless the Authority directs otherwise. (18) The Minister , with the concurrence of the appeal board , may make rules relating to - (a) the manner of lodging appeals to the appeal board and the period within which the appeals must be lodged, including condonations for lodging of appeals outside the time limits; (b) the conduct of proceedings before the appeal board and the procedures to befollowed by the appeal board , including matters relating to condonation for non-compliance with the rules and the admissibility of evidence; (c) witnesses, including payment of expenses and costs incurred by witnesses, offences by or relating to witnesses and other matters relating to witnesses; (d) sittings of the appeal board ; (e) the integrity of the appeal board and measures that are necessary or expedient to prevent the appeal board or a member of the appeal board from being insulted, disparaged or belittled or to prevent the proceedings or findings of the appeal board from being prejudiced, influenced or anticipated; (f) the fees payable by the appellant and situations in which the fees are refundable; and (g) any other matter which the Minister considers necessary to ensure effective and expeditious resolution of matters before the appeal board . (19) Rules made under subsection(18) may create offences for contraventions or failure to comply with any provision thereof, and prescribe a penalty of a fine not exceeding N$20 000 or imprisonment for period not exceeding two years, or both such fine and imprisonment."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part 9",
+      "section": "49",
+      "title": "Appeal board",
+      "content": "(1) Upon receipt of a notice of appeal lodged under section 48 against the decision of the Authority , the Minister must appoint an appeal board to hear and determine the appeal. (2) The appeal board consists of - (a) one person who has a qualification in law and with at least 10 years’ experience, who is the chairperson; and (b) two other persons who have experience and extensive knowledge of the banking services sector or of banking institutions or building societies or banking services sector regulation. (3) The Minister may prescribe additional qualifications, terms and conditions and other requirements for appointment as members of the appeal board . (4) If before or during the consideration of any appeal it transpires that any member of the appeal board has any direct or indirect personal interest in the outcome of that appeal, the member must declare his or her interest and recuse himself or herself and must be replaced by another person appointed by the Minister . (5) A member of the appeal board may be paid from the Fund , such remuneration and allowances as the Minister may prescribe. (6) The Bank is responsible for the administrative support of the appeal board and expenditure incurred in that regard must be defrayed from the Fund . (7) Any person who contravenes or fails to comply with subsection (4) commits an offence and is liable on conviction to a fine not exceeding N$50 000 or to imprisonment for a period not exceeding five years, or to both such fine and imprisonment. Part 10 – GENERAL PROVISIONS"
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part 10",
+      "section": "50",
+      "title": "Confidentiality of information",
+      "content": "(1) Subject to subsection (3), a person referred to in subsection (2) may not disclose any information which that person has acquired in the performance of his or her functions under this Act and which relates to the affairs of a member institution or depositor . (2) The persons to whom subsection (1) applies are - (a) a director ; (b) a person who has been co-opted by a committee of the Board under section 14(2); (c) the Head of the Authority , an employee of the Authority , an employee of the Bank seconded to the Authority or any other person engaged or contracted to render a service to the Authority ; (d) an employee of the Bank ; (e) a member of the appeal board ; (f) a former director , a person who was formerly co-opted by a committee of the Board under section 14(2), a former Head of the Authority , a former employee of the Authority , an employee or a former employee of the Bank who was formerly seconded to the Authority or any other person who was formerly engaged or contracted to render a service to the Authority , a former employee of the Bank and a former member of the appeal board ; and (g) any other person performing or who performed a function or exercising or who exercised a power that that person is or was lawfully required or requested to perform or exercise in terms of this Act . (3) Subsection (1) does not apply to - (a) any disclosure made by the person concerned in the performance of that person’s functions under this Act or when required to do so by a court or in terms of any other law of Namibia; (b) the disclosure of information that is generally known to members of the public or a substantial section of the public; (c) the reporting, to an appropriate authority, of any criminal conduct which the person concerned reasonably suspects is being committed or may have been committed by a member institution or depositor or by any employee or agent thereof or in connection with the Fund ; or (d) a disclosure that is necessary for the purposes of the investigation of a criminal offence under the law of Namibia. (4) Any person who contravenes or fails to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding N$50 000 or to imprisonment for a period not exceeding five years, or to both such fine and imprisonment."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part 10",
+      "section": "51",
+      "title": "Prohibition on implying connection with Authority",
+      "content": "(1) A person may not, in connection with a corporate body, unincorporated entity, business or undertaking, use a name or description that signifies a connection between that corporate body, unincorporated entity, business or undertaking and the Authority or the Scheme , other than a statement that such corporate body, unincorporated entity, business or undertaking is a member of the Scheme . (2) Any person who contravenes or fails to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding N$50 000 or to imprisonment for a period not exceeding five years, or to both such fine and imprisonment."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part 10",
+      "section": "52",
+      "title": "False statements",
+      "content": "(1) Any person who, in or in connection with any application or return prepared or submitted for the purposes of this Act , makes a statement or provides information that is false in a material particular, knowing the statement or information to be false or not having reasonable grounds for believing it to be true, commits an offence. (2) Any person who, for the purposes of this Act , publishes, issues or signs a document which contains a statement that is false in a material particular commits an offence if - (a) when he or she published, issued or signed the document, he or she knew that the statement was false or did not have reasonable grounds for believing it to be true; or (b) having subsequently become aware that the statement was false, he or she failed to take all reasonable steps to correct the document or to replace it with a correct document. (3) Any person who, for the purpose of avoiding the payment of any premium that is due or inducing the making of any payment that is not due - (a) destroys, mutilates, alters or falsifies any book, paper or security belonging to or relating to a member institution ; or (b) makes, or is a party to the making of, a false or misleading entry in any register, book of account or other document belonging to or relating to a member institution , commits an offence. (4) A person who is convicted of an offence in terms of subsection (1), (2) or (3) is liable - (a) in the case of an individual, to a fine not exceeding N$20 000 or to imprisonment for a period not exceeding two years, or to both such fine and imprisonment; or (b) in the case of a body corporate, to a fine not exceeding N$500 000."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part 10",
+      "section": "53",
+      "title": "Limitation of liability",
+      "content": "(1) The Minister or any person referred to in subsection (2) is not personally liable in respect of anything done or omitted to be done in good faith and without gross negligence in the exercise of any power or the performance of any function or duty under this Act . (2) The persons to whom subsection (1) applies are - (a) a director ; (b) a person who has been co-opted by a committee of the Board under section 14(2); (c) the Head of the Authority , an employee of the Authority , an employee of the Bank seconded to the Authority or any other person engaged or contracted to render a service the Authority ; (d) an employee of the Bank ; (e) a member of the appeal board ; (f) a former director , a person who was formerly co-opted by a committee of the Board under section 14(2), a former Head of the Authority , a former employee of the Authority , an employee or a former employee of the Bank who was formerly seconded to the Authority or any other person who was engaged or contracted to render service to the Authority , a former employee of the Bank and a former member of the appeal board ; and (g) any other person performing or who performed a function or exercising or exercised a power that that person is or was lawfully required or requested to perform or exercise in terms of this Act ."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part 10",
+      "section": "54",
+      "title": "Cooperation with other institutions or organisations",
+      "content": "(1) The Authority may - (a) enter into an arrangement or agreement with any other institution or organisation, within Namibia; or (b) with the approval of the Minister , enter into an arrangement or agreement with any other institution or organisation, outside Namibia, that performs functions that are similar to those of the Authority , that has objects that are similar to those of the Authority or that performs functions related to the regulation or supervision of deposit -taking financial institutions. (2) An arrangement or agreement referred to in subsection (1) may provide for - (a) the sharing of information between the Authority and the institution or organisation relating to entities that fall under their respective jurisdictions or on any matter that falls within the ambit of the functions or powers of the respective parties; (b) the confidentiality relating to information referred to in paragraph (a); and (c) any other matter which the parties may consider of importance relating to the conducting of business by deposit -taking financial institutions."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part 10",
+      "section": "55",
+      "title": "Liquidation",
+      "content": "The Authority may not be placed into liquidation , except by or under the authority of an Act of Parliament."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part 10",
+      "section": "56",
+      "title": "Regulations",
+      "content": "(1) The Minister may make regulations relating to - (a) the maximum coverage limits for guaranteed deposits under section 40; (b) the manner of lodging appeals from the appeal board to the High Court; (c) the qualifications and conditions of appointment for members of the appeal board ; (d) any other matter which is required or permitted by this Act to be prescribed on and any matter which the Minister considers necessary or expedient to prescribe in order to achieve the purposes of this Act . (2) Regulations made under subsection (1) may create offences for contraventions or failure to comply with the any provision thereof, and prescribe a penalty of a fine not exceeding N$20 000 or imprisonment for period not exceeding two years, or both such fine and imprisonment."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part 10",
+      "section": "57",
+      "title": "Determinations",
+      "content": "(1) The Authority , or where required to do so by or under this Act , the Authority with the approval of the Minister , may by notice in the Gazette make determinations not inconsistent with this Act relating to - (a) the target level of the Fund as contemplated in section 27; (b) the premiums payable per risk category and the rate of interest payable on outstanding payments pursuant to section 34; (c) the manner of payment of premiums in accordance with section 35(2); (d) the manner of payment of financial penalties in accordance with section 36(4); (e) the proof of entitlement to payment of compensation in accordance with section 41(4); (f) the format and manner in which information must be kept by member institutions for purposes of section 42(6); (g) any matter which is required or permitted by this Act to be determined by the Authority ; and (h) all other matters which the Authority considers necessary or expedient to determine to ensure compliance with thisAct by member institutions. (2) A person who contravenes or fails to comply with a determination made under subsection (1) commits an offence and is liable to a fine not exceeding N$100 000 or, where the commission of the offence is attributable to a representative of the member institution , to such fine or imprisonment for a period not exceeding five years, or to both such fine and imprisonment."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part 10",
+      "section": "58",
+      "title": "Amendment of section 11 of Act No. 2 of 1998",
+      "content": "Section 11 of the Banking Institutions Act , 1998 (Act No. 2 of 1998 ) (in this section and sections 59 and 60 called “the principal Act”) is amended by the insertion after subsection (4) of the following subsection: “(4A) Notwithstanding anything to the contrary in this Act or in any law, it shall be a condition for the grant of an application under subsection (4)(b) or (c) that the banking institution concerned shall become and remain a member of the Scheme established under section 22 of the Deposit Guarantee Act, 2018 (Act No. 16 of 2018 ).”"
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part 10",
+      "section": "59",
+      "title": "Amendment of section 15 of Act No. 2 of 1998",
+      "content": "Section 15 of the principal Act is amended by the substitution for paragraph (b) of subsection (1) of the following paragraph: “(b) fails to comply with any condition imposed by the Bank under section 11(4)(c) or (4A) or section 19(4A);”."
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part 10",
+      "section": "60",
+      "title": "Amendment of section 19A of Act No. 2 of 1998",
+      "content": "Section 19A of the principal Act is amended by the insertion after subsection (4) of the following subsection: “(4A) Notwithstanding anything to the contrary in this Act or in any law, it shall be a condition for the grant of an application under subsection (4)(b) or (c) that the branch of the foreign institution concerned shall become and remain a member of the Scheme established under section 22 of the Deposit Guarantee Act, 2018 (Act No. 16 of 2018 ).”"
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Part 10",
+      "section": "61",
+      "title": "Amendment of section 10 of Act No. 2 of 1986",
+      "content": "Section 10 of the Building Societies Act , 1986 (Act No. 2 of 1986 ) is amended by the insertion after paragraph (a) of subsection (1) of the following paragraph: “(aA) if the building society ceases to be a member of the Scheme as contemplated in section 24(1)(a)(ii) of the Deposit Guarantee Act, 2018 (Act No. 16 of 2018 );” or"
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Part 10",
+      "section": "62",
+      "title": "Short title and commencement",
+      "content": "(1) This Act is called the Deposit Guarantee Act, 2018, and comes into operation on a date to be determined by the Minister by notice in the Gazette. (2) Different dates may be determined under subsection (1) in respect of different provisions of this Act . History of this document 01 February 2020 Commenced by Namibia Deposit Guarantee Act: Commencement 20 May 2019 Commenced by Commencement of certain provisions of Namibia Deposit Guarantee Act, 2018 28 December 2018 this version Published in Government Gazette 6806 21 December 2018 Assented to Related documents Amends Banking Institutions Act, 1998 Building Societies Act, 1986 Is commenced by Commencement of certain provisions of Namibia Deposit Guarantee Act, 2018 Namibia Deposit Guarantee Act: Commencement Subsidiary legislation Title Regulations Relating to Maximum Coverage Limits for Guaranteed Deposits, 2026 Government Notice 13 of 2026 Regulations Relating to Maximum Coverage Limits for Guaranteed Deposits, 2020 Repealed Government Notice 24 of 2020 [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "appeal board",
+      "definition": "the appeal board appointed under section 49",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Authority",
+      "definition": "the Namibia Deposit Guarantee Authority established by section 2",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Bank",
+      "definition": "the Bank of Namibia referred to in section 2 of the Bank of Namibia Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Bank of Namibia Act",
+      "definition": "the Bank of Namibia Act, 1997 (Act No. 15 of 1997 )",
+      "source_provision": "s1"
+    },
+    {
+      "term": "banking institution",
+      "definition": "a banking institution as defined in section 1 of the Banking Institutions Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Banking Institutions Act",
+      "definition": "the Banking Institutions Act, 1998 (Act No. 2 of 1998 )",
+      "source_provision": "s1"
+    },
+    {
+      "term": "banking services sector",
+      "definition": "the economic sector that engages in the banking business as defined in section 1 of the Banking Institutions Act , and includes the business of a building society as described in section 1 of the Building Societies Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Board",
+      "definition": "the Board of directors of the Authority referred to in section 6",
+      "source_provision": "s1"
+    },
+    {
+      "term": "branch of a foreign bank",
+      "definition": "a branch of a foreign banking institution referred to in section 19A of the Banking Institutions Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Building Societies Act",
+      "definition": "the Building Societies Act, 1986 (Act No. 2 of 1986 )",
+      "source_provision": "s1"
+    },
+    {
+      "term": "building society",
+      "definition": "a building society as defined in section 1 of the Building Societies Act , and provisionally or finally registered pursuant to section 4 of that Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "coverage limit",
+      "definition": "the maximum amount prescribed in terms of section 40, and payable to a depositor in accordance with this Act in respect of guaranteed deposits placed with a member institution whose deposits are unavailable",
+      "source_provision": "s1"
+    },
+    {
+      "term": "deposit",
+      "definition": "a deposit as defined in section 1 of the Banking Institutions Act , and “ depositor ” has a corresponding meaning",
+      "source_provision": "s1"
+    },
+    {
+      "term": "deposit guarantee policy",
+      "definition": "a formal document issued by the Authority pursuant to section 23(4)",
+      "source_provision": "s1"
+    },
+    {
+      "term": "directive",
+      "definition": "a directive issued by the Authority under section 47",
+      "source_provision": "s1"
+    },
+    {
+      "term": "director",
+      "definition": "a director of the Board appointed in terms of section 6",
+      "source_provision": "s1"
+    },
+    {
+      "term": "determination",
+      "definition": "a determination made by the Authority under section 57, and “ determine ” has a corresponding meaning",
+      "source_provision": "s1"
+    },
+    {
+      "term": "financial year",
+      "definition": "the financial year of the Fund referred to in section 30",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Fund",
+      "definition": "the Deposit Guarantee Fund established by section 25",
+      "source_provision": "s1"
+    },
+    {
+      "term": "guaranteed deposit",
+      "definition": "the amount due to a depositor for a deposit held in a member institution whose deposits have become unavailable , including accrued interest less any part that is in excess of the coverage limit",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Head of the Authority",
+      "definition": "the Head of the Authority appointed pursuant to section 19(1) or (2)",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Insolvency Act",
+      "definition": "the Insolvency Act, 1936 (Act No. 24 of 1936 )",
+      "source_provision": "s1"
+    },
+    {
+      "term": "liquidation",
+      "definition": "either provisional or final liquidation",
+      "source_provision": "s1"
+    },
+    {
+      "term": "liquidator",
+      "definition": "a person appointed under the Insolvency Act with the duty to take charge of the assets and liabilities of an insolvent member institution",
+      "source_provision": "s1"
+    },
+    {
+      "term": "member institution",
+      "definition": "a banking institution , a building society and a branch of a foreign bank that is a member of the Scheme",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister responsible for Finance",
+      "source_provision": "s1"
+    },
+    {
+      "term": "prescribed",
+      "definition": "prescribed by regulations made under section 56 or rules made under section 48(18)",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Scheme",
+      "definition": "the Deposit Guarantee Scheme established in terms of section 22",
+      "source_provision": "s1"
+    },
+    {
+      "term": "this Act",
+      "definition": "regulations, rules, determinations, directives and any other instrument or measure made or issued under this Act. Part 2 – NAMIBIA DEPOSIT GUARANTEE AUTHORITY",
+      "source_provision": "s1"
+    }
+  ]
+}

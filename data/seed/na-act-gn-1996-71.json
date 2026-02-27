@@ -1,0 +1,579 @@
+{
+  "id": "na-act-gn-1996-71",
+  "type": "statute",
+  "title": "Model Electricity Supply Regulations, 1996",
+  "title_en": "Model Electricity Supply Regulations, 1996",
+  "short_name": "Model Electricity Supply Re...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/gn/1996/71/eng@2017-11-15",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "In these regulations any word or expression to which a meaning has been assigned in the Local Authorities Act , 1992 ( Act 23 of 1992 ) shall bear that meaning and, unless the context otherwise indicates - \" accommodation unit \", in relation to any premises, means any building or section of a building occupied or used or intended for occupation or use for residential, business or industrial purposes or any other purpose; \" Act \" means the Local Authorities Act, 1992 (Act 23 of 1992 ); \" approved \" means approved by the Engineer in writing; \" consumer \" means the person to whom electricity is supplied by the Council under a contract of supply or a special agreement referred to in regulation 65; \" consumption \" means the energy consumption in kilowatt hours (kW.h); \" contract of supply \" means a contract concluded between the Council and any person in terms of regulation 4 for the supply of electricity by the Council to such person; \" Council \", in relation to a local authority area , means the municipal council, town council or village council, as the case may be, of that area; \" demand \" means the consumer 's highest average load in kilovolt-ampere (kVA) measured over any thirty minute period during a calender month, or the value registered by a thermal demand kilovolt-ampere meter with a time constant of fifteen minutes; [The word “calendar” is misspelt in the Government Gazette , as reproduced above.] \" electricity tariff \", in relation to a local authority area , means the tariff of charges, fees and other moneys determined by the Council concerned under section 30(1)(u) of the Act , or applicable to the local authority area by virtue of the provisions of section 95(5) of the Act , in respect of the supply of electricity by the Council and the rendering of other services in connection therewith; \" Engineer \" means the official of the Council charged with the function of exercising control over the supply of electricity by the Council ; \" installation \" means the entire electrical installation on a consumer 's premises, including all conduits, wires, cables, fittings, lamps, motors, cooking and heating appliances, instruments and equipment and all other material used or intended to be used for or in connection with the supply of electricity supplied at any one tariff rate on such premises, but does not include the metering installation or controlling devices or any part of the service connection ; \" local authority area \" means the area comprising the municipality, town or village, as the case may be, to which these regulations are applicable by virtue of the provisions of section 94(2)(b) of the Act ; \" metering installation \" means a meter or an arrangement of meters installed by the Council for the purpose of measuring the maximum demand or energy consumption or the maximum demand and energy consumption of a consumer , and includes all associated instrument transformers, interconnecting wires, fuses, terminal blocks and accessories; \" occupier \", in relation to any premises, means - (a) the person in actual occupation thereof; (b) the person legally entitled to occupy the premises; (c) the person having the charge or management of the premises; or (d) the agent of any such person who is absent from Namibia or whose whereabouts are unknown; \" owner \", in relation to any premises, means the person in whose name the premises are registered, and includes - (a) if the owner is deceased, insolvent, mentally ill, a minor or under any legal disability, the person in whom the custody or administration of such premises is vested as executor, trustee, curator, guardian or in any other capacity; (b) if the premises are leased and registration in a deeds registry is a prerequisite for the validity of the lease, the lessee; (c) the owner's authorized agent or a person receiving the rent of the premises in question on behalf of the owner; or (d) where the premises are beneficially occupied under a servitude or similar right, the person in whom such right is vested; \" service apparatus \" means any protective device, meter (including a prepayment meter), load controller, connection terminal or other apparatus belonging to the Council and installed on the consumer 's premises and primarily used to control, switch and meter the electricity supplied to the consumer ; \" service connection \" means all cables and equipment required to connect the supply main of the Council to the terminals of the consumer 's installation ; \" starting current \", in relation to an alternating current motor, means the root mean-square current taken by the motor when started with the rotor locked; \" supply main \" means any electric cable or overhead line or distribution cubicle forming part of the Council 's electrical distribution system to which the service connection is connected; \" voltage, low \" (referred to as L.V.) means a voltage normally not exceeding 1000 volts; \" voltage, medium \" (referred to as M.V.) means a voltage normally above 1000 volts but not exceeding 33,000 volts; \" Wiring Regulations \" means the Standard Code of Practice for the Wiring of Premises SABS 014211993 published by the South African Bureau of Standards (SABS), including any amendments thereof; \" wiring work \" means the installation , alteration, repair or testing of any conduit, wire, fitting or apparatus upon any premises. Part 1 – GENERAL CONDITIONS OF SUPPLY"
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part 1",
+      "section": "2",
+      "title": "Council 's sole right to supply electricity from supply main",
+      "content": "No person shall obtain the supply of electricity or take electricity from a supply main other than by means of a service connection provided by the Council pursuant to a contract of supply concluded in accordance with these regulations."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part 1",
+      "section": "3",
+      "title": "Conditions for supply of electricity by Council",
+      "content": "(1) The Council shall not be obliged to supply electricity to the premises of any resident in the local authority area , unless - (a) the owner or occupier of such premises has concluded with the Council a contract of supply ; and (b) all other requirements prescribed by these regulations for procuring such supply have been complied with by such owner or occupier . (2) Notwithstanding subregulation (1), the Council shall not be obliged to conclude with any owner or occupier a contract of supply if a supply main is not available at a point within the close proximity of the premises of such owner or occupier from where it is reasonably possible to provide a service connection to the premises."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part 1",
+      "section": "4",
+      "title": "Application for the supply of electricity",
+      "content": "(1) Application may be made to the Council by or on behalf of the owner or occupier of any premises - (a) for the initial connection of such premises to a supply main ; (b) for the increase of the capacity of an existing supply of electricity provided by the Council ; or (c) for the reconnection of such supply where a previous contract of supply has been terminated, whether to the previous consumer or to any subsequent owner or occupier . (2) An application in terms of subregulation (1) shall be made in a form provided by the Council for the purpose, and shall be submitted to the Council - (a) in the case of an application for an initial connection, at least 6 weeks before the supply of electricity is required; (b) in the case of an application for an increase in the capacity of the supply, at least 3 weeks before such increase is required; (c) in the case of a reconnection of the supply, at least 7 days before the supply of electricity is required. (3) Upon submitting an application in terms of subregulation (1), every applicant shall - (a) sign a contract for the supply of electricity; and (b) pay to the Council the appropriate fee determined in the electricity tariff for an initial connection, or an increase of capacity of supply or a reconnection of supply, whichever may be applicable. (4) Where application is made for the initial connection of any premises to a supply main , the applicant shall, if he or she is not the registered owner of the premises, lodge, together with the application, the written permission of the registered owner that such connection may be made. (5) If the requirements of subregulation (3) have been complied with, the chief executive officer, or any other employee of the Council authorised by the chief executive officer for that purpose, shall sign on behalf of the Council the contract of supply bearing the applicant's signature. (6) The supply of electricity by the Council to the premises of a consumer shall be subject to the conditions contained in the relevant contract of supply and to the provisions of these regulations."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part 1",
+      "section": "5",
+      "title": "Payment of deposit",
+      "content": "(1) Every consumer , other than the Government of the Republic of Namibia or a consumer on whose premises a prepayment meter is installed, shall, before the supply of electricity is given by the Council to such consumer 's premises, deposit with the Council a sum of money equal to the estimated charge for an average month's supply of electricity as determined by the Council . (2) The Council may from time to time review the sum of money deposited by a consumer in terms of subregulation (1) and, in accordance with such re-view - (a) require that an additional amount be deposited by the consumer ; or (b) refund to the consumer such amount as may be held by the Council in excess of the reviewed deposit. (3) If a consumer fails to deposit an additional amount in accordance with subregulation (2)(a) within 30 days after being required by the Council in writing to do so, the Council may suspend the supply of electricity to such consumer until such additional amount, and the fees determined in the electricity tariff for such suspension and the subsequent restoration of the supply, are paid. (4) Subject to subregulation (5), an amount deposited with the Council in terms of subregulation (1) or (2), shall not be regarded as being in payment or part payment of an account due for the supply of electricity. (5) If, upon the termination of a contract of supply in terms of regulation 18, an amount remains due to the Council in respect of electricity supplied to the consumer , the Council may apply the deposit in payment or part payment of the outstanding amount and refund any balance to the consumer . (6) No interest shall be payable by the Council on the amount of a deposit held by it in terms of this regulation."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part 1",
+      "section": "6",
+      "title": "Initial connection to supply main , increase of capacity or reconnection of supply",
+      "content": "(1) Where a contract of supply has been concluded, the Council shall, subject to regulation 4(2), cause the initial connection to be made, or the capacity of the supply to be increased, or a reconnection of the supply to be effected, as the case may be. (2) In the case of an initial connection, the service connection shall be made at such position on the supply main as the Engineer may determine. (3) The Council may, either of its own accord or at the request of a consumer , alter the position of a service connection on the supply main . (4) Where a service connection is provided by the Council to any premises, it shall be the responsibility of the consumer concerned, and not of the Council , to provide and install and maintain, in accordance with the provisions of these regulations and the Wiring Regulations , the installation on the premises. (5) The charges payable for - (a) an initial service connection , including the cables and service apparatus ; (b) an increase in the capacity of supply; (c) a reconnection of the supply; or (d) the alteration of the position of a service connection on the supply main at the request of the consumer , shall be as determined in the electricity tariff ."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part 1",
+      "section": "7",
+      "title": "Provision of metering installation",
+      "content": "(1) Upon the connection of any premises to the supply main the Council shall provide and install the metering installation necessary for measuring the quantity of electricity supplied to the premises. (2) Only one meter, or set of meters in the case of a three phase supply, shall be provided per consumer for each tariff scale, but the Council may, at the request of the person having the charge or management of any premises on which two or more accommodation units are situated, provide and install a separate meter for each of such accommodation units. (3) Where only one meter is provided and installed on any premises on which several accommodation units are situated, the Council may require from the person having the charge and management of such premises to provide and install and maintain at his or her own cost a private submeter for each of such accommodation units. (4) Where in terms of subregulation (3) the Council requires the provision and installation of private submeters, such submeters shall be installed separate from the accommodation where the Council 's metering installation is or is to be installed."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part 1",
+      "section": "8",
+      "title": "Safeguarding of metering installation and other equipment",
+      "content": "(1) Every consumer shall take such measures as are reasonably necessary to prevent any damage to be caused to the metering installation or other equipment forming part of the service apparatus on the premises of the consumer . (2) If the Engineer considers it necessary or desirable that special precautions be taken for the safeguarding of the metering installation on the premises of any consumer , the Council may - (a) require that the consumer takes such steps as the Engineer may direct for that purpose; or (b) cause the steps to be taken which the Engineer considers necessary for that purpose and recover from the consumer the costs thereof. (3) Where the metering installation or any other equipment of the service apparatus on any premises is damaged or destroyed by reason of any failure on the part of the consumer to comply with the provisions of subregulation (1) or to maintain in proper order any steps taken in accordance with subregulation (2), the consumer shall be liable to pay to the Council any costs which the Council may be required to incur for the repair or substitution of the metering installation or such equipment as a result of such failure. (4) Every consumer shall ensure that free and unimpeded access to the metering installation on the premises of the consumer is available at all times. (5) The duties and responsibilities imposed by subregulations (1), (2), (3) and (4) shall - (a) devolve on the owner of any premises during any period that such premises are not occupied by another person; (b) in the case of premises on which several accommodation units are situated and to which electricity is supplied through a common metering installation , rest on the person having the charge or management of the premises. (6) A person who fails to comply with the provisions of subregulation (4) shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part 1",
+      "section": "9",
+      "title": "Tampering with or damage to metering installation or other equipment",
+      "content": "(1) No person other than the Engineer or a person duly authorised thereto by the Council shall - (a) open, break or remove any seal or lock affixed to the metering installation or an other part of the service apparatus or service connection on any premises; [The phrase “an other” should probably be “any other”.] (b) disconnect the metering installation from the service connection ; (c) where the supply of electricity to any premises has been disconnected or suspended by the Council for any reason, make a reconnection of or restore such supply in any manner; or (d) in any other way tamper or interfere with the metering installation or any other part of the service apparatus or the service connection on any premises, and no owner or occupier of such premises shall cause or permit any unauthorised person to perform any of such acts on his or her premises. (2) Where it is found that any seal or lock of the Council affixed to the metering installation on any premises has been opened, broken or removed or that any tampering with the metering installation has occurred the Council may without prior notice to the consumer concerned - (a) suspend the supply of electricity to such consumer ; and (b) cause the meter to be tested and, if necessary, to be repaired or replaced. (3) The Council shall not be obliged to restore the supply of electricity which has been suspended in terms of subregulation (2), unless the consumer has paid - (a) where applicable, the costs incurred by the Council for the testing or repair or replacement of the meter; and (b) the charges determined in the electricity tariff for the suspension and subsequent restoration of the supply of electricity. (4) Where it is on reasonable grounds suspected that the tampering with the metering installation or any other part of the service apparatus on the premises of a consumer has resulted in the meter not registering or not registering correctly the consumption of the consumer , the Council may estimate, in accordance with subregulation (5), the quantity of electricity supplied to the consumer during the period since the date of the previous last reading of the meter (prior to the reading consequent on which the failure of the meter was discovered) until the date on which the supply of electricity has been suspended in terms of subregulation (2), and recover from the consumer for the electricity supplied the charges based on such estimated quantity. (5) For the purposes of subregulation (4), an estimate of the quantity of electricity supplied to a consumer shall be based on, either, as the Council may decide- (a) the average monthly consumption of electricity on the premises during the corresponding three consecutive metering periods in the 12 months' period prior to the date on which the tampering with the metering installation was discovered; or (b) the average monthly consumption on the premises registered over three succeeding metered periods after the restoration of the supply in accordance with subregulation (3). (6) Where it is found that any reconnection or restoration of the supply of electricity has been made on the premises of any consumer in contravention of subregulation (1)(c), the consumer concerned shall be liable to pay the charges for electricity consumed from the date of disconnection or suspension to the date the supply was found to be reconnected or restored, as well as the cost of any subsequent disconnection or suspension of the supply by the Council . (7) Any person who- (a) contravenes any provision of subregulation (1); or (b) wilfully damages the metering installation of the Council on any premises, shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part 1",
+      "section": "10",
+      "title": "Repair or substitution of meter or other equipment",
+      "content": "(1) In the event of any repairs to the meter or any other part of the service apparatus on any premises being found necessary, such repairs shall be effected only by a person authorized thereto by the Engineer and no person else. (2) The Council may at any time replace the meter on any premises if it is suspected of not registering accurately the supply of electricity to such premises. (3) The costs incidental to any repairs in terms of subregulation (1), or the replacement of any meter in terms of subregulation (2), shall be borne by the Council , but if the repairs or replacement is necessitated by reason of any failure on the part of a consumer contemplated in regulation 8(3) or because of an act performed in contravention of regulation 9(1), the Council may recover such costs from such consumer . (4) Any person who acts, and any consumer who permits any other person to act, in contravention of the provisions of subregulation (1), shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part 1",
+      "section": "11",
+      "title": "Payment of charges",
+      "content": "(1) Every consumer shall pay for the electricity supplied, or, where a prepayment meter has been installed, to be supplied, by the Council to the consumer 's premises at the rate determined in the electricity tariff for the particular category of use for which electricity is supplied to the consumer . (2) A consumer shall be responsible for the payment of electricity supplied to the premises of the consumer from the date of the contract of supply until the date of termination of such contract in terms of these regulations. (3) An account rendered by the Council for electricity supplied to a consumer shall be paid by the consumer not later than the last date for payment specified in the account. (4) If payment of an account is received after the date referred to in subregulation (3), a late fee as determined in the electricity tariff shall be payable by the consumer to the Council ."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part 1",
+      "section": "12",
+      "title": "Charges in case of improper use",
+      "content": "(1) If a consumer uses the supply of electricity for any purpose, or deals with such supply in any manner, which, in the opinion of the Engineer , interferes with or is likely to interfere with the efficient supply of electricity to any other person, the Council may without prior notice suspend the supply of electricity to the premises of such consumer . (2) The Council shall restore any supply suspended in terms of subregulation (1), if- (a) the cause for the suspension of the supply has been permanently remedied or removed to the satisfaction of the Engineer ; and (b) the fees determined in the electricity tariff for the suspension and restoration of the supply have been paid. (3) Unless specifically authorised thereto in writing by the Council , no person shall connect or allow to be connected any consuming device to an installation or part of an installation which is being supplied with electricity at a rate lower than the rate which would ordinarily be charged by the Council for the supply of electricity to such device. (4) Where a consumer has- (a) contravened the provisions of subregulation (3); or (b) used electricity for a category of use other than that for which it is supplied by the Council under the contract of supply and as a consequence thereof the consumer is charged for electricity so used at a rate lower than the rate which should have been charged, the consumer shall, for the period from the previous last reading of the meter (prior to the reading consequent on which the contravention was discovered) and until the date it is proved to the satisfaction of the Council that the contravention has ceased, pay for all electricity consumed at the higher rate contemplated in subregulation (3) or paragraph (b) of this subregulation, whichever is applicable."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part 1",
+      "section": "13",
+      "title": "Payment for electricity upon amendment of charges",
+      "content": "If amendments to the electricity tariff of the Council in respect of the charges determined for the supply of electricity, or for the rendering of the service of electricity supply provided for in regulation 14, become operative on a date between meter readings- (a) it shall be deemed, for the purpose of rendering an account for electricity supplied by the Council , that the same quantity of electricity was supplied on every day during the period between the meter readings; (b) any availability charge or minimum monthly charge leviable in accordance with regulation 14 shall be calculated on a pro rata basis in accordance with the rate which applied immediately before such amendment and such amended rate."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part 1",
+      "section": "14",
+      "title": "Charges for rendering service of electricity supply",
+      "content": "(1) The Council may, in addition to the charges determined in the electricity tariff for electricity actually supplied, levy an availability charge or a monthly minimum charge for the rendering of the service of electricity supply to residents in the local authority area . (2) Where an availability charge is levied in terms of subregulation (1), it shall be payable- (a) subject to subregulation (4), by every owner of premises, with or without improvements, which are not connected to a supply main but which can reasonably be provided with such a connection; and (b) by every consumer in respect of each service connection provided by the Council to serve the premises occupied by the consumer , whether or not electricity is consumed on the premises. (3) Where a minimum monthly charge is levied in accordance with subregulation (1), it shall be payable by every consumer in respect of a specified minimum quantity of electricity, whether or not such quantity has actually been consumed by the consumer : Provided that where the amount of electricity consumed exceeds the minimum quantity specified, the normal rate, except where otherwise provided, shall be charged and be payable in respect of the quantity exceeding such minimum. (4) Notwithstanding subregulation (2)(a), an availability charge levied by the Council in accordance with subregulation (1) shall not be payable by the owner of any township in respect of any unalienated premises in the township if- (a) the electricity reticulation system in the township was provided by the township owner at his or her own cost; or (b) the township owner has deposited with the Council the capital cost of such reticulation system, but upon the alienation of such premises to any other person, such availability charge shall be payable by such other person and every successor in title."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part 1",
+      "section": "15",
+      "title": "Determination of quantity of electricity supplied",
+      "content": "(1) The quantity of electricity supplied by the Council to a consumer during a period in respect of which a meter reading is taken by the Council , shall be the quantity registered by the meter on such consumer 's premises over the period in question, with due regard to any multiplying or dividing constant applicable to such meter. (2) No rebate shall under any circumstances be allowed on any account rendered for electricity supplied where any wastage of electricity occurred because of a leakage or any other fault on the installation . (3) Nothing in these regulations shall be construed as imposing on the Council an obligation to cause any meter to be read at the end of every month or any other fixed period, and the Council may estimate the quantity of electricity supplied over any period during the interval between successive readings of the meter and render an account to a consumer for the quantity of electricity so estimated. (4) When so requested by a consumer , the Council shall cause a special reading of the meter to be made, in which event the consumer shall be liable to pay the charge determined in the electricity tariff for such a reading."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part 1",
+      "section": "16",
+      "title": "Objection to account rendered by Council for electricity supplied",
+      "content": "(1) If a consumer disputes the correctness of the quantity of electricity supplied as reflected on an account rendered by the Council , the consumer may in writing object to such account and request that the meter be tested by the Council . (2) An objection and request in terms of subregulation (1) shall- (a) set out the reasons for the objection and the request; (b) be delivered to the Council not later than 7 days after the receipt of the account in question; and (c) be accompanied by the deposit determined in the electricity tariff for the testing of a meter. (3) If the provisions of subregulation (2) have been complied with, the Council shall forthwith cause the meter concerned to be tested- (a) in accordance with the provisions of section 3 .3 of SABS 01-1953 (Code of Practice for the Testing of Electricity Meters); or (b) by means of a calibrated check meter. (4) A meter shall be deemed to be registering accurately if upon the testing thereof it is found to be registering- (a) in the case of an electricity energy meter, not over or under by more than 2,5%; (b) in the case of an electricity maximum demand meter, not over or under by more than 3,5%. (5) If, upon a testing in accordance with the provisions of subregulation (4), the meter is found not to be defective, the Council shall retain the amount deposited by the consumer , but if it is found to be defective, the Council shall- (a) refund to the consumer the amount deposited in terms of subregulation (2)(c); (b) repair the meter or install another meter which is in good working order, without charge to the consumer , unless the costs thereof are recoverable from the consumer in terms of regulation 8(3); and (c) determine the quantity of electricity for which the consumer shall be charged in lieu of the quantity registered by the defective meter, by taking as basis for such determination, and as the Council may decide- (i) the quantity representing the average monthly consumption of the consumer during the 3 months preceding the month in respect of which the reading is disputed and adjusting such quantity in accordance with the degree of error found in the reading of the defective meter; (ii) the average consumption of the consumer during the succeeding three metered periods after the defective meter has been repaired or replaced; or (iii) the consumption of electricity on the premises recorded for the corresponding period in the previous year."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part 1",
+      "section": "17",
+      "title": "Complete failure of meter to register supply",
+      "content": "(1) The Council shall repair or replace any meter which has ceased to register the supply of electricity to the premises of any consumer and shall bear the costs in connection therewith, unless the provisions of regulation 8(3) are applicable. (2) Where the meter ceases to register the quantity of electricity supplied to a consumer , the quantity of electricity supplied during the period between the date of the previous last reading of the meter (prior to the reading consequent on which the failure was discovered) and the date of its repair or replacement, shall be estimated by the Council in accordance with subregulation (3). (3) An estimate for the purposes of subregulation (2) shall be based on, as the Council may decide- (a) the average monthly consumption of electricity on the premises during the period of three months before the date of such previous last reading of the meter; (b) the average monthly consumption of electricity on the premises registered over three successive metered periods after the repair or replacement of the defective meter; or (c) the consumption of electricity on the premises recorded for the corresponding period in the previous year."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part 1",
+      "section": "18",
+      "title": "Termination of contract of supply",
+      "content": "(1) A consumer may terminate a contract of supply by giving to the Council not less than 7 days' notice in writing. (2) Subject to subregulations (3) and (4), the Council may terminate a contract of supply if the consumer concerned- (a) has not used any electricity during the preceding six months and has not made arrangements to the satisfaction of the Council for the continuation of the contract of supply ; or (b) has committed a breach of these regulations or the Wiring Regulations , other than a failure to pay an amount due in respect of the supply of electricity, and has failed to rectify such breach within 48 hours after being required in writing by the Engineer to do so. (3) In the case of the termination of a contract of supply in terms of subregulation (2)(a), the Council shall give to the consumer concerned not less than 7 days' notice of its intention to terminate the contract. (4) The Council may without notice terminate a contract of supply if the consumer has vacated the premises to which such contract relates, without having made arrangements to the satisfaction of the Council for the continuation of the contract of supply ."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part 1",
+      "section": "19",
+      "title": "Removal of service connection",
+      "content": "The Engineer may disconnect and remove a service connection provided by the Council to any premises if- (a) the contract of supply has been terminated in terms of regulation 18 and no subsequent application for the reconnection of the supply of electricity lo such premises has been received in the period of 90 days following such termination; or (b) the building on such premises is demolished."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part 1",
+      "section": "20",
+      "title": "Suspension of electricity supply",
+      "content": "(1) If an account rendered by the Council in respect of the supply of electricity is not paid by a consumer before the expiry of the last day for such payment specified in the account, the Council may forthwith suspend the supply of electricity to such consumer until the amount due is paid by the consumer , together with the charges referred to in subregulation (3). (2) If the Engineer considers it necessary as a matter of urgency to prevent any unauthorised use of electricity, damage to property or danger to life, the Engineer may, without prior notice and without prejudice to the Council 's power under regulation 18(2)(b)- (a) suspend the supply of electricity to any premises; (b) enter upon such premises and carry out, at the owner 's expense, such emergency work as the Engineer may deem necessary; and (c) by written notice require the owner to carry out within a specified period such further work as the Engineer may deem necessary. (3) If the supply of electricity to any premises is suspended under subregulation (1) or (2), the consumer concerned shall, before such supply is restored by the Council , pay both the charges for the suspension of the supply of electricity and for the restoration of such supply as may be determined in the electricity tariff ."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part 1",
+      "section": "21",
+      "title": "Load reduction",
+      "content": "(1) At times of peak load, or in an emergency, or when, in the opinion of the Engineer , it is necessary to reduce the load on its electricity supply system, the Council may without prior notice interrupt and, for such period as the Engineer may deem necessary, discontinue the supply of electricity to the whole or part of any consumer 's installation . (2) The Council may, at its own cost, install upon the premises of any consumer such apparatus or equipment as may be necessary or expedient for the purpose of any action contemplated in subregulation (1), and may require from the consumer to provide at his or her cost a suitable facility for the installation of such apparatus or equipment. (3) If in the opinion of the Engineer the use of electricity by a consumer adversely affects the supply of electricity to any other person, the Engineer may, without prejudice to the Council 's powers under regulation 12(1), apply such restrictions to the supply of electricity to such consumer as the Engineer may deem fit in order to ensure a reasonable supply of electricity to such other person."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part 1",
+      "section": "22",
+      "title": "Resale of electricity by consumers",
+      "content": "(1) Except in accordance with a special agreement entered into with the Council in terms of regulation 65, no consumer shall sell or supply or cause or permit to be sold or supplied any electricity supplied to the consumer by the Council to any other person for use on any premises other than the premises to which the electricity is supplied by the Council . (2) A consumer may, with the written consent of the Council , and subject to such conditions as the Council may impose, resell electricity supplied by the Council to the premises of the consumer , to any other person for use on the same premises. (3) The rates at, and the conditions under, which electricity may be resold by a consumer to another person in terms of subregulation (2), shall not be less favourable than those at which electricity is supplied by the Council to the consumer , and the consumer shall, when so requested by such other person, furnish him or her with such information as may be necessary to enable him or her to verify the correctness of any account rendered to him or her by the consumer . (4) The Council may at any time demand from a consumer authorised to resell electricity in terms of subregulation (2), to submit to the Council for inspection the records of such consumer relating to the resale of electricity to other persons and the income derived by the consumer from such resale, and may, where submeters have been installed by the consumer , demand that the consumer cause any of such submeters to be tested to the satisfaction of the Engineer at the consumer 's cost, and that any submeter found to be defective be repaired or replaced."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part 1",
+      "section": "23",
+      "title": "Temporary supply of electricity",
+      "content": "(1) Any person who requires a temporary supply of electricity to any installation may apply therefor in writing to the Engineer setting out the reasons for and nature of the temporary work, and the Engineer may refuse such application or may grant it subject to such terms and conditions as the Engineer may consider necessary or expedient to impose. (2) Should at any time any temporary supply of electricity be found to interfere with efficient and economic supply of electricity to any other consumer , the Council may without prior notice terminate such temporary supply without liability for any loss or damage occasioned to the consumer by such termination."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part 1",
+      "section": "24",
+      "title": "Non-liability of the Council",
+      "content": "The Council shall not be liable for any loss or damage, direct or consequential, suffered by a consumer or the owner or any premises as a result of or arising from the cessation, interruption, discontinuance, disconnection, deficiency, variation or abnormality of the supply of electricity from whatever cause and whether or not such cause be attributable to any act or omission of any employee or agent of the Council ."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part 1",
+      "section": "25",
+      "title": "Temporary disconnection and reconnection",
+      "content": "(1) If so requested by a consumer , the Council shall temporarily disconnect, and thereafter restore, the supply of electricity to the premises of such consumer upon payment of the charges determined in the electricity tariff for the disconnection and for the restoration of the supply. (2) The Council may without notice disconnect temporarily the supply of electricity to any premises where such disconnection is necessary for the purpose of effecting repairs, making tests or any other lawful reason."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part 1",
+      "section": "26",
+      "title": "Medium voltage switchgear and equipment",
+      "content": "(1) Where the supply of electricity is given at medium voltage, one MV switch, forming part of the service connection , shall be provided by the Council at the cost of the consumer . (2) Where the Engineer permits the use of the Council 's circuit breaker for the protection of the consumer 's medium voltage equipment, any additional installations required in connection with such protection shall be at the cost of the consumer . (3) The consumer shall bear the cost of the medium voltage cable forming part of the Council 's reticulation which is laid on the consumer 's premises to the point of supply."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part 1",
+      "section": "27",
+      "title": "Provision of accommodation for transformer substation",
+      "content": "(1) In the case of premises with an estimated load in terms of the Wiring Regulations , or a notified maximum demand , exceeding 66 kVA, the Council may, on such conditions as it deems fit, require from the owner to provide and maintain on the premises a chamber in conformity with the requirements of regulation 28 to serve as a substation for the housing of switchgear, transformers, medium and low voltage cables and other equipment necessary for the supply. (2) Should the owner of any premises fail to maintain such chamber to the required standard after being requested to do so by the Engineer , the Engineer may carry out such work as the Engineer may deem fit to bring the chamber in conformity with the required standard, and the owner shall be liable to pay the cost thereof to the Council . (3) The owner shall ensure that free and unimpeded access to the substation chamber is available at all times. (4) The Council may supply its own low voltage networks from its own equipment installed in a substation chamber of a consumer ."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part 1",
+      "section": "28",
+      "title": "Requirements for substation chamber",
+      "content": "(1) No person shall commence with the construction of a substation chamber referred to in regulation 27, unless- (a) the person concerned has submitted to the Engineer for approval- (i) a drawing of the proposed chamber, drawn to a scale of not less than 1:25, clearly showing in plan and elevation the internal construction and floor of such chamber and the proposed lay-out of the consumer 's electrical equipment (if any) to be located in such chamber; and (ii) a site plan, drawn to a scale of not less than 1:100, indicating the position of such chamber or chambers in relation to a public street or road; and (b) the Engineer has approved such drawing and plan. (2) The chamber shall be constructed in accordance with the approved drawings and plan and- (a) shall be substantially constructed in brick or concrete or other approved material which is weatherproof, fireproof, and vermin-proof and be adequately ventilated; (b) shall be provided with double doors of approved fireproof design and size; (c) shall be of adequate size, having regard to the lay-out of equipment, illumination and space for free movement of persons carrying out any work or inspection therein; (d) shall be of a height between the floor and the ceiling of not less than 2,7 m, clear of all beams and other protuberances; (e) shall not contain any windows, except with the approval of the Engineer , and subject to such conditions as the Engineer may impose with a view to prevent access therefrom; (f) shall be provided with such cable ducts as may be required by the Engineer ; and (g) shall not contain any water, gas, sewerage or drain piping, unless the Engineer is satisfied that the installation of any such piping will not cause danger or injury to persons or property or interfere with the proper placing and functioning of the equipment contained in the chamber. (3) The owner or occupier of any premises on which a substation chamber is required to be provided shall- (a) provide and install such cable ducts from the supply main to such chamber for the Council 's incoming cables as the Engineer may require and, where applicable, such cable ducts as the Engineer may require between two or more substation chambers. (b) ensure that the access between the doors of every substation chamber and the public street or road remains unobstructed at all times. (4) No person, other than an official of the Council or any other person authorised thereto by the Council , shall enter a substation chamber or open or remove any lock used for securing the doors thereof."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part 1",
+      "section": "29",
+      "title": "Low voltage supply",
+      "content": "The owner or occupier of any premises to which electricity is supplied at low voltage, shall, where so required by the Engineer - (a) provide approved accommodation for the service apparatus of the Council ; and (b) provide and install an approved main isolating and protective device;"
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part 1",
+      "section": "30",
+      "title": "Standby supply",
+      "content": "(1) Except with the written consent of the Engineer and subject to such terms and conditions as may be laid down by the Council , no person shall be entitled to obtain from the Council a service connection for the purpose of a standby supply of electricity to any premises having a source of electricity supply other than that provided by the Council . (2) The owner or occupier of any premises to which electricity is supplied by the Council shall not, except with the written permission of the Engineer , install or use a private generating plant on such premises for the purpose of a standby supply. (3) Any generating plant which a person under subregulation (2) is permitted to install shall be electrically and mechanically interlocked in such a manner as to prevent parallel connection to the Council 's supply main . (4) The Engineer shall be notified of the first commissioning test and any subsequent test run to be carried out on a generating plant installed in terms of subregulation (2), and may at any time require that a test run be carried out. Part 2 – SERVICE CONNECTION AND SERVICE APPARATUS"
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part 2",
+      "section": "31",
+      "title": "Service connection",
+      "content": "(1) The work to be carried out by the Council for providing a service connection to the premises of a consumer shall be determined by the Engineer , from whom particulars thereof may be obtained upon application. (2) Unless the Engineer directs otherwise- (a) a service connection shall be laid underground, whether the supply main is laid underground or erected overhead; (b) only one service connection shall be provided and installed on any premises, whether such premises comprise only one or several accommodation units. (3) Where two or more erven are consolidated, only one service connection shall be permitted for the consolidated erf, unless the consolidated erf comprises sectional title units, and the consumer shall be responsible for the removal of any service connections not authorised."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part 2",
+      "section": "32",
+      "title": "Internal portion of service connection",
+      "content": "(1) In every service connection , the section between the point on the exterior of the building at which the cable terminates or is fixed and the service apparatus , shall be known as the internal portion of the service connection , and in relation to which the following conditions shall apply: (a) The consumer shall, at his or her own cost, provide and install and maintain the internal portion of the service connection . (b) the consumer shall provide and install, in a position approved by the Engineer , the metering installation board or boards and adequate wiring for connecting the service apparatus ; (c) any work required to be carried out on the internal portion of the service connection shall be carried out at the cost of the consumer by a person registered as an electrical contractor under these regulations; (d) no alterations, repairs or additions of any description shall be made to the internal portion of the service connection , except with the express approval in writing of the Engineer . (2) In the case of multi- consumer installations on any premises where rising mains or lateral mains or cables are used to supply metering installation rooms at different locations, the cables between the termination of the Council 's incoming cable and the metering installations of the individual consumers shall, for the purposes of subregulation (1), be regarded as part of the internal portion of the service connection ."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part 2",
+      "section": "33",
+      "title": "External portion of service connection",
+      "content": "(1) In every service connection , the section between the supply main and the point on the exterior of the building at which the cable terminates or is fixed, shall be known as the external portion of the service connection . (2) The point on the exterior of a building where the external portion of the service connection is to terminate or to be fixed shall be determined by the Engineer . (3) The consumer shall provide and install and maintain any ducts, conduits or trenches which may be required by the Engineer for the purpose of installing underground service cables."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part 2",
+      "section": "34",
+      "title": "Requirements in relation to service connection",
+      "content": "(1) The type and size of conductor to be used for service connections shall be in accordance with the Wiring Regulations , but the cross-section shall not be less than 10mm 2 , and shall be copper or copper equivalent, unless otherwise approved . (2) Each conductor shall project a sufficient length from the end of the conduit or the cable terminating gland, as the case may be, at the meter board to provide for connection to the metering installation and service protective devices, and to the external service conductors, which connections shall be made by the Council in each case. (3) A neutral conductor, which shall have the same cross-sectional area as the line conductors, shall be provided in all cases, except in the case of supplies given under 3 phase 4 wire alternating current systems where the load of the installation is predominantly 3 phase in character when, with the prior permission of the Engineer , a neutral conductor of smaller cross-sectional area than the live conductors may be provided, but not in any case less than 50% of the cross sectional area of the live conductors. (4) The internal portion of the service connection shall consist of four conductors in every case where it is necessary for the installation to be arranged for connection under the 3 phase 4 wire system. (5) All conductors comprising the 4 wire, 3 wire or 2 wire internal portion of the service connection , as the case may be, shall be enclosed within one protection sheath or conduit. (6) The internal portion of the overhead service connection shall comprise approved type insulated conductors or insulated conductors taped and braided or unarmoured cable, run throughout their length in approved conduit or alternatively a continuous approved steel-wire armoured cable. (7) All cables shall be terminated with approved glands and bushes. (8) Where, owing to the number of bends required in a conduit, the use of draw-in boxes is necessitated, they shall be suitably drilled for sealing and shall be sealed by the officials of the Council . (9) Within the meter box, the conduit or cable, as the case may be, shall terminate in an unobscured position and the conductors shall remain visible throughout their length. (10) In buildings of unusual design and construction where the method of running the internal portion of the service connection may require special consideration, application shall be made to the Engineer for particulars of the requirements of the Council , and which shall be obtained before the work is commenced with. (11) In the case of a building in which several accommodation units are situated, separate conduits and wiring or cables shall be installed from the common metering installation room or rooms or distribution board or boards to each individual accommodation unit , and each of such conduits and conductors or cables shall for the purposes of this regulation and regulation 32 be classed as the internal portion of the service connection . (12) A separate internal service connection shall be provided for each consumer ."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part 2",
+      "section": "35",
+      "title": "Circuit breakers",
+      "content": "(1) In the case of a new installation , the Council shall install a miniature circuit breaker as advised in the consumer 's application and in a range of ampere ratings which shall normally be multiples of five with a minimum rating of 10 amperes and, unless the Engineer decides otherwise, a maximum rating of 60 amperes per phase. (2) The Council shall, on application of a consumer , substitute a circuit breaker with which an installation has been fitted, with a circuit breaker of the ampere rating indicated by the consumer , subject to the payment of the fee determined in the electricity tariff therefor."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part 2",
+      "section": "36",
+      "title": "Accommodation for service apparatus",
+      "content": "(1) A consumer shall make provision, to the satisfaction of the Engineer , for a suitable space for the installation of the service apparatus and shall at all times maintain such space to the satisfaction of the Engineer . (2) The Engineer may at any time in writing require from a consumer to carry out such work or repairs as the Engineer may specify in order to ensure that the space where the service apparatus is installed conforms to the required standard, and if a consumer fails to comply with such written request within the period specified therein, the Council may- (a) suspend the supply of electricity to the premises until the required work or repairs have been carried out by the consumer ; or (b) cause such work or repairs to be carried out and recover from the consumer the costs incurred by it. (3) Where in the opinion of the Engineer the space provided for the service apparatus is no longer reasonably accessible or has become a source of danger to life or property, the consumer shall, at the request of the Council provide a suitable space at a different approved position to which the service apparatus can be moved, and the consumer shall in such a case bear all costs incidental to such removal. (4) Where the service apparatus or any part thereof is to be fixed to a wall on any premises, the consumer concerned shall, if so required by the Engineer , cause such wall to be reinforced to the satisfaction of the Engineer for the purpose of installing the service apparatus . (5) A space provided for the installation of the service apparatus shall, where the Engineer so requires, be provided with adequate electric lighting. (6) Where so required by the Engineer , the consumer shall provide at his or her own cost a metering installation room or cubicle or box of approved design at a point approved by the Engineer , and which shall be used exclusively for the accommodation of the service apparatus and, if approved by the Engineer , the consumer 's main circuit breaker and main protective devices. (7) Except with the approval of the Engineer , no apparatus other than that used in connection with the supply of electricity shall be accommodated in a metering installation room or cubicle or box provided in terms of subregulation (6) and under no circumstances shall any other equipment or material of any nature be stored or kept therein. (8) A metering installation room shall be secured by means of a suitable lock, a key of which shall be provided free of charge to the Council by the consumer ."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part 2",
+      "section": "37",
+      "title": "Ownership of service apparatus and other equipment",
+      "content": "Notwithstanding the fact that- (a) any equipment used for providing a service connection to any premises or forming part of the service apparatus is installed and situated on such premises; (b) the costs in relation to any such equipment have been borne by the owner of such premises or any other person occupying the premises, neither such owner or such other person shall be vested with the ownership of such equipment, and such equipment shall at all times remain the exclusive property and be under the sole control of the Council . Part 3 – RESPONSIBILITIES OF CONSUMERS IN CONNECTION WITH INSTALLATION ON PREMISES"
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part 3",
+      "section": "38",
+      "title": "Wiring diagram and specifications",
+      "content": "The owner of any premises shall, if the Engineer so requires, provide the Engineer with a wiring diagram in duplicate of the circuits on such premises, starting from the point of supply."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part 3",
+      "section": "39",
+      "title": "Consumer responsible for installation",
+      "content": "(1) The owner or occupier of premises supplied or to be supplied with electricity by the Council shall be responsible to provide and install and maintain, at the consumer 's own expense, the installation on such premises in accordance with the requirements of these regulations and the Wiring Regulations . (2) No installation shall be permitted to extend from one premises to any other premises."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part 3",
+      "section": "40",
+      "title": "Fault on installation",
+      "content": "(1) Should any fault develop on the installation of any consumer , the consumer shall- (a) immediately switch off the supply by means of the switch provided for that purpose on the distribution board and, where considered necessary, request the Council to disconnect the supply to the premises of such consumer ; and (b) cause the necessary steps to be taken to remedy the fault on the installation . (2) The Council shall not be obliged to effect any repairs to the installation of a consumer , but shall repair any damage which may have been caused to the service apparatus as a result of a fault on the installation . (3) In a case contemplated in subregulation (2), the consumer shall- (a) reimburse the Council for any expenses which the Council may be required to incur in connection with any such repairs; and (b) be liable to pay to the Council the fee determined in the electricity tariff for the disconnection of the supply of electricity and for the subsequent restoration of the supply. Part 4 – ELECTRICAL SYSTEMS"
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part 4",
+      "section": "41",
+      "title": "Systems and voltages of supply",
+      "content": "The supply of electricity to any premises shall be given at any one of the following 50 Hz alternating current systems- (a) 230 ± 5% volts single phase 2 or 3 wire system; (b) 230/400 ± 5% volts 3 phase 4 wire system; (c) nominal 22 000 or 11 000 volts 3 phase 3 wire system."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part 4",
+      "section": "42",
+      "title": "Load limitations",
+      "content": "(1) Where the estimated load calculated in accordance with the Wiring Regulations does not exceed 20 kilovolt-amperes (kVA), the installation shall be arranged for a single phase 2 wire supply unless otherwise approved by the Engineer . (2) For multi-phase supplies, the load shall be approximately balanced and the current in the phases be within 15% of each other, and the consumer shall be responsible to correct any imbalance in excess of the 15%. (3) No consuming device inherently single phase in character and exceeding 15 kVA shall be connected to the installation without the prior approval of the Engineer ."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part 4",
+      "section": "43",
+      "title": "Limiting size of low voltage motors",
+      "content": "(1) Unless otherwise approved by the Engineer , the rating of a single phase low voltage motor shall be limited to 2 kW or to a starting current not exceeding 72 amperes. (2) Any motor exceeding the rating referred to in subregulation (1) shall be wound for 3 phase supply."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part 4",
+      "section": "44",
+      "title": "Motor starting current",
+      "content": "(1) Unless otherwise required by the Engineer , the permitted starting current of 3 phase low voltage motors shall be related to the capacity of the consumer 's service connection as follows- Maximum starting and accelerating current of three phase alternating current motors Service cable size in copper Maximum permissible starting current Suggested maximum motor rating kW DOL 6 x FL Amps Star/Delta 2,5 x FL Amps Other means 1,5 x FL Amps (mm 2 ) (Amps) (kW) (kW) (kW) 16 72 6,0 13,5 23,0 25 95 7,5 18,0 30,0 35 115 9,0 22,0 36,5 50 135 10,0 25,0 45,0 70 165 13,0 31,0 55,0 95 200 16,0 38,0 67,0 120 230 18,0 46,0 77,0 150 260 20,0 52,0 87,0 (2) Unless otherwise required by the Engineer , the starting current of a low voltage motor shall be limited to 1,5 times the rated full load current of the transformer supplying such motor. (3) The starting arrangement for medium voltage motors shall be subject to the approval of the Engineer ."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part 4",
+      "section": "45",
+      "title": "Frequent starting of motors",
+      "content": "Notwithstanding regulations 21(3) and 44, the Engineer may at any time require from a consumer to take approved steps, at the consumer 's expense, to reasonably reduce the starting current of any motor or motors in an installation if the Engineer considers it necessary or expedient from a point of view of other consumers or of excessive loading on the Council 's supply main ."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part 4",
+      "section": "46",
+      "title": "Protection for motors",
+      "content": "The consumer shall provide electrical protection devices for motors that will effectively protect the motor against sustained over-current, single phasing and phase rotation."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part 4",
+      "section": "47",
+      "title": "Power factor",
+      "content": "(1) The Consumer shall ensure that the power factor of any load is maintained within the limits of 0,85 lagging and 0,9 leading. (2) Where, for the purposes of subregulation (1), it is necessary to install power factor corrective devices, such devices shall be connected to the appliance terminals of individual appliances or equipment, but if the correction of the power factor is automatically controlled by means of special equipment, such equipment may be connected at the main distribution board. Part 5 – INSPECTION AND TEST"
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part 5",
+      "section": "48",
+      "title": "Inspection of installation before connection",
+      "content": "No connection of any premises to the supply main shall be effected unless the wiring work on the installation on such premises has been inspected, tested and approved by the Engineer or a person authorised thereto by the Engineer ."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part 5",
+      "section": "49",
+      "title": "Inspection and connection of partly completed installation",
+      "content": "Notwithstanding anything to the contrary in these regulations contained, the Engineer may, in his or her discretion, and upon notification by or on behalf of the owner or occupier of arty premises of the completion of any part of an installation on such premises, the circuit arrangements of which permit of the installation being divided up into well-defined separate portions, inspect and test or cause to be inspected and tested such part of the installation and, if approved , connect such part to the supply main or cause it to be so connected."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part 5",
+      "section": "50",
+      "title": "Notice to be given of installation ready for inspection",
+      "content": "(1) Where an installation on any premises is required to be inspected and tested for the purposes of regulation 48, the owner or occupier of such premises or a person acting on his or her behalf- (a) shall, at least 24 hours before the connection of the installation to the supply main is required to be made, given notice in writing to the Council that the installation is ready for inspection and testing; and (b) may arrange with the Engineer for a suitable time when such inspection and testing can be carried out. (2) Such an inspection and testing shall be carried out by the Council free of charge, but if, for any reason not attributable to the person carrying out the inspection and testing on behalf of the Council , it is not possible to complete such inspection and testing on the occasion of the first visit to the premises in question, the owner or occupier of the premises shall be liable to pay, in respect of each subsequent visit of such person to the premises to complete the inspection and testing, the charge determined in the electricity tariff therefor."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part 5",
+      "section": "51",
+      "title": "Appointment for inspection and testing",
+      "content": "An appointment may be made with the Engineer by the contractor or his or her representative for the purpose of conducting an inspection and test, but should the contractor or such representative fail to keep the appointment, the inspection and test may nevertheless be carried out by the Engineer if deemed necessary by him or her but should the test not be carried out or should the installation fail to pass the inspection and test, the contractor may be charged the fee determined in the electricity tariff for a second or any subsequent test so occasioned."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part 5",
+      "section": "52",
+      "title": "Power to inspect or test",
+      "content": "(1) The Engineer or any duly authorised official of the Council may at any reasonable time, or, in the case of an emergency, at any time enter any premises for the purpose of inspecting the service apparatus , service connection or installation or any part thereof. (2) If it is not reasonably possible for the Engineer or an official referred to in subregulation (1) to gain access to the service apparatus , service connection or installation on the premises concerned by reason of any object, including any construction of bricks, stone, iron, wood or any other material obstructing such access, the Council may by written notice to the consumer require that the consumer removes such object and restores such access within a period specified in the notice. (3) If, in a case contemplated in subregulation (2), the Engineer is of the opinion that the situation is a matter of urgency or if reasonable grounds exist for suspecting that a contravention of any provision of these regulations has been or is being committed, the Engineer may cause the object concerned to be removed and any other steps to be taken to gain access, and the Council may recover from the consumer concerned the cost incurred for that purpose. (4) The Council shall not be liable for any damage resulting from any action taken under subregulation (3), but shall restore such premises to the former condition should no breach of these regulations be discovered. (5) A consumer who refuses or fails to comply with a notice referred to in subregulation (2), shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part 5",
+      "section": "53",
+      "title": "Facilities for inspection",
+      "content": "(1) The occupier of any premises shall give reasonable opportunity and assistance to the Engineer or any other authorised official of the Council to inspect on the premises any part of an installation connected or to be connected to the service connection or at any time while work on such installation is in progress. (2) The electrical contractor employed by the owner or occupier of the premises shall, if required to do so by the Engineer , unscrew any fittings, connections, or other material or apparatus included in the installation , open any trap door, or joint boxes, or lift flooring boards, and the replacement of parts so disturbed shall be done by the contractor at his or her own expense. (3) Floor boards or ceilings which have been removed for inspection purposes shall not be replaced until the installation has been approved by the Engineer ."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part 5",
+      "section": "54",
+      "title": "Failure to pass inspection or test",
+      "content": "(1) If the installation is found to be incomplete or defective or fails in any way to comply with these regulations or the Wiring Regulations , the Council may refuse to connect the installation until the installation has been completed or such defect or failure has been remedied. (2) The Council shall give notice to the electrical contractor of the manner in which the installation is incomplete or defective or fails to comply with these regulations or the Wiring Regulations , and the contractor shall forthwith, or within the time specified in such notice, comply with the requirements of such notice. (3) After the expiration of a reasonable time from the date of giving such notice or, where applicable, upon the expiration of the period specified in the notice, or upon receipt of a notification by the electrical contractor that such work has been completed, the Council shall cause a further inspection and test of the installation to be made. (4) The Council may charge the fee determined in the electricity tariff for each of such repeated inspections and tests made by the Council until the installation is approved as complying with these regulations and the Wiring Regulations ."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part 5",
+      "section": "55",
+      "title": "Inspection does not relieve contractor of responsibility",
+      "content": "Any examination, test or inspection carried out by the Council on any installation shall not - (a) relieve the contractor from responsibility for any defect in the installation ; or (b) be taken as an indication or guarantee on the part of the Council that the installation has been carried out efficiently or with the most suitable materials for the purpose or that it is in accordance with these regulations, and the Council shall not, on account of such examination, test or inspection, be held responsible for any deficiency or fault in the installation . Part 6 – REGISTRATION OF ELECTRICAL CONTRACTORS"
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part 6",
+      "section": "56",
+      "title": "Persons qualified to carry out wiring work",
+      "content": "(1) No person not being registered with the Council as an electrical contractor in terms of regulation 57, shall carry out or undertake to carry out - (a) any new electric wiring installation which is intended to be connected ro the supply main ; or (b) the modification or extension of any existing electric wiring installation which is connected or intended to be connected to the supply main . (2) Any person who carries out or attempts to carry out any work referred to in subregulation (1), without being registered with the Council as an electrical contractor, shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part 6",
+      "section": "57",
+      "title": "Registration of electrical contractors with Council",
+      "content": "(1) An application for the registration of a person as an electrical contractor for the purposes of regulation 56 shall be made in writing to the Council through the Engineer and shall be accompanied by such proof of the applicant's qualifications, training or experience as the Engineer may require. (2) Where the Engineer so requires, a person who has submitted an application for registration in terms of subregulation (1), shall, in a form approved by the Engineer , give notice of his or her application by advertisement in two consecutive issues of a daily newspaper circulating in the local authority area , and which notice shall call upon persons wishing to object to the application to lodge their objections in writing with the Engineer not later than 7 days after the date of the last publication of such notice. (3) If, upon considering an application made in terms of subregulation (1) and the report and recommendation of the Engineer , the Council is satisfied that the applicant - (a) is a qualified electrician or electrical engineer or has any comparable qualification approved by the Council ; (b) has an adequate knowledge of the provisions of these regulations and the Wiring Regulations ; and (c) (i) is a Namibian citizen; or (ii) has been lawfully admitted to Namibia for permanent residence therein and is ordinarily resident in Namibia; or (iii) holds an employment permit issued in terms of section 27 of the Immigration Control Act , 1993 ( Act 7 of 1993 ), in terms of the conditions of which he or she is not prohibited or prevented from conducting the business of an electrical contractor in Namibia, the Council shall, subject to subregulation (4), grant the application and issue to the applicant a registration card. (4) The Council may refuse to grant an application for the registration of a person as an electrical contractor if the applicant has carried out any work referred to in regulation 56(1) without first being registered as an electrical contractor with the Council . (5) The Council may, upon application made to it, register a company or close corporation or partnership as an electrical contractor - (a) if at least one of the directors or members of such company, close corporation or partnership, holding not less than 10% of the shares of such company or of the members' interest in such close corporation or partnership, satisfies the Council with respect to the requirements mentioned in paragraphs (a) and (b) of subregulation (3); and (b) if the controlling interest in such company, close corporation or partnership is not held by persons who are not Namibian citizens. (6) Except in the case of the refusal of an application on the grounds of non-compliance with the provisions of subregulations (3)(c) or (5)(b), the Council shall not make a decision that would be adverse to an applicant without giving to the applicant an opportunity of being heard and presenting evidence in support of his or her application. (7) For the purposes of making a recommendation and report to the Council in relation to an applicant for registration as an electrical contractor, the Engineer may require that the applicant or, where applicable, a person contemplated in subregulation (5)(a), subjects himself or herself to a test for the purposes of evaluating the applicant's skills in electrical wiring work or his or her knowledge of the provisions of these regulations and the Wiring Regulations ."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part 6",
+      "section": "58",
+      "title": "Term of registration",
+      "content": "Unless it is sooner cancelled under regulation 59, a registration card is valid for a period of 12 months from the date of its issue, but may be renewed annually upon application made by the holder thereof not later than 21 days before the date on which it is due to lapse."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part 6",
+      "section": "59",
+      "title": "Withdrawal or suspension of registration",
+      "content": "(1) The Council may withdraw, or suspend for such period as it may determine, the registration of any person as an electrical contractor if such person or, in the case of a company, close corporation or partnership, one of the directors or members thereof has carried out or caused or permitted to be carried out any wiring or associated work in a negligent, unsafe or inefficient manner or in contravention of any provision of these regulations or the Wiring Regulations . (2) The Council shall not exercise any of the powers under subregulation (1), unless the Council has - (a) given to the person concerned at least 21 days' notice in writing of its proposed action and of the reasons therefor; and (b) in such notice, invited such person to lodge with the Council in writing any representations which he or she may wish to make in connection with the Council 's proposed action."
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part 6",
+      "section": "60",
+      "title": "Temporary registration",
+      "content": "The Council may upon application made to it by a person who complies with the requirements of regulation 57(3) or (5) register such person temporarily for the purpose of carrying out any specified electrical work."
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Part 6",
+      "section": "61",
+      "title": "Production of registration card",
+      "content": "Any person carrying out or about to carry out any work referred to in regulation 56(1), shall produce his or her registration card when requested to do so by the Engineer or any officer of the Council authorised thereto by the Engineer or any consumer on or in respect of whose premises such work is being or to be carried out."
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Part 6",
+      "section": "62",
+      "title": "Prohibition against employment of unregistered persons for wiring work",
+      "content": "(1) No owner or occupier of any premises shall engage any person or permit any person to carry out any work referred to in regulation 56(1) for or on behalf of such owner or occupier , unless such person is registered with the Council as an electrical contractor in terms of regulation 57. (2) A person who contravenes subregulation (1) shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Part 6",
+      "section": "63",
+      "title": "Issue of duplicate registration card",
+      "content": "(1) A person whose registration card as an electrical contractor is lost, destroyed or damaged, may apply to the Council for a duplicate of such card. (2) An application in terms of subregulation (1) shall be accompanied by a statement made under oath or affirmation stating the circumstances in which the registration card was lost, destroyed or damaged, as the case may be, and the fee for the issue of a duplicate registration card."
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "Part 6",
+      "section": "64",
+      "title": "Fees for registration and renewal",
+      "content": "The fees payable to the Council for - (a) the registration of a person as an electrical contractor; (b) the renewal of such a registration; (c) the issue of a duplicate registration card, shall be as prescribed by the Council from time to time. Part 7 – GENERAL PROVISIONS"
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "Part 7",
+      "section": "65",
+      "title": "Special agreements",
+      "content": "Where, by reason of the purpose for which the supply of electricity is required by a consumer or group of consumers, the nature or situation of the premises concerned, the quantity to be supplied, the availability of supply or the method of supply, the Council considers it desirable that such supply be provided subject to special conditions or a special charge, the Council may, notwithstanding anything to the contrary contained in these regulations, enter into a special agreement with such consumer or group of consumers for such supply on the terms and conditions as may mutually be agreed upon."
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "Part 7",
+      "section": "66",
+      "title": "Obstruction of access to Council 's equipment on premises",
+      "content": "(1) Any person who prevents or restricts the Engineer or any other duly authorised official of the Council from gaining access to the service apparatus or other equipment of the Council on the premises of any consumer , shall be guilty of an offence. (2) In the event of a contravention of subregulation (1) by any person other than the consumer occupying the premises concerned, the Council may by written notice to such consumer , and without prejudice to the provisions of that subregulation or section 93(3) of the Act , require that the consumer takes such steps as may be necessary to ensure that unrestricted access is given to the Engineer or other authorized official within a specified period. (3) A consumer who refuses or fails to comply with a notice referred to in subregulation (2), shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "Part 7",
+      "section": "67",
+      "title": "Notices",
+      "content": "Any notice required or permitted to be given by the Council in terms of these regulations shall be given in accordance with the provisions of section 93 of the Act ."
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "Part 7",
+      "section": "68",
+      "title": "Penalties",
+      "content": "Any person convicted of an offence under these regulations shall be liable to a fine not exceeding N$2 000 or to imprisonment for a period not exceeding 6 months."
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "Part 7",
+      "section": "69",
+      "title": "Departure or exemption from regulations",
+      "content": "If, because of exceptional circumstances, the Council considers it desirable to authorise a departure or exemption from any provision of these regulations, the Council may, subject to such conditions as it may impose, authorise such departure or exemption if the departure or exemption will not be in conflict with any provision of the Act ."
+    },
+    {
+      "provision_ref": "s70",
+      "chapter": "Part 7",
+      "section": "70",
+      "title": "Repeal of regulations",
+      "content": "(1) Subject to subregulation (2), all regulations which immediately before the commencement of these regulations governed the supply of electricity in the local authority area of a Council to which these regulations are applicable by virtue of the provisions of section 94(2)(b) of the Act , are hereby repealed. (2) Notwithstanding the repeal of any regulations contemplated in subregulation (1), any tariff list or other provisions contained in such regulations prescribing charges, fees and other moneys payable in respect of the supply of electricity and other related services shall remain in force until repealed or replaced by charges fees and other moneys determined by such a Council under section 30(1)(u) of the Act . History of this document 15 November 2017 this version Consolidation 01 April 1996 Published in Government Gazette 1283 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Act",
+      "definition": "the Local Authorities Act, 1992 (Act 23 of 1992 )",
+      "source_provision": "s1"
+    },
+    {
+      "term": "approved",
+      "definition": "approved by the Engineer in writing",
+      "source_provision": "s1"
+    },
+    {
+      "term": "consumer",
+      "definition": "the person to whom electricity is supplied by the Council under a contract of supply or a special agreement referred to in regulation 65",
+      "source_provision": "s1"
+    },
+    {
+      "term": "consumption",
+      "definition": "the energy consumption in kilowatt hours (kW.h)",
+      "source_provision": "s1"
+    },
+    {
+      "term": "contract of supply",
+      "definition": "a contract concluded between the Council and any person in terms of regulation 4 for the supply of electricity by the Council to such person",
+      "source_provision": "s1"
+    },
+    {
+      "term": "demand",
+      "definition": "the consumer 's highest average load in kilovolt-ampere (kVA) measured over any thirty minute period during a calender month, or the value registered by a thermal demand kilovolt-ampere meter with a time constant of fifteen minutes",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Engineer",
+      "definition": "the official of the Council charged with the function of exercising control over the supply of electricity by the Council",
+      "source_provision": "s1"
+    },
+    {
+      "term": "installation",
+      "definition": "the entire electrical installation on a consumer 's premises, including all conduits, wires, cables, fittings, lamps, motors, cooking and heating appliances, instruments and equipment and all other material used or intended to be used for or in connection with the supply of electricity supplied at any one tariff rate on such premises, but does not include the metering installation or controlling devices or any part of the service connection",
+      "source_provision": "s1"
+    },
+    {
+      "term": "local authority area",
+      "definition": "the area comprising the municipality, town or village, as the case may be, to which these regulations are applicable by virtue of the provisions of section 94(2)(b) of the Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "metering installation",
+      "definition": "a meter or an arrangement of meters installed by the Council for the purpose of measuring the maximum demand or energy consumption or the maximum demand and energy consumption of a consumer , and includes all associated instrument transformers, interconnecting wires, fuses, terminal blocks and accessories",
+      "source_provision": "s1"
+    },
+    {
+      "term": "service apparatus",
+      "definition": "any protective device, meter (including a prepayment meter), load controller, connection terminal or other apparatus belonging to the Council and installed on the consumer 's premises and primarily used to control, switch and meter the electricity supplied to the consumer",
+      "source_provision": "s1"
+    },
+    {
+      "term": "service connection",
+      "definition": "all cables and equipment required to connect the supply main of the Council to the terminals of the consumer 's installation",
+      "source_provision": "s1"
+    },
+    {
+      "term": "supply main",
+      "definition": "any electric cable or overhead line or distribution cubicle forming part of the Council 's electrical distribution system to which the service connection is connected",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Wiring Regulations",
+      "definition": "the Standard Code of Practice for the Wiring of Premises SABS 014211993 published by the South African Bureau of Standards (SABS), including any amendments thereof",
+      "source_provision": "s1"
+    },
+    {
+      "term": "wiring work",
+      "definition": "the installation , alteration, repair or testing of any conduit, wire, fitting or apparatus upon any premises. Part 1 – GENERAL CONDITIONS OF SUPPLY",
+      "source_provision": "s1"
+    }
+  ]
+}

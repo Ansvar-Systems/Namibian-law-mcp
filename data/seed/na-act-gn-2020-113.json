@@ -1,0 +1,77 @@
+{
+  "id": "na-act-gn-2020-113",
+  "type": "statute",
+  "title": "Directives Relating to Works and Transport",
+  "title_en": "Directives Relating to Works and Transport",
+  "short_name": "Directives Relating to Work...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/gn/2020/113/eng@2020-04-30",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "In these directives a word or expression to which a meaning has been attached in the Road Traffic and Transport Act , the regulations made thereunder or the regulations , has that meaning and, unless the context otherwise indicates - \" Minister \" means the Minister of Works and Transport; \" period of lockdown \" means the period from the commencement of this directive until the end of the period of lockdown specified in regulation 3 of the regulations ; \" regulations \" means the State of Emergency Regulations made by Proclamation No. 9 of 28 March 2020; and \" the Road Traffic and Transport Act \" means the Road Traffic and Transport Act, 1999 (Act No. 22 of 1999 )."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Applicability of these directives",
+      "content": "These directives apply in spite of any provision of a regulation or other law which may be amended by the Minister and which might be in conflict with these directives and the provisions of such regulation or law is deemed to have been amended by the Minister in as far as it is so in conflict."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Restriction on number of persons to be conveyed in motor vehicle",
+      "content": "(1) A person who conveys persons (whether for reward or for any other purpose whatsoever) by means of a public or private motor vehicle, an animal-drawn vehicle or a pedal cycle may not transport - (a) more than three persons, including the driver, in a four seater motor vehicle; (b) more than four persons, including the driver, in a five seater motor vehicle; (c) more than four persons, including the driver, in a seven seater motor vehicle; (d) a number of persons, including the driver which exceeds half of the number of passengers allowed to be transported in a motor vehicle not otherwise provided for in this directive; (e) more than two passengers, including the driver, in an animal-drawn vehicle; and (f) any person other than the driver on a motorcycle, motor tricycle or pedal cycle. (2) The number of seats of a motor vehicle is for the purposes of subdirective (1) determined in accordance with regulation 252 of the regulations made under the Road Traffic and Transport Act . (3) An owner or a driver of a motor vehicle, animal-drawn vehicle or pedal cycle who contravenes or fails to comply with subdirective (1) commits an offence and is on conviction liable to a fine not exceeding N$2 000 or imprisonment for a period not exceeding six months or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Suspension of expiry of licences and other documents",
+      "content": "(1) Subject to subdirective (2), if any licence, certificate, permit or other document or authority issued under a law administered by the Minister expires and is due for renewal, on a date during the period of lockdown , such date is deemed to be thirty days after the period of lockdown ends: Provided that where the law in question provides for a period of grace, that date is deemed to be the date on which such period of grace ends. (2) In the case of a temporary permit, the date of expiration is twenty one days after the end of the period of lockdown ."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Cross-border transport of goods",
+      "content": "Permits for the cross-border transport of goods may be issued only if the transport of the goods in question between zones would be lawful in terms of the regulations ."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Cross-border transport of passengers",
+      "content": "No permit for the cross-border transport of passengers by motor vehicle may be issued if the entry of the passengers into Namibia would be unlawful in terms of the regulations or if the entry into the foreign country by the passengers to be transported would be unlawful according to the law of that country."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Services to be provided during period of lockdown",
+      "content": "(1) A registering authority or driving license testing centre may operate in respect of roadworthy test for heavy vehicles with a gross vehicle mass of more than 3500kg and which transports essential goods within the country or from across the borders. (2) A registering authority or driving license testing centre may operate in order to issue renewing driving licence cards to drivers transporting essential goods if the card expires during the State of Emergency period. (3) The transport regulation centre may operate in order to issue road transportation permits to operators for cross border and abnormal load transportation in respect of transportation of essential goods. (4) The registering authority will be on standby to renew motor vehicle licences which have expired, on request. History of this document 30 April 2020 this version Published in Government Gazette 7200 Commenced 29 April 2020 Assented to Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Minister",
+      "definition": "the Minister of Works and Transport",
+      "source_provision": "s1"
+    },
+    {
+      "term": "period of lockdown",
+      "definition": "the period from the commencement of this directive until the end of the period of lockdown specified in regulation 3 of the regulations",
+      "source_provision": "s1"
+    },
+    {
+      "term": "regulations",
+      "definition": "the State of Emergency Regulations made by Proclamation No. 9 of 28 March 2020",
+      "source_provision": "s1"
+    },
+    {
+      "term": "the Road Traffic and Transport Act",
+      "definition": "the Road Traffic and Transport Act, 1999 (Act No. 22 of 1999 ).",
+      "source_provision": "s1"
+    }
+  ]
+}

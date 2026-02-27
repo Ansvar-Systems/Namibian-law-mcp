@@ -2,6 +2,177 @@
   "$schema": "./golden-tests.schema.json",
   "version": "1.0",
   "mcp_name": "Namibia Law MCP",
-  "description": "Golden contract tests for the Namibia Law MCP -- add tests after first ingestion",
-  "tests": []
+  "description": "Golden contract tests for the Namibia Law MCP covering electronic transactions, companies, criminal procedure, protection of information, and labour legislation",
+  "tests": [
+    {
+      "id": "na-001",
+      "category": "article_retrieval",
+      "description": "Retrieve Section 1 of the Electronic Transactions Act 2019 -- definitions including accredit and electronic",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "Electronic Transactions Act",
+        "section": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "fields_present": ["results"],
+        "text_not_empty": true,
+        "any_result_contains": ["electronic"]
+      }
+    },
+    {
+      "id": "na-002",
+      "category": "article_retrieval",
+      "description": "Retrieve Section 1 of the Companies Act 2004 -- definitions",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "Companies Act",
+        "section": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "fields_present": ["results"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "na-003",
+      "category": "article_retrieval",
+      "description": "Retrieve Section 1 of the Criminal Procedure Act 1977 -- interpretation/definitions",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "Criminal Procedure Act",
+        "section": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "fields_present": ["results"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "na-004",
+      "category": "search",
+      "description": "Full-text search for 'electronic signature' returns Electronic Transactions Act provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "electronic signature"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["electronic"]
+      }
+    },
+    {
+      "id": "na-005",
+      "category": "search",
+      "description": "Full-text search for 'criminal offence' returns Criminal Procedure Act or other criminal law provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "criminal offence"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1
+      }
+    },
+    {
+      "id": "na-006",
+      "category": "search",
+      "description": "Full-text search for 'labour employment' returns Labour Act provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "labour employment"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1
+      }
+    },
+    {
+      "id": "na-007",
+      "category": "citation_roundtrip",
+      "description": "Citation for Electronic Transactions Act Section 2 includes namiblii.org URL pattern",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "Electronic Transactions Act",
+        "section": "2"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "citation_url_pattern": "namiblii\\.org",
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "na-008",
+      "category": "citation_roundtrip",
+      "description": "Citation for Protection of Information Act Section 1 includes official identifier",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "Protection of Information Act",
+        "section": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "fields_present": ["results"],
+        "text_not_empty": true,
+        "any_result_contains": ["agent"]
+      }
+    },
+    {
+      "id": "na-009",
+      "category": "currency_check",
+      "description": "Check currency of Electronic Transactions Act 2019 -- should be in_force",
+      "tool": "check_currency",
+      "input": {
+        "document_id": "Electronic Transactions Act"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "text_not_empty": true,
+        "any_result_contains": ["in_force"]
+      }
+    },
+    {
+      "id": "na-010",
+      "category": "currency_check",
+      "description": "Check currency of Companies Act 2004 -- should be in_force",
+      "tool": "check_currency",
+      "input": {
+        "document_id": "Companies Act"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "na-011",
+      "category": "negative_test",
+      "description": "Non-existent Namibian Act returns graceful error or empty result",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "Fictional Cyber Wildlife Act 2099",
+        "section": "1"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    },
+    {
+      "id": "na-012",
+      "category": "negative_test",
+      "description": "Malformed section number returns graceful error or empty result",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "Electronic Transactions Act",
+        "section": "999ZZZ-INVALID"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    }
+  ]
 }

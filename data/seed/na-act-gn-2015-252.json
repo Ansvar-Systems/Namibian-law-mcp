@@ -1,0 +1,61 @@
+{
+  "id": "na-act-gn-2015-252",
+  "type": "statute",
+  "title": "Regulations relating to Authorisation Voting and Announcement of Results of Elections, 2015",
+  "title_en": "Regulations relating to Authorisation Voting and Announcement of Results of Elections, 2015",
+  "short_name": "Regulations relating to Aut...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://namiblii.org/akn/na/act/gn/2015/252/eng@2017-11-15",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "In these regulations a word or an expression to which a meaning has been assigned in the Act has that meaning and unless the content indicates otherwise- “ Annexure ” means the Annexure to these Regulations; “ the Act ” means the Electoral Act, 2014 (Act No. 5 of 2014 )."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Authorisation voting",
+      "content": "(1) The written authorisation to be issued by the Chief Electoral Officer for the purposes of paragraph (a) or (b) of section 98(2) of the Act must be made on Form 25 set out in the Annexure . (2) A register containing the name and registration number of every voter- (a) in respect of which a written authorisation has been issued by the Chief Electoral Officer for the purposes of section 98(3) of the Act , must be kept by the Chief Electoral Officer; and (b) who has recorded his or her vote in terms of section 98(2) of the Act , must be kept by the returning officer."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Announcement of result in presidential elections",
+      "content": "(1) An announcement by the returning officer of the result of an election in terms of section 109(1) of the Act , must be made- (a) orally inside the place where the result of the election has been determined; and (b) by affixing a copy of Form 26 set out in the Annexure outside the entrance of the place referred to in paragraph (a) . (2) An announcement by the Chairperson of the Commission of the result of an election in terms of section 109(3) must be made on Form 27 set out in the Annexure ."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Announcement of result in national assembly elections",
+      "content": "(1) An announcement by the returning officer of the result of an election in terms of section 110(1) of the Act , must be made- (a) orally inside the place where the result of the election has been determined; and (b) by affixing a copy of Form 28 set out in the Annexure outside the entrance of the place referred to in paragraph (a) . (2) An announcement by the Chairperson of the Commission of the result of an election in terms of section 110(3) must be made on Form 29 set out in the Annexure ."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Announcement of result in regional council elections",
+      "content": "(1) A preliminary announcement by the returning officer of the result of an election in terms of section 111(1) of the Act , must be made- (a) orally inside the place where the result of the election has been determined; and (b) by affixing a copy of Form 30 set out in the Annexure outside the entrance of the place referred to in paragraph (a) . (2) An announcement by the Chairperson of the Commission of the result of an election in terms of section 111(2) must be made on Form 31 set out in the Annexure ."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Announcement of result in local authority council elections",
+      "content": "An announcement by the returning officer of the result of an election in terms of section 112(1) of the Act , must be made- (a) orally inside the place where the result of the election has been determined; and (b) by affixing a copy of Form 32 set out in the Annexure outside the entrance of the place referred to in paragraph (a) . ANNEXURE FORMS [Editorial note: The forms have not been reproduced.] History of this document 15 November 2017 this version Consolidation 10 November 2015 Published in Government Gazette 5873 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About NamibLII NamibLII is a project of the Law Reform and Development Commission managed by the Directorate: Law Reform of the Ministry of Justice of the Republic of Namibia. In terms of the Law Reform and Development Commission Act, 1991 (Act No. 29 of 1991), the Commission is mandated to consolidate or codify any branch of the law or to introduce other measures aimed at making the law more readily accessible. NamibLII is the embodiment of this mandate making annotated statutes, judgments, and gazettes available in a user-friendly format. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Legal Assistance Center Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Annexure",
+      "definition": "the Annexure to these Regulations",
+      "source_provision": "s1"
+    },
+    {
+      "term": "the Act",
+      "definition": "the Electoral Act, 2014 (Act No. 5 of 2014 ).",
+      "source_provision": "s1"
+    }
+  ]
+}
