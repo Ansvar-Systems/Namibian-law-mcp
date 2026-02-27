@@ -1,0 +1,7 @@
+{
+  "$schema": "./golden-tests.schema.json",
+  "version": "1.0",
+  "mcp_name": "Namibia Law MCP",
+  "description": "Golden contract tests for the Namibia Law MCP -- add tests after first ingestion",
+  "tests": []
+}
