@@ -32,12 +32,12 @@ export function generateResponseMetadata(
   }
 
   return {
-    data_source: 'Namibia Law (namiblii.org) — National Council for Law Reporting',
-    jurisdiction: 'KE',
+    data_source: 'NamibLII (namiblii.org) — Namibia Legal Information Institute, hosted by AfricanLII',
+    jurisdiction: 'NA',
     disclaimer:
-      'This data is sourced from Namibia Law under Government Open Data principles. ' +
-      'The authoritative versions are in English. Swahili translations may be available for some documents. ' +
-      'Always verify with the official Namibia Law portal (namiblii.org).',
+      'This data is sourced from NamibLII under free access principles. ' +
+      'Government legislation is public domain under Namibian law. ' +
+      'Always verify with the official Namibia Government Gazette or Parliament of Namibia portal.',
     freshness,
   };
 }
