@@ -37,12 +37,12 @@ This MCP server makes Namibian law **searchable, cross-referenceable, and AI-rea
 
 > Connect directly to the hosted version -- zero dependencies, nothing to install.
 
-**Endpoint:** `https://mcp.ansvar.eu/law-namibian-law-mcp/mcp`
+**Endpoint:** `https://namibian-law-mcp.vercel.app/mcp`
 
 | Client | How to Connect |
 |--------|---------------|
 | **Claude.ai** | Settings > Connectors > Add Integration > paste URL |
-| **Claude Code** | `claude mcp add namibian-law --transport http https://mcp.ansvar.eu/law-namibian-law-mcp/mcp` |
+| **Claude Code** | `claude mcp add namibian-law --transport http https://namibian-law-mcp.vercel.app/mcp` |
 | **Claude Desktop** | Add to config (see below) |
 | **GitHub Copilot** | Add to VS Code settings (see below) |
 
@@ -53,7 +53,7 @@ This MCP server makes Namibian law **searchable, cross-referenceable, and AI-rea
   "mcpServers": {
     "namibian-law": {
       "type": "url",
-      "url": "https://mcp.ansvar.eu/law-namibian-law-mcp/mcp"
+      "url": "https://namibian-law-mcp.vercel.app/mcp"
     }
   }
 }
@@ -66,7 +66,7 @@ This MCP server makes Namibian law **searchable, cross-referenceable, and AI-rea
   "github.copilot.chat.mcp.servers": {
     "namibian-law": {
       "type": "http",
-      "url": "https://mcp.ansvar.eu/law-namibian-law-mcp/mcp"
+      "url": "https://namibian-law-mcp.vercel.app/mcp"
     }
   }
 }
