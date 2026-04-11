@@ -9,14 +9,16 @@ export interface ResponseMetadata {
   jurisdiction: string;
   disclaimer: string;
   freshness?: string;
+  data_age?: string;
   note?: string;
   query_strategy?: string;
 }
 
 export interface ToolResponse<T> {
   results: T;
-  _metadata: ResponseMetadata;
+  _meta: ResponseMetadata;
   _citation?: import('./citation.js').CitationMetadata;
+  _error_type?: string;
 }
 
 export function generateResponseMetadata(
@@ -32,6 +34,8 @@ export function generateResponseMetadata(
     // Ignore
   }
 
+  const data_age = freshness ? freshness.substring(0, 10) : undefined;
+
   return {
     data_source: 'NamibLII (namiblii.org) — Namibia Legal Information Institute, hosted by AfricanLII',
     jurisdiction: 'NA',
@@ -40,5 +44,6 @@ export function generateResponseMetadata(
       'Government legislation is public domain under Namibian law. ' +
       'Always verify with the official Namibia Government Gazette or Parliament of Namibia portal.',
     freshness,
+    data_age,
   };
 }
